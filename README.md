@@ -16,9 +16,9 @@
 - [sample](sample_graph.json)
 
 ### 進捗
-4/27～（[notion](https://ounlp.notion.site/2-4b0ec286a8cb49bfaf408b4824ec456c)）
+4/27（[notion](https://ounlp.notion.site/2-4b0ec286a8cb49bfaf408b4824ec456c)）
 - 役割分担を決定
-- 一旦「[三匹の子豚](https://www.gutenberg.org/ebooks/18155)」を使ってアプリを作成する
+- 一旦「[三匹の子豚](https://www.gutenberg.org/ebooks/18155)」を使ってアプリを作成するという方向性を決定
 
 ### 本アプリの動作方法
 1. 以下のコマンドを順に実行  
@@ -27,7 +27,7 @@ $ pip install django
 $ python manage.py migrate
 $ python manage.py runserver
 ```
-2. ブラウザで以下のアドレスにアクセス
+2. ブラウザで以下のアドレスにアクセス  
 `http://localhost:8000/visualizer`
 
 ### 本アプリの動作デモ
