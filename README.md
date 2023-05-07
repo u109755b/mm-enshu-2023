@@ -11,7 +11,7 @@
 - 最終レポート提出： 11月下旬（担当教員宛に提出）
 - 発表会： 12月中旬～下旬に実施（集合形式もしくはオンラインで実施）
 
-## 通信用API
+### 通信用API
 - [document](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
 - [sample](sample_graph.json)
 
