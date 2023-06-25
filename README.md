@@ -20,10 +20,15 @@
 - 役割分担を決定
 - 一旦「[三匹の子豚](https://www.gutenberg.org/ebooks/18155)」を使ってアプリを作成するという方向性を決定
 
+6/26
+- graph.jsonをEdgeGPTを用いて作成できるように変更．
+
 ### 本アプリの動作方法
 1. 以下のコマンドを順に実行  
 ```sh
 $ pip install django
+$ pip install EdgeGPT
+$ python create_graph.py 三匹の子豚
 $ python manage.py migrate
 $ python manage.py runserver
 ```
