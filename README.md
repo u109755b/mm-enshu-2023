@@ -22,6 +22,7 @@
 
 6/26
 - graph.jsonをEdgeGPTを用いて作成できるように変更．
+- dockerfileを追加 (使い方の説明はDocker/how_to_use_docker.txt)
 
 ### 本アプリの動作方法
 1. 以下のコマンドを順に実行  
