@@ -11,7 +11,7 @@ docker build -t mm-enshu .
 
 
 # コンテナ作成 (create_graph.pyとかがあるメインディレクトリで実行)
-ローカル環境のcreate_graph.pyとかがあるメインディレクトリをdockerのコンテナ内の root/code にマウント
+ローカル環境のcreate_graph.pyとかがあるメインディレクトリをdockerのコンテナ内の root/code にマウントしている
 
 
 mac/linux
@@ -23,5 +23,5 @@ docker run -dit -v %cd%:/code --name mm-enshu_test mm-enshu
 #コンテナに入る
 docker container exec -it mm-enshu_test bash
 
-
-
+#コンテナから出る
+exit
