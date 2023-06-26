@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+  mm-enshu:
+    build: 
+      context: ./Docker/
+      dockerfile: Dockerfile
+    image: mm-enshu
+     # コンテナ名を明示的に指定する
+    container_name: mm-enshu-2023
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/code
+    tty: true
+    stdin_open: true
