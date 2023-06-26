@@ -22,7 +22,7 @@
 
 6/26
 - graph.jsonをEdgeGPTを用いて作成できるように変更．
-- dockerfileを追加 (使い方の説明はDocker/how_to_use_docker.txt・今後その他の更新に合わせて変更)
+- dockerfileを追加 (使い方の説明はDocker/how_to_use_docker.txt・今後その他の更新に合わせて変更・docker-compose.yml使ったらもっと簡潔にできそう)
 
 ### 本アプリの動作方法
 1. 以下のコマンドを順に実行  
@@ -35,13 +35,13 @@ $ python manage.py runserver
 ```
 
 
-### dockerを用いる場合の本アプリの動作方法
+### dockerを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)
 0. 
 ```sh
 $ git clone https://github.com/u109755b/mm-enshu-2023 
 ```
 
-1. docker をインストール & docker engine を起動
+1. docker をインストール & docker engine を起動 (2回目以降は起動のみ)
 https://docs.docker.com/engine/install/
 
 2. Dockerfileの置かれているディレクトリ (Docker) で以下を実行 (イメージ作成)
@@ -74,7 +74,9 @@ $ python manage.py runserver 0.0.0.0:8000
 (docker用いる場合は本アプリの動作方法とコマンドが少し違うことに注意)
 ```
 最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
-`http://localhost:8000/visualizer`
+`http://localhost:8000/visualizer`  
+
+  
 
 ### 本アプリの動作デモ
 ![demo](visualizer_demo.gif)
