@@ -24,6 +24,9 @@
 - graph.jsonをEdgeGPTを用いて作成できるように変更．
 - dockerfileを追加 (使い方の説明はDocker/how_to_use_docker.txt・今後その他の更新に合わせて変更・docker-compose.yml使ったらもっと簡潔にできそう)
 
+6/27
+- docker-compose version 追加
+
 ### 本アプリの動作方法
 1. 以下のコマンドを順に実行  
 ```sh
@@ -33,10 +36,48 @@ $ python create_graph.py 三匹の子豚
 $ python manage.py migrate
 $ python manage.py runserver
 ```
-
   
+ <br>
+
 <details>
-<summary>dockerを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)</summary>
+<summary>docker composeを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆3. 4. のみでよい)</summary>
+
+1. 
+```sh
+$ git clone https://github.com/u109755b/mm-enshu-2023 
+```
+
+1. docker engine　をインストール & docker engine を起動 (2回目以降は起動のみ)
+https://docs.docker.com/engine/install/  
+docker compose インストールされているかの確認(多分docker engineインストールしたらデフォで入ってる)  
+```sh
+$ docker-compose --version
+docker-compose version 1.5.2, build 7240ff3
+```
+
+1. メインディレクトリで以下を実行 (イメージ作成)
+```sh
+$ docker-compose up -d
+```
+
+1. 以下を実行 (コンテナに入る)
+```sh
+$ docker container exec -it mm-enshu-2023 bash
+```
+
+1. 以下のコマンドを実行
+```sh
+$ python create_graph.py
+$ python manage.py migrate
+$ python manage.py runserver 0.0.0.0:8000
+(docker用いる場合は本アプリの動作方法とコマンドが少し違うことに注意)
+```
+</details>
+
+<br>
+
+<details>
+<summary>docker composeを用いないdockerでの本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)</summary>
 
 0. 
 ```sh
@@ -77,9 +118,11 @@ $ python manage.py runserver 0.0.0.0:8000
 ```
 </details>
 
+<br>
 
 
-最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
+
+それぞれ最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
 `http://localhost:8000/visualizer`  
 
   
