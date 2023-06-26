@@ -63,7 +63,7 @@ $ docker run -dit -p 8000:8000 -v ${pwd}:/code --name mm-enshu_test mm-enshu
 
 4. 以下を実行 (コンテナに入る)
 ```sh
-docker container exec -it mm-enshu_test bash
+$ docker container exec -it mm-enshu_test bash
 ```
 
 5. 以下のコマンドを実行
