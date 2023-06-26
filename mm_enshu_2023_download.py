@@ -173,7 +173,9 @@ class ChatbotPrompter:
         self.dialogue_handler = DialogueHandler(self.title)
         
     async def main(self):
-        cookies = json.loads(open("/home/cookies.json", encoding="utf-8").read())
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        cookie_path = os.path.join(script_dir, 'cookies.json')
+        cookies = json.loads(open(cookie_path, encoding="utf-8").read())
         bot = await Chatbot.create(cookies=cookies)
         
         prompt = self.dialogue_handler.return_next_prompt(title=self.title)
