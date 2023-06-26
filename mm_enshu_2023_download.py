@@ -16,7 +16,7 @@ class FileHandler:
             os.makedirs(path)
             
     def save_to_file(self, path, data):
-        with open(path, 'w') as f:
+        with open(path, 'w', encoding='utf-8') as f:
             f.write(data)
             
     
