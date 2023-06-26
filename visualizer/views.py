@@ -9,7 +9,7 @@ class Visualizer(TemplateView):
         pass
 
     def get_data(self, request):
-        with open('sample_graph.json') as f:
+        with open('sample_graph.json',encoding='utf-8') as f: #add encoding='utf-8'
             graph_data = json.load(f)
             
         title = graph_data['title']
