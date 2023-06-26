@@ -71,7 +71,7 @@ def return_json_dict(args, log_dir=None):
     json_dict['nodes'] = nodes_list
     
     
-    add_edge_to_json_dict(json_dict, log_dir + 'edge.txt', label_to_index)
+    json_dict, label_to_index = add_edge_to_json_dict(json_dict, log_dir + 'edge.txt', label_to_index)
     json_file = open(log_dir+'graph.json', 'w', encoding='utf-8')
     json.dump(json_dict, json_file, ensure_ascii=False)
     json_file.close()
@@ -110,11 +110,17 @@ def add_edge_to_json_dict(json_dict, file_path, label_to_index):
         if '-' in line and line.count(',') == 2:
             source, relationship, target = line.split(',')
             source = source.replace('-', '').strip()
-            if not source in label_to_index:
+            target = target.strip()
+            if not source in label_to_index.keys():
+                label_to_index[source] = len(label_to_index)
                 json_dict['nodes'].append({'id': 'node' + str(i), 'label': source, 'size': MIN_SIZE, 'group': 'other'})
                 continue
-            json_dict['edges'].append({'id':'edge' + str(i), 'from': 'node'+str(label_to_index[source]), 'label': relationship.strip(), 'to': 'node'+str(label_to_index[target.strip()]), 'arrows': 'to'})
+            if not target in label_to_index.keys():
+                label_to_index[target] = len(label_to_index)
+                json_dict['nodes'].append({'id': 'node' + str(i), 'label': target, 'size': MIN_SIZE, 'group': 'other'})
+            json_dict['edges'].append({'id':'edge' + str(i), 'from': 'node'+str(label_to_index[source]), 'label': relationship.strip(), 'to': 'node'+str(label_to_index[target]), 'arrows': 'to'})
             i += 1
+    return json_dict, label_to_index
             
 def check_files(directory,extension):
     for root, dirs, files in os.walk(directory):
@@ -125,7 +131,7 @@ def check_files(directory,extension):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--title', type=str, default='三匹の子豚')
+    parser.add_argument('--title', type=str, default='浦島太郎')
     parser.add_argument('--show_image', action='store_true')
     args = parser.parse_args()
     
