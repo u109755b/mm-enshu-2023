@@ -36,7 +36,10 @@ $ python manage.py runserver
 
 
 ### dockerを用いる場合の本アプリの動作方法
-0. git clone https://github.com/u109755b/mm-enshu-2023 
+0. 
+```sh
+$ git clone https://github.com/u109755b/mm-enshu-2023 
+```
 
 1. docker をインストール & docker engine を起動
 https://docs.docker.com/engine/install/
