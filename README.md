@@ -33,7 +33,44 @@ $ python create_graph.py 三匹の子豚
 $ python manage.py migrate
 $ python manage.py runserver
 ```
-2. ブラウザで以下のアドレスにアクセス  
+
+
+### dockerを用いる場合の本アプリの動作方法
+0. git clone https://github.com/u109755b/mm-enshu-2023 
+
+1. docker をインストール & docker engine を起動
+https://docs.docker.com/engine/install/
+
+2. Dockerfileの置かれているディレクトリ (Docker) で以下を実行 (イメージ作成)
+```sh
+$ docker build -t mm-enshu .
+```
+
+3. create_graph.pyとかがあるメインディレクトリで以下を実行 (コンテナ作成)
+
+```sh
+mac/linux
+$ docker run -dit -p 8000:8000 -v $(pwd):/code --name mm-enshu_test mm-enshu
+
+Windows
+$ docker run -dit -p 8000:8000 -v %cd%:/code --name mm-enshu_test mm-enshu
+(上のコードでエラッたらこっち)
+$ docker run -dit -p 8000:8000 -v ${pwd}:/code --name mm-enshu_test mm-enshu
+```
+
+4. 以下を実行 (コンテナに入る)
+```sh
+docker container exec -it mm-enshu_test bash
+```
+
+5. 以下のコマンドを実行
+```sh
+$ python create_graph.py
+$ python manage.py migrate
+$ python manage.py runserver 0.0.0.0:8000
+(docker用いる場合は本アプリの動作方法とコマンドが少し違うことに注意)
+```
+最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
 `http://localhost:8000/visualizer`
 
 ### 本アプリの動作デモ
