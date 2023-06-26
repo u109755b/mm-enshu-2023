@@ -1,0 +1,27 @@
+git clone https://github.com/u109755b/mm-enshu-2023 
+
+
+# docker をインストール or docker engine を起動
+https://docs.docker.com/engine/install/
+
+# イメージ作成
+Dockerfileの置かれているディレクトリ (Docker) で以下を実行
+
+docker build -t mm-enshu .
+
+
+# コンテナ作成 (create_graph.pyとかがあるメインディレクトリで実行)
+ローカル環境のcreate_graph.pyとかがあるメインディレクトリをdockerのコンテナ内の root/code にマウント
+
+
+mac/linux
+docker run -dit -v $(pwd):/code --name mm-enshu_test mm-enshu
+
+Windows
+docker run -dit -v %cd%:/code --name mm-enshu_test mm-enshu
+
+#コンテナに入る
+docker container exec -it mm-enshu_test bash
+
+
+
