@@ -34,8 +34,9 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
+<details>
+<summary>### dockerを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)</summary>
 
-### dockerを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)
 0. 
 ```sh
 $ git clone https://github.com/u109755b/mm-enshu-2023 
@@ -73,6 +74,10 @@ $ python manage.py migrate
 $ python manage.py runserver 0.0.0.0:8000
 (docker用いる場合は本アプリの動作方法とコマンドが少し違うことに注意)
 ```
+</details>
+
+
+
 最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
 `http://localhost:8000/visualizer`  
 
