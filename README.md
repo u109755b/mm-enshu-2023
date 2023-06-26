@@ -34,8 +34,9 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
+  
 <details>
-<summary>### dockerを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)</summary>
+<summary>dockerを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆4. 5. のみでよい)</summary>
 
 0. 
 ```sh
