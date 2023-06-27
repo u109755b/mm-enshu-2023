@@ -42,7 +42,7 @@ $ python manage.py runserver
  <br>
 
 <details>
-<summary>docker composeを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆3. 4. のみでよい)</summary>
+<summary>docker composeを用いる場合の本アプリの動作方法 (推奨) (2回目以降はdocker engineの起動＆3. 4. のみでよい)</summary>
 
 0. 
 ```sh
