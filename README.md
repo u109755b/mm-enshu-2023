@@ -47,7 +47,7 @@ $ python manage.py runserver
 $ git clone https://github.com/u109755b/mm-enshu-2023 
 ```
 
-1. docker engine　をインストール & docker engine を起動 (2回目以降は起動のみ)
+1. docker engine をインストール & docker engine を起動 (2回目以降は起動のみ)
 https://docs.docker.com/engine/install/  
 docker compose インストールされているかの確認(多分docker engineインストールしたらデフォで入ってる)  
 ```sh
