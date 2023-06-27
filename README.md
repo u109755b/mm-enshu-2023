@@ -23,6 +23,8 @@
 6/26
 - graph.jsonをEdgeGPTを用いて作成できるように変更．
 - dockerfileを追加 (今後その他の更新に合わせて変更・docker-compose.yml使ったらもっと簡潔にできそう)
+- dockerの追加に伴い、visualizer/views.py の微修正
+
 
 6/27
 - docker-compose version 追加
