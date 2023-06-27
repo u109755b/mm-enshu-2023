@@ -55,7 +55,7 @@ $ docker-compose --version
 docker-compose version 1.5.2, build 7240ff3
 ```
 
-2. メインディレクトリで以下を実行 (イメージ作成)
+2. メインディレクトリで以下を実行 (イメージ・コンテナ作成)
 ```sh
 $ docker-compose up -d
 ```
