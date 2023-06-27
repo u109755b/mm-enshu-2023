@@ -42,7 +42,7 @@ $ python manage.py runserver
 <details>
 <summary>docker composeを用いる場合の本アプリの動作方法 (2回目以降はdocker engineの起動＆3. 4. のみでよい)</summary>
 
-1. 
+0. 
 ```sh
 $ git clone https://github.com/u109755b/mm-enshu-2023 
 ```
@@ -55,17 +55,17 @@ $ docker-compose --version
 docker-compose version 1.5.2, build 7240ff3
 ```
 
-1. メインディレクトリで以下を実行 (イメージ作成)
+2. メインディレクトリで以下を実行 (イメージ作成)
 ```sh
 $ docker-compose up -d
 ```
 
-1. 以下を実行 (コンテナに入る)
+3. 以下を実行 (コンテナに入る)
 ```sh
 $ docker container exec -it mm-enshu-2023 bash
 ```
 
-1. 以下のコマンドを実行
+4. 以下のコマンドを実行
 ```sh
 $ python create_graph.py
 $ python manage.py migrate
