@@ -98,12 +98,12 @@ $ docker build -t mm-enshu .
 
 ```sh
 mac/linux
-$ docker run -dit -p 8000:8000 -v $(pwd)/..:/code --name mm-enshu_test mm-enshu
+$ docker run -dit -p 8000:8000 -v $(pwd):/code --name mm-enshu_test mm-enshu
 
 Windows
 $ docker run -dit -p 8000:8000 -v %cd%:/code --name mm-enshu_test mm-enshu
 (上のコードでエラッたらこっち)
-$ docker run -dit -p 8000:8000 -v ${pwd}/..:/code --name mm-enshu_test mm-enshu
+$ docker run -dit -p 8000:8000 -v ${pwd}:/code --name mm-enshu_test mm-enshu
 ```
 
 4. 以下を実行 (コンテナに入る)
