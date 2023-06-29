@@ -69,7 +69,7 @@ $ docker container exec -it mm-enshu-2023 bash
 
 4. 以下のコマンドを実行
 ```sh
-$ python create_graph.py
+$ python create_graph.py --title 三匹の子豚 # タイトルを所望のタイトルに入れ替える
 $ python manage.py migrate
 $ python manage.py runserver 0.0.0.0:8000
 (docker用いる場合は本アプリの動作方法とコマンドが少し違うことに注意)
@@ -113,7 +113,7 @@ $ docker container exec -it mm-enshu_test bash
 
 5. 以下のコマンドを実行
 ```sh
-$ python create_graph.py
+$ python create_graph.py --title 三匹の子豚 # タイトルを所望のタイトルに入れ替える
 $ python manage.py migrate
 $ python manage.py runserver 0.0.0.0:8000
 (docker用いる場合は本アプリの動作方法とコマンドが少し違うことに注意)
