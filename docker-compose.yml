@@ -14,3 +14,4 @@ services:
       - ./:/code
     tty: true
     stdin_open: true
+    runtime: nvidia
