@@ -32,6 +32,16 @@ def preprocess_txt(txt):
     # 特殊文字等削除
     body = body.replace("[Illustration]", "")
     body = re.sub("\s+", " ", body).strip()
+    
+    # 単語の前後の _ を削除
+    word_list = []
+    for word in body.split():
+        if word[0] == "_":
+            word = word[1:]
+        if word[-1] == "_":
+            word = word[:-1]
+        word_list.append(word)
+    body = " ".join(word_list)
 
     # {title}.body.txt に保存: 必要ならコメントアウト解除
     # with open(f"{title}.txt", "w", encoding="utf-8") as f:
