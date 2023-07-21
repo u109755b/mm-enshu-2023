@@ -30,7 +30,9 @@
 - docker-compose version 追加
 
 ### 本アプリの動作方法
-1. 以下のコマンドを順に実行  
+1. [EdgeGPTのサイト](https://github.com/acheong08/EdgeGPT/tree/main)の「collect cookies」を参考にrootディレクトリに'bing_cookies_.json'を作成して，cookie fileを貼り付ける．
+
+2. 以下のコマンドを順に実行  
 ```sh
 $ pip install django
 $ pip install EdgeGPT
