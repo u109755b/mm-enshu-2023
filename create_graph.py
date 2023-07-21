@@ -131,13 +131,14 @@ def check_files(directory,extension):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--title', type=str, default='浦島太郎')
+    parser.add_argument('--title', type=str, default='The Three Little Pigs')
     parser.add_argument('--show_image', action='store_true')
+    parser.add_argument('--lang', type=str, default='en', choices=['ja', 'en'])
     args = parser.parse_args()
     
     if not os.path.exists(f'log/{args.title}'):
         print('Downloading...')
-        chatbot = ChatbotPrompter(title=args.title)
+        chatbot = ChatbotPrompter(args)
         asyncio.run(chatbot.main())
         print('Download finished')
     
