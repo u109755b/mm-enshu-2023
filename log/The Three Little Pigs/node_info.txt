@@ -1,11 +1,11 @@
-Here are some possible information for the nodes of the knowledge graph of The Three Little Pigs:
+Here are some possible information of the nodes in the knowledge graph of The Three Little Pigs:
 
-- The Three Little Pigs: The protagonists of the story. They are brothers who leave their mother to seek their fortune in the world.
-- The Big Bad Wolf: The antagonist of the story. He is a cunning and hungry wolf who wants to eat the pigs.
-- The First Pig: The youngest and laziest of the three pigs. He builds a house of straw that is easily blown down by the wolf.
-- The Second Pig: The middle and slightly smarter of the three pigs. He builds a house of sticks that is also blown down by the wolf.
-- The Third Pig: The oldest and wisest of the three pigs. He builds a house of bricks that withstands the wolf's attacks.
-- The House of Straw: The flimsy and weak house built by the first pig. It is located in a field.
-- The House of Sticks: The slightly stronger but still fragile house built by the second pig. It is located in a forest.
-- The House of Bricks: The sturdy and durable house built by the third pig. It is located on a hill.
-- The Pot of Boiling Water: The trap set by the third pig to catch the wolf. It is placed under the chimney of the house of bricks.
+- The Three Little Pigs: The main characters who are brothers and leave their mother to seek their fortune.
+- The Big Bad Wolf: The antagonist who tries to eat the pigs by blowing down their houses.
+- The First Pig: The youngest and laziest pig who builds a house of straw.
+- The Second Pig: The middle pig who builds a house of sticks.
+- The Third Pig: The oldest and wisest pig who builds a house of bricks.
+- The House of Straw: The weakest house that is easily blown down by the wolf.
+- The House of Sticks: The second weakest house that is also blown down by the wolf.
+- The House of Bricks: The strongest house that withstands the wolf's attacks.
+- The Pot of Boiling Water: The trap set by the third pig to catch the wolf.

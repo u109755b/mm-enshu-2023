@@ -1,4 +1,4 @@
-Here are some possible nodes for the knowledge graph of The Three Little Pigs:
+Here are some possible nodes that appear in the knowledge graph of The Three Little Pigs:
 
 - The Three Little Pigs
 - The Big Bad Wolf
