@@ -59,18 +59,18 @@ class DialogueHandler:
         elif args.lang == 'en':
             self.scripts = {
                             'ask_prefix':'I want to make a knowledge graph about ',
-                            'ask_node':'Please output the nodes that appear in the knowledge graph.',
+                            'ask_node':'Please output the nodes that appear in the knowledge graph as much as possible',
                             'ask_edge':'Please output the edges that appear in the knowledge graph.',
                             'ask_node_info':'Please output the information of the node.',
                             'ask_node_group':'Please divide the nodes you taught into some groups.',
                             'ask_node_importance':'Please tell me the importance of the node between 0.0 and 1.0.',
                             'ask_tail':'Please output in the following format.\n',
                             'ask_again':'Please output again in the specified format.\n',
-                            'ask_node_eg':"Example'''\n- Momotaro\n- Monkey\n- Dog\n'''",
-                            'ask_edge_eg':"Example'''\n- Momotaro, make friends, Monkey\n- Momotaro, make friends, Dog\n'''",
-                            'ask_node_info_eg':"Example'''\n- Momotaro: The main character born from a peach. He goes to Onigashima to defeat the demon.\n'''",
-                            'ask_node_group_eg':"Example'''\n- Momotaro:Friends\n- Monkey:Friends\n- Demon:Enemy\n'''",
-                            'ask_node_importance_eg':"Example'''\n- Momotaro:0.5\n- Monkey:0.5\n- Demon:0.0\n'''",
+                            'ask_node_eg':"Example\n'''\n- Momotaro\n- Monkey\n- Dog\n'''",
+                            'ask_edge_eg':"Example\n'''\n- Momotaro, make friends, Monkey\n- Momotaro, make friends, Dog\n'''",
+                            'ask_node_info_eg':"Example\n'''\n- Momotaro: The main character born from a peach. He goes to Onigashima to defeat the demon.\n'''",
+                            'ask_node_group_eg':"Example\n'''\n- Momotaro:Friends\n- Monkey:Friends\n- Demon:Enemy\n'''",
+                            'ask_node_importance_eg':"Example\n'''\n- Momotaro:0.5\n- Monkey:0.5\n- Demon:0.0\n'''",
                             }
         
     def whether_Prompter_ask_node_correctly(self, output_text_from_bot):
@@ -192,7 +192,6 @@ class ChatbotPrompter:
     async def main(self):
         script_dir = os.path.dirname(os.path.abspath(__file__))
         cookie_path = os.path.join(script_dir, 'bing_cookies_.json')
-        print('cookie_path: ', cookie_path)
         cookies = json.loads(open(cookie_path, encoding="utf-8").read())
         bot = await Chatbot.create(cookies=cookies)
         

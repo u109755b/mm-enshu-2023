@@ -1,0 +1,17 @@
+Here are some possible edges for the knowledge graph of The Three Little Pigs:
+
+- The Three Little Pigs, are siblings, The First Pig
+- The Three Little Pigs, are siblings, The Second Pig
+- The Three Little Pigs, are siblings, The Third Pig
+- The Big Bad Wolf, want to eat, The Three Little Pigs
+- The First Pig, build, The House of Straw
+- The Second Pig, build, The House of Sticks
+- The Third Pig, build, The House of Bricks
+- The Big Bad Wolf, blow down, The House of Straw
+- The Big Bad Wolf, blow down, The House of Sticks
+- The Big Bad Wolf, fail to blow down, The House of Bricks
+- The Third Pig, invite in, The First Pig
+- The Third Pig, invite in, The Second Pig
+- The Big Bad Wolf, try to enter through chimney, The House of Bricks
+- The Third Pig, prepare, The Pot of Boiling Water
+- The Big Bad Wolf, fall into, The Pot of Boiling Water

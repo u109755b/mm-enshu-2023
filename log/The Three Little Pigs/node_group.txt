@@ -1,0 +1,11 @@
+Here are some possible groups for the nodes of the knowledge graph of The Three Little Pigs:
+
+- The Three Little Pigs:Family
+- The Big Bad Wolf:Enemy
+- The First Pig:Family
+- The Second Pig:Family
+- The Third Pig:Family
+- The House of Straw:Shelter
+- The House of Sticks:Shelter
+- The House of Bricks:Shelter
+- The Pot of Boiling Water:Weapon
