@@ -90,7 +90,7 @@ def return_json_dict(args, log_dir=None):
     
     json_dict, label_to_index = add_edge_to_json_dict(json_dict, log_dir + 'edge.txt', label_to_index)
     json_file = open(log_dir+'graph.json', 'w', encoding='utf-8')
-    json.dump(json_dict, json_file, ensure_ascii=False)
+    json.dump(json_dict, json_file, ensure_ascii=False, indent=4)
     json_file.close()
         
     return json_dict
