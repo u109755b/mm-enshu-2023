@@ -1,0 +1,51 @@
+0	First Pig and Wolf
+1	First Pig and Wolf
+2	First Pig and Wolf
+3	First Pig and Wolf
+4	First Pig and Wolf
+5	First Pig and Wolf
+6	First Pig and Wolf
+7	Second Pig and Wolf
+8	Second Pig and Wolf
+9	Second Pig and Wolf
+10	Second Pig and Wolf
+11	Second Pig and Wolf
+12	Third Pig and Wolf
+13	Third Pig and Wolf
+14	Third Pig and Wolf
+15	Third Pig and Wolf
+16	Third Pig and Wolf
+17	Third Pig and Wolf
+18	Third Pig and Wolf
+19	Third Pig and Wolf
+20	Third Pig and Wolf
+21	Third Pig and Wolf
+22	Third Pig and Wolf
+23	Third Pig and Wolf
+24	Third Pig and Wolf
+25	Third Pig and Wolf
+26	Third Pig and Wolf
+27	Third Pig and Wolf
+28	Third Pig and Wolf
+29	Third Pig and Wolf
+30	Third Pig and Wolf
+31	Third Pig and Wolf
+32	Third Pig and Wolf
+33	Third Pig and Wolf
+34	Third Pig and Wolf
+35	Third Pig and Wolf
+36	Third Pig and Wolf
+37	Third Pig and Wolf
+38	Third Pig and Wolf
+39	Third Pig and Wolf
+40	Third Pig and Wolf
+41	Third Pig and butter churn
+42	Third Pig and butter churn
+43	Third Pig and butter churn
+44	Third Pig and butter churn
+45	Third Pig and butter churn
+46	Third Pig and butter churn
+47	Third Pig and butter churn
+48	Third Pig and Wolf (again)
+49	Third Pig and Wolf (again)
+50	Third Pig and Wolf (again)

@@ -1,0 +1,19 @@
+0	Once upon a time there was an old Sow with three little Pigs, and as she had not enough to keep them, she sent them out to seek their fortune.
+1	The first that went off met a Man with a bundle of straw, and said to him, "Please, Man, give me that straw to build me a house"; which the Man did, and the little Pig built a house with it.
+2	Presently came along a Wolf, and knocked at the door, and said, "Little Pig, little Pig, let me come in."
+3	To which the Pig answered, "No, no, by the hair of my chinny chin chin."
+4	"Then I'll huff and I'll puff, and I'll blow your house in!"
+5	said the Wolf.
+6	So he huffed and he puffed, and he blew his house in, and ate up the little Pig.
+7	The second Pig met a Man with a bundle of furze, and said, "Please, Man, give me that furze to build a house"; which the Man did, and the Pig built his house.
+8	Then along came the Wolf and said, "Little Pig, little Pig, let me come in."
+9	"No, no, by the hair of my chinny chin chin."
+10	"Then I'll puff and I'll huff, and I'll blow your house in!"
+11	So he huffed and he puffed, and he puffed and he huffed, and at last he blew the house down, and ate up the second little Pig.
+12	The third little Pig met a Man with a load of bricks, and said, "Please, Man, give me those bricks to build a house with"; so the Man gave him the bricks, and he built his house with them.
+13	So the Wolf came, as he did to the other little Pigs, and said, "Little Pig, little Pig, let me come in."
+14	"No, no, by the hair of my chinny chin chin."
+15	"Then I'll huff and I'll puff, and I'll blow your house in."
+16	Well, he huffed and he puffed, and he huffed and he puffed, and he puffed and he huffed; but he could not get the house down.
+17	When he found that he could not, with all his huffing and puffing, blow the house down, he said, "Little Pig, I know where there is a nice field of turnips."
+18	"Where?"

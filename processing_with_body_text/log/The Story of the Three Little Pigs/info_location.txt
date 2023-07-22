@@ -1,0 +1,8 @@
+Location A (the first Pig's house)
+Location B (the second Pig's house)
+Location C (the third Pig's house)
+Location D (Mr. Smith's home-field)
+Location E (Merry-garden)
+Location F (the Town)
+Location G (the hill)
+Location C (the third Pig's house)
