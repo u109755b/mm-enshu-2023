@@ -7,9 +7,9 @@ import argparse
 
 # titleとscene_group_nameを入力すると, 何個の文章に分かれて保存されているか求めて, その数を返す関数
 def find_max_split_idx(title, scene_group_name):
-    dir_files = os.listdir(f"log/{title}")
+    dir_files = os.listdir(f"log/{title}/{scene_group_name}")
     split_idxs = []
-    file_pattern = re.compile(f"body_splited_by_{scene_group_name}_(\d+)\.txt")
+    file_pattern = re.compile(f"body_scene(\d+)\.txt")
     for file in dir_files:
         try:
             split_idxs.append(int(re.findall(file_pattern, file)[0]))
@@ -35,9 +35,9 @@ def make_json_summary(title, scene_group_name, max_split_idx):
     json_summary = []
 
     # summary, scene_infoの読み込み
-    with open(f"log/{title}/summary_splited_by_{scene_group_name}.txt", encoding="utf-8") as f:
+    with open(f"log/{title}/{scene_group_name}/summary.txt", encoding="utf-8") as f:
         summaries = f.read().split("\n")
-    with open(f"log/{title}/info_{scene_group_name}.txt", encoding="utf-8") as f:
+    with open(f"log/{title}/{scene_group_name}/scene_info.txt", encoding="utf-8") as f:
         scene_infos = f.read().split("\n")
 
     # summaryの追加
@@ -58,7 +58,7 @@ def make_json_nodes(title, scene_group_name, max_split_idx):
     # nodeの読み込み
     raw_nodes_list = []
     for split_idx in range(max_split_idx):
-        with open(f"log/{title}/node_splited_by_{scene_group_name}_{split_idx}.txt", encoding="utf-8") as f:
+        with open(f"log/{title}/{scene_group_name}/node_scene{split_idx}.txt", encoding="utf-8") as f:
             raw_nodes_list.append(f.read().split("\n"))
 
     # 全てのノード名を収集(登場順を保持)
@@ -90,7 +90,7 @@ def make_json_edges(title, scene_group_name, max_split_idx, all_node_labels):
     # edgeの読み込み(読み込み時にカンマの表記揺れを統一)
     raw_edges_list = []
     for split_idx in range(max_split_idx):
-        with open(f"log/{title}/edge_splited_by_{scene_group_name}_{split_idx}.txt", encoding="utf-8") as f:
+        with open(f"log/{title}/{scene_group_name}/edge_scene{split_idx}.txt", encoding="utf-8") as f:
             raw_edges_list.append([re.sub(r"\s*,\s*", r",", raw_edge) for raw_edge in f.read().split("\n")])
 
     # 全てのラベル表現を収集(登場順を保持)
@@ -173,12 +173,12 @@ def main():
     max_split_idx = find_max_split_idx(title, scene_group_name)
 
     # すでに実行済みの場合, 実行しない
-    if os.path.exists(f"log/{title}/graph_{scene_group_name}.json"):
+    if os.path.exists(f"log/{title}/{scene_group_name}/graph.json"):
         print("json file has already existed!")
         exit()
 
     # 要約が存在しない場合, 先に4_summarize_splited_body.pyを実行するように促す
-    if not os.path.exists(f"log/{title}/summary_splited_by_{scene_group_name}.txt"):
+    if not os.path.exists(f"log/{title}/{scene_group_name}/summary.txt"):
         print("Summary doesn't exist!")
         print(
             f"Please run 'python 4_summarize_splited_body.py --title {title}"
@@ -186,7 +186,7 @@ def main():
         )
     
     # ノード, エッジが存在しない場合, 先に5_create_knowledge_graph.pyを実行するように促す
-    if not os.path.exists(f"log/{title}/node_splited_by_{scene_group_name}_0.txt"):
+    if not os.path.exists(f"log/{title}/{scene_group_name}/node_scene0.txt"):
         print("Knowledge graph doesn't exist!")
         print(
             f"Please run 'python 5_create_knowledge_graph.py --title {title}"
@@ -214,7 +214,7 @@ def main():
     json_dict = remove_unused_nodes(json_dict)
 
     # jsonファイルの保存
-    with open(f"log/{title}/graph_{scene_group_name}.json", "w", encoding="utf-8") as f:
+    with open(f"log/{title}/{scene_group_name}/graph.json", "w", encoding="utf-8") as f:
         json.dump(json_dict, f, indent=4)
     
 

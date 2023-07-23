@@ -17,13 +17,13 @@ def save_splited_body_by_scene(title, use_location, use_time, use_character):
     # groupsにlocation, time, characterの情報の内利用するものを\t区切りで格納
     groups = [""] * len(sentences)
     if use_location:
-        with open(f"log/{title}/body_group_by_location.txt", encoding="utf-8") as f:
+        with open(f"log/{title}/body_info_location.txt", encoding="utf-8") as f:
             for line in f:
                 sentence_idx, location_group = line.strip().split("\t")
                 groups[int(sentence_idx)] += location_group
 
     if use_time:
-        with open(f"log/{title}/body_group_by_time.txt", encoding="utf-8") as f:
+        with open(f"log/{title}/body_info_time.txt", encoding="utf-8") as f:
             for line in f:
                 sentence_idx, time_group = line.strip().split("\t")
                 # groupsが空の場合, time_groupをそのまま追加
@@ -34,7 +34,7 @@ def save_splited_body_by_scene(title, use_location, use_time, use_character):
                     groups[int(sentence_idx)] += "\t" + time_group
 
     if use_character:
-        with open(f"log/{title}/body_group_by_character.txt", encoding="utf-8") as f:
+        with open(f"log/{title}/body_info_character.txt", encoding="utf-8") as f:
             for line in f:
                 sentence_idx, character_group = line.strip().split("\t")
                 # groupsが空の場合, character_groupをそのまま追加
@@ -66,15 +66,16 @@ def save_splited_body_by_scene(title, use_location, use_time, use_character):
     splited_lines_group_info.append(last_group)
 
 
-    # body_splited_by_{scene_group_name}_{split_idx}.txtに分割された本文を格納
+    # {scene_group_name}/body_scene{split_idx}.txtに分割された本文を格納
     scene_group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
     scene_group_name = "_".join(scene_group_names)
+    os.makedirs(f"log/{title}/{scene_group_name}", exist_ok=True)
     for split_idx, splited_line in enumerate(splited_lines):
-        with open(f"log/{title}/body_splited_by_{scene_group_name}_{split_idx}.txt", "w", encoding="utf-8") as f:
+        with open(f"log/{title}/{scene_group_name}/body_scene{split_idx}.txt", "w", encoding="utf-8") as f:
             f.write(splited_line)
     
-    # info_{scene_group_name}.txtにグループ情報を格納
-    with open(f"log/{title}/info_{scene_group_name}.txt", "w", encoding="utf-8") as f:
+    # {scene_group_name}/scene_info.txtにグループ情報を格納
+    with open(f"log/{title}/{scene_group_name}/scene_info.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(splited_lines_group_info))
 
 
@@ -95,20 +96,20 @@ def main():
     # 既に分割済みの場合, 実行しない
     scene_group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
     scene_group_name = "_".join(scene_group_names)
-    if os.path.exists(f"log/{title}/body_splited_by_{scene_group_name}_0.txt"):
+    if os.path.exists(f"log/{title}/{scene_group_name}/body_scene0.txt"):
         print("The split result already exists!")
         exit()
 
     # 2_group_sentence_by_scene.pyでの分類が行われていない場合, 先に実行するように促す
-    if use_location and not os.path.exists(f"log/{title}/body_group_by_location.txt"):
+    if use_location and not os.path.exists(f"log/{title}/body_info_location.txt"):
         print("Grouping result doesn't exist!")
         print(f"Please run 'python 2_group_sentence_by_scene.py --title {title} --scene_type location'")
     
-    if use_time and not os.path.exists(f"log/{title}/body_group_by_time.txt"):
+    if use_time and not os.path.exists(f"log/{title}/body_info_time.txt"):
         print("Grouping result doesn't exist!")
         print(f"Please run 'python 2_group_sentence_by_scene.py --title {title} --scene_type time'")
     
-    if use_character and not os.path.exists(f"log/{title}/body_group_by_character.txt"):
+    if use_character and not os.path.exists(f"log/{title}/body_info_character.txt"):
         print("Grouping result doesn't exist!")
         print(f"Please run 'python 2_group_sentence_by_scene.py --title {title} --scene_type character'")
 

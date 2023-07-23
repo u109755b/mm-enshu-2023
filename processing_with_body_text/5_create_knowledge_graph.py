@@ -9,9 +9,9 @@ import argparse
 
 # titleとscene_group_nameを入力すると, 何個の文章に分かれて保存されているか求めて, その数を返す関数
 def find_max_split_idx(title, scene_group_name):
-    dir_files = os.listdir(f"log/{title}")
+    dir_files = os.listdir(f"log/{title}/{scene_group_name}")
     split_idxs = []
-    file_pattern = re.compile(f"body_splited_by_{scene_group_name}_(\d+)\.txt")
+    file_pattern = re.compile(f"body_scene(\d+)\.txt")
     for file in dir_files:
         try:
             split_idxs.append(int(re.findall(file_pattern, file)[0]))
@@ -70,7 +70,7 @@ def save_extracted_outputs(response, title, scene_group_name, split_idx, output_
             pass
     
     # 出力を保存
-    with open(f"log/{title}/{output_type}_splited_by_{scene_group_name}_{split_idx}.txt", "w", encoding="utf-8") as f:
+    with open(f"log/{title}/{scene_group_name}/{output_type}_scene{split_idx}.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(outputs))
     
     # nodeの場合, node集合を返す
@@ -85,25 +85,25 @@ async def main():
     parser.add_argument("--use_location", type=str, default="True")
     parser.add_argument("--use_time", type=str, default="False")
     parser.add_argument("--use_character", type=str, default="False")
-    parser.add_argument("--is_show_log", type=str, default="False")
+    parser.add_argument("--show_log", type=str, default="False")
     args = parser.parse_args()
 
     title = args.title
     use_location = strtobool(args.use_location)
     use_time = strtobool(args.use_time)
     use_character = strtobool(args.use_character)
-    is_show_log = strtobool(args.is_show_log)
+    show_log = strtobool(args.show_log)
 
     scene_group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
     scene_group_name = "_".join(scene_group_names)
 
     # すでに実行済みの場合, 実行しない
-    if os.path.exists(f"log/{title}/node_splited_by_{scene_group_name}_0.txt"):
+    if os.path.exists(f"log/{title}/{scene_group_name}/node_scene0.txt"):
         print("Knowledge graph has already existed!")
         exit()
     
     # 分割済みの本文が存在しない場合, 先に3_split_body_by_scene.pyを実行するように促す
-    if not os.path.exists(f"log/{title}/body_splited_by_{scene_group_name}_0.txt"):
+    if not os.path.exists(f"log/{title}/{scene_group_name}/body_scene0.txt"):
         print("The splited text doesn't exist!")
         print(
             f"Please run 'python 3_split_body_by_scene.py --title {title}"
@@ -121,7 +121,7 @@ async def main():
     max_split_idx = find_max_split_idx(title, scene_group_name)
     splited_bodys = []
     for split_idx in range(max_split_idx):
-        with open(f"log/{title}/body_splited_by_{scene_group_name}_{split_idx}.txt", encoding="utf-8") as f:
+        with open(f"log/{title}/{scene_group_name}/body_scene{split_idx}.txt", encoding="utf-8") as f:
             splited_bodys.append(f.read())
     
 
@@ -132,9 +132,9 @@ async def main():
         # Nodeについて質問する
         # TODO: 対応しない形式の出力が発生した場合, 対応を考える
         prompt = make_first_instruct("node", splited_body)
-        print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
+        print(f"Asking for the following prompts...\n{prompt}\n") if show_log else None
         response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative, simplify_response=True)
-        print(f"Get the following response!\n{response['text']}\n") if is_show_log else None
+        print(f"Get the following response!\n{response['text']}\n") if show_log else None
 
         # Nodeを取り出してファイルに保存する
         new_nodes = save_extracted_outputs(response, title, scene_group_name, split_idx, "node")
@@ -145,9 +145,9 @@ async def main():
         # Egdeについて質問する(出力Nodeはこれまでに出てきたノードに限定するように指示)
         # TODO: 対応しない形式の出力が発生した場合, 対応を考える
         prompt = make_first_instruct("edge", splited_body, existed_nodes)
-        print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
+        print(f"Asking for the following prompts...\n{prompt}\n") if show_log else None
         response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative, simplify_response=True)
-        print(f"Get the following response!\n{response['text']}\n") if is_show_log else None
+        print(f"Get the following response!\n{response['text']}\n") if show_log else None
 
         # Edgeを取り出してファイルに保存する
         save_extracted_outputs(response, title, scene_group_name, split_idx, "edge")

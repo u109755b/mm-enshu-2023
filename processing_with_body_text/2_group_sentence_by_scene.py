@@ -153,15 +153,15 @@ async def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--title", type=str, default="The Story of the Three Little Pigs")
     parser.add_argument("--scene_type", type=str, default="location", choices=["location", "time", "character"])
-    parser.add_argument("--is_show_log", type=str, default="False")
+    parser.add_argument("--show_log", type=str, default="False")
     args = parser.parse_args()
 
     title = args.title
     scene_type = args.scene_type
-    is_show_log = strtobool(args.is_show_log)
+    show_log = strtobool(args.show_log)
 
     # すでに分類済みの場合, 実行しない
-    if os.path.exists(f"log/{title}/body_group_by_{scene_type}.txt"):
+    if os.path.exists(f"log/{title}/body_info_{scene_type}.txt"):
         print("Grouping result has already existed!")
         exit()
     
@@ -187,9 +187,9 @@ async def main():
     # ある文章, ある属性について初めてのプロンプトを入力し, dictを更新
     for sep_idx in range(max_sep_idx-1):
         prompt = make_first_prompt(title, sep_idx, scene_type)
-        print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
+        print(f"Asking for the following prompts...\n{prompt}\n") if show_log else None
         response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative, simplify_response=True)
-        print(f"Get the following response!\n{response['text']}\n") if is_show_log else None
+        print(f"Get the following response!\n{response['text']}\n") if show_log else None
 
         one_attribute_information_dict = update_one_attribute_information_dict(response, one_attribute_information_dict)
 
@@ -220,9 +220,9 @@ async def main():
             # 分類候補を基にプロンプトを作成し, 結果を得る
             retry_candidates = one_attribute_information_dict[sentence_idx]
             prompt = make_retry_prompt(title, scene_type, sentence_idx, retry_candidates)
-            print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
+            print(f"Asking for the following prompts...\n{prompt}\n") if show_log else None
             response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative, simplify_response=True)
-            print(f"Get the following response!\n{response['text']}\n") if is_show_log else None
+            print(f"Get the following response!\n{response['text']}\n") if show_log else None
 
             # 全ての分類候補の内, responseに含まれるものを最終的な分類結果とする
             # 複数含まれる場合, 最初に含まれるものを最終的な分類結果とする
@@ -260,9 +260,9 @@ async def main():
         elif len(retry_candidates) == 2:
             # 分類候補を基にプロンプトを作成し, 結果を得る
             prompt = make_retry_prompt(title, scene_type, sentence_idx, retry_candidates)
-            print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
+            print(f"Asking for the following prompts...\n{prompt}\n") if show_log else None
             response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative, simplify_response=True)
-            print(f"Get the following response!\n{response['text']}\n") if is_show_log else None
+            print(f"Get the following response!\n{response['text']}\n") if show_log else None
 
             # 全ての分類候補の内, responseに含まれるものを最終的な分類結果とする
             # 複数含まれる場合, 最初に含まれるものを最終的な分類結果とする
@@ -280,7 +280,7 @@ async def main():
     
 
     # 分類結果を保存
-    with open(f"log/{title}/body_group_by_{scene_type}.txt", "w", encoding="utf-8") as f:
+    with open(f"log/{title}/body_info_{scene_type}.txt", "w", encoding="utf-8") as f:
         for sentence_idx, sentence_group in enumerate(one_attribute_groups):
             f.write(f"{sentence_idx}\t{sentence_group}\n")
     
