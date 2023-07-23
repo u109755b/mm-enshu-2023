@@ -76,7 +76,7 @@ async def main():
         "Example\n'''\n- Summary: ~~~\n'''\n"
     )
 
-    summarys = []
+    summaries = []
     for splited_body in splited_bodys:
         prompt = first_instruct + splited_body
         print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
@@ -86,12 +86,12 @@ async def main():
         # 要約を取り出す (対応形式 - Summary: "summary")
         # TODO: 対応しない形式の出力が発生した場合, 対応を考える
         summary = response["text"].split("- Summary: ")[-1]
-        summarys.append(summary)
+        summaries.append(summary)
 
     
     # 要約結果を"log/{title}/summary_splited_by_{scene_group_name}.txt"にまとめる
     with open(f"log/{title}/summary_splited_by_{scene_group_name}.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(summarys))
+        f.write("\n".join(summaries))
     
 
     await bot.close()

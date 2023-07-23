@@ -46,7 +46,7 @@ def preprocess_txt(txt):
         word_list.append(word)
     body = " ".join(word_list)
 
-    # # log/{title}/clean_body.txt に保存 (必要ならコメントアウト)
+    # # log/{title}/clean_body.txt に保存 (必要ならコメントアウト解除)
     # os.makedirs(f"log/{title}", exist_ok=True)
     # with open(f"log/{title}/clean_body.txt", "w", encoding="utf-8") as f:
     #     f.write(body)
