@@ -1,6 +1,6 @@
-import argparse
-import os
 from distutils.util import strtobool
+import os
+import argparse
 
 
 # 場面ごとに分類された本文を, 場面ごとに分割して保存する関数
@@ -66,15 +66,15 @@ def save_splited_body_by_scene(title, use_location, use_time, use_character):
     splited_lines_group_info.append(last_group)
 
 
-    # body_splited_by_{group_name}_{split_idx}.txtに分割された本文を格納
-    group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
-    group_name = "_".join(group_names)
+    # body_splited_by_{scene_group_name}_{split_idx}.txtに分割された本文を格納
+    scene_group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
+    scene_group_name = "_".join(scene_group_names)
     for split_idx, splited_line in enumerate(splited_lines):
-        with open(f"log/{title}/body_splited_by_{group_name}_{split_idx}.txt", "w", encoding="utf-8") as f:
+        with open(f"log/{title}/body_splited_by_{scene_group_name}_{split_idx}.txt", "w", encoding="utf-8") as f:
             f.write(splited_line)
     
-    # info_{group_name}.txtにグループ情報を格納
-    with open(f"log/{title}/info_{group_name}.txt", "w", encoding="utf-8") as f:
+    # info_{scene_group_name}.txtにグループ情報を格納
+    with open(f"log/{title}/info_{scene_group_name}.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(splited_lines_group_info))
 
 
@@ -93,9 +93,9 @@ def main():
     use_character = strtobool(args.use_character)
 
     # 既に分割済みの場合, 実行しない
-    group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
-    group_name = "_".join(group_names)
-    if os.path.exists(f"log/{title}/body_splited_by_{group_name}_0.txt"):
+    scene_group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
+    scene_group_name = "_".join(scene_group_names)
+    if os.path.exists(f"log/{title}/body_splited_by_{scene_group_name}_0.txt"):
         print("The split result already exists!")
         exit()
 

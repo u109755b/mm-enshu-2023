@@ -1,11 +1,10 @@
 from EdgeGPT.EdgeGPT import Chatbot, ConversationStyle
+from distutils.util import strtobool
+import re
 import os
 import json
-import re
-import pandas as pd
 import asyncio
 import argparse
-from distutils.util import strtobool
 
 
 # titleを入力すると, 何個の文章に分かれて保存されているか求めて, その数を返す関数
@@ -18,7 +17,7 @@ def find_max_sep_idx(title):
         except:
             pass
     
-    return max(sep_idxs)
+    return max(sep_idxs)+1
 
 
 # ある文章, ある属性について初めてのプロンプトを作成する関数
@@ -186,7 +185,7 @@ async def main():
     # 一つの属性について, 各文の分類結果を保存するdict
     one_attribute_information_dict = {sentence_idx:set() for sentence_idx in range(len(sentences))}
     # ある文章, ある属性について初めてのプロンプトを入力し, dictを更新
-    for sep_idx in range(max_sep_idx):
+    for sep_idx in range(max_sep_idx-1):
         prompt = make_first_prompt(title, sep_idx, scene_type)
         print(f"Asking for the following prompts...\n{prompt}\n") if is_show_log else None
         response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative, simplify_response=True)

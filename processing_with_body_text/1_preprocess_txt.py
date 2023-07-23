@@ -1,8 +1,8 @@
-import urllib.request
 import re
 import os
 import nltk
 import argparse
+import urllib.request
 
 
 # gutenbergの作品タイトルを指定すると.txtファイルのurlを返す関数
@@ -70,7 +70,7 @@ def save_splited_body_by_sentence(body, title):
 # 1900について: EdgeGPTへの入力は"指示+2つの文章" → この長さがEdgeGPTの入力制限4000文字以下になるように制御
 def savesplited_body_by_len(title):
     # 文単位に分割された本文を読み込む
-    with open(f"log/{title}/body.txt") as f:
+    with open(f"log/{title}/body.txt", encoding="utf-8") as f:
         sentences = f.read().split("\n")[:-1]
     
     # 1900文字単位で区切り, log/{title}/body_{sep_idx}.txtに保存していく

@@ -1,7 +1,8 @@
 # 本文を用いた知識グラフ, 要約の作成
 ## about
 - 本文を場面に基づき分割し, 各場面の知識グラフ及び要約を作成 (宮野担当分)
-- 7/22: 本文を場面を基に分類するコードを追加 (1.~3.)
+- 7/22: 本文を場面を基に分割するコードを追加 (1.~3.)
+- 7/23: 本文の各場面を要約するコードを追加 (4.)
 
 ## requirements
 - (django==4.2.2)
@@ -29,3 +30,9 @@
         - character: 登場人物が少ないので, ほとんど分割されない
 - python 3_split_body_by_scene.py --title "title" --use_location True --use_time False --use_character False
     - 分類済みの本文を, 分類に基づき分割する
+- python 4_summarize_splited_body.py --title "title" --use_location True --use_time False --use_character False --is_show_log False
+    - 分割済みの本文を要約する
+
+## 例外処理
+- Exception: CaptchaChallenge: User needs to solve CAPTCHA to continue.
+    - このエラーが発生した場合, Bing AIにアクセスして認証を通す必要がある
