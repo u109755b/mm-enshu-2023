@@ -28,6 +28,9 @@
         edges: edges
       };
       var options = {
+        physics: {
+          enabled: false // ノードを連動して動かないようにする
+        },
       };
       var network = new vis.Network(container, data, options);
     </script>

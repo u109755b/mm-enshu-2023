@@ -12,6 +12,7 @@
             "label": "母さん豚",
             "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
             "group": "pigs",
+            "shape": "box",
             "period": [1, 2, 3, 4],
             "size": 25
         },
@@ -20,6 +21,7 @@
             "label": "長男の子豚",
             "title": "なまけもので、簡単に出来る藁の家を作る。",
             "group": "pigs",
+            "shape": "box",
             "period": [1, 2, 3, 4],
             "size": 25
         },
@@ -28,6 +30,7 @@
             "label": "次男の子豚",
             "title": "めんどくさがり屋で、木の家を作る。",
             "group": "pigs",
+            "shape": "box",
             "period": [1, 2, 3, 4],
             "size": 25
         },
@@ -36,6 +39,7 @@
             "label": "末の子豚",
             "title": "臆病者なので、頑丈なレンガの家を作る。",
             "group": "pigs",
+            "shape": "box",
             "period": [1, 2, 3, 4],
             "size": 25
         },
@@ -44,6 +48,7 @@
             "label": "オオカミ",
             "title": "なんとか子豚たちを食べようと頑張る。",
             "group": "wolf",
+            "shape": "box",
             "period": [2, 3, 4],
             "size": 25
         }
@@ -79,7 +84,8 @@
                 "color": "red",
                 "highlight": "red",
                 "inherit": false
-            }
+            },
+            "smooth": { "type": "curvedCW", "roundness": 0.3 }
         },
         {
             "id": "pig3_to_wolf",
@@ -88,7 +94,8 @@
             "from": "pig3",
             "to": "wolf",
             "arrows": "to",
-            "period": [4]
+            "period": [4],
+            "smooth": { "type": "curvedCW", "roundness": 0.3 }
         },
         {
             "id": "mother_to_wolf",
