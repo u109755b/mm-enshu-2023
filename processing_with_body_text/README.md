@@ -5,6 +5,7 @@
 - 7/23: 本文の各場面を要約するコードを追加 (4)
 - 7/23: 本文の各場面の知識グラフを作成するコードを追加 (5,6)
 - 7/24: ファイル命名規則の変更, 出力例の追加
+- 7/24: 一括実行用スクリプトを追加
 
 ## requirements
 - (django==4.2.2)
@@ -20,7 +21,12 @@
     nltk.download('punkt')
     ```
 
-## 実行方法
+## 実行方法 (一括実行)
+- bash create_json.sh "TITLE", "USE_LOCATION", "USE_TIME", "USE_CHARACTER", "SHOW_LOG"
+    - USE_LOCATION, USE_TIME, USE_CHARACTER: 場面分割の基準に場所, 時間, 登場人物の変化を使うかどうかを指定 (true or false)
+    - SHOW_LOG: EdgeGPTとの応答のlogを表示するかどうかを指定 (true or false)
+
+## 実行方法 (個別実行)
 - python 1_preprocess_txt.py --title "title"
     - 本文をダウンロードし, 前処理を行い, データを短い文章に分割する
 - python 2_group_sentence_by_scene.py --title "title" --scene_type "location" --show_log False

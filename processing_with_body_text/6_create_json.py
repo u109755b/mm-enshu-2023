@@ -220,6 +220,7 @@ def main():
 
     scene_group_names = ["location"] * use_location + ["time"] * use_time + ["character"] * use_character
     scene_group_name = "_".join(scene_group_names)
+
     max_split_idx = find_max_split_idx(title, scene_group_name)
 
     # すでに実行済みの場合, 実行しない
@@ -264,7 +265,7 @@ def main():
     json_dict = remove_unused_nodes(json_dict)
 
     # from, to, periodが同じedgesの統合
-    json_dict = integrate_same_from_to_period_edges(json_dict, )
+    json_dict = integrate_same_from_to_period_edges(json_dict, max_split_idx)
 
     # jsonファイルの保存
     with open(f"log/{title}/{scene_group_name}/graph.json", "w", encoding="utf-8") as f:
