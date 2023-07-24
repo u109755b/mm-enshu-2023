@@ -20,8 +20,8 @@
         font-weight: 550;
       }
       #network {
-        width:  400px;
-        height: 400px;
+        width:  1000px;
+        height: 1000px;
         border: 1px solid #000;
       }
       .nav-links {
@@ -40,11 +40,12 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
   </head>
   <body>
+    {% load static %}
+    {% comment %} <img src="{% static 'visualizer/log/The_Three_Little_Pigs/The_Big_Bad_Wolf/0.jpeg' %}" alt="My image"> {% endcomment %}
     <nav>
       <div class="logo-area">
         <h2>登場人物グラフ</h2>
       </div>
-​
       <div class="nav-links">
         <ul>
           <a href=""><li>ChapterTitle</li></a>
