@@ -1,0 +1,11 @@
+Here are some possible nodes that appear in the knowledge graph of The Three Little Pigs:
+
+- The Three Little Pigs
+- The Big Bad Wolf
+- The First Pig
+- The Second Pig
+- The Third Pig
+- The House of Straw
+- The House of Sticks
+- The House of Bricks
+- The Pot of Boiling Water

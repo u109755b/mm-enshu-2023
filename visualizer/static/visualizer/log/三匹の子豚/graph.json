@@ -1,0 +1,181 @@
+{
+    "title": "三匹の子豚",
+    "nodes": [
+        {
+            "id": "node0",
+            "label": "三匹の子豚",
+            "shape": "image",
+            "image": "log/三匹の子豚/三匹の子豚/0.jpeg",
+            "title": "母豚から生まれた兄弟．それぞれ自分の家を建てるが，大きな悪いオオカミに襲われる．",
+            "group": "主人公",
+            "size": 35
+        },
+        {
+            "id": "node1",
+            "label": "一匹目の子豚",
+            "shape": "image",
+            "image": "log/三匹の子豚/一匹目の子豚/0.jpeg",
+            "title": "三匹の子豚の長男．怠惰で藁で家を建てるが，オオカミに吹き飛ばされる．",
+            "group": "主人公",
+            "size": 21
+        },
+        {
+            "id": "node2",
+            "label": "二匹目の子豚",
+            "shape": "image",
+            "image": "log/三匹の子豚/二匹目の子豚/0.jpeg",
+            "title": "三匹の子豚の次男．やや怠惰で木で家を建てるが，オオカミに吹き飛ばされる．",
+            "group": "主人公",
+            "size": 21
+        },
+        {
+            "id": "node3",
+            "label": "三匹目の子豚",
+            "shape": "image",
+            "image": "log/三匹の子豚/三匹目の子豚/0.jpeg",
+            "title": "三匹の子豚の三男．勤勉で煉瓦で家を建てる．オオカミに吹き飛ばされない．",
+            "group": "主人公",
+            "size": 29
+        },
+        {
+            "id": "node4",
+            "label": "藁の家",
+            "shape": "image",
+            "image": "log/三匹の子豚/藁の家/0.jpeg",
+            "title": "一匹目の子豚が建てた家．軽くて弱い．",
+            "group": "場所",
+            "size": 17
+        },
+        {
+            "id": "node5",
+            "label": "木の家",
+            "shape": "image",
+            "image": "log/三匹の子豚/木の家/0.jpeg",
+            "title": "二匹目の子豚が建てた家．やや重くて強い．",
+            "group": "場所",
+            "size": 19
+        },
+        {
+            "id": "node6",
+            "label": "煉瓦の家",
+            "shape": "image",
+            "image": "log/三匹の子豚/煉瓦の家/0.jpeg",
+            "title": "三匹目の子豚が建てた家．重くて強い．",
+            "group": "場所",
+            "size": 31
+        },
+        {
+            "id": "node7",
+            "label": "大きな悪いオオカミ",
+            "shape": "image",
+            "image": "log/三匹の子豚/大きな悪いオオカミ/0.jpeg",
+            "title": "三匹の子豚を食べようとする悪者．息が強くて家を吹き飛ばすことができる．",
+            "group": "敵",
+            "size": 33
+        },
+        {
+            "id": "node8",
+            "label": "煙突",
+            "shape": "image",
+            "image": "log/三匹の子豚/煙突/0.jpeg",
+            "title": "煉瓦の家にある通気口．オオカミが入ろうとするが，鍋に落ちる．",
+            "group": "道具",
+            "size": 23
+        },
+        {
+            "id": "node9",
+            "label": "鍋",
+            "shape": "image",
+            "image": "log/三匹の子豚/鍋/0.jpeg",
+            "title": "煉瓦の家にある調理器具．熱いお湯が入っている．オオカミが落ちると火傷する．",
+            "group": "道具",
+            "size": 27
+        }
+    ],
+    "edges": [
+        {
+            "id": "edge0",
+            "from": "node0",
+            "label": "兄弟である",
+            "to": "node1",
+            "arrows": "to"
+        },
+        {
+            "id": "edge1",
+            "from": "node0",
+            "label": "兄弟である",
+            "to": "node2",
+            "arrows": "to"
+        },
+        {
+            "id": "edge2",
+            "from": "node0",
+            "label": "兄弟である",
+            "to": "node3",
+            "arrows": "to"
+        },
+        {
+            "id": "edge3",
+            "from": "node1",
+            "label": "建てる",
+            "to": "node4",
+            "arrows": "to"
+        },
+        {
+            "id": "edge4",
+            "from": "node2",
+            "label": "建てる",
+            "to": "node5",
+            "arrows": "to"
+        },
+        {
+            "id": "edge5",
+            "from": "node3",
+            "label": "建てる",
+            "to": "node6",
+            "arrows": "to"
+        },
+        {
+            "id": "edge6",
+            "from": "node7",
+            "label": "追いかける",
+            "to": "node0",
+            "arrows": "to"
+        },
+        {
+            "id": "edge7",
+            "from": "node7",
+            "label": "吹き飛ばす",
+            "to": "node4",
+            "arrows": "to"
+        },
+        {
+            "id": "edge8",
+            "from": "node7",
+            "label": "吹き飛ばす",
+            "to": "node5",
+            "arrows": "to"
+        },
+        {
+            "id": "edge9",
+            "from": "node7",
+            "label": "吹き飛ばせない",
+            "to": "node6",
+            "arrows": "to"
+        },
+        {
+            "id": "edge10",
+            "from": "node7",
+            "label": "登る",
+            "to": "node8",
+            "arrows": "to"
+        },
+        {
+            "id": "edge11",
+            "from": "node8",
+            "label": "落ちる",
+            "to": "node9",
+            "arrows": "to"
+        }
+    ]
+}
