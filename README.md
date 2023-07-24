@@ -25,9 +25,12 @@
 - dockerfileを追加 (今後その他の更新に合わせて変更・docker-compose.yml使ったらもっと簡潔にできそう)
 - dockerの追加に伴い、visualizer/views.py の微修正
 
-
 6/27
 - docker-compose version 追加
+
+7/22
+- 本文に基づく知識グラフ構築･要約スクリプトを追加
+- 詳細は "processing_with_body_text/README.md" 参照
 
 ### 本アプリの動作方法
 1. [EdgeGPTのサイト](https://github.com/acheong08/EdgeGPT/tree/main)の「collect cookies」を参考にrootディレクトリに 'bing_cookies_.json' を作成して，cookie fileを貼り付ける．
