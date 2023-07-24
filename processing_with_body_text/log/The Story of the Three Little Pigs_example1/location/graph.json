@@ -284,26 +284,19 @@
     ],
     "edges": [
         {
-            "id": "The WolftoA Fair in the Town_6",
-            "label": "run home without going to",
-            "title": "mention & run home without going to",
-            "from": "The Wolf",
-            "to": "A Fair in the Town",
+            "id": "The second PigtoA Wolf_2",
+            "label": "refuse",
+            "title": "refuse",
+            "from": "The second Pig",
+            "to": "A Wolf",
             "arrows": "to",
             "period": [
-                6
-            ]
-        },
-        {
-            "id": "The third PigtoFour oclock_5",
-            "label": "wake at",
-            "title": "wake at",
-            "from": "The third Pig",
-            "to": "Four oclock",
-            "arrows": "to",
-            "period": [
-                5
-            ]
+                2
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
             "id": "The third PigtoSix oclock_3",
@@ -314,260 +307,26 @@
             "arrows": "to",
             "period": [
                 3
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
-            "id": "The second PigtoA Man with a bundle of furze_2",
-            "label": "request",
-            "title": "meet & request",
-            "from": "The second Pig",
-            "to": "A Man with a bundle of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "The second PigtoA house of furze_2",
-            "label": "build",
-            "title": "build",
-            "from": "The second Pig",
-            "to": "A house of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "A pot-full of turnipstoDinner_4",
-            "label": "be for",
-            "title": "be for",
-            "from": "A pot-full of turnips",
-            "to": "Dinner",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "The WolftoA chimney_8",
-            "label": "come down",
-            "title": "try to get down & come down",
+            "id": "The WolftoA Fair in the Town_6",
+            "label": "run home without going to",
+            "title": "run home without going to",
             "from": "The Wolf",
-            "to": "A chimney",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "The WolftoA pot full of water_8",
-            "label": "fall in",
-            "title": "fall in",
-            "from": "The Wolf",
-            "to": "A pot full of water",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "The third PigtoA Fair_7",
-            "label": "go to",
-            "title": "go to",
-            "from": "The third Pig",
-            "to": "A Fair",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "A WolftoSix oclock_3",
-            "label": "come at",
-            "title": "come at",
-            "from": "A Wolf",
-            "to": "Six oclock",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "A field of turnipstoMr. Smiths home-field_3",
-            "label": "locate in",
-            "title": "locate in",
-            "from": "A field of turnips",
-            "to": "Mr. Smiths home-field",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The WolftoAn apple-tree_5",
-            "label": "know",
-            "title": "know",
-            "from": "The Wolf",
-            "to": "An apple-tree",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "A WolftoA door_1",
-            "label": "knock",
-            "title": "knock",
-            "from": "A Wolf",
-            "to": "A door",
-            "arrows": "to",
-            "period": [
-                1
-            ]
-        },
-        {
-            "id": "A great round thingtoA hill_7",
-            "label": "come down",
-            "title": "come down",
-            "from": "A great round thing",
-            "to": "A hill",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The third PigtoA Fair in the Town_6",
-            "label": "get to",
-            "title": "get to",
-            "from": "The third Pig",
             "to": "A Fair in the Town",
             "arrows": "to",
             "period": [
                 6
-            ]
-        },
-        {
-            "id": "The third PigtoA field of turnips_4",
-            "label": "go and come back",
-            "title": "go and come back",
-            "from": "The third Pig",
-            "to": "A field of turnips",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "The third PigtoThree oclock_6",
-            "label": "go off before",
-            "title": "go off before",
-            "from": "The third Pig",
-            "to": "Three oclock",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "An apple-treetoMerry-garden_5",
-            "label": "locate in",
-            "title": "locate in",
-            "from": "An apple-tree",
-            "to": "Merry-garden",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The WolftoThe third Pig_5",
-            "label": "ask",
-            "title": "say & invite & ask",
-            "from": "The Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The WolftoThe third Pig_6",
-            "label": "answer",
-            "title": "say & come again & answer",
-            "from": "The Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "The WolftoThe third Pig_7",
-            "label": "tell",
-            "title": "tell",
-            "from": "The Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The WolftoFive oclock_5",
-            "label": "specify",
-            "title": "specify",
-            "from": "The Wolf",
-            "to": "Five oclock",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third PigtoA pot full of water_8",
-            "label": "hang on",
-            "title": "hang on",
-            "from": "The third Pig",
-            "to": "A pot full of water",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "The third PigtoA blazing fire_8",
-            "label": "make up",
-            "title": "make up",
-            "from": "The third Pig",
-            "to": "A blazing fire",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "The third PigtoA Wolf_3",
-            "label": "ask",
-            "title": "refuse & agree & ask",
-            "from": "The third Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The third PigtoA Wolf_4",
-            "label": "reply",
-            "title": "reply",
-            "from": "The third Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                4
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
             "id": "A WolftoA field of turnips_3",
@@ -578,293 +337,116 @@
             "arrows": "to",
             "period": [
                 3
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
-            "id": "The third PigtoA Man with a load of bricks_3",
-            "label": "request",
-            "title": "meet & request",
+            "id": "The third PigtoThree oclock_6",
+            "label": "go off before",
+            "title": "go off before",
             "from": "The third Pig",
-            "to": "A Man with a load of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The third PigtoAn apple-tree_5",
-            "label": "jump down from",
-            "title": "climb & jump down from",
-            "from": "The third Pig",
-            "to": "An apple-tree",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third PigtoThe Wolf_5",
-            "label": "answer",
-            "title": "hope to get back before & see & answer",
-            "from": "The third Pig",
-            "to": "The Wolf",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third PigtoThe Wolf_6",
-            "label": "ask",
-            "title": "see & agree & ask",
-            "from": "The third Pig",
-            "to": "The Wolf",
+            "to": "Three oclock",
             "arrows": "to",
             "period": [
                 6
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
-            "id": "The third PigtoThe Wolf_7",
-            "label": "frighten",
-            "title": "see & say & frighten",
+            "id": "The third PigtoFour oclock_5",
+            "label": "wake at",
+            "title": "wake at",
             "from": "The third Pig",
-            "to": "The Wolf",
+            "to": "Four oclock",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA Fair_7",
+            "label": "go to",
+            "title": "go to",
+            "from": "The third Pig",
+            "to": "A Fair",
             "arrows": "to",
             "period": [
                 7
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
-            "id": "The third PigtoThe Wolf_8",
-            "label": "eat",
-            "title": "boil up & eat",
-            "from": "The third Pig",
-            "to": "The Wolf",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "The third PigtoA butter churn_6",
-            "label": "get into",
-            "title": "buy & get into",
-            "from": "The third Pig",
-            "to": "A butter churn",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "The third PigtoA butter churn_7",
-            "label": "get into",
-            "title": "buy & get into",
-            "from": "The third Pig",
-            "to": "A butter churn",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The third PigtoFive oclock_3",
-            "label": "get up at",
-            "title": "get up at",
-            "from": "The third Pig",
-            "to": "Five oclock",
+            "id": "A WolftoSix oclock_3",
+            "label": "come at",
+            "title": "come at",
+            "from": "A Wolf",
+            "to": "Six oclock",
             "arrows": "to",
             "period": [
                 3
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
             "id": "A WolftoThe second Pig_2",
             "label": "eat",
-            "title": "ask & threaten & eat",
+            "title": "eat",
             "from": "A Wolf",
             "to": "The second Pig",
             "arrows": "to",
             "period": [
                 2
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
-            "id": "A WolftoThe third Pig_3",
-            "label": "answer",
-            "title": "ask & threaten & invite & answer",
-            "from": "A Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The third PigtoSome apples_5",
-            "label": "go for",
-            "title": "go for",
-            "from": "The third Pig",
-            "to": "Some apples",
+            "id": "The WolftoAn apple-tree_5",
+            "label": "know",
+            "title": "know",
+            "from": "The Wolf",
+            "to": "An apple-tree",
             "arrows": "to",
             "period": [
                 5
-            ]
-        },
-        {
-            "id": "An old SowtoThree little Pigs_1",
-            "label": "send",
-            "title": "have & send",
-            "from": "An old Sow",
-            "to": "Three little Pigs",
-            "arrows": "to",
-            "period": [
-                1
-            ]
-        },
-        {
-            "id": "A butter churntoThe Wolf_6",
-            "label": "frighten",
-            "title": "frighten",
-            "from": "A butter churn",
-            "to": "The Wolf",
-            "arrows": "to",
-            "period": [
-                6
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
             "id": "A WolftoA house of furze_2",
             "label": "blow down",
-            "title": "huff and puff & blow down",
+            "title": "blow down",
             "from": "A Wolf",
             "to": "A house of furze",
             "arrows": "to",
             "period": [
                 2
-            ]
-        },
-        {
-            "id": "A butter churntoThe third Pig_6",
-            "label": "have inside it",
-            "title": "have inside it",
-            "from": "A butter churn",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "The third PigtoA pot-full of turnips_4",
-            "label": "get",
-            "title": "get",
-            "from": "The third Pig",
-            "to": "A pot-full of turnips",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "The second PigtoA Wolf_2",
-            "label": "refuse",
-            "title": "refuse",
-            "from": "The second Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "The third PigtoA house of bricks_3",
-            "label": "build",
-            "title": "build",
-            "from": "The third Pig",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The third PigtoA house of bricks_5",
-            "label": "run home to",
-            "title": "run home to",
-            "from": "The third Pig",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third PigtoSupper_8",
-            "label": "have for",
-            "title": "have for",
-            "from": "The third Pig",
-            "to": "Supper",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "A great round thingtoThe Wolf_7",
-            "label": "pass by",
-            "title": "pass by",
-            "from": "A great round thing",
-            "to": "The Wolf",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "A WolftoA house of bricks_3",
-            "label": "fail to blow down",
-            "title": "huff and puff & fail to blow down",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "A butter churntoA hill_6",
-            "label": "turn round and roll down",
-            "title": "turn round and roll down",
-            "from": "A butter churn",
-            "to": "A hill",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "A butter churntoA hill_7",
-            "label": "roll down",
-            "title": "roll down",
-            "from": "A butter churn",
-            "to": "A hill",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "A WolftoA house of straw_1",
-            "label": "blow in",
-            "title": "huff and puff & blow in",
-            "from": "A Wolf",
-            "to": "A house of straw",
-            "arrows": "to",
-            "period": [
-                1
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         },
         {
             "id": "The WolftoA great round thing_7",
@@ -875,7 +457,641 @@
             "arrows": "to",
             "period": [
                 7
-            ]
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A WolftoA door_1",
+            "label": "knock",
+            "title": "knock",
+            "from": "A Wolf",
+            "to": "A door",
+            "arrows": "to",
+            "period": [
+                1
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The WolftoA pot full of water_8",
+            "label": "fall in",
+            "title": "fall in",
+            "from": "The Wolf",
+            "to": "A pot full of water",
+            "arrows": "to",
+            "period": [
+                8
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A great round thingtoThe Wolf_7",
+            "label": "pass by",
+            "title": "pass by",
+            "from": "A great round thing",
+            "to": "The Wolf",
+            "arrows": "to",
+            "period": [
+                7
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA pot-full of turnips_4",
+            "label": "get",
+            "title": "get",
+            "from": "The third Pig",
+            "to": "A pot-full of turnips",
+            "arrows": "to",
+            "period": [
+                4
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoSupper_8",
+            "label": "have for",
+            "title": "have for",
+            "from": "The third Pig",
+            "to": "Supper",
+            "arrows": "to",
+            "period": [
+                8
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A pot-full of turnipstoDinner_4",
+            "label": "be for",
+            "title": "be for",
+            "from": "A pot-full of turnips",
+            "to": "Dinner",
+            "arrows": "to",
+            "period": [
+                4
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA Wolf_3",
+            "label": "ask",
+            "title": "ask",
+            "from": "The third Pig",
+            "to": "A Wolf",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA Wolf_4",
+            "label": "reply",
+            "title": "reply",
+            "from": "The third Pig",
+            "to": "A Wolf",
+            "arrows": "to",
+            "period": [
+                4
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A butter churntoThe Wolf_6",
+            "label": "frighten",
+            "title": "frighten",
+            "from": "A butter churn",
+            "to": "The Wolf",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA house of bricks_3",
+            "label": "build",
+            "title": "build",
+            "from": "The third Pig",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA house of bricks_5",
+            "label": "run home to",
+            "title": "run home to",
+            "from": "The third Pig",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A field of turnipstoMr. Smiths home-field_3",
+            "label": "locate in",
+            "title": "locate in",
+            "from": "A field of turnips",
+            "to": "Mr. Smiths home-field",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The WolftoFive oclock_5",
+            "label": "specify",
+            "title": "specify",
+            "from": "The Wolf",
+            "to": "Five oclock",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA Fair in the Town_6",
+            "label": "get to",
+            "title": "get to",
+            "from": "The third Pig",
+            "to": "A Fair in the Town",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "An apple-treetoMerry-garden_5",
+            "label": "locate in",
+            "title": "locate in",
+            "from": "An apple-tree",
+            "to": "Merry-garden",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A WolftoA house of bricks_3",
+            "label": "fail to blow down",
+            "title": "fail to blow down",
+            "from": "A Wolf",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The WolftoThe third Pig_5",
+            "label": "ask",
+            "title": "ask",
+            "from": "The Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The WolftoThe third Pig_6",
+            "label": "answer",
+            "title": "answer",
+            "from": "The Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The WolftoThe third Pig_7",
+            "label": "tell",
+            "title": "tell",
+            "from": "The Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                7
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A butter churntoThe third Pig_6",
+            "label": "have inside it",
+            "title": "have inside it",
+            "from": "A butter churn",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoAn apple-tree_5",
+            "label": "jump down from",
+            "title": "jump down from",
+            "from": "The third Pig",
+            "to": "An apple-tree",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA pot full of water_8",
+            "label": "hang on",
+            "title": "hang on",
+            "from": "The third Pig",
+            "to": "A pot full of water",
+            "arrows": "to",
+            "period": [
+                8
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "An old SowtoThree little Pigs_1",
+            "label": "send",
+            "title": "send",
+            "from": "An old Sow",
+            "to": "Three little Pigs",
+            "arrows": "to",
+            "period": [
+                1
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoThe Wolf_5",
+            "label": "answer",
+            "title": "answer",
+            "from": "The third Pig",
+            "to": "The Wolf",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoThe Wolf_6",
+            "label": "ask",
+            "title": "ask",
+            "from": "The third Pig",
+            "to": "The Wolf",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoThe Wolf_7",
+            "label": "frighten",
+            "title": "frighten",
+            "from": "The third Pig",
+            "to": "The Wolf",
+            "arrows": "to",
+            "period": [
+                7
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoThe Wolf_8",
+            "label": "eat",
+            "title": "eat",
+            "from": "The third Pig",
+            "to": "The Wolf",
+            "arrows": "to",
+            "period": [
+                8
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA Man with a load of bricks_3",
+            "label": "request",
+            "title": "request",
+            "from": "The third Pig",
+            "to": "A Man with a load of bricks",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A great round thingtoA hill_7",
+            "label": "come down",
+            "title": "come down",
+            "from": "A great round thing",
+            "to": "A hill",
+            "arrows": "to",
+            "period": [
+                7
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA blazing fire_8",
+            "label": "make up",
+            "title": "make up",
+            "from": "The third Pig",
+            "to": "A blazing fire",
+            "arrows": "to",
+            "period": [
+                8
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoFive oclock_3",
+            "label": "get up at",
+            "title": "get up at",
+            "from": "The third Pig",
+            "to": "Five oclock",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A butter churntoA hill_6",
+            "label": "turn round and roll down",
+            "title": "turn round and roll down",
+            "from": "A butter churn",
+            "to": "A hill",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A butter churntoA hill_7",
+            "label": "roll down",
+            "title": "roll down",
+            "from": "A butter churn",
+            "to": "A hill",
+            "arrows": "to",
+            "period": [
+                7
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The second PigtoA Man with a bundle of furze_2",
+            "label": "request",
+            "title": "request",
+            "from": "The second Pig",
+            "to": "A Man with a bundle of furze",
+            "arrows": "to",
+            "period": [
+                2
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The second PigtoA house of furze_2",
+            "label": "build",
+            "title": "build",
+            "from": "The second Pig",
+            "to": "A house of furze",
+            "arrows": "to",
+            "period": [
+                2
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The WolftoA chimney_8",
+            "label": "come down",
+            "title": "come down",
+            "from": "The Wolf",
+            "to": "A chimney",
+            "arrows": "to",
+            "period": [
+                8
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A WolftoA house of straw_1",
+            "label": "blow in",
+            "title": "blow in",
+            "from": "A Wolf",
+            "to": "A house of straw",
+            "arrows": "to",
+            "period": [
+                1
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "A WolftoThe third Pig_3",
+            "label": "answer",
+            "title": "answer",
+            "from": "A Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                3
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA butter churn_6",
+            "label": "get into",
+            "title": "get into",
+            "from": "The third Pig",
+            "to": "A butter churn",
+            "arrows": "to",
+            "period": [
+                6
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA butter churn_7",
+            "label": "get into",
+            "title": "get into",
+            "from": "The third Pig",
+            "to": "A butter churn",
+            "arrows": "to",
+            "period": [
+                7
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoA field of turnips_4",
+            "label": "go and come back",
+            "title": "go and come back",
+            "from": "The third Pig",
+            "to": "A field of turnips",
+            "arrows": "to",
+            "period": [
+                4
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        },
+        {
+            "id": "The third PigtoSome apples_5",
+            "label": "go for",
+            "title": "go for",
+            "from": "The third Pig",
+            "to": "Some apples",
+            "arrows": "to",
+            "period": [
+                5
+            ],
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
         }
     ]
 }

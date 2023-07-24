@@ -196,6 +196,7 @@ def integrate_same_from_to_period_edges(json_dict, max_split_idx):
                         "to": unique_to,
                         "arrows": "to",
                         "period": [period],
+                        "smooth": {"type": "curvedCW", "roundness": 0.3}
                     }
                 )
 
