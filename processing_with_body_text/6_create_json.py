@@ -72,6 +72,7 @@ def make_json_nodes(title, scene_group_name, max_split_idx):
             {
                 "id": node_label.replace("'", ""),
                 "label": node_label.replace("'", ""),
+                "shape": "box",
                 "period": [split_idx + 1 for split_idx in find_appear_split(node_label, raw_nodes_list)],
                 "size": 20,
             }
