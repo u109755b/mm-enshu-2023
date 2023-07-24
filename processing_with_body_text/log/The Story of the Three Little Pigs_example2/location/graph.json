@@ -255,8 +255,108 @@
     ],
     "edges": [
         {
-            "id": "An old Sow,have,Three little Pigs",
+            "id": "A WolftoThe third Pig_4",
+            "label": "invite",
+            "title": "invite",
+            "from": "A Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                4
+            ]
+        },
+        {
+            "id": "A WolftoThe third Pig_5",
+            "label": "ask the readiness of",
+            "title": "ask the readiness of",
+            "from": "A Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                5
+            ]
+        },
+        {
+            "id": "A WolftoThe third Pig_6",
+            "label": "ask the presence of",
+            "title": "invite & ask the presence of",
+            "from": "A Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                6
+            ]
+        },
+        {
+            "id": "A WolftoThe third Pig_8",
+            "label": "tell",
+            "title": "tell",
+            "from": "A Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                8
+            ]
+        },
+        {
+            "id": "A WolftoThe third Pig_9",
+            "label": "declare to eat",
+            "title": "declare to eat",
+            "from": "A Wolf",
+            "to": "The third Pig",
+            "arrows": "to",
+            "period": [
+                9
+            ]
+        },
+        {
+            "id": "The third PigtoAn apple_6",
+            "label": "throw",
+            "title": "throw",
+            "from": "The third Pig",
+            "to": "An apple",
+            "arrows": "to",
+            "period": [
+                6
+            ]
+        },
+        {
+            "id": "A butter churntoA hill_7",
+            "label": "roll down",
+            "title": "roll down",
+            "from": "A butter churn",
+            "to": "A hill",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "A butter churntoA hill_8",
+            "label": "come down",
+            "title": "roll down & come down",
+            "from": "A butter churn",
+            "to": "A hill",
+            "arrows": "to",
+            "period": [
+                8
+            ]
+        },
+        {
+            "id": "A WolftoAn apple_6",
+            "label": "pick up",
+            "title": "pick up",
+            "from": "A Wolf",
+            "to": "An apple",
+            "arrows": "to",
+            "period": [
+                6
+            ]
+        },
+        {
+            "id": "An old SowtoThree little Pigs_1",
             "label": "have",
+            "title": "have",
             "from": "An old Sow",
             "to": "Three little Pigs",
             "arrows": "to",
@@ -265,78 +365,9 @@
             ]
         },
         {
-            "id": "A Wolf,knock,A door",
-            "label": "knock",
-            "from": "A Wolf",
-            "to": "A door",
-            "arrows": "to",
-            "period": [
-                1
-            ]
-        },
-        {
-            "id": "A Wolf,ask to enter,A house of straw",
-            "label": "ask to enter",
-            "from": "A Wolf",
-            "to": "A house of straw",
-            "arrows": "to",
-            "period": [
-                1
-            ]
-        },
-        {
-            "id": "A Wolf,huff and puff,A house of straw",
-            "label": "huff and puff",
-            "from": "A Wolf",
-            "to": "A house of straw",
-            "arrows": "to",
-            "period": [
-                1
-            ]
-        },
-        {
-            "id": "A Wolf,blow in,A house of straw",
-            "label": "blow in",
-            "from": "A Wolf",
-            "to": "A house of straw",
-            "arrows": "to",
-            "period": [
-                1
-            ]
-        },
-        {
-            "id": "The second Pig,meet,A Man with a bundle of furze",
-            "label": "meet",
-            "from": "The second Pig",
-            "to": "A Man with a bundle of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "The second Pig,build,A house of furze",
-            "label": "build",
-            "from": "The second Pig",
-            "to": "A house of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "A Wolf,ask to enter,A house of furze",
-            "label": "ask to enter",
-            "from": "A Wolf",
-            "to": "A house of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "The second Pig,refuse to let in,A Wolf",
+            "id": "The second PigtoA Wolf_2",
             "label": "refuse to let in",
+            "title": "refuse to let in",
             "from": "The second Pig",
             "to": "A Wolf",
             "arrows": "to",
@@ -345,250 +376,9 @@
             ]
         },
         {
-            "id": "A Wolf,huff and puff,A house of furze",
-            "label": "huff and puff",
-            "from": "A Wolf",
-            "to": "A house of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "A Wolf,blow down,A house of furze",
-            "label": "blow down",
-            "from": "A Wolf",
-            "to": "A house of furze",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "A Wolf,eat,The second Pig",
-            "label": "eat",
-            "from": "A Wolf",
-            "to": "The second Pig",
-            "arrows": "to",
-            "period": [
-                2
-            ]
-        },
-        {
-            "id": "The third Pig,meet,A Man with a load of bricks",
-            "label": "meet",
-            "from": "The third Pig",
-            "to": "A Man with a load of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The third Pig,build,A house of bricks",
-            "label": "build",
-            "from": "The third Pig",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "A Wolf,ask to enter,A house of bricks",
-            "label": "ask to enter",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "The third Pig,refuse to let in,A Wolf",
-            "label": "refuse to let in",
-            "from": "The third Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "A Wolf,huff and puff,A house of bricks",
-            "label": "huff and puff",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                3
-            ]
-        },
-        {
-            "id": "A Wolf,fail to blow down,A house of bricks",
-            "label": "fail to blow down",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                3,
-                4
-            ]
-        },
-        {
-            "id": "A Wolf,propose to go,A field of turnips",
-            "label": "propose to go",
-            "from": "A Wolf",
-            "to": "A field of turnips",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "The third Pig,ask the location of,A field of turnips",
+            "id": "The third PigtoMerry-garden_6",
             "label": "ask the location of",
-            "from": "The third Pig",
-            "to": "A field of turnips",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "A Wolf,answer the location of,A field of turnips",
-            "label": "answer the location of",
-            "from": "A Wolf",
-            "to": "A field of turnips",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "A field of turnips,belong to,Mr. Smith",
-            "label": "belong to",
-            "from": "A field of turnips",
-            "to": "Mr. Smith",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "A Wolf,invite,The third Pig",
-            "label": "invite",
-            "from": "A Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                4,
-                6
-            ]
-        },
-        {
-            "id": "The third Pig,agree to go,A field of turnips",
-            "label": "agree to go",
-            "from": "The third Pig",
-            "to": "A field of turnips",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "A Wolf,suggest the time of,Six oclock",
-            "label": "suggest the time of",
-            "from": "A Wolf",
-            "to": "Six oclock",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "The third Pig,get up at,Five oclock",
-            "label": "get up at",
-            "from": "The third Pig",
-            "to": "Five oclock",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "The third Pig,return before,Six oclock",
-            "label": "return before",
-            "from": "The third Pig",
-            "to": "Six oclock",
-            "arrows": "to",
-            "period": [
-                4
-            ]
-        },
-        {
-            "id": "A Wolf,arrive at,A house of bricks",
-            "label": "arrive at",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "A Wolf,ask the readiness of,The third Pig",
-            "label": "ask the readiness of",
-            "from": "A Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third Pig,reply the readiness to,A Wolf",
-            "label": "reply the readiness to",
-            "from": "The third Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third Pig,have,A pot-full of turnips",
-            "label": "have",
-            "from": "The third Pig",
-            "to": "A pot-full of turnips",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "A Wolf,propose to go,An apple-tree",
-            "label": "propose to go",
-            "from": "A Wolf",
-            "to": "An apple-tree",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third Pig,ask the location of,An apple-tree",
-            "label": "ask the location of",
-            "from": "The third Pig",
-            "to": "An apple-tree",
-            "arrows": "to",
-            "period": [
-                5
-            ]
-        },
-        {
-            "id": "The third Pig,ask the location of,Merry-garden",
-            "label": "ask the location of",
+            "title": "ask the location of",
             "from": "The third Pig",
             "to": "Merry-garden",
             "arrows": "to",
@@ -597,8 +387,9 @@
             ]
         },
         {
-            "id": "A Wolf,answer the location of,Merry-garden",
+            "id": "A WolftoMerry-garden_6",
             "label": "answer the location of",
+            "title": "answer the location of",
             "from": "A Wolf",
             "to": "Merry-garden",
             "arrows": "to",
@@ -607,18 +398,53 @@
             ]
         },
         {
-            "id": "A Wolf,suggest the time of,Five oclock",
-            "label": "suggest the time of",
-            "from": "A Wolf",
-            "to": "Five oclock",
+            "id": "The third PigtoSome apples_6",
+            "label": "answer the quality of",
+            "title": "get & answer the quality of",
+            "from": "The third Pig",
+            "to": "Some apples",
             "arrows": "to",
             "period": [
                 6
             ]
         },
         {
-            "id": "The third Pig,wake up at,Four oclock",
+            "id": "The third PigtoA pot full of water_9",
+            "label": "hang on",
+            "title": "hang on",
+            "from": "The third Pig",
+            "to": "A pot full of water",
+            "arrows": "to",
+            "period": [
+                9
+            ]
+        },
+        {
+            "id": "A WolftoSome apples_6",
+            "label": "ask the quality of",
+            "title": "ask the quality of",
+            "from": "A Wolf",
+            "to": "Some apples",
+            "arrows": "to",
+            "period": [
+                6
+            ]
+        },
+        {
+            "id": "A WolftoA pot full of water_9",
+            "label": "fall in",
+            "title": "fall in",
+            "from": "A Wolf",
+            "to": "A pot full of water",
+            "arrows": "to",
+            "period": [
+                9
+            ]
+        },
+        {
+            "id": "The third PigtoFour oclock_6",
             "label": "wake up at",
+            "title": "wake up at",
             "from": "The third Pig",
             "to": "Four oclock",
             "arrows": "to",
@@ -627,8 +453,20 @@
             ]
         },
         {
-            "id": "The third Pig,go to,An apple-tree",
-            "label": "go to",
+            "id": "The third PigtoAn apple-tree_5",
+            "label": "ask the location of",
+            "title": "ask the location of",
+            "from": "The third Pig",
+            "to": "An apple-tree",
+            "arrows": "to",
+            "period": [
+                5
+            ]
+        },
+        {
+            "id": "The third PigtoAn apple-tree_6",
+            "label": "jump down from",
+            "title": "go to & jump down from",
             "from": "The third Pig",
             "to": "An apple-tree",
             "arrows": "to",
@@ -637,274 +475,394 @@
             ]
         },
         {
-            "id": "The third Pig,get,Some apples",
-            "label": "get",
+            "id": "The third PigtoFive oclock_4",
+            "label": "get up at",
+            "title": "get up at",
             "from": "The third Pig",
-            "to": "Some apples",
+            "to": "Five oclock",
+            "arrows": "to",
+            "period": [
+                4
+            ]
+        },
+        {
+            "id": "The third PigtoA butter churn_7",
+            "label": "be inside",
+            "title": "buy & get into & be inside",
+            "from": "The third Pig",
+            "to": "A butter churn",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "The third PigtoA butter churn_8",
+            "label": "get into",
+            "title": "buy & get into",
+            "from": "The third Pig",
+            "to": "A butter churn",
+            "arrows": "to",
+            "period": [
+                8
+            ]
+        },
+        {
+            "id": "The third PigtoA field of turnips_4",
+            "label": "agree to go",
+            "title": "ask the location of & agree to go",
+            "from": "The third Pig",
+            "to": "A field of turnips",
+            "arrows": "to",
+            "period": [
+                4
+            ]
+        },
+        {
+            "id": "The second PigtoA Man with a bundle of furze_2",
+            "label": "meet",
+            "title": "meet",
+            "from": "The second Pig",
+            "to": "A Man with a bundle of furze",
+            "arrows": "to",
+            "period": [
+                2
+            ]
+        },
+        {
+            "id": "A WolftoA house of furze_2",
+            "label": "blow down",
+            "title": "ask to enter & huff and puff & blow down",
+            "from": "A Wolf",
+            "to": "A house of furze",
+            "arrows": "to",
+            "period": [
+                2
+            ]
+        },
+        {
+            "id": "The third PigtoA house of bricks_3",
+            "label": "build",
+            "title": "build",
+            "from": "The third Pig",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                3
+            ]
+        },
+        {
+            "id": "The third PigtoA house of bricks_6",
+            "label": "run to",
+            "title": "run to",
+            "from": "The third Pig",
+            "to": "A house of bricks",
             "arrows": "to",
             "period": [
                 6
             ]
         },
         {
-            "id": "The third Pig,see,A Wolf",
+            "id": "A WolftoAn apple-tree_5",
+            "label": "propose to go",
+            "title": "propose to go",
+            "from": "A Wolf",
+            "to": "An apple-tree",
+            "arrows": "to",
+            "period": [
+                5
+            ]
+        },
+        {
+            "id": "The third PigtoA Fair in the Town_7",
+            "label": "arrive at",
+            "title": "agree to go & arrive at",
+            "from": "The third Pig",
+            "to": "A Fair in the Town",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "The third PigtoA Fair in the Town_8",
+            "label": "go to",
+            "title": "go to",
+            "from": "The third Pig",
+            "to": "A Fair in the Town",
+            "arrows": "to",
+            "period": [
+                8
+            ]
+        },
+        {
+            "id": "A WolftoFive oclock_6",
+            "label": "suggest the time of",
+            "title": "suggest the time of",
+            "from": "A Wolf",
+            "to": "Five oclock",
+            "arrows": "to",
+            "period": [
+                6
+            ]
+        },
+        {
+            "id": "A WolftoA butter churn_7",
             "label": "see",
+            "title": "see",
+            "from": "A Wolf",
+            "to": "A butter churn",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "A WolftoA butter churn_8",
+            "label": "be frightened by",
+            "title": "be frightened by",
+            "from": "A Wolf",
+            "to": "A butter churn",
+            "arrows": "to",
+            "period": [
+                8
+            ]
+        },
+        {
+            "id": "A WolftoA field of turnips_4",
+            "label": "answer the location of",
+            "title": "propose to go & answer the location of",
+            "from": "A Wolf",
+            "to": "A field of turnips",
+            "arrows": "to",
+            "period": [
+                4
+            ]
+        },
+        {
+            "id": "The second PigtoA house of furze_2",
+            "label": "build",
+            "title": "build",
+            "from": "The second Pig",
+            "to": "A house of furze",
+            "arrows": "to",
+            "period": [
+                2
+            ]
+        },
+        {
+            "id": "A WolftoThe second Pig_2",
+            "label": "eat",
+            "title": "eat",
+            "from": "A Wolf",
+            "to": "The second Pig",
+            "arrows": "to",
+            "period": [
+                2
+            ]
+        },
+        {
+            "id": "A WolftoA house of bricks_3",
+            "label": "fail to blow down",
+            "title": "ask to enter & huff and puff & fail to blow down",
+            "from": "A Wolf",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                3
+            ]
+        },
+        {
+            "id": "A WolftoA house of bricks_4",
+            "label": "fail to blow down",
+            "title": "fail to blow down",
+            "from": "A Wolf",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                4
+            ]
+        },
+        {
+            "id": "A WolftoA house of bricks_5",
+            "label": "arrive at",
+            "title": "arrive at",
+            "from": "A Wolf",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                5
+            ]
+        },
+        {
+            "id": "A WolftoA house of bricks_7",
+            "label": "come to",
+            "title": "come to",
+            "from": "A Wolf",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "A WolftoA house of bricks_8",
+            "label": "go to",
+            "title": "go to",
+            "from": "A Wolf",
+            "to": "A house of bricks",
+            "arrows": "to",
+            "period": [
+                8
+            ]
+        },
+        {
+            "id": "A WolftoA Fair in the Town_7",
+            "label": "propose to go",
+            "title": "propose to go",
+            "from": "A Wolf",
+            "to": "A Fair in the Town",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "A WolftoA door_1",
+            "label": "knock",
+            "title": "knock",
+            "from": "A Wolf",
+            "to": "A door",
+            "arrows": "to",
+            "period": [
+                1
+            ]
+        },
+        {
+            "id": "The third PigtoA Man with a load of bricks_3",
+            "label": "meet",
+            "title": "meet",
+            "from": "The third Pig",
+            "to": "A Man with a load of bricks",
+            "arrows": "to",
+            "period": [
+                3
+            ]
+        },
+        {
+            "id": "The third PigtoA pot-full of turnips_5",
+            "label": "have",
+            "title": "have",
+            "from": "The third Pig",
+            "to": "A pot-full of turnips",
+            "arrows": "to",
+            "period": [
+                5
+            ]
+        },
+        {
+            "id": "The third PigtoThree oclock_7",
+            "label": "go before",
+            "title": "go before",
+            "from": "The third Pig",
+            "to": "Three oclock",
+            "arrows": "to",
+            "period": [
+                7
+            ]
+        },
+        {
+            "id": "The third PigtoSix oclock_4",
+            "label": "return before",
+            "title": "return before",
+            "from": "The third Pig",
+            "to": "Six oclock",
+            "arrows": "to",
+            "period": [
+                4
+            ]
+        },
+        {
+            "id": "A WolftoA house of straw_1",
+            "label": "blow in",
+            "title": "ask to enter & huff and puff & blow in",
+            "from": "A Wolf",
+            "to": "A house of straw",
+            "arrows": "to",
+            "period": [
+                1
+            ]
+        },
+        {
+            "id": "The third PigtoA Wolf_3",
+            "label": "refuse to let in",
+            "title": "refuse to let in",
             "from": "The third Pig",
             "to": "A Wolf",
             "arrows": "to",
             "period": [
-                6,
-                7,
-                8,
-                9
+                3
             ]
         },
         {
-            "id": "A Wolf,ask the presence of,The third Pig",
-            "label": "ask the presence of",
-            "from": "A Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "A Wolf,ask the quality of,Some apples",
-            "label": "ask the quality of",
-            "from": "A Wolf",
-            "to": "Some apples",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "The third Pig,answer the quality of,Some apples",
-            "label": "answer the quality of",
+            "id": "The third PigtoA Wolf_5",
+            "label": "reply the readiness to",
+            "title": "reply the readiness to",
             "from": "The third Pig",
-            "to": "Some apples",
+            "to": "A Wolf",
             "arrows": "to",
             "period": [
-                6
+                5
             ]
         },
         {
-            "id": "The third Pig,throw,An apple",
-            "label": "throw",
-            "from": "The third Pig",
-            "to": "An apple",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "A Wolf,pick up,An apple",
-            "label": "pick up",
-            "from": "A Wolf",
-            "to": "An apple",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "The third Pig,jump down from,An apple-tree",
-            "label": "jump down from",
-            "from": "The third Pig",
-            "to": "An apple-tree",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "The third Pig,run to,A house of bricks",
-            "label": "run to",
-            "from": "The third Pig",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                6
-            ]
-        },
-        {
-            "id": "A Wolf,come to,A house of bricks",
-            "label": "come to",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "A Wolf,propose to go,A Fair in the Town",
-            "label": "propose to go",
-            "from": "A Wolf",
-            "to": "A Fair in the Town",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The third Pig,agree to go,A Fair in the Town",
-            "label": "agree to go",
-            "from": "The third Pig",
-            "to": "A Fair in the Town",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "A Wolf,suggest the time of,Three oclock",
-            "label": "suggest the time of",
-            "from": "A Wolf",
-            "to": "Three oclock",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The third Pig,go before,Three oclock",
-            "label": "go before",
-            "from": "The third Pig",
-            "to": "Three oclock",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The third Pig,arrive at,A Fair in the Town",
-            "label": "arrive at",
-            "from": "The third Pig",
-            "to": "A Fair in the Town",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "The third Pig,buy,A butter churn",
-            "label": "buy",
-            "from": "The third Pig",
-            "to": "A butter churn",
-            "arrows": "to",
-            "period": [
-                7,
-                8
-            ]
-        },
-        {
-            "id": "The third Pig,get into,A butter churn",
-            "label": "get into",
-            "from": "The third Pig",
-            "to": "A butter churn",
-            "arrows": "to",
-            "period": [
-                7,
-                8
-            ]
-        },
-        {
-            "id": "A butter churn,roll down,A hill",
-            "label": "roll down",
-            "from": "A butter churn",
-            "to": "A hill",
-            "arrows": "to",
-            "period": [
-                7,
-                8
-            ]
-        },
-        {
-            "id": "The third Pig,be inside,A butter churn",
-            "label": "be inside",
-            "from": "The third Pig",
-            "to": "A butter churn",
-            "arrows": "to",
-            "period": [
-                7
-            ]
-        },
-        {
-            "id": "A Wolf,see,A butter churn",
+            "id": "The third PigtoA Wolf_6",
             "label": "see",
-            "from": "A Wolf",
-            "to": "A butter churn",
+            "title": "see",
+            "from": "The third Pig",
+            "to": "A Wolf",
+            "arrows": "to",
+            "period": [
+                6
+            ]
+        },
+        {
+            "id": "The third PigtoA Wolf_7",
+            "label": "see",
+            "title": "see",
+            "from": "The third Pig",
+            "to": "A Wolf",
             "arrows": "to",
             "period": [
                 7
             ]
         },
         {
-            "id": "A Wolf,go to,A house of bricks",
-            "label": "go to",
-            "from": "A Wolf",
-            "to": "A house of bricks",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "A Wolf,tell,The third Pig",
-            "label": "tell",
-            "from": "A Wolf",
-            "to": "The third Pig",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "A Wolf,be frightened by,A butter churn",
-            "label": "be frightened by",
-            "from": "A Wolf",
-            "to": "A butter churn",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "A butter churn,come down,A hill",
-            "label": "come down",
-            "from": "A butter churn",
-            "to": "A hill",
-            "arrows": "to",
-            "period": [
-                8
-            ]
-        },
-        {
-            "id": "The third Pig,go to,A Fair in the Town",
-            "label": "go to",
+            "id": "The third PigtoA Wolf_8",
+            "label": "see",
+            "title": "see",
             "from": "The third Pig",
-            "to": "A Fair in the Town",
+            "to": "A Wolf",
             "arrows": "to",
             "period": [
                 8
             ]
         },
         {
-            "id": "A Wolf,declare to eat,The third Pig",
-            "label": "declare to eat",
-            "from": "A Wolf",
-            "to": "The third Pig",
+            "id": "The third PigtoA Wolf_9",
+            "label": "eat",
+            "title": "see & boil up & eat",
+            "from": "The third Pig",
+            "to": "A Wolf",
             "arrows": "to",
             "period": [
                 9
             ]
         },
         {
-            "id": "A Wolf,try to get down,A chimney",
-            "label": "try to get down",
+            "id": "A WolftoA chimney_9",
+            "label": "come down",
+            "title": "try to get down & come down",
             "from": "A Wolf",
             "to": "A chimney",
             "arrows": "to",
@@ -913,18 +871,20 @@
             ]
         },
         {
-            "id": "The third Pig,hang on,A pot full of water",
-            "label": "hang on",
-            "from": "The third Pig",
-            "to": "A pot full of water",
+            "id": "A WolftoThree oclock_7",
+            "label": "suggest the time of",
+            "title": "suggest the time of",
+            "from": "A Wolf",
+            "to": "Three oclock",
             "arrows": "to",
             "period": [
-                9
+                7
             ]
         },
         {
-            "id": "The third Pig,make up,A blazing fire",
+            "id": "The third PigtoA blazing fire_9",
             "label": "make up",
+            "title": "make up",
             "from": "The third Pig",
             "to": "A blazing fire",
             "arrows": "to",
@@ -933,43 +893,25 @@
             ]
         },
         {
-            "id": "A Wolf,come down,A chimney",
-            "label": "come down",
+            "id": "A WolftoSix oclock_4",
+            "label": "suggest the time of",
+            "title": "suggest the time of",
             "from": "A Wolf",
-            "to": "A chimney",
+            "to": "Six oclock",
             "arrows": "to",
             "period": [
-                9
+                4
             ]
         },
         {
-            "id": "A Wolf,fall in,A pot full of water",
-            "label": "fall in",
-            "from": "A Wolf",
-            "to": "A pot full of water",
+            "id": "A field of turnipstoMr. Smith_4",
+            "label": "belong to",
+            "title": "belong to",
+            "from": "A field of turnips",
+            "to": "Mr. Smith",
             "arrows": "to",
             "period": [
-                9
-            ]
-        },
-        {
-            "id": "The third Pig,boil up,A Wolf",
-            "label": "boil up",
-            "from": "The third Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                9
-            ]
-        },
-        {
-            "id": "The third Pig,eat,A Wolf",
-            "label": "eat",
-            "from": "The third Pig",
-            "to": "A Wolf",
-            "arrows": "to",
-            "period": [
-                9
+                4
             ]
         }
     ]

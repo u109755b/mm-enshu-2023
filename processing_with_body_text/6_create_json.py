@@ -130,7 +130,10 @@ def remove_unused_nodes(json_dict):
         for node_period in node_dict["period"]:
             # 全てのedgeについて, このノードを参照しているかどうか確認していく
             for edge_dict in json_dict["edges"]:
-                if (node_period in edge_dict["period"]) and (node_dict["id"] == edge_dict["from"] or node_dict["id"] == edge_dict["to"]):
+                if (
+                    (node_period in edge_dict["period"]) and 
+                    (node_dict["id"] == edge_dict["from"] or node_dict["id"] == edge_dict["to"])
+                ):
                     new_node_periods.append(node_period)
                     break
         
@@ -152,6 +155,53 @@ def remove_unused_nodes(json_dict):
     new_json_dict["edges"] = json_dict["edges"]
 
     return new_json_dict
+
+
+# from, to, periodが同じedgeを統合する関数
+# 統合後のlabelは最後に登場するlabelに設定し, 統合後のtitleは全てのtitleを"&"で繋いだものとする
+# TODO: より良い統合方法の作成 *5から修正する必要がある
+def integrate_same_from_to_period_edges(json_dict, max_split_idx):
+    # json_dict["edges"]のうち, ユニークなfromとtoを収集
+    unique_from_to_ids = set()
+    for edge in json_dict["edges"]:
+        from_to_id = (edge["from"], edge["to"])
+        unique_from_to_ids.add(from_to_id)
+
+    # uniqueなfromとtoについて, 各periodで登場するか確認していき, 登場する場合一つのedgeにまとめる
+    unique_json_edges = []
+    for unique_from_to_id in unique_from_to_ids:
+        unique_from, unique_to = unique_from_to_id
+        # 注意: periodは1から始まる
+        for period in range(1, max_split_idx+1):
+            # 全てのedgeを確認して, from, to, periodが同じものをリストに追加していく
+            same_from_to_period_edges = []
+            for edge in json_dict["edges"]:
+                if (edge["from"] == unique_from) and (edge["to"] == unique_to) and (period in edge["period"]):
+                    same_from_to_period_edges.append(edge)
+            
+            # リストに追加されている場合, 新しいedgesに追加
+            # labelの内容は最後に登場したedgeと同じにして, titleの内容は各edgeの内容を"&"で繋いだものとする
+            if same_from_to_period_edges:
+                unique_json_edges.append(
+                    {
+                        "id": f"{unique_from}to{unique_to}_{period}",
+                        "label": same_from_to_period_edges[-1]["label"],
+                        "title": " & ".join(
+                                [
+                                    same_from_to_period_edge["label"] 
+                                    for same_from_to_period_edge in same_from_to_period_edges
+                                ]
+                            ),
+                        "from": unique_from,
+                        "to": unique_to,
+                        "arrows": "to",
+                        "period": [period],
+                    }
+                )
+
+    json_dict["edges"] = unique_json_edges
+
+    return json_dict
 
 
 def main():
@@ -212,6 +262,9 @@ def main():
 
     # 使われていないnodesの削除
     json_dict = remove_unused_nodes(json_dict)
+
+    # from, to, periodが同じedgesの統合
+    json_dict = integrate_same_from_to_period_edges(json_dict, )
 
     # jsonファイルの保存
     with open(f"log/{title}/{scene_group_name}/graph.json", "w", encoding="utf-8") as f:
