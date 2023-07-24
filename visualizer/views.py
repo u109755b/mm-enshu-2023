@@ -62,7 +62,7 @@ class Visualizer(TemplateView):
  
     def get(self, request):    
         params = self.get_data(request)
-        return render(request, 'visualizer/index.html', params)
+        return render(request, 'visualizer/index_mitani.html', params)
     
     def post(self, request):
         params = self.get_data(request)
