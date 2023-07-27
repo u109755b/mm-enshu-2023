@@ -130,20 +130,31 @@ def remove_unused_nodes(json_dict):
         # このノードがあるperiodでedgesから参照されている場合, このperiodをnew_node_periodsに追加する
         for node_period in node_dict["period"]:
             # 全てのedgeについて, このノードを参照しているかどうか確認していく
+            # edgeのもう一方のノードが同じperiodに存在しているかどうかも確認
+            flag = 0
             for edge_dict in json_dict["edges"]:
-                if (
-                    (node_period in edge_dict["period"]) and 
-                    (node_dict["id"] == edge_dict["from"] or node_dict["id"] == edge_dict["to"])
-                ):
-                    new_node_periods.append(node_period)
+                if (node_period in edge_dict["period"]) and (node_dict["id"] == edge_dict["from"]):
+                    for tmp_node_dict in json_dict["nodes"]:
+                        if (tmp_node_dict["id"] == edge_dict["to"]) and (node_period in tmp_node_dict["period"]):
+                            new_node_periods.append(node_period)
+                            flag = 1
+                            break
+                elif (node_period in edge_dict["period"]) and (node_dict["id"] == edge_dict["to"]):
+                    for tmp_node_dict in json_dict["nodes"]:
+                        if (tmp_node_dict["id"] == edge_dict["from"]) and (node_period in tmp_node_dict["period"]):
+                            new_node_periods.append(node_period)
+                            flag = 1
+                            break
+                if flag:
                     break
-        
+
         # new_node_periodsが空ではない場合, このノードは使われている
         if new_node_periods:
             new_json_nodes.append(
                 {
                     "id": node_dict["id"],
                     "label": node_dict["label"],
+                    "shape": "box",
                     "period": new_node_periods,
                     "size": node_dict["size"]
                 }
