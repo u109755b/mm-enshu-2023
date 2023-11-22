@@ -48,16 +48,13 @@ def create_completion(
         return create_completion(
             system_msg,
             prompt,
-            count,
-            final,
             token_used,
             same_line,
             name_model,
             value_temp,
-            example_questions,
-            example_answers,
-            k,
             request_timeout,
+            count,
+            final,
         )
     except openai.error.APIConnectionError as ACE:
         retry_time = 2
@@ -66,16 +63,13 @@ def create_completion(
         return create_completion(
             system_msg,
             prompt,
-            count,
-            final,
             token_used,
             same_line,
             name_model,
             value_temp,
-            example_questions,
-            example_answers,
-            k,
             request_timeout,
+            count,
+            final,
         )
     except openai.error.APIError as APIE:
         retry_time = 2
@@ -84,16 +78,14 @@ def create_completion(
         return create_completion(
             system_msg,
             prompt,
-            count,
-            final,
+
             token_used,
             same_line,
             name_model,
             value_temp,
-            example_questions,
-            example_answers,
-            k,
             request_timeout,
+            count,
+            final,
         )
     except openai.error.Timeout as TOE:
         retry_time = 2
@@ -102,14 +94,11 @@ def create_completion(
         return create_completion(
             system_msg,
             prompt,
-            count,
-            final,
             token_used,
             same_line,
             name_model,
             value_temp,
-            example_questions,
-            example_answers,
-            k,
             request_timeout,
+            count,
+            final,
         )
