@@ -16,6 +16,10 @@ def create_completion(
     # prompt GPTに提供するuser roleのメッセージ
     # token_used 今まで使ったtokenの数量（k単位）、更新してからreturnする。
     # name_model 使いたいモデルの名前、GPT-3.5,GPT-4,GPT-4-Turboなど
+    # value_temp　モデルの温度を設定する値
+    # request_timeout responseを待つ時間
+    # count 今までのpromptの番号
+    # final promptの数量
     
     header = "\r"
     progress = f"{header}Prompt sent {count}/{final}, "
