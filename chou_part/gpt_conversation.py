@@ -5,14 +5,19 @@ def create_completion(
     system_msg: str,
     prompt: str,
     token_used: float,
-    same_line: bool,
-    name_model,
+    name_model: str,
     value_temp,
     request_timeout=180,
     count: int,
     final: int,
 ):
-    header = "\r" * same_line
+
+    # system_msg GPTに提供するsystem roleのメッセージ
+    # prompt GPTに提供するuser roleのメッセージ
+    # token_used 今まで使ったtokenの数量（k単位）、更新してからreturnする。
+    # name_model 使いたいモデルの名前、GPT-3.5,GPT-4,GPT-4-Turboなど
+    
+    header = "\r"
     progress = f"{header}Prompt sent {count}/{final}, "
 
     try:
@@ -50,7 +55,6 @@ def create_completion(
             system_msg,
             prompt,
             token_used,
-            same_line,
             name_model,
             value_temp,
             request_timeout,
@@ -65,7 +69,6 @@ def create_completion(
             system_msg,
             prompt,
             token_used,
-            same_line,
             name_model,
             value_temp,
             request_timeout,
@@ -79,9 +82,7 @@ def create_completion(
         return create_completion(
             system_msg,
             prompt,
-
             token_used,
-            same_line,
             name_model,
             value_temp,
             request_timeout,
@@ -96,7 +97,6 @@ def create_completion(
             system_msg,
             prompt,
             token_used,
-            same_line,
             name_model,
             value_temp,
             request_timeout,
