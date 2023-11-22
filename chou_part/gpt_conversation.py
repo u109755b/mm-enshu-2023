@@ -1,5 +1,6 @@
 import openai
 
+openai.key = ""
 def create_completion(
     system_msg: str,
     prompt: str,
