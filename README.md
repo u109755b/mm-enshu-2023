@@ -1,38 +1,18 @@
-# 2023年MM工学演習
+# 2023年度MM工学演習
 ## 物語の相関図自動生成アプリの作成
-### 役割分担
-- 物語班
-    - EdgeGPTを用いたアプローチ： 菊地、宮野
-    - Vicunaを用いたアプローチ： 張
-    - 画像生成: 小笠
-- Web班： 吉田、三谷、小野
-
 ### 日程
-- 定期ミーティング： 木4（15:10~16:40）
-- 中間報告： 7/26(水)4限 @C609
-- 最終レポート提出： 11月下旬（担当教員宛に提出）
-- 発表会： 12月中旬～下旬に実施（集合形式もしくはオンラインで実施）
+| 日時                     | イベント                  | 場所         | 備考                                    |
+|--------------------------|--------------------------|--------------|----------------------------------------|
+| 2023年7月26日 (水) 4限    | 中間報告                  | C609         |                                        |
+| 2023年12月26日 (火)       | 最終レポート提出〆         | -            | 35ページ程度, 担当教員宛に提出           |
+| 2024年1月10日 (水) 5,6限  | 発表会                    | B101         | 発表35分, 質疑7分                       |
 
 ### 通信用API
-- [document](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
-- [sample](sample_graph.json)
+- [Document](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
+- [Sample](sample_graph.json)
 
 ### 進捗
-4/27（[notion](https://ounlp.notion.site/2-4b0ec286a8cb49bfaf408b4824ec456c)）
-- 役割分担を決定
-- 一旦「[三匹の子豚](https://www.gutenberg.org/ebooks/18155)」を使ってアプリを作成するという方向性を決定
-
-6/26
-- graph.jsonをEdgeGPTを用いて作成できるように変更．
-- dockerfileを追加 (今後その他の更新に合わせて変更・docker-compose.yml使ったらもっと簡潔にできそう)
-- dockerの追加に伴い、visualizer/views.py の微修正
-
-6/27
-- docker-compose version 追加
-
-7/22
-- 本文に基づく知識グラフ構築･要約スクリプトを追加
-- 詳細は "processing_with_body_text/README.md" 参照
+- [Notion](https://www.notion.so/1e9ce39c45914aa8af0249aec049f908?v=07ba6eee0c0a42069b6605df759fce0d&pvs=4)
 
 ### 本アプリの動作方法
 1. [EdgeGPTのサイト](https://github.com/acheong08/EdgeGPT/tree/main)の「collect cookies」を参考にrootディレクトリに 'bing_cookies_.json' を作成して，cookie fileを貼り付ける．
