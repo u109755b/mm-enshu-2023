@@ -15,8 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.shortcuts import redirect
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('visualizer/', include('visualizer.urls')),
+    path('', lambda request: redirect('visualizer/', permanent=False)),
 ]
