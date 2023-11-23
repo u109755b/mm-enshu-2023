@@ -1,0 +1,97 @@
+<!-- https://qiita.com/junjis0203/items/ecc3f4eb9b3a1c4802e4 -->
+
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Visualizer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet">
+    <style>
+        #network {
+            width:  400px;
+            height: 400px;
+            border: 1px solid #000;
+        }
+        nav {
+            display: flex;
+            width: 90%;
+            margin: 20px auto;
+            align-items: center;
+            font-weight: 550;
+        }
+        .nav-links {
+            flex: 1;
+            text-align: right;
+        }
+        .nav-links li{
+            list-style: none;
+            align-items: center;
+        }
+        .nav-links ul li{
+            display: inline-block;
+            padding: 0 2rem;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="logo-area">
+            <h2>登場人物グラフ</h2>
+        </div>
+        <div class="nav-links">
+            <ul>
+                <li><a href="">ChapterTitle</a></li>
+                <li><a href="">HOME</a></li>
+                <li><a href="">Story Database</a></li>
+                <li><a href="">MyPage</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <h1 id="title">{{title}}</h1>
+    <div id="network"></div>
+    <button id="prev">前へ</button>
+    <button id="next">次へ</button>
+    <button id="regen">再生成</button>
+    <div id="summary">{{ summary|safe }}</div>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <script>
+        // ネットワーク図の更新（初期化時やブラウザ更新時に呼び出される）
+        var container = document.getElementById('network');
+        var data = {nodes: {{ nodes|safe }}, edges: {{ edges|safe }}};
+        var options = {physics: {enabled: false}};
+        var network = new vis.Network(container, data, options);
+
+        // 取得したパラメータをページに反映させる
+        function apply_params(params) {
+            $("#title").text(params.title);
+            $("#summary").html(params.summary);
+            data = {nodes: params.nodes, edges: params.edges};
+            network = new vis.Network(container, data, options);
+        }
+
+        // 「前へ」or「次へ」ボタンが押されたとき
+        $("#prev, #next").click(function() {
+            var url = '/visualizer/' + this.id + '/';   // /visualizer/prev/ or /visualizer/next/
+            fetch(url)
+                .then(response => response.json())
+                .then(apply_params);
+        });
+
+        // ネットワーク図の再生成（「再生成」ボタンが押されたとき）
+        document.getElementById('regen').onclick = function() {
+            network = new vis.Network(container, data, options);
+        };
+    </script>
+</body>
+</html>
