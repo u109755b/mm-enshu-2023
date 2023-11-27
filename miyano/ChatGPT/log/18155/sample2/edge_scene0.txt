@@ -1,0 +1,9 @@
+Old Sow, First Little Pig, mother of/sent out, The Old Sow is the mother of and sent out the First Little Pig to seek his fortune.
+Old Sow, Second Little Pig, mother of/sent out, The Old Sow is the mother of and sent out the Second Little Pig to seek his fortune.
+Old Sow, Third Little Pig, mother of/sent out, The Old Sow is the mother of and sent out the Third Little Pig to seek his fortune.
+First Little Pig, Man with straw, requested materials from/gave materials to, The First Little Pig requested and received straw from the Man with straw to build a house.
+Second Little Pig, Man with furze, requested materials from/gave materials to, The Second Little Pig requested and received furze from the Man with furze to build a house.
+Third Little Pig, Man with bricks, requested materials from/gave materials to, The Third Little Pig requested and received bricks from the Man with bricks to build a house.
+Wolf, First Little Pig, ate, The Wolf ate the First Little Pig after blowing the house in.
+Wolf, Second Little Pig, ate, The Wolf ate the Second Little Pig after blowing the house down.
+Wolf, Third Little Pig, failed to eat/eaten by, The Wolf failed to eat the Third Little Pig and was eaten by the Third Little Pig after an attempt to blow the house down and falling into a pot of boiling water.
