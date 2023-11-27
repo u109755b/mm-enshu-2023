@@ -32,6 +32,9 @@ def summarization(storyID, show_log):
     for split_idx in range(scene_num):
         with open(f"log/{storyID}/body_scene{split_idx}.txt", encoding="utf-8") as f:
             split_bodys.append(f.read())
+    
+    # トークン数を記録
+    prompt_tokens, completion_tokens = 0, 0
 
     # 要約の実行
     summaries = []
@@ -46,6 +49,8 @@ def summarization(storyID, show_log):
         print(f"Asking for the following prompts...\n{chat_messages}\n") if show_log else None
         response = client.chat.completions.create(model = gpt_model, messages = chat_messages)
         print(f"Get the following response!\n{response}\n") if show_log else None
+        prompt_tokens += response.usage.prompt_tokens
+        completion_tokens += response.usage.completion_tokens
 
         # 要約の抽出
         summary = response.choices[0].message.content.replace("\n", " ")
@@ -53,9 +58,12 @@ def summarization(storyID, show_log):
 
         print(f"original text: {len(split_body.split())} words, summary: {len(summary.split())} words, Compression ratio: {int(len(summary.split())/len(split_body.split())*100)}%\n") if show_log else None
     
-    # 要約結果を"log/{storyID}/summary.txt"に保存
+    # 要約結果を "log/{storyID}/summary.txt" に保存
     with open(f"log/{storyID}/summary.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(summaries))
+
+    # 使用トークン数を表示
+    print(f"total prompt tokens: {prompt_tokens}, total completion tokens: {completion_tokens}")
 
 
 def main():
