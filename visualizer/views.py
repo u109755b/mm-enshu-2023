@@ -5,73 +5,137 @@ from django.views.generic import TemplateView
 import json
 import re
 
+class ViewManager:
+    def __init__(self, request):
+        with open('story_data/18155/all_data.json', encoding='utf-8') as f:
+            self.section_data = json.load(f)
+        self.chapter_id_list = self._create_chapter_id_list(self.section_data)
+        self.request = request
+        self.chapter_id = self.request.session.get('chapter_id')
 
-# 物語データを取得する
-def get_story_data(request, prev_next='keep'):
-    # 物語データ読み込み
-    with open('sample_graph.json', encoding='utf-8') as f:
-        graph_data = json.load(f)
+    def _create_tab_list(self, section_data, depth=0, parent_id=[]):
+        tab_list = []
+        for i, section in enumerate(section_data):
+            num = i+1
+            parent_id.append(str(num))
 
-    # 章番号計算
-    chapter_num = request.session.get('chapter_num')
-    if chapter_num is None:
-        chapter_num = 0
-    if prev_next == 'prev' and 0 < chapter_num:
-        chapter_num -= 1
-    if prev_next == 'next' and chapter_num < len(graph_data['summary']):
-        chapter_num += 1
-    print(f"第{chapter_num}段落")
-    request.session['chapter_num'] = chapter_num
-    request.session.save()
+            tab = {'class': ['tab']}
+            if 0 < depth:
+                tab['class'].append('sub{}-tab'.format(depth if 1<depth else ''))
+            tab['id'] = '-'.join(parent_id)
+            tab['sectionName'] = section['sectionName']
+            tab_list.append(tab)
 
-    # タイトル取得
-    title = graph_data['title']
+            if 'subSection' in section:
+                group = {'class': ['group']}
+                group['subSection'] = self._create_tab_list(section['subSection'], depth+1, parent_id)
+                tab_list.append(group)
 
-    # 要約取得
-    summary = "".join(graph_data['summary'][:chapter_num])
+            parent_id.pop()
+        return tab_list
 
-    # ノード情報取得
-    nodes = []
-    for node in graph_data['nodes']:
-        if 'period' not in node or node['period'] == 'all':
-            node.pop('period', None)
-        if 'period' in node and chapter_num not in node['period']:
-            continue
-        nodes.append(node)
+    def _create_tab_div(self, tab_list, depth=3):
+        tab_div = []
+        for obj in tab_list:
+            if 'tab' in obj['class']:
+                tab = obj
+                class_str = ' '.join(tab['class'])
+                id = tab['id']
+                section_name = tab['sectionName']
+                tab_div.append('<div class="{}" id="{}">{}</div>'.format(class_str, id, section_name))
+            if 'group' in obj['class']:
+                group = obj
+                tab_div.append('<div class="group">')
+                tab_div.append(self._create_tab_div(group['subSection'], depth+1))
+                tab_div.append('</div>')
+        return '\n{}'.format('\t'*depth).join(tab_div)
 
-    # エッジ情報取得
-    edges = []
-    for edge in graph_data['edges']:
-        if 'period' not in edge or edge['period'] == 'all':
-            edge.pop('period', None)
-        if 'period' in edge and chapter_num not in edge['period']:
-            continue
-        edges.append(edge)
+    def create_tab_div(self):
+        tab_list = self._create_tab_list(self.section_data)
+        tab_div = self._create_tab_div(tab_list)
+        return tab_div
 
-    # 情報をまとめる
-    params = {
-        'title': title,
-        'summary':summary,
-        'nodes': nodes,
-        'edges': edges
-    }
+    def _create_chapter_id_list(self, section_data, depth=0, parent_id=[]):
+        chapter_id_list = []
+        for i, section in enumerate(section_data):
+            num = i+1
+            parent_id.append(str(num))
+            if 'subSection' not in section:
+                chapter_id_list.append('-'.join(parent_id))
+            else:
+                sub_chapter_id_list = self._create_chapter_id_list(section['subSection'], depth+1, parent_id)
+                chapter_id_list.extend(sub_chapter_id_list)
+            parent_id.pop()
+        return chapter_id_list
 
-    return params
+    def get_chapter_data(self):
+        current_chapter_id = self.chapter_id
+        if current_chapter_id == None:
+            return {'chapter_id': None, 'summary': '', 'nodes': [], 'edges': []}
+        section_data = self.section_data
+        for num in current_chapter_id.split('-'):
+            section_data = section_data[int(num)-1]
+            if 'subSection' in section_data:
+                section_data = section_data['subSection']
+        chapter_data = section_data
+        if 'summary' not in chapter_data: chapter_data['summary'] = ''
+        if 'nodes' not in chapter_data: chapter_data['nodes'] = []
+        if 'edges' not in chapter_data: chapter_data['edges'] = []
+        chapter_data['chapter_id'] = self.chapter_id
+        return chapter_data
+
+    def forward_chapter(self):
+        current_chapter_id = self.chapter_id
+        if current_chapter_id == None: return self.chapter_id_list[0]
+        index = self.chapter_id_list.index(current_chapter_id)
+        if index + 1 < len(self.chapter_id_list):
+            index += 1
+        self.chapter_id = self.chapter_id_list[index]
+        self.request.session['chapter_id'] = self.chapter_id
+        self.request.session.save()
+        return self.chapter_id
+
+    def back_chapter(self):
+        current_chapter_id = self.chapter_id
+        if current_chapter_id == None: return self.chapter_id_list[0]
+        index = self.chapter_id_list.index(current_chapter_id)
+        if 0 <= index - 1:
+            index -= 1
+        self.chapter_id = self.chapter_id_list[index]
+        self.request.session['chapter_id'] = self.chapter_id
+        self.request.session.save()
+        return self.chapter_id
 
 
 # 最初のページ読み込みや再読み込み時の処理
 def index(request):
-    params = get_story_data(request)
-    params['nodes'] = json.dumps(params['nodes'], ensure_ascii=False)
-    params['edges'] = json.dumps(params['edges'], ensure_ascii=False)
-    return render(request, 'visualizer/index_async.html', params)
+    view_manager = ViewManager(request)
+    tab_div = view_manager.create_tab_div()
+    chapter_data = view_manager.get_chapter_data()
+    params = {
+        'tab_div': tab_div,
+        'title': '三匹の子豚',
+        'summary': chapter_data['summary'],
+        'nodes': json.dumps(chapter_data['nodes'], ensure_ascii=False),
+        'edges': json.dumps(chapter_data['edges'], ensure_ascii=False),
+    }
+    return render(request, 'visualizer/index.html', params)
+
+# 初期化時の処理
+def init(request):
+    chapter_id = request.session.get('chapter_id')
+    return JsonResponse({'chapter_id': chapter_id})
 
 # 「前へ」ボタンが押された時の処理
 def prev_paragraph(request):
-    params = get_story_data(request, prev_next='prev')
-    return JsonResponse(params)
+    view_manager = ViewManager(request)
+    view_manager.back_chapter()
+    chapter_data = view_manager.get_chapter_data()
+    return JsonResponse(chapter_data)
 
 # 「次へ」ボタンが押された時の処理
 def next_paragraph(request):
-    params = get_story_data(request, prev_next='next')
-    return JsonResponse(params)
+    view_manager = ViewManager(request)
+    view_manager.forward_chapter()
+    chapter_data = view_manager.get_chapter_data()
+    return JsonResponse(chapter_data)

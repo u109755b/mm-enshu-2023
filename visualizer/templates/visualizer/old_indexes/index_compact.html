@@ -1,0 +1,46 @@
+<!-- https://qiita.com/junjis0203/items/ecc3f4eb9b3a1c4802e4 -->
+
+<html>
+  <head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet">
+    <style type="text/css">
+      #network {
+        width:  400px;
+        height: 400px;
+        border: 1px solid #000;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  </head>
+  <body>
+    <h1>{{title}}</h1>
+    <div id="network"></div>
+    <script type="text/javascript">
+      var nodes = new vis.DataSet([
+        {{ nodes|safe }}
+      ]);
+      var edges = new vis.DataSet([
+        {{ edges|safe }}
+      ]);
+      var container = document.getElementById('network');
+      var data = {
+        nodes: nodes,
+        edges: edges
+      };
+      var options = {
+        physics: {
+          enabled: false // ノードを連動して動かないようにする
+        },
+      };
+      var network = new vis.Network(container, data, options);
+    </script>
+    
+    <form action="{% url 'index' %}" method="post" autocomplete="off">
+        {% csrf_token %}
+        <button type="submit" name="event" value="prev">前へ</button>
+        <button type="submit" name="event" value="next">次へ</button>
+    </form>
+    
+    {{ summary|safe }}
+  </body>
+</html>
