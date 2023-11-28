@@ -1,4 +1,5 @@
 bing_cookies_.json
 __pycache__/
 *.pyc
+*.vscode
 db.sqlite3
