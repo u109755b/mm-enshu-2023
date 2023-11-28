@@ -32,7 +32,7 @@ class summarizedDataHandler:
         with open(summarized_data_path, encoding='utf-8') as f:
             summarized_data = json.load(f)
         parent_folder = os.path.dirname(summarized_data_path)
-        dir_path = f'{parent_folder}/directory'
+        dir_path = f'{parent_folder}/directory_data'
         os.makedirs(dir_path, exist_ok=True)
         shutil.rmtree(dir_path)
         self._to_dir_rec(dir_path, summarized_data)

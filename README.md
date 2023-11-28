@@ -8,10 +8,10 @@
 | 2024年1月10日 (水) 5,6限  | 発表会                    | B101         | 発表35分, 質疑7分                       |
 
 ### 通信用API
-#### ver1
-- [ドキュメント](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
-- [サンプル](sample_graph.json)
-#### ver2
+### ver1
+- [Document](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
+- [Sample](sample_graph.json)
+### ver2
 ##### 変更点（階層的な段落構造に対応した）
 - 各段落ごとに要約データを作成する必要があるようになった
 - titleの項目がなくなった
@@ -19,9 +19,9 @@
 - summaryの要素がリストから文字列になった
 - periodの項目がなくなった
 ##### 参考
-- [サンプル生データ（Djangoからはこの形式のデータを使用する）](summarized_data/18155/all_data.json)
-- [ディレクトリデータ（生データをディレクトリに階層的に保存したもの）](summarized_data/18155/directory)
-- [生データとディレクトリデータの変換機構（一番分かりやすい）](summarized_data/summarized_data_handler.py)
+- [all_data.json](summarized_data/18155/all_data.json)（Djangoからはこの形式のデータを使用する）
+- [directory_data](summarized_data/18155/directory_data)（生データをディレクトリに階層的に保存したもの）
+- [summarized_data_handler.py](summarized_data/summarized_data_handler.py)（一番分かりやすい）
 
 ### 進捗
 - [Notion](https://www.notion.so/1e9ce39c45914aa8af0249aec049f908?v=07ba6eee0c0a42069b6605df759fce0d&pvs=4)
