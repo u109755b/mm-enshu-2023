@@ -9,7 +9,8 @@
 
 ### 通信用API
 - [Document](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
-- [Sample](sample_graph.json)
+- [Sample (ver1)](sample_graph.json)
+- [Sample (ver2)](summarized_data/summarized_data_handler.py)
 
 ### 進捗
 - [Notion](https://www.notion.so/1e9ce39c45914aa8af0249aec049f908?v=07ba6eee0c0a42069b6605df759fce0d&pvs=4)

@@ -1,0 +1,69 @@
+{
+    "sectionName": "第2.1章 オオカミが2ひきのこぶたを食べる",
+    "summary": "<p><b>第2.1章</b><br>腹ぺこオオカミが森にやって来た。わらの家は吹き飛ばされ、木の家は燃やされて、二匹のこぶたはオオカミに食べられてしまった。しかし、末のこぶたが作ったレンガの家は丈夫で、オオカミは手も足も出ない。</p>",
+    "nodes": [
+        {
+            "id": "mother",
+            "label": "母さん豚",
+            "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/mother_pig.png",
+            "size": 25
+        },
+        {
+            "id": "pig1",
+            "label": "長男の子豚",
+            "title": "なまけもので、簡単に出来る藁の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig1.jpeg",
+            "size": 25
+        },
+        {
+            "id": "pig2",
+            "label": "次男の子豚",
+            "title": "めんどくさがり屋で、木の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig2.jpeg",
+            "size": 25
+        },
+        {
+            "id": "pig3",
+            "label": "末の子豚",
+            "title": "臆病者なので、頑丈なレンガの家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig3.jpeg",
+            "size": 25
+        },
+        {
+            "id": "wolf",
+            "label": "オオカミ",
+            "title": "なんとか子豚たちを食べようと頑張る。",
+            "group": "wolf",
+            "shape": "image",
+            "image": "/static/visualizer/wolf.jpeg",
+            "size": 25
+        }
+    ],
+    "edges": [
+        {
+            "id": "wolf_to_pig1",
+            "label": "食べる",
+            "title": "藁の家を吹き飛ばして食べる。",
+            "from": "wolf",
+            "to": "pig1",
+            "arrows": "to"
+        },
+        {
+            "id": "wolf_to_pig2",
+            "label": "食べる",
+            "title": "木の家を燃やして食べる。",
+            "from": "wolf",
+            "to": "pig2",
+            "arrows": "to"
+        }
+    ]
+}
