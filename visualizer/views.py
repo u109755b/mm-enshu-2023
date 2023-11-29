@@ -6,12 +6,26 @@ import json
 import re
 
 class ViewManager:
+    # 初期化（requestデータと要約データを読み込む）
     def __init__(self, request):
-        with open('story_data/18155/all_data.json', encoding='utf-8') as f:
+        with open('summarized_data/18155/all_data.json', encoding='utf-8') as f:
             self.section_data = json.load(f)
         self.chapter_id_list = self._create_chapter_id_list(self.section_data)
         self.request = request
         self.chapter_id = self.request.session.get('chapter_id')
+
+    def _create_chapter_id_list(self, section_data, depth=0, parent_id=[]):
+        chapter_id_list = []
+        for i, section in enumerate(section_data):
+            num = i+1
+            parent_id.append(str(num))
+            if 'subSection' not in section:
+                chapter_id_list.append('-'.join(parent_id))
+            else:
+                sub_chapter_id_list = self._create_chapter_id_list(section['subSection'], depth+1, parent_id)
+                chapter_id_list.extend(sub_chapter_id_list)
+            parent_id.pop()
+        return chapter_id_list
 
     def _create_tab_list(self, section_data, depth=0, parent_id=[]):
         tab_list = []
@@ -50,30 +64,18 @@ class ViewManager:
                 tab_div.append('</div>')
         return '\n{}'.format('\t'*depth).join(tab_div)
 
+    # タブのhtmlコードを階層的に作成する
     def create_tab_div(self):
         tab_list = self._create_tab_list(self.section_data)
         tab_div = self._create_tab_div(tab_list)
         return tab_div
 
-    def _create_chapter_id_list(self, section_data, depth=0, parent_id=[]):
-        chapter_id_list = []
-        for i, section in enumerate(section_data):
-            num = i+1
-            parent_id.append(str(num))
-            if 'subSection' not in section:
-                chapter_id_list.append('-'.join(parent_id))
-            else:
-                sub_chapter_id_list = self._create_chapter_id_list(section['subSection'], depth+1, parent_id)
-                chapter_id_list.extend(sub_chapter_id_list)
-            parent_id.pop()
-        return chapter_id_list
-
+    # 各章の要約データを作成する
     def get_chapter_data(self):
-        current_chapter_id = self.chapter_id
-        if current_chapter_id == None:
+        if self.chapter_id == None:
             return {'chapter_id': None, 'summary': '', 'nodes': [], 'edges': []}
         section_data = self.section_data
-        for num in current_chapter_id.split('-'):
+        for num in self.chapter_id.split('-'):
             section_data = section_data[int(num)-1]
             if 'subSection' in section_data:
                 section_data = section_data['subSection']
@@ -84,26 +86,24 @@ class ViewManager:
         chapter_data['chapter_id'] = self.chapter_id
         return chapter_data
 
+    # 章を1つ進める
     def forward_chapter(self):
-        current_chapter_id = self.chapter_id
-        if current_chapter_id == None: return self.chapter_id_list[0]
-        index = self.chapter_id_list.index(current_chapter_id)
+        if self.chapter_id == None: index = -1
+        else: index = self.chapter_id_list.index(self.chapter_id)
         if index + 1 < len(self.chapter_id_list):
             index += 1
         self.chapter_id = self.chapter_id_list[index]
         self.request.session['chapter_id'] = self.chapter_id
-        self.request.session.save()
         return self.chapter_id
 
+    # 章を1つ戻す
     def back_chapter(self):
-        current_chapter_id = self.chapter_id
-        if current_chapter_id == None: return self.chapter_id_list[0]
-        index = self.chapter_id_list.index(current_chapter_id)
+        if self.chapter_id == None: return None
+        index = self.chapter_id_list.index(self.chapter_id)
         if 0 <= index - 1:
             index -= 1
         self.chapter_id = self.chapter_id_list[index]
         self.request.session['chapter_id'] = self.chapter_id
-        self.request.session.save()
         return self.chapter_id
 
 
