@@ -1,0 +1,92 @@
+<!-- https://qiita.com/junjis0203/items/ecc3f4eb9b3a1c4802e4 -->
+​
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three pigs</title>
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet">
+    <style type="text/css">
+      nav {
+        display: flex;
+        width: 90%;
+        margin: 20px auto;
+        align-items: center;
+        font-weight: 550;
+      }
+      #network {
+        width:  400px;
+        height: 400px;
+        border: 1px solid #000;
+      }
+      .nav-links {
+        flex: 1;
+        text-align: right;
+      }
+      .nav-links li{
+        list-style: none;
+        align-items: center;
+      }
+      .nav-links ul li{
+        display: inline-block;
+        padding: 0 2rem;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  </head>
+  <body>
+    {% load static %}
+    <nav>
+      <div class="logo-area">
+        <h2>登場人物グラフ</h2>
+      </div>
+​
+      <div class="nav-links">
+        <ul>
+          <a href=""><li>ChapterTitle</li></a>
+          <a href=""><li>HOME</li></a>
+          <a href=""><li>Story Database</li></a>
+          <a href=""><li>MyPage</li></a>
+        </ul>
+      </div>
+    </nav>
+    <h1>{{title}}</h1>
+    <div id="network"></div>
+    <script type="text/javascript">
+      var nodes = new vis.DataSet([
+        {{ nodes|safe }}
+      ]);
+      var edges = new vis.DataSet([
+        {{ edges|safe }}
+      ]);
+      var container = document.getElementById('network');
+      var data = {
+        nodes: nodes,
+        edges: edges
+      };
+      var options = {
+        layout: {
+            // randomSeed: 2, // シード値を固定することでランダムな配置を固定化
+        },
+        physics: {
+            enabled: false, // ノードを連動して動かないようにする
+        },
+      };
+      var network = new vis.Network(container, data, options);
+    </script>
+    
+    <form action="{% url 'index' %}" method="post" autocomplete="off">
+        {% csrf_token %}
+        <button type="submit" name="event" value="prev">前へ</button>
+        <button type="submit" name="event" value="next">次へ</button>
+        <button type="submit" name="event" value="generate">生成</button>
+    </form>
+    
+    {{ summary|safe }}
+  </body>
+</html>

@@ -1,0 +1,33 @@
+{
+    "sectionName": "第1.1章 長男と次男の家",
+    "summary": "<p><b>第1.1章</b><br>三びきのこぶたは、お母さんのぶたのもとから巣立ち、それぞれの家を作り始める。長男のこぶたは、わらの家。次男のこぶたは、木の家。それぞれお母さんぶたを呼んだが、お母さんぶたは心配そう。</p>",
+    "nodes": [
+        {
+            "id": "mother",
+            "label": "母さん豚",
+            "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/mother_pig.png",
+            "size": 25
+        },
+        {
+            "id": "pig1",
+            "label": "長男の子豚",
+            "title": "なまけもので、簡単に出来る藁の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig1.jpeg",
+            "size": 25
+        },
+        {
+            "id": "pig2",
+            "label": "次男の子豚",
+            "title": "めんどくさがり屋で、木の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig2.jpeg",
+            "size": 25
+        }
+    ]
+}

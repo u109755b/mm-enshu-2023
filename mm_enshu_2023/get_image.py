@@ -76,4 +76,8 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+<<<<<<< HEAD
     fetch_and_save_dalle_image_with_logging(args.novel_name, args.character_name, args.api_key_file_path, args.image_quality, args.log_file_path)
+=======
+    fetch_and_save_dalle_image_with_logging(args.novel_name, args.character_name, args.api_key_file_path, args.image_quality, args.log_file_path)
+>>>>>>> 12c2d51f34033f705bb9f68aa6b7537fdcd81783

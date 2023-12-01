@@ -2,6 +2,7 @@ from mm_enshu_2023_download import ChatbotPrompter
 import json
 import re
 import os
+import random
 import asyncio
 import argparse
 import random
@@ -28,21 +29,31 @@ def return_json_dict(args, log_dir=None):
         nodes_list.append({'id': 'node' + str(i), 'label': node })
     
     # TODO:画像の出力を絵本風や漫画風などと制御できるようにする．
+    # TODO:存在する画像
     if args.show_image == True:
         if check_files(f'log/{args.title}', '.jpeg') == False:
             print('Downloading Images...')
             for node in all_node_list:
-                prompt = f'{args.title}というタイトルにでてくる{node}の画像を教えてださい．'
+                if args.lang == 'ja':
+                    prompt = f'{args.title}というタイトルにでてくる{node}の画像を教えてださい．'
+                elif args.lang == 'en':
+                    prompt = f'Please show me a picture of {node} in the title {args.title}.'
                 output_dir = f'log/{args.title}/{node}/'
                 script_dir = os.path.dirname(os.path.abspath(__file__))
-                cookie_path = script_dir + '/cookies.json'
+                cookie_path = script_dir + '/bing_cookies_.json'
                 command = ['python', '-m', 'EdgeGPT.ImageGen', '--prompt', prompt, '--output-dir', output_dir, '--cookie-file', cookie_path]
                 proc = subprocess.Popen(command)
                 result = proc.communicate()
         for node in all_node_list:
+            if node not in label_to_index.keys():
+                continue
             index = label_to_index[node]
+            image_dir = 'log/' + args.title + '/' + node + '/'
+            image_path = random_jpeg(image_dir)
+            if image_path is None:
+                continue
             nodes_list[index]['shape'] = 'image'
-            nodes_list[index]['image'] = 'log/' + args.title + '/' + node + '/' + '0' + '.jpeg'
+            nodes_list[index]['image'] = random_jpeg(image_dir)
         
     # すでにjsonファイルがある場合は読み込む
     if os.path.exists(log_dir+'graph.json'):
@@ -53,18 +64,24 @@ def return_json_dict(args, log_dir=None):
     # extract node information
     node_information_dict = create_node_dict_from_file(log_dir + 'node_info.txt')
     for node_label, node_info in node_information_dict.items():
+        if node_label not in label_to_index.keys():
+            continue
         node_id = label_to_index[node_label]
         nodes_list[node_id]['title'] = node_info
         
     # extract node groups
     node_group_dict = create_node_dict_from_file(log_dir + 'node_group.txt')
     for node_label, node_group in node_group_dict.items():
+        if node_label not in label_to_index.keys():
+            continue
         node_id = label_to_index[node_label]
         nodes_list[node_id]['group'] = node_group
         
     # extract node importance
     node_importance_dict = create_node_dict_from_file(log_dir + 'node_importance.txt')
     for node_label, node_importance in node_importance_dict.items():
+        if node_label not in label_to_index.keys():
+            continue
         node_id = label_to_index[node_label]
         nodes_list[node_id]['size'] = int(MIN_SIZE + float(node_importance) * SIZE_RANGE)
         
@@ -73,11 +90,18 @@ def return_json_dict(args, log_dir=None):
     
     json_dict, label_to_index = add_edge_to_json_dict(json_dict, log_dir + 'edge.txt', label_to_index)
     json_file = open(log_dir+'graph.json', 'w', encoding='utf-8')
-    json.dump(json_dict, json_file, ensure_ascii=False)
+    json.dump(json_dict, json_file, ensure_ascii=False, indent=4)
     json_file.close()
         
     return json_dict
-    
+
+def random_jpeg(directory):
+    if not os.path.exists(directory):
+        return None
+    files = [f for f in os.listdir(directory) if f.endswith('.jpeg')]
+    if not files:
+        return None
+    return os.path.join(directory, random.choice(files))
 
 def extract_nodes_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -131,13 +155,14 @@ def check_files(directory,extension):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--title', type=str, default='浦島太郎')
+    parser.add_argument('--title', type=str, default='The Three Little Pigs')
     parser.add_argument('--show_image', action='store_true')
+    parser.add_argument('--lang', type=str, default='en', choices=['ja', 'en'])
     args = parser.parse_args()
     
     if not os.path.exists(f'log/{args.title}'):
         print('Downloading...')
-        chatbot = ChatbotPrompter(title=args.title)
+        chatbot = ChatbotPrompter(args)
         asyncio.run(chatbot.main())
         print('Download finished')
     

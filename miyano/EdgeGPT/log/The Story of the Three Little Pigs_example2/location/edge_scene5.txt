@@ -1,0 +1,16 @@
+The third Pig, ask the location of, Merry-garden
+A Wolf, answer the location of, Merry-garden
+A Wolf, invite, The third Pig
+A Wolf, suggest the time of, Five o'clock
+The third Pig, wake up at, Four o'clock
+The third Pig, go to, An apple-tree
+The third Pig, get, Some apples
+The third Pig, see, A Wolf
+The third Pig, feel, frightened
+A Wolf, ask the presence of, The third Pig
+A Wolf, ask the quality of, Some apples
+The third Pig, answer the quality of, Some apples
+The third Pig, throw, An apple
+A Wolf, pick up, An apple
+The third Pig, jump down from, An apple-tree
+The third Pig, run to, A house of bricks

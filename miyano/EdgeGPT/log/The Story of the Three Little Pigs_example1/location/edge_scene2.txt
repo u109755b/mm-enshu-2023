@@ -1,0 +1,21 @@
+The third Pig, meet, A Man with a load of bricks
+The third Pig, request, A Man with a load of bricks
+The third Pig, build, A house of bricks
+A Wolf, ask, The third Pig
+The third Pig, refuse, A Wolf
+The third Pig, mention, The hair of his chinny chin chin
+A Wolf, threaten, The third Pig
+A Wolf, huff and puff, A house of bricks
+A Wolf, fail to blow down, A house of bricks
+A Wolf, know, A field of turnips
+A field of turnips, locate in, Mr. Smith's home-field
+A Wolf, invite, The third Pig
+The third Pig, agree, A Wolf
+The third Pig, ask, A Wolf
+A Wolf, answer, The third Pig
+Six o'clock, be the time of, A Wolf's plan
+Five o'clock, be the time of, The third Pig's action
+The third Pig, get up at, Five o'clock
+The third Pig, get, The turnips
+The third Pig, return home before, Six o'clock
+A Wolf, come at, Six o'clock

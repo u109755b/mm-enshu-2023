@@ -1,0 +1,10 @@
+The second Pig, meet, A Man with a bundle of furze
+The second Pig, request, A Man with a bundle of furze
+The second Pig, build, A house of furze
+A Wolf, ask, The second Pig
+The second Pig, refuse, A Wolf
+The second Pig, mention, The hair of his chinny chin chin
+A Wolf, threaten, The second Pig
+A Wolf, huff and puff, A house of furze
+A Wolf, blow down, A house of furze
+A Wolf, eat, The second Pig

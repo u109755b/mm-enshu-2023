@@ -1,0 +1,86 @@
+{
+    "sectionName": "第2.1.1章 オオカミが大怪我を負う",
+    "summary": "<p><b>第2.2.1章</b><br>なんとか末のこぶたも食べたいオオカミは、さまざまな策を講じて末のこぶたを家の外へおびき出す。オオカミvs末のこぶたの知恵くらべの始まりだ。末のこぶたの方が一枚上で、オオカミに大怪我を負わせることに成功した。</p>",
+    "nodes": [
+        {
+            "id": "mother",
+            "label": "母さん豚",
+            "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/mother_pig.png",
+            "size": 25
+        },
+        {
+            "id": "pig1",
+            "label": "長男の子豚",
+            "title": "なまけもので、簡単に出来る藁の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig1.jpeg",
+            "size": 25
+        },
+        {
+            "id": "pig2",
+            "label": "次男の子豚",
+            "title": "めんどくさがり屋で、木の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig2.jpeg",
+            "size": 25
+        },
+        {
+            "id": "pig3",
+            "label": "末の子豚",
+            "title": "臆病者なので、頑丈なレンガの家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig3.jpeg",
+            "size": 25
+        },
+        {
+            "id": "wolf",
+            "label": "オオカミ",
+            "title": "なんとか子豚たちを食べようと頑張る。",
+            "group": "wolf",
+            "shape": "image",
+            "image": "/static/visualizer/wolf.jpeg",
+            "size": 25
+        }
+    ],
+    "edges": [
+        {
+            "id": "wolf_to_pig1",
+            "label": "食べる",
+            "title": "藁の家を吹き飛ばして食べる。",
+            "from": "wolf",
+            "to": "pig1",
+            "arrows": "to"
+        },
+        {
+            "id": "wolf_to_pig2",
+            "label": "食べる",
+            "title": "木の家を燃やして食べる。",
+            "from": "wolf",
+            "to": "pig2",
+            "arrows": "to"
+        },
+        {
+            "id": "wolf_to_pig3",
+            "label": "食べれず",
+            "title": "レンガの家に手も足も出ず、煙突から侵入する。",
+            "from": "wolf",
+            "to": "pig3",
+            "arrows": "to",
+            "color": {
+                "color": "red",
+                "highlight": "red",
+                "inherit": false
+            },
+            "smooth": {
+                "type": "curvedCW",
+                "roundness": 0.3
+            }
+        }
+    ]
+}

@@ -5,9 +5,9 @@ import json
 from EdgeGPT.EdgeGPT import Chatbot, ConversationStyle
 
 class FileHandler:
-    def __init__(self, file_dir=None, title=None):
+    def __init__(self, args, file_dir=None):
         if file_dir is None:
-            self.file_dir = 'log/' + title + '/'
+            self.file_dir = 'log/' + args.title + '/'
         self.make_dir(self.file_dir)
         
     def make_dir(self, path):
@@ -21,9 +21,9 @@ class FileHandler:
             
     
 class DialogueHandler:
-    def __init__(self, title=None):
+    def __init__(self, args):
         # flags
-        self.file_hundler = FileHandler(title=title)
+        self.file_hundler = FileHandler(args=args)
         
         self.finish_asking_node = False
         self.ask_node_once = False
@@ -40,21 +40,38 @@ class DialogueHandler:
         # self.finish_asking_edge_info = False
         # self.ask_edge_info_once = False
         
-        self.scripts = {
-                        'ask_prefix':'についての知識グラフを作成したいです．',
-                        'ask_node':'知識グラフに現れるノードを出力してください.',
-                        'ask_edge':'知識グラフに現れるエッジを出力してください.',
-                        'ask_node_info':'ノードの情報を出力してください.',
-                        'ask_node_group':'教えていただいたノードをいくつかのグループに分けてください．',
-                        'ask_node_importance':'ノードの重要度を0.0から1.0の間で教えてください．',
-                        'ask_tail':'以下の形式で出力してください．\n',
-                        'ask_again':'指定した形式で出力しなおしてください．\n',
-                        'ask_node_eg':"例'''\n- 桃太郎\n- サル\n- 犬\n'''",
-                        'ask_edge_eg':"例'''\n- 桃太郎, 仲間にする, サル\n- 桃太郎, 仲間にする, 犬\n'''",
-                        'ask_node_info_eg':"例'''\n- 桃太郎:桃から生まれた主人公．鬼を退治しに鬼ヶ島に向かう．\n'''",
-                        'ask_node_group_eg':"例'''\n- 桃太郎:仲間\n- サル:仲間\n- 鬼:敵\n'''",
-                        'ask_node_importance_eg':"例'''\n- 桃太郎:0.5\n- サル:0.5\n- 鬼:0.0\n'''",
-                        }
+        if args.lang == 'ja':
+            self.scripts = {
+                            'ask_prefix':'についての知識グラフを作成したいです．',
+                            'ask_node':'知識グラフに現れるノードを出力してください.',
+                            'ask_edge':'知識グラフに現れるエッジを出力してください.',
+                            'ask_node_info':'ノードの情報を出力してください.',
+                            'ask_node_group':'教えていただいたノードをいくつかのグループに分けてください．',
+                            'ask_node_importance':'ノードの重要度を0.0から1.0の間で教えてください．',
+                            'ask_tail':'以下の形式で出力してください．\n',
+                            'ask_again':'指定した形式で出力しなおしてください．\n',
+                            'ask_node_eg':"例'''\n- 桃太郎\n- サル\n- 犬\n'''",
+                            'ask_edge_eg':"例'''\n- 桃太郎, 仲間にする, サル\n- 桃太郎, 仲間にする, 犬\n'''",
+                            'ask_node_info_eg':"例'''\n- 桃太郎:桃から生まれた主人公．鬼を退治しに鬼ヶ島に向かう．\n'''",
+                            'ask_node_group_eg':"例'''\n- 桃太郎:仲間\n- サル:仲間\n- 鬼:敵\n'''",
+                            'ask_node_importance_eg':"例'''\n- 桃太郎:0.5\n- サル:0.5\n- 鬼:0.0\n'''",
+                            }
+        elif args.lang == 'en':
+            self.scripts = {
+                            'ask_prefix':'I want to make a knowledge graph about ',
+                            'ask_node':'Please output the nodes that appear in the knowledge graph as much as possible',
+                            'ask_edge':'Please output the edges that appear in the knowledge graph.',
+                            'ask_node_info':'Please output the information of the node.',
+                            'ask_node_group':'Please divide the nodes you taught into some groups.',
+                            'ask_node_importance':'Please tell me the importance of the node between 0.0 and 1.0.',
+                            'ask_tail':'Please output in the following format.\n',
+                            'ask_again':'Please output again in the specified format.\n',
+                            'ask_node_eg':"Example\n'''\n- Momotaro\n- Monkey\n- Dog\n'''",
+                            'ask_edge_eg':"Example\n'''\n- Momotaro, make friends, Monkey\n- Momotaro, make friends, Dog\n'''",
+                            'ask_node_info_eg':"Example\n'''\n- Momotaro: The main character born from a peach. He goes to Onigashima to defeat the demon.\n'''",
+                            'ask_node_group_eg':"Example\n'''\n- Momotaro:Friends\n- Monkey:Friends\n- Demon:Enemy\n'''",
+                            'ask_node_importance_eg':"Example\n'''\n- Momotaro:0.5\n- Monkey:0.5\n- Demon:0.0\n'''",
+                            }
         
     def whether_Prompter_ask_node_correctly(self, output_text_from_bot):
         self.ask_node_once = True
@@ -164,17 +181,17 @@ class DialogueHandler:
         
         
 class ChatbotPrompter:
-    def __init__(self, title=None):
-        if title is None:
+    def __init__(self, args):
+        if args.title is None:
             self.title = input("Enter title: ")
         else:
-            self.title = title
+            self.title = args.title
         
-        self.dialogue_handler = DialogueHandler(self.title)
+        self.dialogue_handler = DialogueHandler(args)
         
     async def main(self):
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        cookie_path = os.path.join(script_dir, 'cookies.json')
+        cookie_path = os.path.join(script_dir, 'bing_cookies_.json')
         cookies = json.loads(open(cookie_path, encoding="utf-8").read())
         bot = await Chatbot.create(cookies=cookies)
         

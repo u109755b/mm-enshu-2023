@@ -1,0 +1,115 @@
+{
+    "title": "三匹の子豚",
+    "summary": [
+        "<p><b>第1段落</b><br>三びきのこぶたは、お母さんのぶたのもとから巣立ち、それぞれの家を作り始める。長男のこぶたは、わらの家。次男のこぶたは、木の家。それぞれお母さんぶたを呼んだが、お母さんぶたは心配そう。末のこぶたは、レンガの家。長男のこぶたと次男のこぶたから完成が遅いとバカにされつつも頑張って作り上げる。</p>",
+        "<p><b>第2段落</b><br>腹ぺこオオカミが森にやって来た。わらの家は吹き飛ばされ、木の家は燃やされて、二匹のこぶたはオオカミに食べられてしまった。しかし、末のこぶたが作ったレンガの家は丈夫で、オオカミは手も足も出ない。</p>",
+        "<p><b>第3段落</b><br>なんとか末のこぶたも食べたいオオカミは、さまざまな策を講じて末のこぶたを家の外へおびき出す。オオカミvs末のこぶたの知恵くらべの始まりだ。末のこぶたの方が一枚上で、オオカミに大怪我を負わせることに成功した。</p>",
+        "<p><b>第4段落</b><br>それでも、オオカミはあきらめない。とうとう、煙突を伝って末のこぶたの家に忍び込む計画を立てた。しかし末のこぶたは逆にオオカミを釜茹でにし、お母さんぶたと二人で食べた。</p>"
+    ],
+    "nodes": [
+        {
+            "id": "mother",
+            "label": "母さん豚",
+            "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/mother_pig.png",
+            "period": [1, 2, 3, 4],
+            "size": 25
+        },
+        {
+            "id": "pig1",
+            "label": "長男の子豚",
+            "title": "なまけもので、簡単に出来る藁の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig1.jpeg",
+            "period": [1, 2, 3, 4],
+            "size": 25
+        },
+        {
+            "id": "pig2",
+            "label": "次男の子豚",
+            "title": "めんどくさがり屋で、木の家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig2.jpeg",
+            "period": [1, 2, 3, 4],
+            "size": 25
+        },
+        {
+            "id": "pig3",
+            "label": "末の子豚",
+            "title": "臆病者なので、頑丈なレンガの家を作る。",
+            "group": "pigs",
+            "shape": "image",
+            "image": "/static/visualizer/pig3.jpeg",
+            "period": [1, 2, 3, 4],
+            "size": 25
+        },
+        {
+            "id": "wolf",
+            "label": "オオカミ",
+            "title": "なんとか子豚たちを食べようと頑張る。",
+            "group": "wolf",
+            "shape": "image",
+            "image": "/static/visualizer/wolf.jpeg",
+            "period": [2, 3, 4],
+            "size": 25
+        }
+    ],
+    "edges": [
+        {
+            "id": "wolf_to_pig1",
+            "label": "食べる",
+            "title": "藁の家を吹き飛ばして食べる。",
+            "from": "wolf",
+            "to": "pig1",
+            "arrows": "to",
+            "period": [2, 3, 4]
+        },
+        {
+            "id": "wolf_to_pig2",
+            "label": "食べる",
+            "title": "木の家を燃やして食べる。",
+            "from": "wolf",
+            "to": "pig2",
+            "arrows": "to",
+            "period": [2, 3, 4]
+        },
+        {
+            "id": "wolf_to_pig3",
+            "label": "食べれず",
+            "title": "レンガの家に手も足も出ず、煙突から侵入する。",
+            "from": "wolf",
+            "to": "pig3",
+            "arrows": "to",
+            "period": [3, 4],
+            "color": {
+                "color": "red",
+                "highlight": "red",
+                "inherit": false
+            },
+            "smooth": { "type": "curvedCW", "roundness": 0.3 }
+        },
+        {
+            "id": "pig3_to_wolf",
+            "label": "食べる",
+            "title": "釜茹でにして食べる。",
+            "from": "pig3",
+            "to": "wolf",
+            "arrows": "to",
+            "period": [4],
+            "smooth": { "type": "curvedCW", "roundness": 0.3 }
+        },
+        {
+            "id": "mother_to_wolf",
+            "label": "食べる",
+            "title": "釜茹でにして食べる。",
+            "from": "mother",
+            "to": "wolf",
+            "arrows": "to",
+            "period": [4]
+        }
+    ]
+}

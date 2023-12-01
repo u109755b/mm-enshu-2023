@@ -1,0 +1,244 @@
+{
+    "title": "The Three Little Pigs",
+    "summary": [
+        "AAAA"
+    ],
+    "nodes": [
+        {
+            "id": "node0",
+            "label": "The Three Little Pigs",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_Three_Little_Pigs/2.jpeg",
+            "title": "The main characters who are brothers and leave their mother to seek their fortune.",
+            "group": "Protagonists",
+            "size": 35,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node1",
+            "label": "The Big Bad Wolf",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_Big_Bad_Wolf/0.jpeg",
+            "title": "The antagonist who tries to eat the pigs by blowing down their houses.",
+            "group": "Antagonist",
+            "size": 35,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node2",
+            "label": "The First Pig",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_First_Pig/1.jpeg",
+            "title": "The youngest and laziest pig who builds a house of straw.",
+            "group": "Straw House Builder",
+            "size": 21,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node3",
+            "label": "The Second Pig",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_Second_Pig/0.jpeg",
+            "title": "The middle pig who builds a house of sticks.",
+            "group": "Stick House Builder",
+            "size": 21,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node4",
+            "label": "The Third Pig",
+            "title": "The oldest and wisest pig who builds a house of bricks.",
+            "group": "Brick House Builder",
+            "size": 27,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node5",
+            "label": "The House of Straw",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_House_of_Straw/1.jpeg",
+            "title": "The weakest house that is easily blown down by the wolf.",
+            "group": "Weak House",
+            "size": 17,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node6",
+            "label": "The House of Sticks",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_House_of_Sticks/1.jpeg",
+            "title": "The second weakest house that is also blown down by the wolf.",
+            "group": "Weak House",
+            "size": 17,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node7",
+            "label": "The House of Bricks",
+            "shape": "image",
+            "image": "log/The_Three_Little_Pigs/The_House_of_Bricks/2.jpeg",
+            "title": "The strongest house that withstands attack by the wolf.",
+            "group": "Strong House",
+            "size": 23,
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "node8",
+            "label": "The Pot of Boiling Water",
+            "title": "The trap set by the third pig to catch the wolf.",
+            "group": "Trap",
+            "size": 19,
+            "period":[
+                1
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "id": "edge0",
+            "from": "node0",
+            "label": "have",
+            "to": "node2",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge1",
+            "from": "node0",
+            "label": "have",
+            "to": "node3",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge2",
+            "from": "node0",
+            "label": "have",
+            "to": "node4",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge3",
+            "from": "node2",
+            "label": "build",
+            "to": "node5",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge4",
+            "from": "node3",
+            "label": "build",
+            "to": "node6",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge5",
+            "from": "node4",
+            "label": "build",
+            "to": "node7",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge6",
+            "from": "node1",
+            "label": "want to eat",
+            "to": "node0",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge7",
+            "from": "node1",
+            "label": "blow down",
+            "to": "node5",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge8",
+            "from": "node1",
+            "label": "blow down",
+            "to": "node6",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge9",
+            "from": "node1",
+            "label": "fail to blow down",
+            "to": "node7",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge10",
+            "from": "node1",
+            "label": "try to enter",
+            "to": "node7",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge11",
+            "from": "node4",
+            "label": "prepare",
+            "to": "node8",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        },
+        {
+            "id": "edge12",
+            "from": "node1",
+            "label": "fall into",
+            "to": "node8",
+            "arrows": "to",
+            "period":[
+                1
+            ]
+        }
+    ]
+}

@@ -1,6 +1,9 @@
 from django.urls import path
-from .views import Visualizer
+from . import views
 
 urlpatterns = [
-    path('', Visualizer.as_view(), name='index'),
+    path('', views.index, name='index'),
+    path('init/', views.init, name='init'),
+    path('prev/', views.prev_paragraph, name='prev'),
+    path('next/', views.next_paragraph, name='next'),
 ]
