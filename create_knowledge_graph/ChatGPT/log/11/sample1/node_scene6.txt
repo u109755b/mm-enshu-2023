@@ -1,0 +1,4 @@
+Alice, A young girl and the protagonist of the story who finds herself at a peculiar tea party, 1.0
+March Hare, A character participating in the tea party with odd manners and a love for riddles, 0.8
+Hatter (Mad Hatter), A significant participant in the tea party known for his eccentric behavior and puzzling questions, 0.8
+Dormouse, A sleepy character at the tea party who gets involved in conversations and storytelling, 0.6

@@ -1,0 +1,4 @@
+Alice, A young girl who experiences many changes in size and seems quite perplexed by her situation, 0.7
+Caterpillar, A languid and somewhat rude character who questions Alice, smokes a hookah, and provides cryptic advice, 0.8
+Father William, A character from a poem recited by Alice, who performs remarkable feats despite his old age, 0.5
+Pigeon, A bird that mistakes Alice for a serpent due to her long neck and is concerned about protecting its eggs, 0.6

@@ -1,0 +1,4 @@
+Caterpillar, Alice, address/question/not understand/disagree/dismiss/inquire/instruct/correct/assess/question/query/affirm/advise/inform, Various interactions between the Caterpillar and Alice regarding their conversation, questions, and advice.
+Alice, Caterpillar, reply/explain/express confusion/suggest change/express own feelings/request identity/express change/express difficulty/request/express indifference, Alice's various responses and explanations to the Caterpillar as well as her requests and expressions of confusion and changes.
+Alice, Pigeon, deny/clarify, Alice denying being a serpent and clarifying to the Pigeon that she's not looking for eggs.
+Pigeon, Alice, accuse/persist, The Pigeon accusing Alice of being a serpent and persisting in its accusation.

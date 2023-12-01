@@ -1,0 +1,10 @@
+White Rabbit, A nervous character anxious about displeasing the Duchess, 0.75
+Alice, The young protagonist of the story who experiences the whimsical world around her, 1
+The Duchess, Mentioned by the White Rabbit as someone who could have him executed, indicating high status or authority in the story, 0.6
+Mary Ann, The White Rabbit mistakes Alice for his housemaid named Mary Ann, demonstrating a class or social hierarchy, 0.5
+Dinah, Alice's cat, whom she imagines might send her on errands just as the White Rabbit does, signifying Alice's feelings about her unusual circumstances, 0.4
+W. RABBIT, Name on the brass plate which likely stands for the White Rabbit, denoting ownership of the house Alice enters, 0.3
+Pat, An unseen character the Rabbit speaks to after his fall, suggesting another creature or person in the story, 0.25
+Bill, A character who is instructed to fetch a ladder then later told to go down the chimney, suggesting a subordinate role to the Rabbit, 0.5
+Puppy, An animal Alice encounters which poses a threat due to its size, adding to her challenges, 0.4
+Large blue caterpillar, A character Alice meets who is smoking a hookah, adding to the surreal experience Alice is having, 0.55

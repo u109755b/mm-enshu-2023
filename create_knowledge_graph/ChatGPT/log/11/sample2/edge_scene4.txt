@@ -1,0 +1,4 @@
+Alice, Caterpillar, interaction, Various interactions between Alice and the Caterpillar during their conversation
+Caterpillar, Alice, interaction, The Caterpillar's various questions, commands, and statements directed at Alice
+Pigeon, Alice, accusation, The Pigeon accused and insisted that Alice was a serpent
+Alice, Pigeon, response, Alice denied being a serpent, clarified she was a little girl, and discussed eating eggs with the Pigeon

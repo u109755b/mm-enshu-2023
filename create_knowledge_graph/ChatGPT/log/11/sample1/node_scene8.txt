@@ -1,0 +1,6 @@
+Alice, The main character who interacts with all other characters in the story and whose thoughts and actions are central to the narrative, 1.0
+Duchess, A character with whom Alice has conversations that lead to discussions of morals and philosophies, 0.8
+Queen, A dominant figure who commands the characters, causes fear in others, and whose presence drives the action in several scenes, 0.8
+Gryphon, A creature tasked by the Queen to escort Alice and who converses with Alice and the Mock Turtle, 0.6
+Mock Turtle, The subject and participant of the story that he shares with Alice and the Gryphon, which is central to this chapter, 0.7
+King, A character who pardons the other characters at the Queen's croquet game and is one of the few that remains at the end, 0.4

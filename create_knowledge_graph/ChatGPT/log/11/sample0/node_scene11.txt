@@ -1,0 +1,8 @@
+Alice, The protagonist of the story who inadvertently causes chaos in the court, 1.0
+Jurymen, Members of the jury that Alice knocks over, affecting the trial, 0.6
+King, The authority presiding over the trial, making important decisions, 0.8
+Lizard (Bill), A jurymen character whom Alice puts incorrectly into the jury-box, 0.4
+White Rabbit, A court attendant and herald who provides evidence at the trial, 0.7
+Queen, An authority figure who seeks to enforce rules and deliver sentences in the trial, 0.8
+Knave, The accused in the trial, whose guilt or innocence is being determined, 0.5
+Alice's Sister, Appears at the end of the narrative, indicating the adventure was a dream, 0.3

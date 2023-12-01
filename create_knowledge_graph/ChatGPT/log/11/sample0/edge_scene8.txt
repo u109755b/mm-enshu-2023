@@ -1,0 +1,7 @@
+The input and output nodes of an edge must be one of 'Alice, Duchess, Queen, Mock Turtle, Gryphon'
+Duchess, Alice, express affection/close proximity/share wisdom, The Duchess was glad to see Alice, tucked her arm affectionately into hers, squeezed closer to Alice, and shared her views on morals.
+Queen, Duchess, issue a threat/respond to threat, The Queen warned the Duchess, resulting in the Duchess immediately leaving.
+Queen, Alice, command/inquire/give an order, The Queen told Alice to continue the game, asked if she had seen the Mock Turtle, and instructed her to visit the Mock Turtle and hear his history.
+Gryphon, Alice, introduce, The Queen instructed the Gryphon to take Alice to the Mock Turtle.
+Gryphon, Mock Turtle, make a request, The Gryphon asked the Mock Turtle to share his history with Alice.
+Mock Turtle, Alice, teach, The Mock Turtle agreed to tell his history to Alice.

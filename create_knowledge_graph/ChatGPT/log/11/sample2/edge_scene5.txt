@@ -1,0 +1,3 @@
+Alice, Footman, interaction, advice, information, warning, Alice interacted, received advice and information, and was warned by the Footman.
+Duchess, Cook, ignoring, throwing objects at, The Duchess ignored the cook throwing objects at her and the baby.
+Cheshire Cat, Alice, conversing and expectation, The Cheshire Cat conversed with and told Alice about its expectations.

@@ -1,0 +1,14 @@
+Sherlock Holmes, A master detective with exceptional observational and deductive skills, 1.0
+Dr. Watson, Friend, chronicler, and confidant of Sherlock Holmes, 0.8
+Landlady, The person who informed Dr. Watson about Holmes's departure, 0.4
+Drunken-looking groom, A disguise used by Sherlock Holmes, 0.6
+Miss Irene Adler, An intelligent and elusive woman, the object of Holmes's and the King's interest, 0.9
+Mr. Godfrey Norton, A barrister and frequent visitor to Miss Irene Adler, possibly with intimate connections, 0.7
+Coachman, Driver of Miss Irene Adler’s carriage, minor role, 0.3
+Guardsmen, Participants in the scuffle outside Briony Lodge, minor importance, 0.2
+Scissors-grinder, Participant in the scuffle outside Briony Lodge, minor importance, 0.2
+Clergyman, Officiated the wedding between Irene Adler and Godfrey Norton, 0.5
+Landau driver, Helped Irene Adler depart from Briony Lodge; minor to story, 0.3
+Mrs. Turner, Possibly an individual helping with services at Baker Street, 0.3
+King, The implied client of Sherlock Holmes seeking Irene Adler's photograph, 0.7
+Slim youth in an ulster, A passerby at the end who greets Holmes; potentially significant but undetermined, 0.5

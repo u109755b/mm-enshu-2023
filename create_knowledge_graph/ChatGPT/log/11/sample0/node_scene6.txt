@@ -1,0 +1,4 @@
+Alice, The main character who interacts with others at the tea party and expresses confusion and curiosity, 1.0
+The March Hare, A character who hosts the tea party with the Hatter and engages in nonsensical conversations and riddles, 0.7
+The Hatter, Another host of the tea party known for his eccentric manners, questioning of time, and nonsensical poetry, 0.7
+The Dormouse, A character at the tea party who falls asleep frequently and is used as a cushion by the others, also tells a story about three sisters, 0.6

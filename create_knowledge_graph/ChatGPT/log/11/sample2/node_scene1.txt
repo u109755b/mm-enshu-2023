@@ -1,0 +1,11 @@
+Alice, The main character who experiences bizarre growth changes and wonders about her own identity, 1.0
+White Rabbit, A character Alice encounters who is in a hurry and concerned about the Duchess, carrying white kid gloves and a fan, 0.7
+Duchess, A character referred to by the White Rabbit, who might be angry for being made to wait, 0.4
+Ada, A character Alice mentions believing she is not because Ada has long ringlets, 0.2
+Mabel, A character Alice contemplates she might be but decides she is not because she knows more than Mabel, 0.2
+Mouse, A small creature Alice encounters and speaks to in the pool of tears, 0.6
+Dinah, Alice's cat, whom Alice talks about to the Mouse, causing the Mouse distress, 0.3 
+Duck, A creature that fell into the pool of tears, mentioned at the end of the passage, 0.1
+Dodo, A creature that fell into the pool of tears, mentioned at the end of the passage, 0.1
+Lory, A creature that fell into the pool of tears, mentioned at the end of the passage, 0.1
+Eaglet, A creature that fell into the pool of tears, mentioned at the end of the passage, 0.1

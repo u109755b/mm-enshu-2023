@@ -1,0 +1,4 @@
+Caterpillar, A languid, sleepy character that converses with Alice offering cryptic advice, 0.6
+Alice, The main character of the story who is undergoing many size changes and seeks to understand her own identity, 1.0
+Father William, A character in a poem recited by Alice who is known for his surprising vitality and agility despite his age, 0.3
+Pigeon, A character that mistakes Alice for a serpent and is concerned about protecting its eggs from said serpents, 0.4

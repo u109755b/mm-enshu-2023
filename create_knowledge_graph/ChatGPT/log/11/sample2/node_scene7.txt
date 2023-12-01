@@ -1,0 +1,10 @@
+Alice, The primary protagonist who is curious and frequently finds herself in bizarre situations in Wonderland, 1.0
+Five, One of the three gardeners painting the roses, implicated by Seven for splashing paint, 0.5
+Seven, One of the three gardeners, quick to blame others, and accused by the Queen of a mix-up involving tulip-roots and onions, 0.5
+Two, One of the three gardeners, responsible for explaining why they're painting the roses red, 0.5
+Queen of Hearts, The ruler of Wonderland with a quick temper and a penchant for ordering executions, 0.8
+King of Hearts, The Queen's husband, more mild-mannered and fearful of the Queen, 0.6
+Knave of Hearts, Subject of the King and Queen, carries the royal crown, 0.4
+White Rabbit, A character Alice recognizes in the Queen's procession, acts nervous and hurried, 0.6
+Duchess, A character mentioned as being sentenced to execution, not directly interacting in this text, 0.3
+Cheshire Cat, A cat known for its mischievous grin, provides company and conversation to Alice, 0.7

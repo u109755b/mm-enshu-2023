@@ -1,0 +1,6 @@
+Alice, The main character, who experiences size changes and adventures in a fantastical world, 1.0
+White Rabbit, A character who Alice follows into Wonderland, prompting her adventures, 0.8
+Duchess, Mentioned by the White Rabbit, a character that Alice thinks about encountering, 0.5
+Ada, A child Alice knows, used by Alice to assert her own identity, 0.3
+Mabel, Another child known to Alice, contrasted with Alice to help her determine her own identity, 0.3
+Mouse, A small creature that Alice encounters while swimming in the pool of tears, 0.7

@@ -1,0 +1,8 @@
+Alice, The protagonist of the story who inadvertently causes chaos in the courtroom and challenges the authority of the King and Queen, 1.0
+The King, The authority figure in the courtroom, trying to conduct a trial and later attempting to assert rules and control, 0.8
+The Queen, A powerful figure in the courtroom who commands executions and dictates the trial proceedings, 0.7
+The White Rabbit, A character who serves as a herald in the courtroom, presenting evidence and interacting with the King and Alice, 0.6
+The Lizard (Bill), A juror in the trial who is upset by Alice and later becomes a target for the Queen's anger, 0.4
+The Jurymen, The collective characters who are jurors in the trial and are involved in documenting the proceedings, 0.5
+The Knave, The accused character in the trial whom the letter is supposedly from, playing a central role in the trial, 0.6
+Alice's Sister, A character mentioned towards the end of the passage who is not directly involved in the trial but is significant to Alice, 0.3

@@ -1,0 +1,9 @@
+Alice, The main character who interacts with the animals and takes part in the caucus race, 1.0
+Lory, A character that disagrees with Alice and becomes sulky, 0.4
+Mouse, A character of authority among the animals, who tries to dry the group and shares a history lesson, 0.6
+Dodo, A character that suggests and organizes the caucus race to get dry, 0.6
+Eaglet, A character that criticizes the Dodo’s use of complicated words, 0.3
+Duck, A character that engages in the conversation about the Mouse's history lesson, 0.3
+Crab, A character that advises its daughter about temper, 0.2
+Young Crab, The daughter of the old Crab, who responds snappishly, 0.2
+Dinah, Alice's cat, which she mentions to the animals causing a panicked reaction, 0.4

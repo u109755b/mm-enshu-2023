@@ -1,0 +1,6 @@
+White Rabbit, A rabbit that is very concerned about being late and appears to be looking for lost items, 0.75
+Alice, The protagonist of the story who experiences fantastic adventures following the White Rabbit down the rabbit hole, 1.0
+The Duchess, A character whom the White Rabbit seems to be fearful of, mentioned in the White Rabbit's mutterings, 0.4
+Mary Ann, The White Rabbit mistakes Alice for his housemaid called Mary Ann, suggesting she is a service person in the White Rabbit's house, 0.3
+Dinah, Alice's cat back in the real world, brought up in Alice's musings about the absurdity of her situation, 0.3
+Bill, A lizard who is sent down the chimney and gets kicked out by Alice, small but significant to the plot at this point, 0.55

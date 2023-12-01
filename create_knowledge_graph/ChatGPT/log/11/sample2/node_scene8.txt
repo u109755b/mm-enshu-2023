@@ -1,0 +1,5 @@
+Alice, A young girl who finds herself in fantastical situations while exploring the whimsical world of Wonderland, her curiosity and logic are central to her interactions with the fantastical characters she meets, 1.0
+Duchess, An ugly and unpleasant character that Alice meets in Wonderland, her interactions and conversations with Alice revolve around finding morals and they contribute to the storyline of Alice's adventures, 0.6
+Queen, A formidable and temperamental ruler in Wonderland, known for her frequent exclamations of "Off with his head!", she commands the characters around her and represents a source of authority and fear in the story, 0.7
+Mock Turtle, A character that is a parody of a real turtle, known for being sad and for his history of being a real turtle and attending school in the sea, contributes to the theme of absurdity and plays a role in educating Alice within the narrative, 0.6
+Gryphon, A fictional creature that takes Alice to see the Mock Turtle and interacts with her, contributes to Alice's journey and acts as a guide, escorting her to the next segment of her adventure, 0.5

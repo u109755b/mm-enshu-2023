@@ -14,6 +14,7 @@
 - 20231126: 2_summarization.py 取り敢えず完成
 - 20231127: 3_create_knowledge_graph.py 取り敢えず完成 (プロンプト改善が必要)
 
+
 ### コードの説明
 - 1_preprocess_txt.py: storyID (gutenbergID) を入力すると, 本文を場面ごとに分割し保存する.
 - 2_summarization.py: storyID を入力すると, 各場面の本文の要約を行う.
@@ -21,6 +22,12 @@
 - 3_create_knowledge_graph_one_scene: storyID, sceneID を入力すると, 指定した場面の node, edge を取得する.
 - 4_create_json.py: storyID を入力すると, graph.json を作成する.
 - create_json.sh: storyID を入力すると, 1~4 をまとめて実行する
+
+
+### 出力例 (3回実行し, 各結果を sample0, 1, 2 に追加)
+- 20231127: 18155 ChatGPT-output 追加
+- 20231201: 11 ChatGPT-output 追加
+- 20231201: 1661 ChatGPT-output 追加
 
 
 ### コスト概算

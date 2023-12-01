@@ -1,0 +1,4 @@
+Alice, A curious and thoughtful young girl who follows the White Rabbit down the rabbit hole and encounters various characters, 1
+March Hare, A character who participates in the Mad Tea-Party and engages in nonsensical conversations and riddles with Alice, the Hatter, and the Dormouse, 0.8
+Hatter, One of the central figures in the Mad Tea-Party, known for his enigmatic questions and peculiar behavior, 0.9
+Dormouse, A sleepy character who is present at the Mad Tea-Party and is used as a cushion by the other characters, contributes to the conversation with nonsensical remarks, 0.7

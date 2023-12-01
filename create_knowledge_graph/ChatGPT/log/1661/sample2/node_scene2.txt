@@ -1,0 +1,5 @@
+King of Bohemia, A nobleman involved with Irene Adler, 0.7
+Sherlock Holmes, The famous detective and main character of the story, 0.95
+Irene Adler, A woman of admirable wit and intelligence who outsmarts Sherlock Holmes, 0.85
+Norton, An English lawyer who marries Irene Adler, 0.4
+Elderly woman, The housekeeper or servant at Briony Lodge who informs Holmes of Adler's departure, 0.3

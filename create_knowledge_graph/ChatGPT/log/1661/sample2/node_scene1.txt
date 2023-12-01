@@ -1,0 +1,5 @@
+Sherlock Holmes, The main detective character known for his astute logical reasoning, attention to detail, and ability to adopt almost any disguise, 1.0
+Dr. John H. Watson, The loyal friend and companion of Sherlock Holmes, and the narrator of the story, 0.9
+Irene Adler, A woman of great beauty and intelligence, who becomes the focus of Holmes's investigation, 0.8
+Godfrey Norton, A lawyer and Irene Adler's love interest who plays a key role in the case and her life, 0.6
+Mrs. Turner, The landlady of Sherlock Holmes and Dr. Watson, who provides minor assistance in the story, 0.3

@@ -1,0 +1,4 @@
+Alice, The main character who falls down a rabbit hole into a fantasy world, 1.0
+Alice’s Sister, The character with whom Alice was sitting at the start of the story, 0.2
+White Rabbit, A talking rabbit with a waistcoat and pocket watch that Alice follows down the rabbit hole, 0.8
+Dinah, Alice's cat, mentioned as a character Alice thinks about during her fall, 0.3

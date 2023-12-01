@@ -1,0 +1,6 @@
+Sherlock Holmes, A renowned detective known for his astute logical reasoning, 1.0
+King of Bohemia, A royal figure concerned with retrieving compromising photographs to protect his position, 0.8
+Irene Adler, An intelligent and resourceful woman who outwits Sherlock Holmes, 0.9
+Norton, An English lawyer who is married to Irene Adler, 0.4
+Elderly woman, A servant at Briony Lodge who informs Holmes and the King about Adler's departure, 0.3 
+John (the coachman), An employee of Irene Adler who is sent to watch Sherlock Holmes, 0.2

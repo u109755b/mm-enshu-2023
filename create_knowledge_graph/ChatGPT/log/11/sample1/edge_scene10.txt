@@ -1,0 +1,14 @@
+King of Hearts, Queen of Hearts, spousal relationship, The King and Queen of Hearts were seated on their throne.
+King of Hearts, Knave of Hearts, authority and defendant relationship, The Knave was standing before the King, in chains.
+King of Hearts, White Rabbit, authority over and herald relationship, The White Rabbit stood near the King with a trumpet in one hand and a scroll of parchment in the other.
+King of Hearts, Soldier, authority and subordinate relationship, A soldier on each side was guarding the Knave at the King's court.
+King of Hearts, Judge, identity of, The judge, by the way, was the King.
+Gryphon, Alice, conversation partners, The Gryphon whispered in reply to Alice that the jurors were putting down their names.
+Queen of Hearts, Knave of Hearts, accuser and accused relationship, The Queen of Hearts accused the Knave of Hearts of stealing the tarts.
+Hatter, King of Hearts, witness and authority relationship, The Hatter was the first witness called by the King.
+March Hare, Hatter, confirmatory relationship, The March Hare confirmed the date that the Hatter began something.
+Dormouse, March Hare, confirmatory relationship, The Dormouse added to what the March Hare said, confirming a different date.
+Queen of Hearts, Hatter, observer and observed relationship, The Queen never left off staring at the Hatter during his testimony.
+Dormouse, Alice, spatial relationship, The Dormouse told Alice not to squeeze as he was sitting next to her.
+Queen of Hearts, Duchess’s cook, authority over and employee relationship, The next witness was the Duchess’s cook, summoned to give evidence before the Queen.
+King of Hearts, Duchess’s cook, authority and witness relationship, The King ordered the Duchess’s cook to give evidence.

@@ -1,0 +1,5 @@
+Alice, A young girl who finds herself in whimsical situations in Wonderland, interacting and pondering upon various philosophical concepts and characters, 1.0
+Duchess, A character whom Alice encounters; she engages in conversation regarding morals and societal rules with Alice, 0.7
+Queen, A powerful figure in Wonderland who threatens execution; has an encounter with Alice and commands her regarding the Mock Turtle, 0.8
+Mock Turtle, A sorrowful character that Alice is led to by the Gryphon; shares his story and reflects on various abstract educational topics, 0.6
+Gryphon, A creature that accompanies Alice to meet the Mock Turtle and comments on his story and reflects its own perspective, 0.6

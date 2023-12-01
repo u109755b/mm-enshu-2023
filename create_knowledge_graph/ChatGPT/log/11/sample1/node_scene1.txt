@@ -1,0 +1,7 @@
+Alice, The protagonist of the story who experiences significant changes in size and ponders her own identity, 1.0
+White Rabbit, A character in a hurry that Alice encounters and whose gloves and fan she ends up taking, 0.7
+Mouse, A creature that Alice finds swimming in the pool of tears who becomes offended when Alice mentions cats and dogs, 0.6
+Ada, Mentioned by Alice as someone she is not due to the difference in their hair, 0.3
+Mabel, Another character that Alice considers she might be, known for knowing very little according to Alice, 0.3
+The Duchess, A character that is not seen but mentioned by the White Rabbit as someone he fears he has kept waiting, 0.4
+Dinah, Alice’s cat which she mentions in conversation with the Mouse, causing alarm, 0.5

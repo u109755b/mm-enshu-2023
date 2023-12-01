@@ -1,0 +1,13 @@
+Alice, Fish-Footman, observe, For a minute or two she stood looking at the house, and wondering what to do next, when suddenly a footman in livery came running out of the wood.
+Fish-Footman, Duchess, deliver message, The Fish-Footman began by producing from under his arm a great letter, nearly as large as himself, and this he handed over to the other, saying, in a solemn tone, “For the Duchess. An invitation from the Queen to play croquet.”
+Frog-Footman, Duchess, deliver message, The Frog-Footman repeated, in the same solemn tone, only changing the order of the words a little, “From the Queen. An invitation for the Duchess to play croquet.”
+Alice, Footman, converse, Alice went timidly up to the door, and knocked.
+Duchess, Baby, nurse, The Duchess was sitting on a three-legged stool in the middle, nursing a baby.
+Cook, Duchess, Baby, throw objects, The cook took the cauldron of soup off the fire, and at once set to work throwing everything within her reach at the Duchess and the baby.
+Duchess, Cheshire Cat, own, “It’s a Cheshire cat,” said the Duchess.
+Alice, Duchess, converse, “But what am I to do?” said Alice.
+Cheshire Cat, Alice, converse, “Cheshire Puss,” she began, rather timidly, as she did not at all know whether it would like the name:
+Cheshire Cat, Hatter, indicate direction, “In that direction,” the Cat said, waving its right paw round, “lives a Hatter: and in that direction,” waving the other paw, “lives a March Hare.
+Cheshire Cat, March Hare, indicate direction, “In that direction,” the Cat said, waving its right paw round, “lives a March Hare. Visit either you like: they’re both mad.”
+Duchess, Alice, converse, Alice caught the baby with some difficulty, as it was a queer-shaped little creature, and held out its arms and legs in all directions.
+Alice, Baby, care for, Alice caught the baby with some difficulty, as it was a queer-shaped little creature, and held out its arms and legs in all directions.

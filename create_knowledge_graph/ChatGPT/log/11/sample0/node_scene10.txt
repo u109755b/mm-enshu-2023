@@ -1,0 +1,14 @@
+King of Hearts, The judge and ruler presiding over the trial, 0.8
+Queen of Hearts, The monarch who made the tarts that were stolen, 0.8
+Knave of Hearts, The accused who allegedly stole the tarts, 0.7
+White Rabbit, The herald in the court who reads the accusation, 0.7
+Alice, A visitor to the court and growing larger, causing disruption, 0.9
+Gryphon, The creature that explains the jurors' actions to Alice, 0.6
+Hatter, The first witness called during the trial, 0.7
+March Hare, Companion to the Hatter, involved in the witness testimony, 0.6
+Dormouse, Another companion to the Hatter and the subject of courtroom commotion, 0.6
+Bill the Lizard, A juror whose pencil Alice takes away, 0.5
+Duchess's cook, A witness at the trial who carries a pepper-box, 0.6
+Soldier, Guarde who stand beside the Knave, 0.5
+Officer of the Court, Individual responsible for suppression during the trial, 0.5
+Jury, The twelve creatures writing on slates, determining the verdict, 0.7

@@ -1,0 +1,9 @@
+Sherlock Holmes, Consulting detective who uses disguises and keen reasoning to solve cases, 1.0
+Dr. Watson, Close friend, biographer, and confidant of Sherlock Holmes, 0.9
+Landlady, Informs Dr. Watson about Sherlock Holmes's whereabouts, 0.1
+Irene Adler, A woman of interest in the investigation, Holmes admires her intelligence and resourcefulness, 0.8
+Godfrey Norton, A lawyer and significant to the case due to his relationship with Irene Adler, 0.7
+Drunken-looking Groom, Disguise used by Sherlock Holmes, not a real character but an element of Holmes’s investigation, 0.3
+Landau Coachman, Helps illustrate the urgency and action in a scene, not directly important to the case, 0.2
+Clergyman, An officiant at the impromptu marriage ceremony of Irene Adler and Godfrey Norton, 0.4
+Mrs. Turner, Possibly a housekeeper or servant who provides food, mentioned indirectly, 0.1

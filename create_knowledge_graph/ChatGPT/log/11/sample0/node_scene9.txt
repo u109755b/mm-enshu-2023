@@ -1,0 +1,7 @@
+Alice, A curious and polite young girl who finds herself in fantastical situations, 1.0
+Mock Turtle, A character who is a parody of a turtle in the story and seems to be quite melancholic, 0.8
+Gryphon, A mythical creature who accompanies the Mock Turtle and Alice, showing a somewhat impatient demeanor, 0.8
+Whiting, A fish mentioned in the Mock Turtle's song, personified to take part in the dance, 0.4
+Snail, Another creature mentioned in the song, who refuses to join the dance, 0.4
+Porpoise, Referenced in conversation between Alice and the Mock Turtle as part of a joke, 0.3
+Lobsters, Invoked as dance partners in the Lobster Quadrille, though not directly interacting characters, 0.3

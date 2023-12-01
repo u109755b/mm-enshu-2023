@@ -1,0 +1,5 @@
+Sherlock Holmes, Drunken-looking Groom, disguise, Sherlock Holmes disguised himself as a drunken-looking groom.
+Sherlock Holmes, Godfrey Norton, investigation, Sherlock Holmes was investigating Godfrey Norton as part of his inquiry.
+Irene Adler, Godfrey Norton, visitor, Irene Adler had Godfrey Norton as her male visitor.
+Irene Adler, Clergyman, marriage, Irene Adler was married to Godfrey Norton by the Clergyman.
+Sherlock Holmes, Clergyman, participate, Sherlock Holmes participated in Irene Adler's marriage ceremony to Godfrey Norton as a witness.
