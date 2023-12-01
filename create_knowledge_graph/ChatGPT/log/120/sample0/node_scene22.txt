@@ -1,0 +1,6 @@
+Ben Gunn, A former member of Flint's crew who has admitted to difficulties handling the coracle, 0.6
+Israel Hands, Flint’s former gunner currently in the cabin of the HISPANIOLA drunk and quarreling, 0.65
+Friend of the red night-cap, An unidentified individual involved in a drunken quarrel with Israel Hands, likely another pirate, 0.55
+Singing voice, An unseen character singing a dreary sailor's song by the campfire, 0.4
+Flint, A notorious pirate captain mentioned in context with Israel Hands and the history of the HISPANIOLA crew, 0.5
+Creator of the Home and the Old Admiral Benbow Dream, Likely the narrator of the story dreaming of home, possibly Jim Hawkins, 0.7

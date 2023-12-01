@@ -1,0 +1,11 @@
+Silver, A pirate and significant character who is involved in the treasure hunt and shows courage and leadership, 0.8
+Morgan, A pirate who is affected by thoughts of Flint and participates in the treasure hunt, 0.6
+Flint, A deceased pirate referred to by the others, instilling fear with the mention of his name, 0.7
+Merry, A pirate who reacts strongly to the mysterious voice and later rationalizes the situation, 0.6
+The Singer, An unseen character whose singing affects the pirates, possibly the spirit of Flint or someone mimicking Flint's voice, 0.5
+Darby M'Graw, A name called out by the mysterious singer, possibly a reference to a person from the past of the pirates, 0.4
+George Merry, One of the pirates who finds reassurance in Silver's logic about spirits and echoes, 0.6
+Ben Gunn, The presumed singer who mimics Flint's voice and is recognized by the pirates, 0.7
+Dick, A young pirate who prays out of fear and is possibly falling sick due to fever and exhaustion, 0.6
+John (Silver), Also known as Silver, his name mentioned as he encourages his followers, 0.8
+The Buccaneer with the Blue Face, A reference to a past buccaneer who killed his accomplices, causing fear when recalled, 0.5

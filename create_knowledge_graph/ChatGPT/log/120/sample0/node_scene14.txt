@@ -1,0 +1,6 @@
+Ben Gunn, A marooned man who lived alone on the island for three years and knows about Flint's treasure, 1.0
+Jim, The protagonist and narrator of the story who interacts with Ben Gunn, 1.0
+Silver (Long John Silver), A one-legged cook and ringleader of mutineers, central to Jim's fears, 0.8
+Flint, A deceased pirate and former owner of the treasure, important to the backstory and central to the plot, 0.7
+Billy Bones, The former mate of Flint mentioned in Ben Gunn's story, plays a role in the backstory, 0.4
+Squire, A character Jim mentions as liberal and potentially helpful, not directly interacting in the passage, 0.5

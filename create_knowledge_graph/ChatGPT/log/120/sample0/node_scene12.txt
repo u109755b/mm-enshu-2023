@@ -1,0 +1,8 @@
+Jim, The first-person narrator and one of the main characters of the story, 1.0
+Anderson, A member of the ship's crew in command of the narrator's boat, 0.4
+Long John (Silver), A cunning and strategic one-legged pirate and the main antagonist, 0.9
+The doctor, A ship's officer, likely the ship's surgeon, who remarks about the possibility of disease on the island, 0.5
+The captain, The leader of the honest crew on the ship, devising strategies to counter the threat of mutiny, 0.8
+The squire, Another officer or gentleman on board who is involved in the decision-making process with the captain, 0.6
+Hunter, Joyce, and Redruth, Mentioned as 'sure men', part of the trustworthy group of the ship's crew, 0.5
+The honest hands, Crew members who are loyal and not part of the mutiny, 0.3

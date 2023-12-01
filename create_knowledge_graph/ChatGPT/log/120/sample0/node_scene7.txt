@@ -1,0 +1,9 @@
+Squire Trelawney, A significant character referred by the narrator who provided a note addressed to John Silver, 0.6
+John Silver, Also known as Long John, a pivotal character who is the tavern keeper of the Spy-glass and is identified as the one-legged man and a buccaneer, 1.0
+Harry, A customer or acquaintance of John Silver who was instructed to chase Black Dog, 0.3
+Black Dog, A key figure from the narrator's past with the old Benbow and recognized as a buccaneer; he left the tavern without paying his score, 0.7
+Morgan, An old, grey-haired sailor also referred to by John Silver during the occurrence in the tavern, 0.4
+Pew, Mentioned as a blind man known to the narrator and associated with Black Dog and buccaneers, 0.5
+Ben, Indicated as someone tasked to aid Harry in pursuing Black Dog and praised for his running ability by John Silver, 0.3
+Dr. Livesey, A character who appeared at the end and conversed with squire about John Silver, recognizing his suitability, 0.6
+Hawkins (Jim Hawkins), The primary narrator of the passage who interacts directly with John Silver and is involved in the events at the Spy-glass, 1.0

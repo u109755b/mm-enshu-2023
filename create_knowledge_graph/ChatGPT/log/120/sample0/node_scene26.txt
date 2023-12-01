@@ -1,0 +1,6 @@
+Hands, A member of the ship's crew who falls overboard and drowns, 0.5
+O’Brien, A dead man aboard the ship, presumably another crew member, disposed of by the narrator, 0.5
+Ben Gunn, A marooned individual encountered by the narrator, 0.6
+Captain Smollett, The captain of the narrator’s ship, not directly involved in the action but referenced, 0.6
+Silver, Leader of the buccaneers, also called Long John Silver, significant in the story's conflict, 0.8
+Captain Flint, Silver’s green parrot, known for repetitively squawking "Pieces of eight!", 0.7

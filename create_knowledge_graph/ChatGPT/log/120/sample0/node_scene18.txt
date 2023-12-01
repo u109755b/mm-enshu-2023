@@ -1,0 +1,11 @@
+Jim Hawkins, The story's protagonist and narrator, 1.0
+Ben Gunn, A marooned sailor who provides crucial information to Jim, 0.8
+Silver, A pirate leader whom Ben Gunn references as genteel, 0.9
+Captain Smollett, The captain of Jim's group, authoritative and practical, 0.8
+Doctor (Dr. Livesey), A sensible and brave gentleman who serves as a leader and medic, 0.8
+Squire (Squire Trelawney), A companion of Jim's group, perhaps the one Ben Gunn wishes to speak to, 0.7
+Gray, A new member of Captain Smollett's group with a bandaged face, 0.5
+Tom Redruth, A deceased member of Captain Smollett's group, 0.3
+Hunter, A member of Captain Smollett's watch group, 0.4
+Joyce, A member of Captain Smollett's watch group, 0.4
+Flint, A notorious pirate referenced by Ben Gunn, not directly involved in the present action, 0.3

@@ -1,0 +1,21 @@
+I, The narrator of the story, 0.9
+Blind man (Pew), The primary antagonist directing the assault, 0.85
+Enemies, The group of men arriving to attack, led by Pew, 0.75
+Man with the lantern, The person leading the enemies with illumination, 0.7
+Three men, Members of the attacking party, notably running hand in hand, 0.65
+Lantern-bearer, The person who follows the attackers into the Admiral Benbow, 0.65
+Men of the house, The defenders or inhabitants of the Admiral Benbow, 0.6
+Bill, A deceased character referenced in the attack, 0.55
+Fellow from the window, A person from within the house who communicates with Pew, 0.65
+Man searching the captain's body, One of Pew's crew looking for something on a body, 0.6
+Dirk, A person whose whistle is a signal to Pew's crew, 0.5
+Fellow who had remained below, The man giving updates about Bill being searched, 0.55
+Johnny, Black Dog, Names called by Pew, likely part of his crew, 0.5
+Riders, The group including a boy from the hamlet and revenue officers, 0.7
+Boy from the hamlet, A young character who joins the group of riders, 0.6
+Revenue officers, Officers riding with the boy from the hamlet, 0.65
+Supervisor Dance, An officer in charge who responds to the situation, 0.75
+My mother, The narrator's mother, involved in the events, 0.7
+Dr. Livesey, A gentleman and magistrate mentioned towards the end, 0.6
+Dogger, A person with a good horse who takes up the narrator, 0.55
+Squire, A person mentioned in connection with Dr. Livesey, 0.5

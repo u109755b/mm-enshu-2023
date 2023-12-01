@@ -1,0 +1,12 @@
+Silver, A seaman with a crutch who is cunning and adaptive, showing leadership and an opportunistic nature, 0.85
+Jim, The protagonist and first-person narrator, often finding himself in precarious situations, demonstrating bravery and resourcefulness, 0.90
+Morgan, A buccaneer who discovers a piece of gold during the treasure hunt, a minor character involved in the events, 0.40
+Merry, A buccaneer who challenges Silver and later falls in the excavation, instigating the divide between the group, 0.65
+The man with the bandage, An unnamed buccaneer who dies after musket shots are fired, has a minor role but his death showcases the turn of events, 0.35
+Long John, Presumably another name for Silver, emphasized by his use of crutch and leadership position, 0.85
+Ben Gunn, The maroon who found Flint's treasure and had a notable role in protecting the treasure, characterized as slightly odd but crucial, 0.80
+Dr. Livesey, Likely a voice of authority and reason within the group, has medical knowledge, played a pivotal role in the battle and strategic moves, 0.75
+Gray, A member of the party, assisting Dr. Livesey and likely involved in tactical actions, less is known about him, 0.50
+Squire, Has a supervisory role, indicates social status, interacts with Silver revealing tensions, his authority is acknowledged throughout the group, 0.70
+Captain Smollett, Injured yet still an authority figure, likely a seasoned leader, has the respect of the crew and Jim, 0.75
+Flint, The previous owner of the treasure, never appears directly yet his influence persists throughout the plot, 0.60

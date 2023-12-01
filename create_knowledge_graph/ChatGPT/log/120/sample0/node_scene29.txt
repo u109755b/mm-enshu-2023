@@ -1,0 +1,9 @@
+Dr. Livesey, A skilled and caring physician, central to the plot of "Treasure Island", 0.9
+Jim Hawkins, The young protagonist and narrator of "Treasure Island", central to the story's progression and development, 1.0
+Long John Silver, A complex character, sometimes a villain and other times an ally. Plays a crucial role due to his knowledge of the treasure and relationships with other characters, 0.95
+George Merry, A minor character, a member of Silver's crew, involved in the mutiny, 0.3
+Morgan, A member of Long John Silver’s pirate crew and a minor character in the story, 0.25
+Dick, A young pirate who is a part of Silver’s crew, 0.25
+Squire, Mentioned in context but not featured directly in the action, adds to character dynamics and is a part of the background narrative structure, 0.4
+Captain Smollett, The captain of the voyage, mentioned, but not present in the scene, affects the narrative through past actions and reputation, 0.5
+Ben Gunn, Mentioned by Dr. Livesey, a former pirate now living on the island. His previous actions have a significant impact on the story, 0.55

@@ -1,0 +1,6 @@
+Coracle, The small, lightweight boat that the protagonist navigates, 0.7
+Spy-glass, Reference to a hill that the protagonist sees upon awakening; not an acting character, 0.0
+Sea lions, Initially thought to be threatening creatures by the protagonist, later realized to be harmless, 0.4
+Silver, A character referenced by the protagonist as having given information about the current; likely an influential figure from earlier in the story, 0.6
+Captain Smollett, Implied to be a competent captain based on the protagonist's thoughts; not present in the current action but influential in background, 0.5
+HISPANIOLA, The ship the protagonist seeks to reach; personified slightly but not a character, 0.0

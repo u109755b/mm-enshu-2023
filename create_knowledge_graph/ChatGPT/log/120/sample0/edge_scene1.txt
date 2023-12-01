@@ -1,0 +1,7 @@
+Only include 'Black Dog, Captain (Billy Bones), Doctor Livesey, Jim (Narrator), Jim's Father, Jim's Mother'.
+Captain (Billy Bones), Black Dog, past acquaintance, Black Dog as ever was, come for to see his old shipmate Billy, at the Admiral Benbow inn.
+Captain (Billy Bones), Doctor Livesey, medical situation, The man has had a stroke, as I warned him; One glass of rum won’t kill you, but if you take one you’ll take another and another.
+Jim (Narrator), Captain (Billy Bones), serving, laying the breakfast-table against the captain’s return.
+Jim (Narrator), Black Dog, interaction, I told him he was out walking.
+Captain (Billy Bones), Jim's Father, patient, Oh, doctor, we cried, what shall we do? Where is he wounded?
+Captain (Billy Bones), Jim's Mother, causing concern, Dear, deary me, cried my mother, what a disgrace upon the house!

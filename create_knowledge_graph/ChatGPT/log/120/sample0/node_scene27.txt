@@ -1,0 +1,14 @@
+Jim Hawkins, The protagonist and narrator of the story, a young boy who finds himself in the middle of a treacherous adventure with pirates, 0.95
+Captain Silver, Also known as "Long John Silver", the cunning and charming one-legged pirate, antagonist of the story and leader of the pirates, 0.9
+Tom Morgan, A pirate and one of Long John Silver's crew members, a minor character but involved in the pirate's mutiny, 0.3
+Captain Smollett, The honorable and disciplined captain of the voyage, a figure of authority and integrity, absence mentioned, 0.6
+Doctor Livesey, A doctor and one of the leaders of the honest party against the pirates, skilled and resourceful, only referred to in the story, 0.65
+Dick, A young pirate and crew member, minor character, 0.2
+Parrot, Long John Silver's parrot, a minor but iconic presence in the story, often repeating phrases like "Pieces of eight!", 0.25
+The pirates (as a group), The group of buccaneers following Long John Silver, their actions drive much of the plot, 0.8
+The man with the blood-stained bandage, A wounded pirate, likely one previously injured during the story, 0.15
+Black Dog, A pirate who previously appeared in the story, not directly in this extract but referenced, 0.3
+Billy Bones, A former pirate, the original owner of the treasure map, mentioned in relation to past events, 0.4
+Hands, A pirate mentioned in Jim's speech, considered dead and not directly active in this extract, 0.1
+O’Brien, A pirate mentioned by Silver, presumed to have turned against their treacherous plans, not directly active in this extract, 0.1
+The old mahogany-faced seaman (Morgan), Prospectively the same as Tom Morgan, mentioned in connection with recognizing Black Dog, 0.3

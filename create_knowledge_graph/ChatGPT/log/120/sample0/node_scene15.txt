@@ -1,0 +1,9 @@
+Doctor, A ship's doctor involved in the narrative and decisions about the ship's safety, 0.8
+Hunter, A crew member who accompanies the doctor to shore, 0.6
+Jim Hawkins, A young protagonist who slips away onto the shore, prompting concern for his safety, 0.8
+Captain, The leader of the expedition who participates in the planning and execution of tactical decisions, 0.8
+Squire, A character involved in the cabin discussions and concerned about the consequences, 0.7
+Redruth, A character assigned to the gallery with muskets, presumably for defense, 0.5
+Joyce, A character left to guard stores while others transport supplies, 0.5
+Mr. Hands (Coxswain), The principal man aboard the ship, engaging with the captain in a tense standoff, 0.6
+Abraham Gray, A character who initially does not respond but eventually joins the captain and allies, demonstrating a shift in loyalty or conscience, 0.7

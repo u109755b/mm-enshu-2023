@@ -1,0 +1,11 @@
+Silver, A one-legged pirate, often considered cunning and treacherous, 0.9
+Captain (Captain Smollett), The captain of the ship and a natural leader, who directs the crew in defense tactics, 0.95
+Gray, A crew member loyal to the captain and noted for his duty and reliability, 0.7
+Mr. Trelawney (Squire Trelawney), A squire involved in the events, known for his shooting skills, 0.85
+Doctor (Dr. Livesey), A doctor who serves on the captain's side, important for his medical expertise and participation in defense, 0.85
+Hunter, A member of the captain's crew, takes orders about the defensive stance of the house, 0.6
+Joyce, A crew member who is attentive and acts according to the captain's orders, 0.6
+Hawkins (referred to as "I"), The story's protagonist, serves an assisting role in the defense, and is involved in the action, 0.95
+Job Anderson, The boatswain and a mutineer, he leads the pirate attack against the captain's crew, 0.75
+The Doctor's assailant, A pirate attacking the doctor during the battle, importance comes from his direct assault on one of the key defenders, 0.5
+The man with the red night-cap, A mutineer participating in the attack on the house, notable for his swift takeover attempt, 0.5

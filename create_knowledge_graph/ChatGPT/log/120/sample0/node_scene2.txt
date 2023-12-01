@@ -1,0 +1,7 @@
+Captain, A sick and weakened pirate, fearing betrayal and conspiracies against him, 0.8
+Jim, A young boy who serves the Captain and becomes involved in the pirate's troubles, 0.9
+Doctor, The local physician who advises against the Captain's drinking but is cursed by him, 0.6
+Black Dog, A seafaring man with a bad reputation, possibly an old crewmate or enemy, 0.7
+Blind Beggar, A mysterious and menacing figure seeking the Captain, 0.8
+Old Flint, A deceased pirate captain mentioned in tales and memories, 0.4
+Jim's Father, Recently deceased, his death affects Jim and the running of the inn, 0.5

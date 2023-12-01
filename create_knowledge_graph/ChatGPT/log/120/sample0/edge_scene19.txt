@@ -1,0 +1,6 @@
+Captain, Dr. Livesey, instruct, Captain instructed "Doctor’s watch on the lookout. Dr. Livesey take the north side."
+Captain, Jim, instruct, Captain instructed "Jim, the east."
+Captain, Gray, instruct, Captain instructed "Gray, west."
+Silver, Lieutenant, stand by, Silver stood with his lieutenant in shadow.
+Captain, Silver, combination of multiple interactions, Various interactions outlined above between Captain and Silver.
+Silver, Captain, combination of multiple interactions, Various interactions outlined above between Silver and Captain. 

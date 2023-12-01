@@ -1,0 +1,9 @@
+Dr. Livesey, A physician and friend of the narrator who has to visit London, 0.3
+Squire Trelawney, A local squire involved in preparing for a sea voyage, 0.7
+Old Redruth, The gamekeeper in charge of the hall where the narrator stayed, 0.4
+Tom Redruth, Presumably the same individual as "Old Redruth," a gamekeeper and a poor reader, 0.4
+John Trelawney, Presumably the same individual as "Squire Trelawney," instrumental in acquiring the ship Hispaniola, 0.7
+Long John Silver, A one-legged ex-sailor turned cook hired for the ship, 0.8
+Blandly, An old friend of Squire Trelawney who helped acquire the ship Hispaniola, 0.6
+Arrow, A man recruited as a mate for the ship by Long John Silver, 0.5
+Mrs. Hawkins, The narrator's mother, taking care of the inn in the narrator's absence, 0.4

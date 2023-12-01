@@ -1,0 +1,8 @@
+Jim Hawkins, The narrator of the story, who recounts his adventure about Treasure Island, 1.0
+Squire Trelawney, A local gentleman who finances the voyage to Treasure Island, 0.7
+Dr. Livesey, A local doctor and magistrate; a level-headed leader of the expedition to Treasure Island, 0.8
+Captain, The anonymous old seaman who takes up lodging at the Admiral Benbow inn and has a mysterious past involving pirates, 0.9
+Jim's father, The keeper of the Admiral Benbow inn where the old seaman takes up lodging, 0.4
+Man with the barrow, The person who brings the captain's sea-chest to the Admiral Benbow inn, 0.2
+Seafaring man with one leg, A person the captain is on the lookout for, causing anxiety for Jim, 0.6
+Old Taylor, The gardener Dr. Livesey talks to in the parlour of the Admiral Benbow inn, 0.1

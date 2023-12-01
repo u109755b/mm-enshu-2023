@@ -1,0 +1,8 @@
+Jim Hawkins, The protagonist and narrator of the story, 1.0
+Long John Silver, A cunning and charismatic pirate, also called "Barbecue" or just "Silver", 0.9
+Captain Flint, Silver's parrot, named after the infamous pirate captain, 0.3
+Dr. Livesey, The local doctor and magistrate, wise and practical, 0.7
+George Merry, One of the mutineers who questions Silver's authority, 0.5
+Tom Morgan, Another member of Silver's crew, recalls someone named Allardyce, 0.4
+Billy Bones, The old sea captain who dies in the Admiral Benbow inn, mentioned retrospectively by Morgan, 0.3
+Allardyce, A crew member presumably killed by Captain Flint, remembered for his unpaid debt, 0.2

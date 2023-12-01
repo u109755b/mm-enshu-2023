@@ -1,0 +1,8 @@
+Red-cap, A deceased watchman, 0.4
+Israel Hands, A wounded and weakened shipmate, 0.8
+Mr. Hands, Same as Israel Hands, used by the narrator to sarcastically assert his own authority, 0.8
+Captain Silver, The absent figure of authority and power, symbolized by the flag that is taken down, 0.5
+O’Brien, The dead man noted for his Irish heritage, 0.4
+Cap’n Hawkins, The narrator, who has assumed command of the ship, 0.9
+Captain Kidd, Mentioned in passing as part of a location reference, not as significant as others, 0.2
+Coxswain, Unnamed character, likely Israel Hands, who the narrator observes derisively, 0.7

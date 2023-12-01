@@ -1,0 +1,12 @@
+Dr. Livesey, A doctor and a friend of Squire Trelawney who is logical and composed, important in the discovery of the treasure map and organizing the voyage, 0.8
+Squire Trelawney, A wealthy landowner who finances the treasure expedition, eager and adventurous, central to funding and gathering a crew for the trip, 0.8
+Mr. Dance, A supervisor who recounts important narrative information, his actions and information are crucial to the plot though he is a minor character, 0.4
+Jim Hawkins, The protagonist and narrator of the story, a young boy who finds himself at the center of the treasure hunt, 1.0
+The Captain, Referred to as "The Captain" in this extract, one who held the treasure map and whose past actions and belongings instigate the treasure hunt, 0.7
+Dogger, A character assisting Jim with a stirrup, minor role in the story's events, 0.1
+The maid, A character who opens the door and informs about Dr. Livesey's whereabouts, minor role in the story's events, 0.1
+Billy Bones, Mentioned through his writings in the book, central to the backstory and treasure map's origins, 0.6
+Blackbeard, Referenced by the squire as a lesser buccaneer compared to Flint, contributes to the lore and reputation of pirates in the story, 0.2
+Flint, A feared and notorious pirate whose buried treasure is the story's main objective, though not present, his actions heavily influence the plot, 0.7
+Redruth, Joyce, Hunter, Included in Squire Trelawney's list of people to take on the treasure hunt, part of the crew that will support the expedition, 0.3
+J.F., The initials written on the back of the treasure map, suggesting a link to the map's content, possibly related to Flint, 0.5

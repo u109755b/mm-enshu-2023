@@ -1,0 +1,8 @@
+Jim, The main character who narrates the story, shows courage and determination, 1.0
+Mother, Jim's mother, who is protective and brave in the face of danger, 0.8
+Black Dog, One of the pirates and a former shipmate of Captain Flint, represents a threat to Jim and his mother, 0.7
+Blind beggar, Another threatening figure for Jim and his mother, assumed to be a pirate, 0.7
+Captain, The deceased captain whose sea-chest and debts catalyze the events, 0.5
+Doctor Livesey, Person Jim and his mother aim to reach for help, a figure of authority and safety, 0.6
+Mrs. Crossley, A minor character mentioned in relation to a bag, has less importance in the plot, 0.2
+Captain Flint, A notorious pirate captain, though not present, his reputation casts a shadow over the events, 0.4

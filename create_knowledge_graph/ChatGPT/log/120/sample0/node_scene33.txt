@@ -1,0 +1,11 @@
+The next morning, A character in the story performing tasks related to gold transportation, 0.1
+The three fellows, Characters still abroad on the island, considered a minor threat, 0.3
+A single sentry, Character ensuring protection against sudden attacks, 0.1
+Gray, A workman involved in the transportation of treasure, 0.5
+Ben Gunn, A character involved in the transportation of treasure, closely involved with Silver, 0.6
+Silver, A complex character with a background of mutiny, showing loyalty and ingratiating behavior, 0.8
+The doctor, A central character expressing concern for the mutineers' wellbeing, involved in decision making, 0.7
+The three surviving mutineers, Characters stranded on the island, responsible for a shot at Silver, 0.5
+The captain, A leader giving orders despite being unwell, involved in escape from the island, 0.6
+Captain Smollett, Now retired from the sea, previously a central figure, 0.4
+Captain Flint, An unseen character influencing events through legacy, 0.2

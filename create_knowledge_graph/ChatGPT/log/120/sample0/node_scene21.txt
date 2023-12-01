@@ -1,0 +1,11 @@
+Captain Smollett, The captain with grievous wounds but not fatally injured, expecting to recover, 0.75
+Squire, A character involved in cooking with others and consulting with Dr. Livesey, 0.60
+Doctor Livesey, A doctor and a responsible individual attending to patients and making key decisions, 0.80
+Hunter, A wounded man who never regains consciousness and dies, 0.55
+Mutineer, A pirate who dies from his injuries after Doctor Livesey's attempted surgery, 0.50
+Anderson, The person who shot Captain Smollett first mentioned by allusion, 0.40
+Ben Gunn, A person the narrator suspects Doctor Livesey has gone to see, indicated to have a hidden boat, 0.70
+Gray, A companion to the narrator, engaging in conversation and consulting, 0.65
+Captain Flint, A parrot associated with screaming and recognized by its plumage, 0.50
+Silver, A character recognized at a distance steering one of the gigs, 0.70
+Man with the red cap, A character seen by the narrator interacting with Silver, earlier spotted on the palisade, 0.60

@@ -1,0 +1,16 @@
+Jim Hawkins, Hunter, rush together, Jim Hawkins joined Hunter and Dr. Livesey in the rush for the weather bow.
+Jim Hawkins, Dr. Livesey, rush together, Jim Hawkins joined Hunter and Dr. Livesey in the rush for the weather bow.
+Long John Silver, Captain Smollett, provides information, Long John Silver informed Captain Smollett about the island's landmarks and anchorage.
+Captain Smollett, Long John Silver, requests assistance, Captain Smollett asked Long John Silver to lend help later.
+Long John Silver, Jim Hawkins, offers exploration advice, Long John Silver offered Jim Hawkins to put up a snack for him to take along when exploring.
+Captain Smollett, Squire, converses with, Captain Smollett was talking with the squire and Dr. Livesey on the quarter-deck.
+Captain Smollett, Dr. Livesey, converses with, Captain Smollett was talking with the squire and Dr. Livesey on the quarter-deck.
+Dr. Livesey, Jim Hawkins, summons, Dr. Livesey called Jim Hawkins to his side to fetch his pipe.
+Captain Smollett, Job Anderson, gives orders, Captain Smollett gave an order to Job Anderson.
+Long John Silver, Captain Smollett, initiates cheer, Long John Silver initiated a cheer for Captain Smollett.
+Jim Hawkins, Captain Smollett, communicates news, Jim Hawkins communicated Silver's conversation to Captain Smollett.
+Jim Hawkins, Dr. Livesey, communicates news, Jim Hawkins communicated Silver's conversation to Dr. Livesey.
+Jim Hawkins, Squire, communicates news, Jim Hawkins communicated Silver's conversation to the Squire.
+Captain Smollett, Dr. Livesey, plans strategy, Captain Smollett planned a strategy with Dr. Livesey and Mr. Trelawney regarding the crew and situation ahead.
+Captain Smollett, Mr. Trelawney, plans strategy, Captain Smollett planned a strategy with Mr. Trelawney and Dr. Livesey regarding the crew and situation ahead.
+Dr. Livesey, Captain Smollett, evaluates Silver, Dr. Livesey remarked on Silver's character to Captain Smollett.

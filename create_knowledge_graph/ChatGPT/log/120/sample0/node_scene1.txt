@@ -1,0 +1,6 @@
+Black Dog, Mysterious and unscrupulous seafaring man with a sinister appearance, 0.6
+Captain (Billy Bones), Old seafarer with a rough demeanor and a penchant for rum, associated with piracy, 0.7
+Doctor Livesey, Local authority figure and physician, viewed with respect and capable of handling emergencies, 0.6
+Jim (Narrator), Young protagonist of the narrative, central figure in events and interactions, 0.8
+Jim's Father, Ailing parent of Jim, background character affecting Jim's responsibilities, 0.3
+Jim's Mother, Caretaker of the inn and Jim's father, involved in household matters, 0.4

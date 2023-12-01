@@ -1,0 +1,10 @@
+Doctor Livesey, Trelawney, give advice, Doctor Livesey told Trelawney to give his gun to Captain Smollett because it would be more useful.
+Doctor Livesey, Gray, provide weapon, Doctor Livesey handed his cutlass to Gray who appeared to be unarmed.
+Squire Trelawney, Captain Smollett, exchange guns, Trelawney and Captain Smollett exchanged their guns on Doctor Livesey's advice.
+Captain Smollett, Trelawney, receive gun, Captain Smollett received Trelawney's gun as a result of the exchange.
+Squire Trelawney, Tom Redruth, forgive, Squire Trelawney forgives Tom Redruth and is upset by his impending death.
+Captain Smollett, Tom Redruth, cover with flag, Captain Smollett covered Tom Redruth's body with a flag as a sign of respect.
+Captain Smollett, British colours, raise flag, Captain Smollett personally raised the British colours at the log-house.
+Captain Smollett, Doctor Livesey, discuss provisions, Captain Smollett discussed the status of their provisions with Doctor Livesey.
+Captain Smollett, Squire Trelawney, report status, Captain Smollett informed Squire Trelawney about the dwindling stores and their situation.
+Squire Trelawney, Captain Smollett, suggest lowering flag, Squire Trelawney suggested to Captain Smollett to take down the flag to avoid being a target.

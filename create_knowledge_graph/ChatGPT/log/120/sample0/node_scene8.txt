@@ -1,0 +1,5 @@
+Mr. Arrow, A brown old sailor with earrings in his ears, a squint, and the mate of the Hispaniola, 0.6
+Captain Smollett, The sharp-looking captain of the Hispaniola, who is unhappy with the cruise, the crew, and his officer Mr. Arrow, 0.9
+Dr. Livesey, A doctor who intervenes in the argument and requests clarification from Captain Smollett; he's also one of the organizers of the voyage, 0.8
+Squire Trelawney, The squire who is involved in organizing the voyage and seems to be naive about some details of the expedition, 0.8
+Long John Silver, Referred to by the squire and seems to have a reputation that divides opinion among the characters; his parrot is mentioned allegorically by Captain Smollett, 0.7

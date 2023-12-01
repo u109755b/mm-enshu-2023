@@ -1,0 +1,10 @@
+Doctor Livesey, Ship's doctor and one of the protagonists, 0.8
+Squire Trelawney, Owner of the expedition and one of the protagonists, 0.75
+Captain Smollett, Master of the ship and one of the protagonists, 0.8
+Abraham Gray, Carpenter's mate and ally of the protagonists, 0.6
+John Hunter, Owner's servant and ally of the protagonists, 0.5
+Richard Joyce, Owner's servant and ally of the protagonists, 0.5
+Job Anderson, Boatswain and leading the mutineers, 0.7
+Tom Redruth, Owner's servant and one of the first victims in the conflict, 0.65
+Jim Hawkins, Cabin-boy and the story's young protagonist, 0.85
+Silver, Mutineer and key antagonist, 0.8

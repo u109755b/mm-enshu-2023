@@ -1,0 +1,13 @@
+Squire, A friend of the narrator who is wished a good voyage and safe return by his friends, 0.6
+Mr. Blandly, One of the squire’s friends who comes to wish him well, 0.4
+Boatswain, The crew member who signals the start of the voyage, 0.5
+Barbecue (Long John Silver), The ship’s cook who is well-respected, called upon to sing, and eventually plays an essential role, 0.9
+Captain, Mentioned briefly in reference to past events at the Admiral Benbow and later as singing in the chorus, 0.6
+Mr. Arrow, The first mate who turns out to be a poor officer and falls overboard, 0.7
+Job Anderson, The boatswain who serves as the mate after Mr. Arrow’s disappearance, 0.6
+Mr. Trelawney, Has sea experience and takes watches, making him useful on board, 0.6
+Israel Hands, Coxswain and a trusted seaman, a confidant of Long John Silver, 0.7
+Cap'n Flint (parrot), Long John Silver's parrot named after the famous buccaneer, 0.5
+Captain Smollett, The ship captain who has a terse relationship with the squire and runs the ship efficiently, 0.8
+Dr. Livesey, Mentioned as conversing with the captain about ship discipline, likely an important figure but not the main focus in this excerpt, 0.5
+Narrator (Hawkins), The person recounting the story, whose actions and decisions are central to the plot, 1.0

@@ -1,0 +1,7 @@
+Dr. Livesey, Jim Hawkins, remember/discuss/concern, Dr. Livesey remembered Jim Hawkins with confusion/Dr. Livesey said he wished to have a talk with Jim Hawkins/Dr. Livesey expressed his concern for Jim Hawkins' actions.
+Long John Silver, Dr. Livesey, call/agree, Silver called out to Dr. Livesey saying "You, doctor! Top o' the morning to you, sir!"/Silver agreed to Dr. Livesey's request to speak with Jim Hawkins.
+Long John Silver, George Merry, instruct, Silver instructed George Merry to help Dr. Livesey over the ship's side.
+Dr. Livesey, Silver's patients, oversee, Dr. Livesey proceeded with his work among Silver's patients.
+George Merry, Dr. Livesey, object, George Merry objected to Dr. Livesey's proposal to speak with Jim Hawkins.
+Long John Silver, Jim Hawkins, promise, Silver made Jim Hawkins promise not to escape.
+Jim Hawkins, Dr. Livesey, inform, Jim Hawkins informed Dr. Livesey about the ship's location.

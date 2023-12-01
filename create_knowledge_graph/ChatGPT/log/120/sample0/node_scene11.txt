@@ -1,0 +1,8 @@
+Jim Hawkins, The protagonist who overhears the pirates' plans and shares the intelligence with his allies, 1.0
+Captain Smollett, The captain of the HISPANIOLA who leads his men and plots to maintain order amidst thoughts of mutiny, 0.9
+Dr. Livesey, A doctor and one of the leaders among the protagonist's group, contributing to their strategies and decision making, 0.8
+Long John Silver, A cunning and duplicitous pirate posing as a ship's cook, central to the unfolding mutiny and conflict, 0.9
+Mr. Trelawney, A gentleman of means who finances the voyage, a key decision-maker among the protagonist's group, 0.7
+Hunter, A member of the protagonist's crew, present during the rush to the weather bow, 0.4
+Job Anderson, A member of the ship's crew, receives orders from Captain Smollett, 0.4
+Squire, Presumably Mr. Trelawney, who participates in decisions regarding the management of the ship and the journey, already mentioned.

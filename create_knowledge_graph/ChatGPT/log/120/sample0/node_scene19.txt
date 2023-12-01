@@ -1,0 +1,10 @@
+Silver, A pirate and mutineer who is negotiating terms of surrender with the captain, 0.9
+Captain, The leader of the protagonists who is handling negotiations with the pirates, 0.9
+Lieutenant, Silver's associate who accompanies him with a flag of truce, 0.6
+Dr. Livesey, A member of the protagonists' group, assigned to watch the north side, 0.7
+Jim, A young member of the protagonists' group, assigned to watch the east side, 0.8
+Gray, A member of the protagonists' group, assigned to watch the west side, 0.7
+Cap’n Smollett, The captain of the protagonist group who engages in strategic discussions with Silver, also referred to as the Captain, 0.9
+Dr. Livesey, A prominent member of the protagonists who is involved in the strategic watch, same as Dr. Livesey mentioned earlier, integrated for summary purposes, 0.7
+Ben Gunn, A character referred to in retrospect for his actions against the pirates, 0.5
+Abe Gray, One of the captain's men whose name is invoked in a bluff by Silver, 0.6
