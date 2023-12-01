@@ -19,6 +19,7 @@
 - summaryの要素がリストから文字列になった
 - periodの項目がなくなった
 ##### 参考
+- [Definition](summarized_data/README.md)（定義）
 - [all_data.json](summarized_data/18155/all_data.json)（Djangoからはこの形式のデータを使用する）
 - [directory_data](summarized_data/18155/directory_data)（生データをディレクトリに階層的に保存したもの）
 - [summarized_data_handler.py](summarized_data/summarized_data_handler.py)（一番分かりやすい）
