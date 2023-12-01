@@ -1,16 +1,14 @@
-## ver2の通信用APIの定義
+# ver2の通信用APIの定義
 ```
 summarized_data := [{obj}, {obj}, ...]
 
-{obj} := {folder} or {file}
+{obj} := {folder_data} or {file_data}
 
-
-{folder} := {
+{folder_data} := {
     "sectionName": {sectionName},
     "subSection": [{obj}, {obj}, ...]
 }
-
-{file} := {
+{file_data} := {
     "sectionName": {sectionName},
     "summary": {summary},
     "nodes": [{node}, {node}, ...],
@@ -26,7 +24,6 @@ summarized_data := [{obj}, {obj}, ...]
     "image": {image},
     "size": {size}
 }
-
 {edge} := {
     "id": {edge_id},
     "label": {edge_label},

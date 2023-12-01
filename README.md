@@ -19,10 +19,8 @@
 - summaryの要素がリストから文字列になった
 - periodの項目がなくなった
 ##### 参考
-- [Definition](summarized_data/README.md)（定義）
-- [all_data.json](summarized_data/18155/all_data.json)（Djangoからはこの形式のデータを使用する）
-- [directory_data](summarized_data/18155/directory_data)（生データをディレクトリに階層的に保存したもの）
-- [summarized_data_handler.py](summarized_data/summarized_data_handler.py)（一番分かりやすい）
+- [Definition](summarized_data/README.md)
+- [Sample](summarized_data/18155/all_data.json)
 
 ### 進捗
 - [Notion](https://www.notion.so/1e9ce39c45914aa8af0249aec049f908?v=07ba6eee0c0a42069b6605df759fce0d&pvs=4)
