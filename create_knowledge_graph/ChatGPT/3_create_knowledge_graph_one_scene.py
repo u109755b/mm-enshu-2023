@@ -156,7 +156,7 @@ def create_knowledge_graph_one_scene(storyID, sceneID, show_log):
 
 
 def main():
-    # 入力で storyID を指定
+    # 入力で storyID, sceneID を指定
     parser = argparse.ArgumentParser()
     parser.add_argument("--storyID", type=int)
     parser.add_argument("--sceneID", type=int)
