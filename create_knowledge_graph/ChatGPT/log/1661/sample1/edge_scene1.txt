@@ -1,0 +1,6 @@
+Sherlock Holmes, Dr. Watson, acquaintance/assistance, Holmes and Watson know each other and work together on investigations.
+Sherlock Holmes, Drunken-looking groom, disguise, Holmes disguises himself as a drunken-looking groom.
+Sherlock Holmes, King, service, Holmes renders services to the King.
+Sherlock Holmes, Miss Irene Adler, observance, Holmes observes the habits of Miss Irene Adler.
+Miss Irene Adler, Mr. Godfrey Norton, visits, Godfrey Norton frequently visits Irene Adler.
+Sherlock Holmes, clergyman, participation, Holmes is part of Irene Adler's and Godfrey Norton's wedding as a witness.

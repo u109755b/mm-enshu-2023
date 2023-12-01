@@ -1,0 +1,11 @@
+Alice, A young girl who finds herself talking with animals and attending a whimsical gathering, 1.0
+Lory, A sulky character in the story that has an argument with Alice about its age, 0.7
+Mouse, A character who seems to be an authority among the assembled creatures, leads the meeting, and shares a long history, 0.9
+Dodo, A character that suggests a Caucus-race to get everyone dry and adjudicates that everyone has won the race, 0.8
+Eaglet, A character that challenges the Dodo's use of complex words and takes part in the Caucus-race, 0.6
+Duck, Another attendee of the meeting, who inquires about the Mouse's story regarding an archbishop, 0.6
+Dinah, Alice's cat, not directly involved in the scene but mentioned by Alice, causing a stir among the animal attendees, 0.5
+Old Crab, A character that speaks to her daughter about maintaining composure, 0.4
+Young Crab, The daughter of the Old Crab who responds snappishly, 0.4
+Magpie, A bird that leaves the gathering early, cautious of night air affecting its throat, 0.3
+Canary, A bird that also leaves after becoming alarmed by Alice's mention of her cat, 0.3

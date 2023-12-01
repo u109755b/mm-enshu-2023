@@ -1,0 +1,8 @@
+Alice, The main character who takes action and influences events significantly, 1.0
+Jury, The group of characters impacted by Alice's actions, must write a history of the accident, and consider verdicts during the trial, 0.6
+King, The authority figure that interacts with Alice and directs the trial proceedings, 0.7
+Lizard, A juror who is put into the jury-box head downwards by Alice and seems unable to contribute to the trial, 0.4
+White Rabbit, A character who interrupts the King, provides evidence, and reads verses in court, 0.7
+Queen, An authoritative character who adds to Alice's claims and interacts with the trial process, 0.7
+Knave, The prisoner mentioned in the trial who disputes the writing of a letter, 0.5
+Alice's Sister, A character that interacts with Alice after she wakes from the dream, reminding her of reality, 0.5

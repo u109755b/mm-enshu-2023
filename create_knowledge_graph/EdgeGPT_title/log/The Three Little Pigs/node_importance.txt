@@ -1,0 +1,11 @@
+Here are some possible importance scores of the nodes in the knowledge graph of The Three Little Pigs:
+
+- The Three Little Pigs: 1.0
+- The Big Bad Wolf: 1.0
+- The First Pig: 0.3
+- The Second Pig: 0.3
+- The Third Pig: 0.6
+- The House of Straw: 0.1
+- The House of Sticks: 0.1
+- The House of Bricks: 0.4
+- The Pot of Boiling Water: 0.2

@@ -1,0 +1,4 @@
+Caterpillar, Alice, multiple interactions, "Who are you? Explain yourself! I don’t see. Keep your temper. What size do you want to be? It is a very good height indeed!"
+Alice, Caterpillar, multiple responses and remarks, "I—I hardly know, sir... I can’t explain myself_, I’m afraid, sir... Well, I should like to be a little larger, sir... But I’m not used to it!"
+Pigeon, Alice, accusing of being a serpent and conversation about eggs, "Serpent! I’ve tried every way, and nothing seems to suit them!"
+Alice, Pigeon, denial of being a serpent and responding to accusations, "I’m not a serpent! Let me alone!... I haven’t the least idea what you’re talking about."

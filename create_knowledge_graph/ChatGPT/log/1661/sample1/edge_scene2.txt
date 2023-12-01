@@ -1,0 +1,1 @@
+Both the input and output nodes are from the list 'Sherlock Holmes, King of Bohemia, Irene Adler, Norton, Elderly woman, John (the coachman)'.

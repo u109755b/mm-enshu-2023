@@ -1,0 +1,9 @@
+Fish-Footman, The Duchess, invite, The Fish-Footman began by producing a great letter, for the Duchess, an invitation from the Queen to play croquet.
+Frog-Footman, The Duchess, invite, The Frog-Footman repeated the invitation for the Duchess to play croquet.
+The cook, The Duchess and the baby, throw objects, The cook took the cauldron of soup off the fire, and began to throw things at the Duchess and the baby.
+The Duchess, The baby, nurse, The Duchess was nursing the baby.
+Cheshire Cat, Alice, suggest, The Cheshire Cat suggests Alice visit either the Hatter or the March Hare.
+Cheshire Cat, The baby, predict, The Cheshire Cat predicted the baby would turn into a pig.
+Alice, The baby, nurse, Alice tried to nurse the baby proper before it turned into a pig.
+The baby, Alice, transform, The baby transformed into a pig.
+The March Hare, Alice, be seen, Alice contemplated visiting the March Hare.

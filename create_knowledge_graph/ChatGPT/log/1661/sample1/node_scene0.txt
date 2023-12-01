@@ -1,0 +1,6 @@
+Sherlock Holmes, A highly skilled detective with a remarkable talent for observation and deduction, 1.0
+Irene Adler, A woman of note in Holmes' life, admired by him for her intelligence and competence; the one who outsmarted Holmes, 0.9
+Dr. John Watson, A close friend and confidant of Sherlock Holmes, the narrator of the story, 0.8
+Wilhelm Gottsreich Sigismond von Ormstein, The King of Bohemia, who seeks Holmes' help to recover a compromising photograph, 0.7
+Count Von Kramm, An alias used by the King of Bohemia when he visits Sherlock Holmes, 0.4
+Mary Jane, Dr. Watson's servant, mentioned in passing, 0.1

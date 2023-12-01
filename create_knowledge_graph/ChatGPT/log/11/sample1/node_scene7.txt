@@ -1,0 +1,10 @@
+Alice, A curious and polite young girl who finds herself in a whimsical and nonsensical world, 1.0
+Five, One of the gardeners who is painting the roses red and interacts with Alice and the other characters, 0.8
+Seven, Another gardener who is accused of splashing paint and causing an issue for the Queen, 0.8
+Two, The gardener who explains to Alice why they are painting the roses and seems to be a leader among the gardeners, 0.85
+The Queen of Hearts, A tyrannical ruler in Wonderland who is quick to decree beheadings for even minor infractions, 1.0
+The King of Hearts, A much more timid and less assertive figure compared to the Queen, and tries to intervene when the Queen orders beheadings, 0.75
+The Knave of Hearts, A character who interacts with Alice and the Queen, and is present during the croquet game, 0.6
+The White Rabbit, A character that Alice recognizes and has a conversation with, who is anxious and worried about the Queen, 0.7
+The Cheshire Cat, A grinning character that provides company and conversation for Alice, and whose presence causes a commotion among the other characters, 0.9
+The Duchess, A character who is not present but is mentioned to be under sentence of execution, leading to a discussion with the White Rabbit, 0.4

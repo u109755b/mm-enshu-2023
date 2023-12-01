@@ -1,0 +1,5 @@
+Sherlock Holmes, A consulting detective known for his keen observation and deductive reasoning skills, 1.0
+Dr. John Watson, A friend and colleague of Sherlock Holmes, chronicler of Holmes' adventures, and a medical doctor, 0.8
+Irene Adler, A woman of note to Sherlock Holmes and a central figure in his case involving compromising letters, known for her intelligence and resourcefulness, 0.7
+Wilhelm Gottsreich Sigismond von Ormstein, The hereditary King of Bohemia using the alias Count Von Kramm, seeking Holmes' help to recover a compromising photograph, 0.6
+Mary Jane, A clumsy and careless servant girl mentioned in a deduction by Holmes, of minor importance, 0.1

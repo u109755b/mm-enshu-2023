@@ -1,0 +1,10 @@
+White Rabbit, A rabbit worried about pleasing the Duchess and executes tasks with a sense of urgency, implicating Alice in its errands, 0.9
+Alice, The protagonist who follows the White Rabbit, mistakenly identified as Mary Ann, experiences growth changes, and embarks on various adventures in Wonderland, 1.0
+The Duchess, Mentioned by the White Rabbit as an authority figure that it fears, 0.6
+Mary Ann, The White Rabbit's housemaid, whom Alice is mistaken for, 0.4
+Dinah, Alice's cat, mentioned in comparison to the absurdity of animals sending Alice on errands, 0.3
+Bill, A little animal commanded by the White Rabbit to go down the chimney, which Alice encounters, causing him to be ejected, 0.7
+Pat, A character whose voice is heard outside the window, commanded by the White Rabbit to assist with a problem Alice has caused, 0.5
+Lizard, Bill is identified as a lizard after Alice has caused commotion in the White Rabbit's house, 0.4
+Puppy, A creature Alice encounters in the wood and tries to interact with, evoking her desire to return to her proper size, 0.4
+Caterpillar, A large blue caterpillar Alice meets while contemplating her size changes and the necessity to consume something, 0.6

@@ -1,0 +1,4 @@
+Alice, A curious and adventurous girl who is the protagonist of the story, experiencing numerous changes in size and perspective, 1.0
+Caterpillar, A languid and philosophical creature that provides advice to Alice and questions her identity, 0.85
+Pigeon, A bird that mistakes Alice for a serpent due to her long neck and confronts her, implying some frustration with its circumstances, 0.3
+Father William, A character from a poem recited by Alice, depicting a lively and defiant old man, 0.2

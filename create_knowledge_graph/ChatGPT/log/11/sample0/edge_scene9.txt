@@ -1,0 +1,11 @@
+Mock Turtle, Alice, looked, The Mock Turtle looked at Alice.
+Gryphon, Mock Turtle, help, The Gryphon set to work shaking him (Mock Turtle) and punching him in the back.
+Alice, Lobster Quadrille, inquire, Alice asked "What sort of a dance is it?" about the Lobster Quadrille.
+Gryphon, Alice, explain, The Gryphon explained to Alice how to perform the Lobster Quadrille.
+Mock Turtle, Gryphon, instruct, The Mock Turtle instructed the Gryphon to come and try the first figure of the dance.
+Gryphon, Mock Turtle, sing, The Gryphon told the Mock Turtle "Oh, you sing," when asked which of them should sing.
+Whiting, Snail, invite, The Whiting invited the Snail to join the dance in the song sung by the Mock Turtle.
+Snail, Whiting, refuse, The Snail refused the Whiting's invitation to join the dance.
+Mock Turtle, Alice, offer, The Mock Turtle offered to show Alice a little of the Lobster Quadrille dance.
+Alice, Mock Turtle, express, Alice expressed to the Mock Turtle "Very much indeed," showing her interest in seeing the dance.
+Mock Turtle, Porpoise, need, The Mock Turtle said to Alice "They were obliged to have him with them," indicating the need for a porpoise.

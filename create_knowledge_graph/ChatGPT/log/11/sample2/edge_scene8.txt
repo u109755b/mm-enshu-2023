@@ -1,0 +1,7 @@
+Duchess, Alice, affection+accompany+pleased+surprise+observation+assertion+discomfort+love+agreement+birds+expression+reluctance+right, The Duchess tucked her arm into Alice's, they walked off together, Alice was glad to find the Duchess in a pleasant temper, was startled by the Duchess's voice, noticed Alice thinking and forgetting to talk, asserted everything has a moral, Alice discomfort at Duchess's proximity, said love makes the world go round, agreed with Alice's view and stated a moral, mentioned that flamingoes and mustard both bite, expressed a complex moral, Alice showed reluctance to Duchess speaking longer, compared Alice's right to think to pigs flying.
+Alice, Duchess, clarification+correction+comprehension, Alice whispered a different view on what makes the world go round, corrected the Duchess that mustard isn't a bird, politely said she didn't understand the Duchess's moral.
+Queen, Alice, instruction+inquiry+command, The Queen told Alice to go on with the game, asked Alice if she had seen the Mock Turtle, commanded Alice to meet the Mock Turtle.
+Queen, Gryphon, command, The Queen ordered the Gryphon to take Alice to the Mock Turtle.
+Gryphon, Alice, amusement, The Gryphon found the Queen's executions amusing.
+Gryphon, Mock Turtle, description, The Gryphon described the Mock Turtle's situation.
+Mock Turtle, Alice, offer, The Mock Turtle offered to tell his history to Alice.

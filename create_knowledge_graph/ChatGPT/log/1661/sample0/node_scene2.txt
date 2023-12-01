@@ -1,0 +1,5 @@
+Sherlock Holmes, A renowned detective who is the protagonist of the story, 1.0
+King of Bohemia, A royal figure embroiled in a scandal and client of Sherlock Holmes, 0.8
+Irene Norton née Adler, A clever woman who outwits Sherlock Holmes and the King of Bohemia, originally the King's love interest, 0.9
+Norton, An English lawyer who marries Irene Adler, 0.6
+Elderly Woman, The housekeeper of Briony Lodge who informs Holmes of Adler's departure, 0.3

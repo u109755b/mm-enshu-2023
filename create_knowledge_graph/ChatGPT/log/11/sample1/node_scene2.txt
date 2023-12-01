@@ -1,0 +1,11 @@
+Alice, A young girl who finds herself in a whimsical world after falling down a rabbit hole, 1.0
+Lory, A creature that participates in the caucus race and argues with Alice about age, 0.6
+Mouse, A character of authority in the caucus race who tries to make participants dry with a lecture, 0.8
+Dodo, An authoritative creature that decides the results of the caucus race and suggests solutions, 0.7
+Eaglet, A character that comments on the Dodo’s use of complex words, 0.4
+Duck, A curious character engaged in the caucus race, questioning the Mouse's story, 0.5
+Magpie, A bird that leaves the group after Alice mentions her cat, showing self-preservation, 0.3
+Canary, Another bird that leaves the group due to the mention of Alice's cat, displaying fear, 0.3
+Alice's cat, Dinah, Mentioned by Alice as a cat who chases birds and mice, causing distress among the gathering, 0.5
+Old Crab, An elder creature that advises its daughter after Lory's remark, 0.4
+Young Crab, Offsprung of the Old Crab, responds snappishly to its mother, 0.4

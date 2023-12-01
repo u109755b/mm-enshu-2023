@@ -1,0 +1,6 @@
+Mock Turtle, A character that is a melancholic and reflective creature who takes part in the Lobster Quadrille and engages with Alice, 0.7
+Alice, The protagonist of the story who interacts with the Mock Turtle and Gryphon and is a keen observer of the whimsical events, 1
+Gryphon, The creature who accompanies the Mock Turtle and Alice, providing comments and instructions during the Lobster Quadrille, 0.6
+Whiting, A fish mentioned in the Mock Turtle's song, subject to a conversation between Alice and the Gryphon where its use in cleaning boots is humorously discussed, 0.3
+Snail, Another character mentioned in the Mock Turtle's song that refuses to join the dance, 0.2
+Porpoise, Mentioned in the context of the song and discussed by Alice and the Mock Turtle, indicating its importance to other fish, 0.2

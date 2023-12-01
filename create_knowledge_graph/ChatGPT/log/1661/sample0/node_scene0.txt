@@ -1,0 +1,7 @@
+Sherlock Holmes, A highly skilled detective known for his keen powers of observation and deductive reasoning, 1.0
+Irene Adler, The only woman who has profoundly impacted Holmes and is considered "the woman" by him, 0.9
+Dr. John Watson, The close friend and confidant of Sherlock Holmes, often accompanying Holmes and chronicling his adventures, 0.91
+Wilhelm Gottsreich Sigismond von Ormstein, Also known as the King of Bohemia, seeks Holmes' help to retrieve a compromising photograph, 0.85
+Count Von Kramm, An alias used by the King of Bohemia when consulting with Holmes incognito, 0.5
+Clotilde Lothman von Saxe-Meningen, The second daughter of the King of Scandinavia, to whom the King of Bohemia is betrothed, 0.4
+Mary Jane, Dr. Watson's servant, known to be clumsy and careless, mentioned briefly in a conversation, 0.1

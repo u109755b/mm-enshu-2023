@@ -1,0 +1,10 @@
+Alice, Lory, argue, Alice had quite a long argument with the Lory.
+Mouse, assembly (including Alice, Lory, Dodo, Eaglet, Duck), command, The Mouse, who seemed to be a person of authority among them, called out "Sit down, all of you, and listen to me!"
+Duck, Mouse, questioning, The Duck questioned the Mouse: "The question is, what did the archbishop find?"
+Dodo, race (involving Alice, Lory, Eaglet, Duck, and others), explanation, The Dodo explained how to conduct a Caucus-race to Alice.
+Dodo, assembly (including Alice, Lory, Eaglet, Duck), declare, The Dodo declared to the assembly: "Everybody has won, and all must have prizes."
+Dodo, Alice, appoint, The Dodo pointed to Alice, implying that she should give out the prizes.
+Mouse, Alice, proposition, The Mouse proposed to Alice to have a prize herself.
+Mouse, Alice, narrate, The Mouse began to narrate its long and sad tale to Alice.
+Lory, Alice, inquiry, The Lory inquired who Dinah was after Alice mentioned her.
+Alice, Lory, describe, Alice described Dinah to the Lory as a great cat for catching mice.

@@ -1,0 +1,11 @@
+King of Hearts, The judge presiding over the trial and the ruler in the court, 0.8
+Queen of Hearts, A ruler in the court and part of the authority conducting the trial, 0.8
+Knave of Hearts, The accused in the trial who allegedly stole the tarts, 0.7
+White Rabbit, The herald in the court and a character who reads out the accusation, 0.7
+Alice, A visitor in the court who provides her perspective on the events, 1.0
+Gryphon, A character present in the court to whom Alice whispers, 0.4
+Bill, the Lizard, A juror at the trial who loses his pencil thanks to Alice, 0.5
+Hatter, The first witness called in the trial who provides testimony, 0.6
+March Hare, A character who follows the Hatter into the court and corrects the date, 0.5
+Dormouse, A character in the court involved in various interactions, including being suppressed and providing a line of testimony, 0.5
+Duchess’s Cook, A witness at the trial known for making tarts with pepper, 0.4

@@ -1,0 +1,7 @@
+Mock Turtle, A character that is depicted as a turtle with the head and tail of a calf, often feeling sorrowful and shedding tears; involved in teaching Alice a dance and singing a song to her, 0.75
+Alice, The main character of the story, a young curious girl who interacts with the various creatures in Wonderland and is learning about the whimsical aspects of their world, 1.0
+Gryphon, A creature that is part eagle and part lion, acts as a companion and guide to the Mock Turtle and Alice; assists in explaining the dance to Alice and urges the Mock Turtle to sing, 0.7
+Whiting, An off-stage character referred to in the Mock Turtle's song, personified as having a conversation with a snail about joining a dance, 0.4
+Snail, An off-stage character referenced in the song, hesitant and unwilling to join the dance due to the distance it would have to travel, 0.4
+Porpoise, Mentioned as part of an explanation by the Mock Turtle where it is implied they accompany wise fish, suggesting its inclusion as a participant in the Lobster Quadrille dance, 0.3
+White Rabbit, Not directly engaged in this excerpt but an earlier part of Alice's adventures, initiating Alice's journey to Wonderland, 0.5

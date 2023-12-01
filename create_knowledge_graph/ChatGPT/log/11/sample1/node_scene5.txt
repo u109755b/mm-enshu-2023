@@ -1,0 +1,9 @@
+Alice, The protagonist of the story who interacts with the various characters and whose curiosity leads her through her adventures, 1.0
+Fish-Footman, A servant in livery who delivers an invitation from the Queen to the Duchess, 0.3
+Frog-Footman, Another servant in livery who takes the invitation from the Fish-Footman and repeats the message, 0.3
+Duchess, The inhabitant of the house whom the Queen invites to play croquet; she nurses a baby that turns into a pig and interacts with Alice, 0.6
+Cook, The Duchess's cook who is involved in a chaotic kitchen scene, throwing kitchenware around, 0.4
+Baby, Initially cared for by the Duchess, it is given to Alice and eventually turns into a pig, 0.5
+Cheshire Cat, A grinning cat that engages in philosophical conversations with Alice and provides her with directions, 0.7
+Hatter, Mentioned by the Cheshire Cat as a potential character to visit, 0.2
+March Hare, Mentioned by the Cheshire Cat as a potential character to visit, indicating that Alice might find the encounter interesting, 0.2

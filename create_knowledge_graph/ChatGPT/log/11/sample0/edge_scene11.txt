@@ -1,0 +1,19 @@
+Alice, Jurymen, tip over & pick up, Alice tipped over the jury-box with the edge of her skirt, upsetting all the jurymen, and began picking them up again as quickly as she could after upsetting them.
+Alice, Lizard (Bill), put right, Alice put the Lizard right after noticing it was put in head downwards.
+King, Alice, question, The King asked Alice what she knew about the trial's business.
+Alice, King, response, Alice told the King she knew "Nothing" about the trial's business.
+King, Jurymen, correct, The King corrected the White Rabbit's statement, emphasizing it was "important."
+White Rabbit, King, correct, The White Rabbit corrected the King by saying "unimportant."
+King, Alice, height accusation, The King accused Alice of being more than a mile high.
+Queen, Alice, height accusation, The Queen added that Alice was nearly two miles high.
+Alice, King, rule challenge, Alice challenged the King on the creation of a court rule.
+King, Alice, rule defense, The King defended the court rule as the oldest in the book.
+King, Jurymen, instruction, The King instructed the jury to consider their verdict.
+White Rabbit, King, evidence introduction, The White Rabbit informed the King of new evidence.
+White Rabbit, Queen, evidence update, The White Rabbit updated the Queen that the paper was a set of verses.
+Queen, Lizard (Bill), attack, The Queen threw an inkstand at Lizard (Bill).
+Queen, Alice, verdict demand, The Queen demanded a sentence before the verdict from Alice.
+Alice, Queen, refusal, Alice refused to comply with the Queen's demand.
+Queen, Alice, execution order, The Queen ordered Alice's execution.
+Alice's Sister, Alice, awaken, Alice's Sister woke Alice up from her dream.
+Alice's Sister, Alice, consolation, Alice's Sister comforted Alice after she narrated her dream.
