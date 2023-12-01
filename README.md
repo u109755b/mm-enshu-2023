@@ -1,31 +1,33 @@
 # 2023年度MM工学演習
-## 物語の相関図自動生成アプリの作成
-### 日程
+## 作成物
+物語の相関図自動生成アプリ
+
+## 日程
 | 日時                     | イベント                  | 場所         | 備考                                    |
 |--------------------------|--------------------------|--------------|----------------------------------------|
 | 2023年7月26日 (水) 4限    | 中間報告                  | C609         |                                        |
 | 2023年12月26日 (火)       | 最終レポート提出〆         | -            | 35ページ程度, 担当教員宛に提出           |
 | 2024年1月10日 (水) 5,6限  | 発表会                    | B101         | 発表35分, 質疑7分                       |
 
-### 通信用API
+## 通信用API
 ### ver1
 - [Document](https://docs.google.com/document/d/15GtPuwLwjd76rHHsPiepqUjR26vcZNRI9riEAbiblbc/edit)
 - [Sample](sample_graph.json)
 ### ver2
-##### 変更点（階層的な段落構造に対応した）
+#### 変更点（階層的な段落構造に対応した）
 - 各段落ごとに要約データを作成する必要があるようになった
 - titleの項目がなくなった
 - sectionNameの項目が追加された
 - summaryの要素がリストから文字列になった
 - periodの項目がなくなった
-##### 参考
+#### 参考
 - [Definition](summarized_data/README.md)
 - [Sample](summarized_data/18155/all_data.json)
 
-### 進捗
+## 進捗
 - [Notion](https://www.notion.so/1e9ce39c45914aa8af0249aec049f908?v=07ba6eee0c0a42069b6605df759fce0d&pvs=4)
 
-### 本アプリの動作方法
+## 本アプリの動作方法
 1. [EdgeGPTのサイト](https://github.com/acheong08/EdgeGPT/tree/main)の「collect cookies」を参考にrootディレクトリに 'bing_cookies_.json' を作成して，cookie fileを貼り付ける．
 
 2. 以下のコマンドを順に実行  
@@ -127,5 +129,5 @@ $ python manage.py runserver 0.0.0.0:8000
 
   
 
-### 本アプリの動作デモ
+## 本アプリの動作デモ
 ![demo](visualizer_demo.gif)
