@@ -1,9 +1,0 @@
-Old Sow, The mother of the three little pigs, who sends them out to seek their fortune due to insufficient resources to maintain them, 0.7
-First Little Pig, The first pig who builds a house of straw and is eventually eaten by the wolf, 0.8
-Man with a bundle of straw, The person who provides the first little pig with straw to build a house, 0.3
-Wolf, The main antagonist who destroys the houses of the first and second pigs and is outwitted by the third, 0.9
-Second Little Pig, The pig who builds a house of furze and is also eaten by the wolf, 0.8
-Man with a bundle of furze, The person who gives the second little pig furze to build a house, 0.3
-Third Little Pig, The smartest pig who builds a brick house and ultimately defeats the wolf, 0.9
-Man with a load of bricks, The person who gives the third pig the bricks to build a durable house, 0.3
-Mr. Smith, The owner of the home-field where the third pig finds turnips, indirectly mentioned and not interacted with by the characters, 0.1

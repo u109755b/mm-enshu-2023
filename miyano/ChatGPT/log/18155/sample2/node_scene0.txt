@@ -1,8 +1,0 @@
-Old Sow, The mother of the three little pigs who sent them out to seek their fortune, 0.4
-First Little Pig, The pig who built his house of straw and was eaten by the Wolf, 0.6
-Man with straw, The man who provided the first little pig with straw, 0.1
-Wolf, The antagonist who destroyed the houses and ate the first two pigs, 0.8
-Second Little Pig, The pig who built his house of furze and was eaten by the Wolf, 0.6
-Man with furze, The man who provided the second little pig with furze, 0.1
-Third Little Pig, The clever pig who built his house of bricks and ultimately tricked the Wolf, 0.7
-Man with bricks, The man who provided the third little pig with bricks, 0.1

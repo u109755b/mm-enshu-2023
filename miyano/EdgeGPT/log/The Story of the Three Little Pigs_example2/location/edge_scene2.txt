@@ -1,9 +1,0 @@
-The third Pig, meet, A Man with a load of bricks
-The third Pig, request, A load of bricks
-A Man with a load of bricks, give, A load of bricks
-The third Pig, build, A house of bricks
-A Wolf, ask to enter, A house of bricks
-The third Pig, refuse to let in, A Wolf
-The third Pig, mention, The hair of his chinny chin chin
-A Wolf, huff and puff, A house of bricks
-A Wolf, fail to blow down, A house of bricks
