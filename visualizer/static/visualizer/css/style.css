@@ -73,7 +73,9 @@
     top: 20px; /* 上端からの距離 */
     left: 50px; /* 左端からの距離 */
     margin: 0; /* マージンをなくす */
+    margin-right: 40px;
     z-index: 10; /* 他の要素の上に表示 */
+    font-size: 25px;
 }
 
 #network {

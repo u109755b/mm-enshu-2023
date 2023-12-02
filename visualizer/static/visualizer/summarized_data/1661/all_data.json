@@ -9,44 +9,44 @@
                     {
                         "id": "node_id0",
                         "label": "Sherlock Holmes",
-                        "title": " A highly skilled detective known for his keen powers of observation and deductive reasoning",
-                        "size": 50
+                        "title": "A highly skilled detective known for his keen powers of observation and deductive reasoning",
+                        "size": 30
                     },
                     {
                         "id": "node_id1",
                         "label": "Irene Adler",
-                        "title": " The only woman who has profoundly impacted Holmes and is considered \"the woman\" by him",
-                        "size": 45
+                        "title": "The only woman who has profoundly impacted Holmes and is considered \"the woman\" by him",
+                        "size": 29
                     },
                     {
                         "id": "node_id2",
                         "label": "Dr. John Watson",
-                        "title": " The close friend and confidant of Sherlock Holmes, often accompanying Holmes and chronicling his adventures",
-                        "size": 45
+                        "title": "The close friend and confidant of Sherlock Holmes, often accompanying Holmes and chronicling his adventures",
+                        "size": 29
                     },
                     {
                         "id": "node_id3",
                         "label": "Wilhelm Gottsreich Sigismond von Ormstein",
-                        "title": " Also known as the King of Bohemia, seeks Holmes' help to retrieve a compromising photograph",
-                        "size": 42
+                        "title": "Also known as the King of Bohemia, seeks Holmes' help to retrieve a compromising photograph",
+                        "size": 28
                     },
                     {
                         "id": "node_id4",
                         "label": "Count Von Kramm",
-                        "title": " An alias used by the King of Bohemia when consulting with Holmes incognito",
+                        "title": "An alias used by the King of Bohemia when consulting with Holmes incognito",
                         "size": 25
                     },
                     {
                         "id": "node_id5",
                         "label": "Clotilde Lothman von Saxe-Meningen",
-                        "title": " The second daughter of the King of Scandinavia, to whom the King of Bohemia is betrothed",
-                        "size": 20
+                        "title": "The second daughter of the King of Scandinavia, to whom the King of Bohemia is betrothed",
+                        "size": 24
                     },
                     {
                         "id": "node_id6",
                         "label": "Mary Jane",
-                        "title": " Dr. Watson's servant, known to be clumsy and careless, mentioned briefly in a conversation",
-                        "size": 5
+                        "title": "Dr. Watson's servant, known to be clumsy and careless, mentioned briefly in a conversation",
+                        "size": 21
                     }
                 ],
                 "edges": [
@@ -54,29 +54,29 @@
                         "id": "edge_id0",
                         "label": "consider/feel/has one woman",
                         "title": "To Sherlock Holmes she is always the woman. It was not that he felt any emotion akin to love for Irene Adler. And yet there was but one woman to him, and that woman was the late Irene Adler.",
-                        "from": "Sherlock Holmes",
-                        "to": " Irene Adler"
+                        "from": "node_id0",
+                        "to": "node_id1"
                     },
                     {
                         "id": "edge_id1",
                         "label": "acquainted/compromising letters",
                         "title": "\u201cThe facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler.\u201d \u201cYour Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back.\u201d",
-                        "from": "Wilhelm Gottsreich Sigismond von Ormstein",
-                        "to": " Irene Adler"
+                        "from": "node_id3",
+                        "to": "node_id1"
                     },
                     {
                         "id": "edge_id2",
                         "label": "marry",
                         "title": "\u201cI am about to be married.\u201d",
-                        "from": "Wilhelm Gottsreich Sigismond von Ormstein",
-                        "to": " Clotilde Lothman von Saxe-Meningen"
+                        "from": "node_id3",
+                        "to": "node_id5"
                     },
                     {
                         "id": "edge_id3",
                         "label": "threaten",
                         "title": "\u201cAnd Irene Adler?\u201d \u201cThreatens to send them the photograph. And she will do it.\u201d",
-                        "from": "Irene Adler",
-                        "to": " Wilhelm Gottsreich Sigismond von Ormstein"
+                        "from": "node_id1",
+                        "to": "node_id3"
                     }
                 ]
             },
@@ -87,56 +87,56 @@
                     {
                         "id": "node_id7",
                         "label": "Sherlock Holmes",
-                        "title": " Consulting detective who uses disguises and keen reasoning to solve cases",
-                        "size": 50
+                        "title": "Consulting detective who uses disguises and keen reasoning to solve cases",
+                        "size": 30
                     },
                     {
                         "id": "node_id8",
                         "label": "Dr. Watson",
-                        "title": " Close friend, biographer, and confidant of Sherlock Holmes",
-                        "size": 45
+                        "title": "Close friend, biographer, and confidant of Sherlock Holmes",
+                        "size": 29
                     },
                     {
                         "id": "node_id9",
                         "label": "Landlady",
-                        "title": " Informs Dr. Watson about Sherlock Holmes's whereabouts",
-                        "size": 5
+                        "title": "Informs Dr. Watson about Sherlock Holmes's whereabouts",
+                        "size": 21
                     },
                     {
                         "id": "node_id10",
                         "label": "Irene Adler",
-                        "title": " A woman of interest in the investigation, Holmes admires her intelligence and resourcefulness",
-                        "size": 40
+                        "title": "A woman of interest in the investigation, Holmes admires her intelligence and resourcefulness",
+                        "size": 28
                     },
                     {
                         "id": "node_id11",
                         "label": "Godfrey Norton",
-                        "title": " A lawyer and significant to the case due to his relationship with Irene Adler",
-                        "size": 35
+                        "title": "A lawyer and significant to the case due to his relationship with Irene Adler",
+                        "size": 27
                     },
                     {
                         "id": "node_id12",
                         "label": "Drunken-looking Groom",
-                        "title": " Disguise used by Sherlock Holmes, not a real character but an element of Holmes\u2019s investigation",
-                        "size": 15
+                        "title": "Disguise used by Sherlock Holmes, not a real character but an element of Holmes\u2019s investigation",
+                        "size": 23
                     },
                     {
                         "id": "node_id13",
                         "label": "Landau Coachman",
-                        "title": " Helps illustrate the urgency and action in a scene, not directly important to the case",
-                        "size": 10
+                        "title": "Helps illustrate the urgency and action in a scene, not directly important to the case",
+                        "size": 22
                     },
                     {
                         "id": "node_id14",
                         "label": "Clergyman",
-                        "title": " An officiant at the impromptu marriage ceremony of Irene Adler and Godfrey Norton",
-                        "size": 20
+                        "title": "An officiant at the impromptu marriage ceremony of Irene Adler and Godfrey Norton",
+                        "size": 24
                     },
                     {
                         "id": "node_id15",
                         "label": "Mrs. Turner",
-                        "title": " Possibly a housekeeper or servant who provides food, mentioned indirectly",
-                        "size": 5
+                        "title": "Possibly a housekeeper or servant who provides food, mentioned indirectly",
+                        "size": 21
                     }
                 ],
                 "edges": [
@@ -144,36 +144,36 @@
                         "id": "edge_id4",
                         "label": "disguise",
                         "title": "Sherlock Holmes disguised himself as a drunken-looking groom.",
-                        "from": "Sherlock Holmes",
-                        "to": " Drunken-looking Groom"
+                        "from": "node_id7",
+                        "to": "node_id12"
                     },
                     {
                         "id": "edge_id5",
                         "label": "investigation",
                         "title": "Sherlock Holmes was investigating Godfrey Norton as part of his inquiry.",
-                        "from": "Sherlock Holmes",
-                        "to": " Godfrey Norton"
+                        "from": "node_id7",
+                        "to": "node_id11"
                     },
                     {
                         "id": "edge_id6",
                         "label": "visitor",
                         "title": "Irene Adler had Godfrey Norton as her male visitor.",
-                        "from": "Irene Adler",
-                        "to": " Godfrey Norton"
+                        "from": "node_id10",
+                        "to": "node_id11"
                     },
                     {
                         "id": "edge_id7",
                         "label": "marriage",
                         "title": "Irene Adler was married to Godfrey Norton by the Clergyman.",
-                        "from": "Irene Adler",
-                        "to": " Clergyman"
+                        "from": "node_id10",
+                        "to": "node_id14"
                     },
                     {
                         "id": "edge_id8",
                         "label": "participate",
                         "title": "Sherlock Holmes participated in Irene Adler's marriage ceremony to Godfrey Norton as a witness.",
-                        "from": "Sherlock Holmes",
-                        "to": " Clergyman"
+                        "from": "node_id7",
+                        "to": "node_id14"
                     }
                 ]
             },
@@ -184,32 +184,32 @@
                     {
                         "id": "node_id16",
                         "label": "Sherlock Holmes",
-                        "title": " A renowned detective who is the protagonist of the story",
-                        "size": 50
+                        "title": "A renowned detective who is the protagonist of the story",
+                        "size": 30
                     },
                     {
                         "id": "node_id17",
                         "label": "King of Bohemia",
-                        "title": " A royal figure embroiled in a scandal and client of Sherlock Holmes",
-                        "size": 40
+                        "title": "A royal figure embroiled in a scandal and client of Sherlock Holmes",
+                        "size": 28
                     },
                     {
                         "id": "node_id18",
                         "label": "Irene Norton n\u00e9e Adler",
-                        "title": " A clever woman who outwits Sherlock Holmes and the King of Bohemia, originally the King's love interest",
-                        "size": 45
+                        "title": "A clever woman who outwits Sherlock Holmes and the King of Bohemia, originally the King's love interest",
+                        "size": 29
                     },
                     {
                         "id": "node_id19",
                         "label": "Norton",
-                        "title": " An English lawyer who marries Irene Adler",
-                        "size": 30
+                        "title": "An English lawyer who marries Irene Adler",
+                        "size": 26
                     },
                     {
                         "id": "node_id20",
                         "label": "Elderly Woman",
-                        "title": " The housekeeper of Briony Lodge who informs Holmes of Adler's departure",
-                        "size": 15
+                        "title": "The housekeeper of Briony Lodge who informs Holmes of Adler's departure",
+                        "size": 23
                     }
                 ],
                 "edges": [
@@ -217,43 +217,43 @@
                         "id": "edge_id9",
                         "label": "rush into the room",
                         "title": "grasp by shoulder, impatience to be gone, offer reward, The King of Bohemia rushed into the room where Sherlock Holmes was, grasped him by either shoulder and looked eagerly into his face, expressed his impatience to leave, and later offered a reward to Sherlock Holmes for his services.",
-                        "from": "King of Bohemia",
-                        "to": " Sherlock Holmes"
+                        "from": "node_id17",
+                        "to": "node_id16"
                     },
                     {
                         "id": "edge_id10",
                         "label": "have hopes",
                         "title": "simplify matters, explain future annoyance, assess the situation, request photograph, Sherlock Holmes told the King of Bohemia that he has hopes, remarked that using the King's brougham would simplify matters, explained that if Irene loves her husband there would be no future annoyance, assessed the situation as not being on the same level as the King's expectations, and requested the photograph of Irene Adler as a reward.",
-                        "from": "Sherlock Holmes",
-                        "to": " King of Bohemia"
+                        "from": "node_id16",
+                        "to": "node_id17"
                     },
                     {
                         "id": "edge_id11",
                         "label": "confirm identity",
                         "title": "provide information on Irene's departure, The Elderly Woman confirmed the identity of Sherlock Holmes and informed him that Irene had left with her husband.",
-                        "from": "Elderly Woman",
-                        "to": " Sherlock Holmes"
+                        "from": "node_id20",
+                        "to": "node_id16"
                     },
                     {
                         "id": "edge_id12",
                         "label": "leave letter and photograph",
                         "title": "Irene Norton n\u00e9e Adler left a letter and a photograph for Sherlock Holmes.",
-                        "from": "Irene Norton n\u00e9e Adler",
-                        "to": " Sherlock Holmes"
+                        "from": "node_id18",
+                        "to": "node_id16"
                     },
                     {
                         "id": "edge_id13",
                         "label": "express independence",
                         "title": "Irene Adler stated she was loved by a better man than the King and was independent of him.",
-                        "from": "Irene Norton n\u00e9e Adler",
-                        "to": " King of Bohemia"
+                        "from": "node_id18",
+                        "to": "node_id17"
                     },
                     {
                         "id": "edge_id14",
                         "label": "admire qualities",
                         "title": "The King of Bohemia admired Irene Adler's quick and resolute nature.",
-                        "from": "King of Bohemia",
-                        "to": " Irene Norton n\u00e9e Adler"
+                        "from": "node_id17",
+                        "to": "node_id18"
                     }
                 ]
             }

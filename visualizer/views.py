@@ -8,7 +8,10 @@ import re
 class ViewManager:
     # 初期化（requestデータと要約データを読み込む）
     def __init__(self, request, gutenbergID=0):
-        with open(f'visualizer/static/visualizer/summarized_data/{gutenbergID}/all_data.json', encoding='utf-8') as f:
+        book_dir = f'visualizer/static/visualizer/summarized_data/{gutenbergID}'
+        with open(f'{book_dir}/title.txt', encoding='utf-8') as f:
+            self.title = f.read()
+        with open(f'{book_dir}/all_data.json', encoding='utf-8') as f:
             self.section_data = json.load(f)
         self.request = request
         self.gutenbergID = gutenbergID
@@ -121,7 +124,7 @@ def index(request, gutenbergID=0):
     chapter_data = view_manager.get_chapter_data()
     params = {
         'gutenbergID': str(gutenbergID),
-        'title': '三匹の子豚',
+        'title': view_manager.title,
         'tabHTML': tab_html,
         'summary': chapter_data['summary'],
         'nodes': json.dumps(chapter_data['nodes'], ensure_ascii=False),
