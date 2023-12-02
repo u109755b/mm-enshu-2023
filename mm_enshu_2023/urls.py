@@ -19,6 +19,7 @@ from django.shortcuts import redirect
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('home.urls')),
+    path('bookinfo/', include('bookinfo.urls')),
     path('visualizer/', include('visualizer.urls')),
-    path('', lambda request: redirect('visualizer/', permanent=False)),
 ]

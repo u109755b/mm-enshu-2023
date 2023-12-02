@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Information</title>
+</head>
+<body>
+    <h1>Work Information</h1>
+
+    <div id="book-info">
+        <!-- Book information will be displayed here -->
+    </div>
+
+    <script>
+
+        // JSONデータを取得して表示する関数
+        async function displayBookInfo() {
+            try {
+                var data = {{ json_data|safe }};
+
+                // 書籍情報を表示
+                const bookInfoDiv = document.getElementById('book-info');
+                bookInfoDiv.innerHTML = `
+                    <p><strong>Title:</strong> ${data.title}</p>
+                    <p><strong>Author:</strong> ${data.author}</p>
+                    <p><strong>Publication Year:</strong> ${data.publication_year}</p>
+                    <p><strong>Country:</strong> ${data.country}</p>
+                    <p><strong>Language:</strong> ${data.language}</p>
+                    <p><strong>Publisher:</strong> ${data.publisher}</p>
+                    <h2>Other Works</h2>
+                    <ul>
+                        ${generateList(data.other_works)}
+                    </ul>
+                `;
+            } catch (error) {
+                console.error('Error fetching JSON data:', error);
+            }
+        }
+
+        // リストを生成する関数
+        function generateList(works) {
+            return works.map(work => `<li>${work}</li>`).join('');
+        }
+
+        // ページが読み込まれた時に書籍情報を表示
+        window.onload = displayBookInfo;
+    </script>
+</body>
+</html>

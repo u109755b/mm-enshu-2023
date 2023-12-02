@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>画像の表示</title>
+  <style>
+    .image-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      max-width: 75%; /* コンテナの幅は親要素いっぱいに */
+      margin: 0 auto;
+      padding: 0 10px; /* 余白 */
+    }
+    .image-item {
+      width: 25%; /* 初期状態ではコンテナいっぱいに */
+      float: left;
+      box-sizing: border-box;
+      padding: 5px;
+    }
+    .image-item img {
+      width: 100%;
+      height: auto; /* 高さを自動調整 */
+      display: block;
+      margin-bottom: 10px;
+    }
+    .image-item .image-description {
+      text-align: center;
+      font-style: italic;
+    }
+    /* タブサイズに合わせてコンテナーサイズと列数を調整 */
+    @media (max-width: 1024px) {
+      .image-item {
+      width: 33.33%; /* 3列 */
+      }
+    }
+
+    /* タブが小さい場合のスタイル */
+    @media (max-width: 768px) {
+      .image-item {
+        width: 50%; /* 2列 */
+      }
+    }
+    /* さらにタブが小さい場合のスタイル */
+    @media (max-width: 480px) {
+      .image-item {
+        width: 100%; /* 1列 */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="image-container">
+    <div class="image-item">
+      <a href="{% url 'visualizer:index' %}">
+        <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
+      </a>
+      <div class="image-description">Alice in Wonderland</div>
+    </div>
+    <div class="image-item">
+      <a href="{% url 'visualizer:index' %}">
+        <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
+      </a>
+      <div class="image-description">The Adventures of Sherlock Holmes</div>
+    </div>
+    <div class="image-item">
+        <a href="{% url 'visualizer:index' %}">
+        <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
+        </a>
+        <div class="image-description">Alice in Wonderland</div>
+    </div>
+    <div class="image-item">
+        <a href="{% url 'visualizer:index' %}">
+        <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
+        </a>
+        <div class="image-description">The Adventures of Sherlock Holmes</div>
+    </div>
+    <div class="image-item">
+      <a href="{% url 'bookinfo:index' %}">
+      <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
+      </a>
+      <div class="image-description">Alice in Wonderland</div>
+    </div>
+    <div class="image-item">
+        <a href="{% url 'bookinfo:index' %}">
+        <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
+        </a>
+        <div class="image-description">The Adventures of Sherlock Holmes</div>
+    </div>
+    <div class="image-item">
+      <a href="{% url 'bookinfo:index' %}">
+      <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
+      </a>
+      <div class="image-description">Alice in Wonderland</div>
+    </div>
+      <!-- 追加の画像や説明をここに追加 -->
+  </div>
+
+  <script>
+    function setEqualHeight(img) {
+      const maxHeight = img.clientHeight; // 最初の画像の高さを取得
+
+      // 全ての画像の高さを最初の画像の高さに合わせる
+      const images = document.querySelectorAll('.image-item img');
+      images.forEach(image => {
+        image.style.height = `${maxHeight}px`;
+      });
+    }
+    // window.onload = function() {
+    //   var img = document.getElementById('full-screen-image');
+    //   img.style.height = window.innerHeight + 'px';
+    //   img.style.width = window.innerWidth + 'px';
+    // };
+    // window.onresize = function() {
+    //   var img = document.getElementById('full-screen-image');
+    //   img.style.height = window.innerHeight + 'px';
+    //   img.style.width = window.innerWidth + 'px';
+    // };
+  </script>
+</body>
+</html>
