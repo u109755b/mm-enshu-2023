@@ -1,35 +1,33 @@
-<!-- https://qiita.com/junjis0203/items/ecc3f4eb9b3a1c4802e4 -->
-
 {% load static %}
 <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <title>Story Visualizer</title>
-    
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@500&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-    
+
     <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
-    
+
     <link rel="stylesheet" href="{% static 'visualizer/css/style_section.css' %}">
     <script src="{% static 'visualizer/js/script_section.js' %}" defer></script>
 </head>
 
 <body>
     <div class="container">
-        
+
         <div class="panel">
             {{ tab_div|safe }}
         </div>
-        
+
         <div class="content">
             <h1 id="title">{{title}}</h1>
             <div id="network"></div>
@@ -38,49 +36,16 @@
             <button id="regen">再生成</button>
             <div id="summary">{{ summary|safe }}</div>
         </div>
-        
+
     </div>
-    
+
     <script>
         // ネットワーク図の更新（初期化時やブラウザ更新時に呼び出される）
         var container = document.getElementById('network');
         var data = {nodes: {{ nodes|safe }}, edges: {{ edges|safe }}};
         var options = {physics: {enabled: false}};
         var network = new vis.Network(container, data, options);
-        
-        fetch('/visualizer/init/')
-            .then(response => response.json())
-            .then(params => {
-                console.log(params.chapter_id)
-                if (params.chapter_id != null) {
-                    selectTab($('#' + params.chapter_id))
-                }
-            });
-
-        // 取得したパラメータをページに反映させる
-        function apply_params(params) {
-            // $("#title").text(params.title);
-            $("#summary").html(params.summary);
-            data = {nodes: params.nodes, edges: params.edges};
-            network = new vis.Network(container, data, options);
-            if (params.chapter_id != null) {
-                selectTab($('#' + params.chapter_id));
-            }
-        }
-
-        // 「前へ」or「次へ」ボタンが押されたとき
-        $("#prev, #next").click(function() {
-            var url = '/visualizer/' + this.id + '/';   // /visualizer/prev/ or /visualizer/next/
-            fetch(url)
-                .then(response => response.json())
-                .then(apply_params);
-        });
-
-        // ネットワーク図の再生成（「再生成」ボタンが押されたとき）
-        document.getElementById('regen').onclick = function() {
-            network = new vis.Network(container, data, options);
-        };
     </script>
-    
+
 </body>
 </html>

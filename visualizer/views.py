@@ -71,8 +71,9 @@ class ViewManager:
         return tab_div
 
     # 各章の要約データを作成する
-    def get_chapter_data(self):
-        if self.chapter_id == None:
+    def get_chapter_data(self, chapter_id=None):
+        if chapter_id: self.chapter_id = chapter_id
+        if not self.chapter_id:
             return {'chapter_id': None, 'summary': '', 'nodes': [], 'edges': []}
         section_data = self.section_data
         for num in self.chapter_id.split('-'):
@@ -84,11 +85,12 @@ class ViewManager:
         if 'nodes' not in chapter_data: chapter_data['nodes'] = []
         if 'edges' not in chapter_data: chapter_data['edges'] = []
         chapter_data['chapter_id'] = self.chapter_id
+        self.request.session['chapter_id'] = self.chapter_id
         return chapter_data
 
     # 章を1つ進める
     def forward_chapter(self):
-        if self.chapter_id == None: index = -1
+        if not self.chapter_id: index = -1
         else: index = self.chapter_id_list.index(self.chapter_id)
         if index + 1 < len(self.chapter_id_list):
             index += 1
@@ -98,7 +100,7 @@ class ViewManager:
 
     # 章を1つ戻す
     def back_chapter(self):
-        if self.chapter_id == None: return None
+        if not self.chapter_id: return None
         index = self.chapter_id_list.index(self.chapter_id)
         if 0 <= index - 1:
             index -= 1
@@ -126,6 +128,16 @@ def index(request):
 def init(request):
     chapter_id = request.session.get('chapter_id')
     return JsonResponse({'chapter_id': chapter_id})
+
+# タブが押されたときの処理
+def select_section(request):
+    chapter_id = request.GET.get('chapter_id', None)
+    view_manager = ViewManager(request)
+    if chapter_id in view_manager.chapter_id_list:
+        chapter_data = view_manager.get_chapter_data(chapter_id)
+    else:
+        chapter_data = {}
+    return JsonResponse(chapter_data)
 
 # 「前へ」ボタンが押された時の処理
 def prev_paragraph(request):
