@@ -1,6 +1,6 @@
 {
-    "sectionName": "第2.2.2章 オオカミを食べる",
-    "summary": "<p><b>第2.2.2章</b><br>それでも、オオカミはあきらめない。とうとう、煙突を伝って末のこぶたの家に忍び込む計画を立てた。しかし末のこぶたは逆にオオカミを釜茹でにし、お母さんぶたと二人で食べた。</p>",
+    "sectionName": "第2.1.1章 オオカミが大怪我を負う",
+    "summary": "<p><b>第2.2.1章</b><br>なんとか末のこぶたも食べたいオオカミは、さまざまな策を講じて末のこぶたを家の外へおびき出す。オオカミvs末のこぶたの知恵くらべの始まりだ。末のこぶたの方が一枚上で、オオカミに大怪我を負わせることに成功した。</p>",
     "nodes": [
         {
             "id": "mother",
@@ -8,7 +8,7 @@
             "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/mother_pig.png",
+            "image": "/static/visualizer/summarized_data/0/image_data/mother_pig.png",
             "size": 25
         },
         {
@@ -17,7 +17,7 @@
             "title": "なまけもので、簡単に出来る藁の家を作る。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/pig1.jpeg",
+            "image": "/static/visualizer/summarized_data/0/image_data/pig1.jpeg",
             "size": 25
         },
         {
@@ -26,7 +26,7 @@
             "title": "めんどくさがり屋で、木の家を作る。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/pig2.jpeg",
+            "image": "/static/visualizer/summarized_data/0/image_data/pig2.jpeg",
             "size": 25
         },
         {
@@ -35,7 +35,7 @@
             "title": "臆病者なので、頑丈なレンガの家を作る。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/pig3.jpeg",
+            "image": "/static/visualizer/summarized_data/0/image_data/pig3.jpeg",
             "size": 25
         },
         {
@@ -44,7 +44,7 @@
             "title": "なんとか子豚たちを食べようと頑張る。",
             "group": "wolf",
             "shape": "image",
-            "image": "/static/visualizer/wolf.jpeg",
+            "image": "/static/visualizer/summarized_data/0/image_data/wolf.jpeg",
             "size": 25
         }
     ],
@@ -77,30 +77,7 @@
                 "highlight": "red",
                 "inherit": false
             },
-            "smooth": {
-                "type": "curvedCW",
-                "roundness": 0.3
-            }
-        },
-        {
-            "id": "pig3_to_wolf",
-            "label": "食べる",
-            "title": "釜茹でにして食べる。",
-            "from": "pig3",
-            "to": "wolf",
-            "arrows": "to",
-            "smooth": {
-                "type": "curvedCW",
-                "roundness": 0.3
-            }
-        },
-        {
-            "id": "mother_to_wolf",
-            "label": "食べる",
-            "title": "釜茹でにして食べる。",
-            "from": "mother",
-            "to": "wolf",
-            "arrows": "to"
+            "smooth": { "type": "curvedCW", "roundness": 0.3 }
         }
     ]
 }

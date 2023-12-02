@@ -45,7 +45,7 @@ if __name__=="__main__":
     section_list = ['1-1', '1-2', '2-1', '2-2-1', '2-2-2']
     chapter_data = {}
     for section_name in section_list:
-        with open(f'sample_json/{section_name}.json', encoding='utf-8') as f:
+        with open(f'0/sample_json/{section_name}.json', encoding='utf-8') as f:
             chapter_data[section_name] = json.load(f)
 
     # ver2の階層的な段落に対応した要約データ
@@ -73,7 +73,7 @@ if __name__=="__main__":
     ]
 
     # 要約データを1つのjsonファイルに保存
-    gutenbergID = 18155     # The Story of the Three Little Pigs
+    gutenbergID = 0     # The Story of the Three Little Pigs
     summarized_data_name = 'all_data.json'
     summarized_data_path = f'{gutenbergID}/{summarized_data_name}'
     

@@ -8,7 +8,7 @@ import re
 class ViewManager:
     # 初期化（requestデータと要約データを読み込む）
     def __init__(self, request):
-        with open('summarized_data/18155/all_data.json', encoding='utf-8') as f:
+        with open('visualizer/static/visualizer/summarized_data/0/all_data.json', encoding='utf-8') as f:
             self.section_data = json.load(f)
         self.chapter_id_list = self._create_chapter_id_list(self.section_data)
         self.request = request
@@ -109,6 +109,7 @@ class ViewManager:
 
 # 最初のページ読み込みや再読み込み時の処理
 def index(request):
+    request.session.clear()
     view_manager = ViewManager(request)
     tab_div = view_manager.create_tab_div()
     chapter_data = view_manager.get_chapter_data()
