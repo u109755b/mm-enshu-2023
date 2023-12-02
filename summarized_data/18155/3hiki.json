@@ -1,0 +1,114 @@
+[
+    {
+        "sectionName": "The Story of the Three Little Pigs",
+        "summary": "An old sow sends her three pigs out to seek their fortunes. The first pig builds a straw house but is eaten by a wolf after he blows it down. The second pig builds a furze house with a similar fate. The third pig builds a brick house, which the wolf can\u2019t blow down. The pig repeatedly outsmarts the wolf's attempts to catch him and eventually kills the wolf by tricking him into falling into a pot of boiling water, ensuring the pig's survival and happiness.",
+        "nodes": [
+            {
+                "id": "node_id0",
+                "label": "Old Sow",
+                "title": " The mother of the three little pigs, she sent them out to seek their fortune due to lack of resources",
+                "size": 7
+            },
+            {
+                "id": "node_id1",
+                "label": "First Little Pig",
+                "title": " The pig that built a house of straw and was eaten by the Wolf",
+                "size": 27
+            },
+            {
+                "id": "node_id2",
+                "label": "Man with straw",
+                "title": " Gave the first little pig straw to build a house",
+                "size": 5
+            },
+            {
+                "id": "node_id3",
+                "label": "Wolf",
+                "title": " The main antagonist who blew down the houses of straw and furze and ate the first two pigs, failed to destroy the brick house, and was ultimately outsmarted and cooked by the third pig",
+                "size": 47
+            },
+            {
+                "id": "node_id4",
+                "label": "Second Little Pig",
+                "title": " The pig that built a house of furze and was eaten by the Wolf",
+                "size": 25
+            },
+            {
+                "id": "node_id5",
+                "label": "Man with furze",
+                "title": " Gave the second little pig furze to build a house",
+                "size": 5
+            },
+            {
+                "id": "node_id6",
+                "label": "Third Little Pig",
+                "title": " The clever pig that built a brick house, outsmarted the Wolf multiple times, and eventually killed and ate the Wolf",
+                "size": 47
+            },
+            {
+                "id": "node_id7",
+                "label": "Man with bricks",
+                "title": " Gave the third little pig bricks to build a sturdy house",
+                "size": 5
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id0",
+                "label": "bore and sent out",
+                "title": "Once upon a time there was an old Sow with three little Pigs; As she had not enough to keep them, she sent them out to seek their fortune.",
+                "from": "Old Sow",
+                "to": " First Little Pig"
+            },
+            {
+                "id": "edge_id1",
+                "label": "bore and sent out",
+                "title": "Once upon a time there was an old Sow with three little Pigs; As she had not enough to keep them, she sent them out to seek their fortune.",
+                "from": "Old Sow",
+                "to": " Second Little Pig"
+            },
+            {
+                "id": "edge_id2",
+                "label": "bore and sent out",
+                "title": "Once upon a time there was an old Sow with three little Pigs; As she had not enough to keep them, she sent them out to seek their fortune.",
+                "from": "Old Sow",
+                "to": " Third Little Pig"
+            },
+            {
+                "id": "edge_id3",
+                "label": "requested and received straw",
+                "title": "The first that went off met a Man with a bundle of straw, and said to him, \"Please, Man, give me that straw to build me a house\"; which the Man did.",
+                "from": "First Little Pig",
+                "to": " Man with straw"
+            },
+            {
+                "id": "edge_id4",
+                "label": "knocked",
+                "title": "denied entry, and ate, Presently came along a Wolf, and knocked at the door, and said, \"Little Pig, little Pig, let me come in.\" To which the Pig answered, \"No, no, by the hair of my chinny chin chin.\" So he huffed and he puffed, and he blew his house in, and ate up the little Pig.",
+                "from": "Wolf",
+                "to": " First Little Pig"
+            },
+            {
+                "id": "edge_id5",
+                "label": "requested and received furze",
+                "title": "The second Pig met a Man with a bundle of furze, and said, \"Please, Man, give me that furze to build a house\"; which the Man did.",
+                "from": "Second Little Pig",
+                "to": " Man with furze"
+            },
+            {
+                "id": "edge_id6",
+                "label": "knocked",
+                "title": "denied entry, and ate, Then along came the Wolf and said, \"Little Pig, little Pig, let me come in.\" \"No, no, by the hair of my chinny chin chin.\" And at last he blew the house down, and ate up the second little Pig.",
+                "from": "Wolf",
+                "to": " Second Little Pig"
+            },
+            {
+                "id": "edge_id7",
+                "label": "requested and received bricks",
+                "title": "The third little Pig met a Man with a load of bricks, and said, \"Please, Man, give me those bricks to build a house with\"; so the Man gave him the bricks.",
+                "from": "Third Little Pig",
+                "to": " Man with bricks"
+            }
+        ]
+    }
+]
