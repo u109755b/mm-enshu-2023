@@ -3,7 +3,6 @@ import shutil
 import json
 import re
 
-
 # 要約データを階層的にファイル保存する
 class summarizedDataHandler:
     def __init__(self):
@@ -36,50 +35,30 @@ class summarizedDataHandler:
         os.makedirs(dir_path, exist_ok=True)
         shutil.rmtree(dir_path)
         self._to_dir_rec(dir_path, summarized_data)
-        print(f'{gutenbergID}の要約データを{dir_path}に保存しました')
+        print(f'gutenbergIDが{gutenbergID}の要約データを{dir_path}に保存しました')
 
 
-
+import sys
 if __name__=="__main__":
-    # 三匹の子豚サンプルデータの各章の要約データを読み込む
-    section_list = ['1-1', '1-2', '2-1', '2-2-1', '2-2-2']
-    chapter_data = {}
-    for section_name in section_list:
-        with open(f'0/sample_json/{section_name}.json', encoding='utf-8') as f:
-            chapter_data[section_name] = json.load(f)
+    # コマンドライン引数のチェック
+    args = sys.argv
+    if len(args) != 2 or not args[1].isdigit():
+        print('引数が正しくありません')
+        print('使い方')
+        print('python summarized_data_handler.py {gutenbergID}')
+        exit()
 
-    # ver2の階層的な段落に対応した要約データ
-    summarized_data = [
-        {
-            "sectionName": "第1章 三びきのこぶたの巣立ち",
-            "subSection": [
-                chapter_data['1-1'],
-                chapter_data['1-2'],
-            ],
-        },
-        {
-            "sectionName": "第2章 オオカミの登場",
-            "subSection": [
-                chapter_data['2-1'],
-                {
-                    "sectionName": "第2.2章 オオカミvs末のこぶた",
-                    "subSection": [
-                        chapter_data['2-2-1'],
-                        chapter_data['2-2-2'],
-                    ],
-                },
-            ],
-        },
-    ]
-
-    # 要約データを1つのjsonファイルに保存
-    gutenbergID = 0     # The Story of the Three Little Pigs
+    # 要約データをのパスを求める
+    dir_name = os.path.dirname(__file__)
+    if not dir_name: dir_name = '.'
+    gutenbergID = int(args[1])
     summarized_data_name = 'all_data.json'
-    summarized_data_path = f'{gutenbergID}/{summarized_data_name}'
-    
-    os.makedirs(f'{gutenbergID}', exist_ok=True)
-    with open(summarized_data_path, 'w', encoding='utf-8') as f:
-        json.dump(summarized_data, f, indent=4, ensure_ascii=False)
+    summarized_data_path = f'{dir_name}/{gutenbergID}/{summarized_data_name}'
+
+    # gutenbergIDが0のときはサンプルデータを作成する
+    if gutenbergID == 0:
+        my_module = __import__('0.make_all_data')
+        my_module.make_all_data.make_all_data(summarized_data_name)
 
     # summarizedDataHandlerの使い方例
     summarized_data_handler = summarizedDataHandler()
