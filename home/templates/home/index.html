@@ -52,46 +52,46 @@
 <body>
   <div class="image-container">
     <div class="image-item">
-      <a href="{% url 'visualizer:index' %}">
+      <a href="{% url 'visualizer:index' 0 %}">
         <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
       </a>
-      <div class="image-description">Alice in Wonderland</div>
+      <div class="image-description">Sample</div>
     </div>
     <div class="image-item">
-      <a href="{% url 'visualizer:index' %}">
-        <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
+      <a href="{% url 'visualizer:index' 18155 %}">
+        <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
       </a>
-      <div class="image-description">The Adventures of Sherlock Holmes</div>
+      <div class="image-description">The Story of the Three Little Pigs</div>
     </div>
     <div class="image-item">
-        <a href="{% url 'visualizer:index' %}">
+        <a href="{% url 'visualizer:index' 1661 %}">
         <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
-        </a>
-        <div class="image-description">Alice in Wonderland</div>
-    </div>
-    <div class="image-item">
-        <a href="{% url 'visualizer:index' %}">
-        <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
         </a>
         <div class="image-description">The Adventures of Sherlock Holmes</div>
     </div>
     <div class="image-item">
+        <a href="{% url 'visualizer:index' 11 %}">
+        <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
+        </a>
+        <div class="image-description">Alice's Adventures in Wonderland by Lewis Carroll</div>
+    </div>
+    <div class="image-item">
       <a href="{% url 'bookinfo:index' %}">
-      <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
+      <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
       </a>
-      <div class="image-description">Alice in Wonderland</div>
+      <div class="image-description">bookinfo</div>
     </div>
     <div class="image-item">
         <a href="{% url 'bookinfo:index' %}">
         <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="The Adventures of Sherlock Holmes" onload="setEqualHeight(this)">
         </a>
-        <div class="image-description">The Adventures of Sherlock Holmes</div>
+        <div class="image-description">bookinfo</div>
     </div>
     <div class="image-item">
       <a href="{% url 'bookinfo:index' %}">
-      <img src="https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
+      <img src="https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg" alt="Alice in Wonderland" onload="setEqualHeight(this)">
       </a>
-      <div class="image-description">Alice in Wonderland</div>
+      <div class="image-description">bookinfo</div>
     </div>
       <!-- 追加の画像や説明をここに追加 -->
   </div>

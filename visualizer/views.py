@@ -7,13 +7,15 @@ import re
 
 class ViewManager:
     # 初期化（requestデータと要約データを読み込む）
-    def __init__(self, request):
-        with open('visualizer/static/visualizer/summarized_data/0/all_data.json', encoding='utf-8') as f:
+    def __init__(self, request, gutenbergID=0):
+        with open(f'visualizer/static/visualizer/summarized_data/{gutenbergID}/all_data.json', encoding='utf-8') as f:
             self.section_data = json.load(f)
-        self.chapter_id_list = self._create_chapter_id_list(self.section_data)
         self.request = request
+        self.gutenbergID = gutenbergID
         self.chapter_id = self.request.session.get('chapter_id')
+        self.chapter_id_list = self._create_chapter_id_list(self.section_data)
 
+    # chapterのリストを作成する（class内からのみ呼び出される）
     def _create_chapter_id_list(self, section_data, depth=0, parent_id=[]):
         chapter_id_list = []
         for i, section in enumerate(section_data):
@@ -27,6 +29,7 @@ class ViewManager:
             parent_id.pop()
         return chapter_id_list
 
+    # section_dataから、tabのhtmlを作るための構造データtab_listを作成する（class内からのみ呼び出される）
     def _create_tab_list(self, section_data, depth=0, parent_id=[]):
         tab_list = []
         for i, section in enumerate(section_data):
@@ -48,27 +51,28 @@ class ViewManager:
             parent_id.pop()
         return tab_list
 
-    def _create_tab_div(self, tab_list, depth=3):
-        tab_div = []
+    # tab_listから、tabのhtmlであるtab_htmlを作成する（class内からのみ呼び出される）
+    def _create_tab_html(self, tab_list, depth=3):
+        tab_html = []
         for obj in tab_list:
             if 'tab' in obj['class']:
                 tab = obj
                 class_str = ' '.join(tab['class'])
                 id = tab['id']
                 section_name = tab['sectionName']
-                tab_div.append('<div class="{}" id="{}">{}</div>'.format(class_str, id, section_name))
+                tab_html.append('<div class="{}" id="{}">{}</div>'.format(class_str, id, section_name))
             if 'group' in obj['class']:
                 group = obj
-                tab_div.append('<div class="group">')
-                tab_div.append(self._create_tab_div(group['subSection'], depth+1))
-                tab_div.append('</div>')
-        return '\n{}'.format('\t'*depth).join(tab_div)
+                tab_html.append('<div class="group">')
+                tab_html.append(self._create_tab_html(group['subSection'], depth+1))
+                tab_html.append('</div>')
+        return '\n{}'.format('\t'*depth).join(tab_html)
 
     # タブのhtmlコードを階層的に作成する
-    def create_tab_div(self):
+    def create_tab_html(self):
         tab_list = self._create_tab_list(self.section_data)
-        tab_div = self._create_tab_div(tab_list)
-        return tab_div
+        tab_html = self._create_tab_html(tab_list)
+        return tab_html
 
     # 各章の要約データを作成する
     def get_chapter_data(self, chapter_id=None):
@@ -110,14 +114,15 @@ class ViewManager:
 
 
 # 最初のページ読み込みや再読み込み時の処理
-def index(request):
+def index(request, gutenbergID=0):
     request.session.clear()
-    view_manager = ViewManager(request)
-    tab_div = view_manager.create_tab_div()
+    view_manager = ViewManager(request, gutenbergID)
+    tab_html = view_manager.create_tab_html()
     chapter_data = view_manager.get_chapter_data()
     params = {
-        'tab_div': tab_div,
+        'gutenbergID': str(gutenbergID),
         'title': '三匹の子豚',
+        'tabHTML': tab_html,
         'summary': chapter_data['summary'],
         'nodes': json.dumps(chapter_data['nodes'], ensure_ascii=False),
         'edges': json.dumps(chapter_data['edges'], ensure_ascii=False),
@@ -125,14 +130,14 @@ def index(request):
     return render(request, 'visualizer/index.html', params)
 
 # 初期化時の処理
-def init(request):
+def init(request, gutenbergID=0):
     chapter_id = request.session.get('chapter_id')
     return JsonResponse({'chapter_id': chapter_id})
 
 # タブが押されたときの処理
-def select_section(request):
+def select_section(request, gutenbergID=0):
     chapter_id = request.GET.get('chapter_id', None)
-    view_manager = ViewManager(request)
+    view_manager = ViewManager(request, gutenbergID)
     if chapter_id in view_manager.chapter_id_list:
         chapter_data = view_manager.get_chapter_data(chapter_id)
     else:
@@ -140,15 +145,15 @@ def select_section(request):
     return JsonResponse(chapter_data)
 
 # 「前へ」ボタンが押された時の処理
-def prev_paragraph(request):
-    view_manager = ViewManager(request)
+def prev_paragraph(request, gutenbergID=0):
+    view_manager = ViewManager(request, gutenbergID)
     view_manager.back_chapter()
     chapter_data = view_manager.get_chapter_data()
     return JsonResponse(chapter_data)
 
 # 「次へ」ボタンが押された時の処理
-def next_paragraph(request):
-    view_manager = ViewManager(request)
+def next_paragraph(request, gutenbergID=0):
+    view_manager = ViewManager(request, gutenbergID)
     view_manager.forward_chapter()
     chapter_data = view_manager.get_chapter_data()
     return JsonResponse(chapter_data)

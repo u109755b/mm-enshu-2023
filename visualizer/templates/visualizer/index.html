@@ -13,8 +13,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
-    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
 
     <link rel="stylesheet" href="{% static 'visualizer/css/style_section.css' %}">
@@ -25,7 +25,7 @@
     <div class="container">
 
         <div class="panel">
-            {{ tab_div|safe }}
+            {{ tabHTML|safe }}
         </div>
 
         <div class="content">
@@ -41,6 +41,7 @@
 
     <script>
         // ネットワーク図の更新（初期化時やブラウザ更新時に呼び出される）
+        var gutenbergID = {{gutenbergID}};
         var container = document.getElementById('network');
         var data = {nodes: {{ nodes|safe }}, edges: {{ edges|safe }}};
         var options = {physics: {enabled: false}};

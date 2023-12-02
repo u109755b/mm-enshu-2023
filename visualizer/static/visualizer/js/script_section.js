@@ -42,7 +42,7 @@ function apply_params(params) {
 
 $(function() {
     // ページが更新されたとき、前の章番号を取得し選択する
-    fetch('/visualizer/init/')
+    fetch(`${gutenbergID}/init/`)
         .then(response => response.json())
         .then(params => {
             if (params.chapter_id != null) {
@@ -53,15 +53,14 @@ $(function() {
     // 章タブを押したとき
     $('.tab').click(function() {
         expand($(this));
-        fetch(`/visualizer/section/?chapter_id=${this.id}`)
+        fetch(`${gutenbergID}/section/?chapter_id=${this.id}`)
             .then(response => response.json())
             .then(apply_params);
     });
 
     // 「前へ」or「次へ」ボタンが押されたとき
     $("#prev, #next").click(function() {
-        var url = '/visualizer/' + this.id + '/';   // /visualizer/prev/ or /visualizer/next/
-        fetch(url)
+        fetch(`${gutenbergID}/${this.id}/`)     // ${this.id} = prev or next
             .then(response => response.json())
             .then(apply_params);
     });

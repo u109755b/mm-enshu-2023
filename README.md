@@ -124,7 +124,7 @@ $ python manage.py runserver 0.0.0.0:8000
 
 
 それぞれ最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
-`http://localhost:8000/visualizer`  
+`http://localhost:8000`  
 
   
 
