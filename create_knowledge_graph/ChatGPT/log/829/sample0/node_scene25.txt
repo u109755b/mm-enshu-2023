@@ -1,0 +1,17 @@
+Homer, Renowned ancient Greek poet, 0.95
+Aristotle, Influential ancient Greek philosopher, 0.95
+Didymus, Commentator on literary works, 0.30
+Eustathius, Scholar and commentator of ancient texts, 0.30
+Scotus, Medieval scholar and philosopher, 0.50
+Ramus, French humanist, logician, and educational reformer, 0.50
+Descartes, French philosopher, mathematician, and scientist, known for his philosophy of dualism, 0.90
+Gassendi, French philosopher, priest, scientist, astronomer, and mathematician, known for his attempt to reconcile Epicurean atomism with Christianity, 0.90
+Heliogabalus, Roman Emperor known for his eccentricities and decadence, 0.60
+Agesilaus, King of Sparta and a commander who was renowned for his military skills, 0.70
+Polydore Virgil, Italian historian and scholar, 0.40
+Actium, Represents an individual of significance in the battle of Actium, given the context of naval command, 0.70
+Antony, Roman politician and general, central figure in the final war of the Roman Republic, 0.85
+Augustus, Founder of the Roman Empire and its first Emperor, 0.95
+Agrippa, Roman military commander and trusted friend of Augustus, known for his naval victories, 0.85
+Libertina, Likely a fictional character representing a freewoman associated with one of the emperor’s mistresses, 0.20
+Publicola, Represents a character likely in a position of power such as vice-admiral, given the context of naval command, 0.60

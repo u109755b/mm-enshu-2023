@@ -1,0 +1,12 @@
+Author, The protagonist and narrator of the story who recounts his experiences in Laputa and Balnibarbi, expresses his desire to leave, and interacts with the great lord and others, 1.0
+Prince of Laputa, A character who is implied to be among the leadership of Laputa but does not take a specific interest in the Author, showcasing Laputa's societal priorities, 0.3
+People of Laputa, Inhabitants of the flying island who are described as being solely interested in mathematics and music, to which the Author feels inferior and thus neglected, 0.4
+Women, tradesmen, flappers, and court-pages, The only people in Laputa with whom the Author has meaningful interactions, showing the Author's social circle during his stay, 0.5
+Great lord at court, A noble character nearly related to the king of Laputa, seen as ignorant and stupid by his peers but is favorable and curious about the Author's knowledge of Europe, playing a key role in the Author's plot to leave the island, 0.8
+King of Laputa, The ruler who grants the Author permission to leave the island and presents him with gifts, likely having authority over Laputa, 0.6
+Friend of the great lord in Lagado, An unseen character who is intended to receive the Author in Balnibarbi's metropolis via a letter of recommendation, 0.2
+Lord Munodi, A prominent figure in Lagado who becomes the Author's host and provides insights into the state of Balnibarbi as well as its people, significant for his different perspective on progress and tradition, 0.9
+Citizens of Lagado and the country, The general population working on various unsuccessful projects, they represent the effects of misguided innovation, 0.3
+Cabal of ministers, A group responsible for discharging Lord Munodi as governor of Lagado due to their perception of his insufficiency, they play a role in the political backstory and current state of Lagado, 0.4
+Academics in Lagado, Professors in the grand academy responsible for new schemes and innovations, they embody the pursuit of impractical knowledge and are indicative of society's ambitions and follies, 0.7
+Projectors, Individuals involved with the academy who propose and attempt to execute various ambitious projects, they symbolize the drive for innovation and the consequences of its misapplication, 0.6

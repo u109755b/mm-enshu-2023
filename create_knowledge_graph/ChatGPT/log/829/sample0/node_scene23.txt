@@ -1,0 +1,11 @@
+The author, The narrator of the account and proposer of improvements, 1.0
+The professors, Academics at the school proposing ludicrous schemes, 0.8
+The most ingenious doctor, A well-versed person in government who suggests remedies for political corruption, 0.8
+The first senator, A character who participates in the satirical scheme for taxing vices, 0.7
+The second senator, A character who advocates for taxing positive qualities instead of vices, 0.7
+The women, A group proposed for taxation based on beauty and dressing skill, 0.6
+Princes, Implicit characters who are said to have favourites with weak memories, 0.5
+Senators, Members of the great council supposed to raffle for employments, 0.5
+Great statesmen, Implied characters advised to scrutinize suspected persons for plots, 0.5
+The author of the whole discourse, The creator of written work containing political observations, 0.7
+The learned individuals of Tribnia, Those skilled in deciphering and creating plots, 0.7

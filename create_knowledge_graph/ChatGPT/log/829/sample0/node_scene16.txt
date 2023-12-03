@@ -1,0 +1,9 @@
+The author, The protagonist and narrator of the story, sharing his experiences and viewpoints, 1.0
+The king, The ruler of the country the author describes, whom the author approaches with his proposals, 0.8
+Dionysius Halicarnassensis, An ancient historian referenced by the author for his views on patriotic history writing, 0.3
+Evil genius, A metaphorical character invoked by the king to describe the creator of destructive inventions, 0.4
+The queen's joiner, A minor character mentioned for having constructed a large machine for reading, 0.1
+Glumdalclitch, The individual who possesses a room with the large reading machine, possibly significant to the author, 0.5
+Glumdalclitch’s governess, The owner of a treatise on morality, suggesting a reflective or educational role, 0.2
+The writer of the treatise, Author of a work concerned with human frailties, suggesting a didactic role, 0.2
+A cavalier, Represents the soldiers in the king's army during a hypothetical demonstration of military might, 0.1

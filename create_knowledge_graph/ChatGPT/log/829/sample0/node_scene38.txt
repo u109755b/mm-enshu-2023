@@ -1,0 +1,5 @@
+Author, The narrator of the story and a human character deeply influenced by the Houyhnhnms, 0.9
+Master, The Houyhnhnm who takes in the author and teaches him about their ways of life, 0.8
+Sorrel Nag, A fellow servant and associate of the author who assists in various tasks, 0.5
+Houyhnhnms, A species of intelligent and virtuous horse-like creatures whom the author admires and lives with, 0.7
+Yahoos, A degenerate and vile species in the story, representing the worst of humanity, 0.6

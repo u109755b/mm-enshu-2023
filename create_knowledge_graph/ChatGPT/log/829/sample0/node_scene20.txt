@@ -1,0 +1,13 @@
+Modern philosophy, A body of knowledge or academic discipline that attempts to interpret phenomena, 0.75
+Astronomy, A scientific field concerned with celestial objects, space, and the physical universe as a whole, 0.80
+Laputians, Inhabitants of the flying or floating island in "Gulliver's Travels" who are known for their improvements in astronomy, 0.65
+King of Laputa, The ruler of the flying island who can suppress insurrections with the unique abilities of the island, 0.90
+Prince of Laputa, A member of the royal family, presumably the individual who granted the protagonist permission to view the island's curiosities, 0.70
+Tutor, The person assigned to accompany the protagonist and assist in understanding the island, 0.60
+Reader, The audience to whom the philosophical account of the island's motions is being narrated, 0.50
+Astronomers of Laputa, Scientists residing in Laputa who are responsible for operating the lodestone and conducting celestial observations, 0.85
+Citizens of Lindalino, Inhabitants of the second city in the kingdom who rebel against the king's authority and attempt to gain independence, 0.80
+Governor of Lindalino, The official seized by the citizens during their rebellion, 0.70
+King's servants, Individuals serving the monarch who could be at risk if the island were to be permanently fixed by the citizens, 0.60
+King's ministers, The monarch's advisors who are wary of enslaving their country for fear of the consequences, 0.75
+Queen of Laputa, The king's consort who is restricted from leaving the island until she is past child-bearing age, 0.65

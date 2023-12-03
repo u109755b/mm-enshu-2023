@@ -1,0 +1,6 @@
+The input and output nodes of an edge must be one of 'The author, The author's wife, Robert Purefoy, Captain Pocock, Buccaneers, James Welch, The Yahoos, The Houyhnhnms'.
+The author, The author's wife, leave, The author left his poor wife big with child.
+The author, Robert Purefoy, employ, The author took a skilful young man of that calling, one Robert Purefoy, into his ship.
+The author, Captain Pocock, meet, On the 14th we met with Captain Pocock, of Bristol, at Teneriffe.
+Buccaneers, ship, conspire and confine, The rogues debauched my other men, and they all formed a conspiracy to seize the ship, and secure me.
+The author, The Yahoos, encounter, The author meets two Houyhnhnms.

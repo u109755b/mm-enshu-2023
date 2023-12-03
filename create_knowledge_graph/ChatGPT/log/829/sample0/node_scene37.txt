@@ -1,0 +1,9 @@
+Houyhnhnms, A species of intelligent horses with a highly developed sense of reason and virtue, 1.0
+Yahoos, A vile and savage humanoid species that the Houyhnhnms consider exterminating, 0.8
+My master, The Houyhnhnm who owns the narrator and serves as a representative to the assembly, 0.9
+Narrator, A human being who is considered a sophisticated Yahoo by the Houyhnhnms, the story's central character, 1.0
+Member for the affirmative, A member of the Houyhnhnm assembly who argues for the extermination of Yahoos, 0.6
+Two original Yahoos, The speculated ancestors of all Yahoos in the Houyhnhnm country, 0.4
+Mistress, A Houyhnhnm who acted cheerfully after her husband's death, showing the Houyhnhnms' attitude towards death, 0.3
+Husband, The Houyhnhnm who "retired to his first mother," an expression of dying, 0.3
+Children of the mistress, Part of the Houyhnhnm family mentioned in the context of the husband's death, 0.2

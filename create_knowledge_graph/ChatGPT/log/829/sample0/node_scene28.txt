@@ -1,0 +1,10 @@
+The author, The protagonist and narrator of the account, who leaves Luggnagg, sails to Japan, and returns to England, 1.0
+Japanese authors, Authors who may have given an account of the struldbrugs according to the protagonist, 0.1
+The king of Luggnagg, The monarch who gives the author permission to depart and gifts, as well as a letter of recommendation to the Emperor of Japan, 0.4
+The Emperor of Japan, The ruler who receives a letter from the author and grants his requests, acknowledging the favor to the king of Luggnagg, 0.4
+The interpreter, The person who facilitates the communication between the author and the Emperor of Japan, 0.3
+Dutch sailors, Sailors belonging to the ship Amboyna from Amsterdam who interact with the author in Japan, 0.3
+The captain (Theodorus Vangrult), The captain of the Amboyna who agrees to take the author to Holland for half the usual rate in exchange for his services as a surgeon, 0.3
+Malicious rogue of a skipper, The person who attempts to cause trouble for the author by reporting him for not trampling on the crucifix, 0.2
+Officer with a bamboo, The officer who punishes the malicious skipper and allows the author to pass without further trouble, 0.2
+The author's wife, The spouse of the author, whom he finds in good health upon returning to Redriff, England, 0.5

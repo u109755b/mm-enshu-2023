@@ -1,0 +1,11 @@
+Captain John Nicholas, The commander of the ship Adventure bound for Surat, 0.7
+Natives, Inhabitants of the country the author gets stranded in, 0.8
+Farmer, The person who first discovers the author in the new land and takes care of him, 0.9
+Farmer's wife, The farmer's spouse who eventually grows tender of the author, 0.8
+Farmer's children, The offspring of the farmer, around one of whom the author has an encounter, 0.6
+Old grandmother, An elderly member of the farmer's household, 0.4
+Nurse, Servant of the farmer who brings in a child, 0.5
+Farmer's youngest son, A mischievous boy who briefly endangers the author, 0.7
+Mistress's favourite cat, A pet in the farmer's house that poses a potential threat to the author, 0.6
+Dogs, Domesticated animals in the farmer's household, 0.5
+Rats, Pests in the farmer's house that attack the author, 0.6

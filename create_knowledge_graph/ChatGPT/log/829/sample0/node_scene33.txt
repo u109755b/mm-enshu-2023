@@ -1,0 +1,9 @@
+The author, A person commanded by his master to inform about the state of England and engaged in various discussions regarding war and other subjects, 0.8
+The master, The character who commands the author to inform him about English affairs and engages with the author in conversation, displaying curiosity and critique, 0.7
+The Prince of Orange, A historical figure mentioned in the context of the English Revolution and wars, 0.3
+The present queen, A current ruling figure mentioned in relation to ongoing wars, 0.3
+Yahoos, A term used by the master to refer to humans, highlighting their destructive nature and the object of his criticism, 0.6
+A gnnayh, A creature compared to Yahoos, illustrating the master's view on the nature of beings and their inherent qualities, 0.2
+Advocates, Individuals part of a society described by the author, skilled in manipulating the law for their purposes, 0.4
+Judges, Individuals who decide legal cases, also described by the author as biased and corrupt, 0.4
+Criminals, People accused of crimes against the state as part of the legal discussion, although not a main focus, 0.2

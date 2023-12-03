@@ -1,0 +1,16 @@
+Emperor of Lilliput, The ruler of Lilliput who is curious and cautious about the author, 0.9
+Empress of Lilliput, The counterpart to the Emperor who also attends to see the author, 0.6
+Young Princes of Lilliput, The offspring of the Emperor and Empress who are present to observe the author, 0.5
+Soldiers, Subordinates of the Emperor who interact directly with the author, enforcing orders and providing security, 0.7
+Attendants, Individuals who are present to assist and serve the Emperor in various capacities, 0.5
+Cooks and Butlers of Lilliput, Servants who provide food and drink to the author as ordered by the Emperor, 0.4
+Ladies in attendance, Members of the court and possibly nobility who accompany the Empress and observe the author, 0.4
+Courtiers, Nobles or officials at the Lilliputian court who attend the engagements involving the author, 0.4
+Priests and Lawyers of Lilliput, Dignitaries potentially involved in diplomatic or legal matters pertaining to the author, 0.5
+Guards, Members of the military responsible for maintaining order and guarding the author, 0.6
+Rabble, The common Lilliputians who are curious and potentially hostile towards the author, 0.3
+Colonel, A military officer who oversees the handling of insubordinate actions towards the author, 0.7
+Ringleaders, Individuals identified as leading aggressive actions against the author, 0.4
+Particular friend of high quality, An influential and knowledgeable insider who provides the author with information about the court's views and plans, 0.7
+Learned Men of Lilliput, Scholars tasked with teaching the author the Lilliputian language, 0.7
+Clefrin Frelock, Marsi Frelock, Officers who searched the author and wrote the inventory of his possessions, 0.6

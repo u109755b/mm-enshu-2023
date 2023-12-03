@@ -1,0 +1,10 @@
+Author, Protagonist and narrator of the story, central character around whom the entire narrative is based, 1.0
+Father of the Author, Father of the protagonist, provided the initial education and apprenticeship opportunities, 0.3
+Mr. James Bates, A London surgeon and the Author's master, significant in the Author's early career development, 0.4
+Uncle John, A relative of the Author, helped financially to support the Author's education, 0.2
+Mrs. Mary Burton, The Author's wife, represents a major life change for the Author and a source of financial support through her dowry, 0.3
+Captain Abraham Pannel, Commander of the Swallow and the Author's employer, significant as the Author's link to seafaring, 0.4
+Mr. Edmund Burton, Mrs. Mary Burton's father, contributes to the Author's circumstances by the dowry, 0.2
+Captain William Prichard, Master of the Antelope, relevant for providing the Author the opportunity that leads to the adventures in Lilliput, 0.4
+Lilliputians, The tiny inhabitants of Lilliput, significant for capturing and interacting with the Author post shipwreck, 0.8
+The Emperor of Lilliput, The ruler likely responsible for the decisions regarding the Author's treatment in Lilliput, 0.7

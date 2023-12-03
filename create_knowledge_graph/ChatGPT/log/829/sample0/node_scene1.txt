@@ -1,0 +1,7 @@
+Captain Gulliver, The protagonist and narrator of the letter, expressing his disappointment in the publication and reception of his accounts of his travels, 1.0
+Cousin Sympson, The recipient of the letter, urged Gulliver to publish his travels and may have been responsible for alterations, 0.8
+Queen Anne, A monarch mentioned to have been falsely praised in Gulliver’s publication according to his letter, 0.4
+Lord Godolphin, The first chief minister under Queen Anne mentioned by Gulliver, highlighting inaccuracies in the accounts of his travels, 0.4
+Lord Oxford, The second chief minister under Queen Anne mentioned by Gulliver, highlighting inaccuracies in the accounts of his travels, 0.4
+Master Houyhnhnm, Gulliver’s master in the land of the Houyhnhnms, before whom Gulliver feels it indecent to praise any creature of human composition, 0.7
+Yahoo, A term Gulliver uses to represent the worst of human nature and the species he contends are ruling in England, 0.9

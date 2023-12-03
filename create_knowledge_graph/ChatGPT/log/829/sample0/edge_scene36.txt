@@ -1,0 +1,8 @@
+The input and output nodes of an edge must be one of 'Yahoos, Houyhnhnms, Author's master, Strong sorrel nag, Young male Yahoo, Young female Yahoo, Sorrel nag's owner, General assembly, Matron Houyhnhnms, Servant Houyhnhnms, Young couple, Houyhnhnm children'
+Author's master, Strong sorrel nag, order to guard, and his honour ordered one of his servants, a strong sorrel nag, to be my guard.
+Yahoos, Houyhnhnms, be kept by, The Houyhnhnms keep the Yahoos for present use in huts not far from the house.
+Houyhnhnms, General assembly, hold, Their general assembly.
+Houyhnhnms, Matron Houyhnhnms, restrict breeding to, When the matron Houyhnhnms have produced one of each sex, they no longer accompany with their consorts.
+Houyhnhnms, Young couple, arrange marriage of, The young couple meet, and are joined, merely because it is the determination of their parents and friends.
+Houyhnhnms, Houyhnhnm children, train through exercise, But the Houyhnhnms train up their youth to strength, speed, and hardiness by exercising them.
+Servant Houyhnhnms, Houyhnhnm children, limit breeding of, But the race of inferior Houyhnhnms, bred up to be servants, is not so strictly limited upon this article.

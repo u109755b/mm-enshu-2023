@@ -1,0 +1,8 @@
+Luggnaggians, Struldbrugs, commend, The Luggnaggians commended Struldbrugs.
+Person of quality, Author, inquire, A person of quality asked the author whether he had seen any of their Struldbrugs.
+Author, Person of quality, desire explanation, The author desired the person of quality to explain what he meant by Struldbrugs.
+Person of quality, Author, explain, The person of quality explained to the author the nature of Struldbrugs.
+Author, Struldbrugs, express admiration, The author expressed admiration towards the Struldbrugs.
+Ambassador from Balnibarbi, Author, challenge, The ambassador from Balnibarbi set the author right in few mistakes.
+Friends, Author, inquire, Friends desired to know the author's scheme of living if he were a Struldbrug.
+Luggnaggians, Struldbrugs, provide, The Luggnaggians provided for Struldbrugs with a very scanty allowance.

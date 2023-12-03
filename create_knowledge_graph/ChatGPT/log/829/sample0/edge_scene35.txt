@@ -1,0 +1,5 @@
+The input and output nodes of an edge must be one of 'Author, Master, Houyhnhnms, Yahoos'
+Author, Master, have conversation, The author related several conversations with his master.
+Author, Houyhnhnms, exhibit love and veneration, The author contracted a love and veneration for the inhabitants, the Houyhnhnms.
+Master, Yahoos, make observations, The master observed Yahoos have an undistinguishing appetite like humans, according to the author.
+Master, Houyhnhnms, secure food, The master acknowledges that when a cow dies, Houyhnhnms secure it for their own Yahoos.

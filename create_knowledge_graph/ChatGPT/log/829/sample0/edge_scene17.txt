@@ -1,0 +1,9 @@
+The input and output nodes of an edge must be one of 'The king, The queen, Author, Glumdalclitch, The page, Eagles, Mr. Thomas Wilcocks, Wife of the author, Daughter of the author, Servants, Friends'
+The king and queen, The author, are favorites, The author was the favourite of a great king and great queen.
+Glumdalclitch, The author, attends, Glumdalclitch and the author attended the king and queen in a progress.
+The page, The author, has fondness, The author was very fond of a page, who had sometimes been trusted with him.
+Glumdalclitch, The author, is concerned, Glumdalclitch consented with reluctance to letting the author go out with the page and gave a strict charge to be careful.
+The page, The author's box, takes out, The page took the author out in his box towards the sea-shore.
+Eagles, The author's box, seize, Some eagle had got the ring of the author's box in his beak.
+Mr. Thomas Wilcocks, The author, offers kindness, The captain, Mr. Thomas Wilcocks, observed the author to faint and took him into his cabin, giving him a cordial.
+Mr. Thomas Wilcocks, The author, listens to travels, Mr. Thomas Wilcocks desired the author to give an account of his travels and the accident that led him to be adrift in the wooden chest.

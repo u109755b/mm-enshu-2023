@@ -1,0 +1,5 @@
+Captain William Robinson, A Cornish commander of the Hopewell, 0.6
+The author, Narrator, sets out on his third voyage, captured by pirates and then arrives at an island, 1.0
+Dutchman, A malicious individual among the pirates who threatens the author, 0.7
+Japanese captain, The commander of the larger pirate ship, shows the author some mercy, 0.65
+The author's wife, Her consent is required for the author's voyage, 0.4

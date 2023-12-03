@@ -1,0 +1,12 @@
+Author, Main character and narrator of the story, recounting his voyages and experiences, 1.0
+Master, The author's master at some point in the story, likely before the voyage, 0.3
+Sorrel nag, A creature that shows affection towards the author, likely an animal from where the author lived before this voyage, 0.2
+Natives, Inhabitants of New Holland encountered by the author, 0.4
+Portuguese ship crew, The group that seized the author and took him to their captain, 0.5
+Captain, Named Pedro de Mendez, he shows great civility and kindness towards the author, 0.8
+Captain's servants, Briefly mentioned as part of Captain Mendez's household, limited interaction with the author, 0.1
+Don Pedro de Mendez, Clearly the captain himself, plays a significant role in the author's return home, 0.8
+Author's wife, Receives the author back home, but is met with his disdain, 0.6
+Author's children, Briefly mentioned as part of the author's family, who also receive him with joy, 0.4
+English ship master, Captain of the ship that brings the author back to England, 0.3
+Groom, The person who takes care of the author's horses, favored by the author upon return, 0.2

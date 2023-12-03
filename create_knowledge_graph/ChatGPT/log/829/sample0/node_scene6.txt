@@ -1,0 +1,5 @@
+The author, The protagonist and narrator of the adventure, preventing an invasion and saving a palace, 1.0
+The emperor of Lilliput, The ruler of Lilliput who considers the author instrumental in stopping an invasion, 0.9
+The empress of Lilliput, Mentioned in relation to the fire in her apartment which the author helps extinguish, 0.6
+Ambassadors from the emperor of Blefuscu, Representatives from Blefuscu seeking peace, 0.8
+The emperor of Blefuscu, Ruler of the empire of Blefuscu, mentioned in the context of peace and the protagonist's interactions, 0.7

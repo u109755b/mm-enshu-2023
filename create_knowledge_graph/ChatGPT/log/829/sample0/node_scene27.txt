@@ -1,0 +1,10 @@
+Luggnaggians, The inhabitants of Luggnagg who are described as polite and generous, 0.6
+Struldbrugs, A group of immortals born with a distinctive mark, living in Luggnagg, 0.8
+Person of quality, A Luggnaggian of high social standing who inquires about the author's knowledge of Struldbrugs, 0.5
+Interpreter, The author's companion who helps in communicating with the Luggnaggians, 0.4
+Young girl, A newly born Struldbrug mentioned during the discussion of Struldbrugs' rarity, 0.2
+Author, The narrator of the story who expresses his opinions and thoughts on immortality, 0.7
+Gentleman, The individual who subsequently interprets the author's speech to the rest of the company, 0.4
+Ambassador from Balnibarbi, A character referenced to highlight disbelief in the existence of Struldbrugs outside Luggnagg, 0.2
+Mortals, The term used to describe normal human beings in contrast to the Struldbrugs, 0.5
+Friends, Referred to by the gentleman, likely other members of Luggnaggian society participating in the conversation, 0.3

@@ -1,0 +1,12 @@
+Author, The protagonist and narrator of the story, 1.0
+Emperor, The ruler of Lilliput who is entertained by the author and grants him liberty, 0.9
+Flimnap, The treasurer of Lilliput who is skilled in rope-dancing, 0.6
+Reldresal, Principal secretary for private affairs in Lilliput and a friend to the author, 0.6
+Skyresh Bolgolam, The high-admiral of Lilliput and the protagonist's mortal enemy, 0.7
+Empress, Consort to the emperor and witness to the author's entertainments, 0.5
+General, A military leader in Lilliput who orders troops to march under the author, 0.5
+Golbasto Momarem Evlame Gurdilo Shefin Mully Ully Gue, Full title for the emperor as stated in the conditions for the author's liberty, 0.9
+Master of the Woods, The official instructed to provide materials for the author's entertainment of the emperor, 0.4
+Woodmen, Those who brought materials to the author as per the emperor's command, 0.4
+Waggoners, Subjects who delivered the author's hat to him, 0.4
+Captain, Owner of a fiery horse that caused an incident during an entertainment, 0.4

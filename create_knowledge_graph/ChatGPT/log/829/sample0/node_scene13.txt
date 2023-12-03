@@ -1,0 +1,13 @@
+The queen, A royal figure the author always attended during travels, 0.6
+The king, A monarch who accompanies the queen on progresses and visits frontiers, 0.65
+Glumdalclitch, The governess’s daughter who often carries the author in a box, 0.7
+The governess, Glumdalclitch's mother and a person who frequently takes her daughter to see the town, 0.55
+The coachman, A servant who drives the coach for Glumdalclitch and the author, 0.3
+The beggars, Individuals who approached the author's coach to beg, adding a dreadful spectacle, 0.4
+The artist, The person who made the small box for the author's travels, 0.3
+The grave trusty servant, Someone who carries the author on horseback in a box, 0.35
+The greatest officers, Persons of rank who esteemed the author due to the favor of the majesties, 0.5
+The general public, The curious people who crowded around the author's sedan to observe him, 0.4
+The bearers, Men who carry Glumdalclitch’s sedan, 0.3
+His majesty's military guard, The five hundred horsemen who attend the king for state occasions, 0.55
+His majesty's army, The military force of the kingdom, part of which the author has seen in battle formation, 0.6

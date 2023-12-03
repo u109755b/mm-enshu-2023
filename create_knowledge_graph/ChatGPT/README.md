@@ -7,6 +7,7 @@
 | 11 |  Alice's Adventures in Wonderland by Lewis Carroll | 26,520 |
 | 120 | TREASURE ISLAND | 67,870 |
 | 829 | GULLIVER'S TRAVELS INTO SEVERAL REMOTE NATIONS OF THE WORLD | 105,080 |
+
 \*  1_preprocess_txt.py 実行後人手で I. A Scandal in Bohemia のみを抽出
 
 
@@ -73,8 +74,8 @@
     | program | time | money (I/O, $) |
     | ---- | ---- | ---- |
     | 1_preprocess_txt.py | 0:01 | --- |
-    | 2_summarization.py | ?:?? | ??? |
-    | 3_create_knowledge_graph.py | ?:?? | ??? |
+    | 2_summarization.py | 8:30 | 1.30/0.20 |
+    | 3_create_knowledge_graph.py | 48:00 | 2.80/1.60 |
     | 4_create_json.py | ?:?? | --- |
 
 

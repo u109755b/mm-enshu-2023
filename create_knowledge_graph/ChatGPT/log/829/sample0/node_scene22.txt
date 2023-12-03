@@ -1,0 +1,12 @@
+Author, Protagonist and visitor to Lagado, 1.0
+Warden, The person who kindly receives the author at the academy, 0.5
+First Man, Projector working on extracting sunbeams from cucumbers, 0.7
+Ancient Student, The oldest student at the academy, working on converting excrement into food, 0.7
+Architect, The ingenious architect devising houses built from the roof down, 0.6
+Blind Man, Man born blind teaching apprentices to mix colors by feeling and smelling, 0.7
+Projector with Hogs, Inventor of the method for ploughing the ground using hogs, 0.6
+Spider Web Artist, Man who uses spiders to create colorful webs as an alternative to silkworms, 0.6
+Astronomer, Person attempting to place a sun-dial upon the town-house, 0.5
+Great Physician, Physician famous for curing colic with a unique bellows method, 0.6
+Universal Artist, Person with numerous curiosities and projects aimed at improving human life, 0.8
+First Professor in Speculative Learning, Professor working on a mechanical method to generate books in various fields, 0.75

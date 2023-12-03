@@ -1,0 +1,4 @@
+Author, The narrator of the passage who discusses his experiences and views with his master, 0.9
+Master, The Houyhnhnm who engages in philosophical dialogue with the author and provides insights about human nature, 0.9
+Houyhnhnms, Rational and virtuous horse-like creatures that the author admires and wishes to live among, 0.7
+Yahoos, Human-like creatures that live with the Houyhnhnms, perceived as detestable and corrupt, serving as a contrast to human nature, 0.8

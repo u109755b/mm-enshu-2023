@@ -1,0 +1,12 @@
+Yahoos, Human-like creatures that exhibit negative traits and are kept by the Houyhnhnms, 0.8
+Houyhnhnms, A race of intelligent horses that embody reason and virtue, 0.9
+Author's master, A Houyhnhnm who teaches the author about their ways and reason, 0.6
+Strong sorrel nag, Houyhnhnm servant assigned to guard the author, 0.5
+Young male Yahoo, A young Yahoo the author endeavored to tame, 0.4
+Young female Yahoo, A young Yahoo who exhibited a strong attraction to the author, 0.4
+Sorrel nag's owner, The Houyhnhnm master of the protective sorrel nag, 0.3
+General assembly, A council of Houyhnhnms that meets for the state and regulation of their society, 0.7
+Matron Houyhnhnms, Female Houyhnhnms responsible for breeding and continuing the Houyhnhnm race, 0.6
+Servant Houyhnhnms, The lower class of Houyhnhnms bred to be domestic servants, 0.5
+Young couple, A referenced pair of Houyhnhnms partaking in the ritual of marriage without typical human affections, 0.3
+Houyhnhnm children, Offspring being educated and trained in Houyhnhnm society, 0.4

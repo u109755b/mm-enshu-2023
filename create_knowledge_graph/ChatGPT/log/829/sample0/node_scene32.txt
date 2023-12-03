@@ -1,0 +1,4 @@
+Houyhnhnms, A species of intelligent horses in "Gulliver's Travels" that embody an ideal rationality and civilization, 0.9
+Yahoos, A brutish and savage species of humanoid creatures in "Gulliver's Travels", representing the worst of human nature, 0.9
+My master, The Houyhnhnm who becomes Gulliver's friend and instructs him in the ways of the Houyhnhnms, represents the possibility of a wholly rational and wise being, 0.8
+The author, Referring to Lemuel Gulliver, the narrator and main character in "Gulliver's Travels", represents the human view and provides contrast to the Houyhnhnms and Yahoos, 1.0

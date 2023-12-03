@@ -1,0 +1,12 @@
+Homer, Aristotle, appearance comparison, Homer was the taller and comelier person of the two.
+Didymus, Homer, introduction, I introduced Didymus to Homer.
+Eustathius, Homer, introduction, I introduced Eustathius to Homer.
+Aristotle, Scotus, discontent towards, Aristotle was out of all patience with the account I gave him of Scotus.
+Aristotle, Ramus, discontent towards, Aristotle was out of all patience with the account I gave him of Ramus.
+Descartes, Aristotle, explain systems to, I prevailed on Descartes to explain his systems to Aristotle.
+Gassendi, Aristotle, explain systems to, I prevailed on Gassendi to explain his systems to Aristotle.
+Polydore Virgil, great house, statement about, Polydore Virgil says of a certain great house, Nec vir fortis, nec femina casta.
+Actium, Antony, defeat due to, The sea fight at Actium was the sole cause of Antony's flight.
+Augustus, Libertina, ship given to son of, It was given to a boy who had never seen the sea, the son of Libertina.
+Publicola, page, ship given to favourite page of, The ship was given to a favourite page of Publicola.
+Agrippa, Actium fight, confirmation of account, Agrippa appeared and confirmed the whole account of the sea fight at Actium.

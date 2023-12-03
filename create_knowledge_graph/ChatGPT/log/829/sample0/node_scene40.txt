@@ -1,0 +1,24 @@
+Author, The writer of the book who believes in presenting the truth in his travels, 0.8
+Gentle Reader, The addressed reader of the book, 0.4
+Traveller, A general representation of explorers who, according to the author, should focus on truth, 0.5
+Lord High Chancellor, The official before whom the author wishes travellers would swear the truth of their writings, 0.3
+Noble Master, A figure who has significantly influenced the author, presumably a Houyhnhnm, 0.7
+Houyhnhnms, A race of rational horses that represent an ideal of rationality and virtue, 0.9
+Sinon, A character mentioned in a citation, symbolizing deceit, 0.1
+Fortuna, Personification of fortune mentioned in a citation, symbolizing chance, 0.1
+Dictionary-Makers, Compared to writers of travels, representing occupations that are often forgotten, 0.2
+Yahoos, A depraved race of human-like creatures that represent the worst of humanity, 0.7
+Brobdingnagians, A race of giants whom the author compares favorably to Europeans, 0.6
+Ferdinando Cortez, Mentioned by the author in reference to the ease of conquest compared to the lands he has visited, 0.3
+Lilliputians, A race of small people whom the author deems not worthy of conquest, 0.6
+English Army, Hypothetically might attempt to conquer the lands described, 0.3
+Augustus, Mentioned in a classical citation, representing control, 0.1
+Princess, Referenced in a critique of colonial distributions, potentially a metaphorical character for authority, 0.2
+Pirates, Used in an analogy critiquing the ethics of colonization, 0.3
+Secretary of State, Suggested official the author should have reported his discoveries to, 0.3
+King, Sovereign of England whose dominion the author refers to, 0.4
+Boy, A character in an analogy about the discovery of new lands, 0.1
+Answerers, Considerers, Observers, Reflectors, Detectors, Remarkers, Categories of critics the author feels immune to, collectively a concept rather than an individual, 0.2
+Wife, The author's spouse, whom he barely tolerates after his travels, 0.3
+Neighbour Yahoo, Represents the prospect of the author accepting his fellow humans, 0.3
+Lawyer, Pickpocket, Colonel, Fool, Lord, Gamester, Politician, Whoremonger, Physician, Evidence, Suborner, Attorney, Traitor, Represents various societal roles or professions with inherent vices, collectively they are concepts, 0.4

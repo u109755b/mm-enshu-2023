@@ -1,0 +1,14 @@
+Author, Farmer, ownership, The farmer is the master of the author.
+Queen, Author, buy and present, The queen buys the author from the farmer and presents him to the king.
+Author, King, introduction, The queen introduces the author to the king.
+Author, Queen, favor, The author is in high favor with the queen.
+Author, Queen's Dwarf, quarrel, The author has quarrels with the queen's dwarf.
+Farmer, Author, observation and selling decision, The farmer observed the author's poor health and decided to sell him.
+Sardral, Farmer, command, A sardral commanded the farmer to bring the author to court.
+Queen, Author, employment and accommodation, The queen employs the author and provides him an apartment at court.
+Author, Glumdalclitch, request for service, The author requests the queen for Glumdalclitch's service as his nurse and instructor.
+Farmer's Daughter (Glumdalclitch), Queen, employment, The queen employs Glumdalclitch to tend the author.
+Author, Three Great Scholars, dispute, The author disputes with the king's great scholars.
+Author, King, conversation and examination, The king converses with and examines the author.
+Three Great Scholars, Author, examination and conclusion, The great scholars examine the author and conclude he is a lusus naturæ (freak of nature).
+King, Three Great Scholars, summoning and dismissal, The king summons the scholars to examine the author and dismisses them after their examination.

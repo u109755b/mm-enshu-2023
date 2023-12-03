@@ -1,0 +1,13 @@
+The author, Protagonist and narrator of the story, recounting personal adventure and survival, 1.0
+His Imperial Majesty of Blefuscu, The emperor of Blefuscu who interacts with the author, 0.8
+His Majesty’s Vice-Admiral, An officer under the command of Blefuscu’s emperor tasked with supporting the author's endeavors, 0.7
+The envoy from Lilliput, A diplomat from Lilliput sent to negotiate the author's return, representing Lilliput's interests, 0.6
+His Imperial Majesty of Lilliput, The emperor of Lilliput who wishes for the author's punishment and return, 0.8
+The treasurer of Lilliput, Part of the cabinet consulting the Emperor of Lilliput regarding the author's situation, has a say in political matters, 0.5
+The cabal of Lilliput, The group of advisors or conspirators in Lilliput advising the emperor on the matter of the author, 0.4
+The ship-carpenters, Assistants from Blefuscu who help the author with his boat, providing technical assistance, 0.3
+The empress of Blefuscu, Spouse to the emperor of Blefuscu, part of the royal ceremony, 0.7
+The young princes of the blood, The royal heirs of the imperial family in Blefuscu, part of the royal ceremony, 0.6
+Captain Mr. John Biddel, The English captain who provides passage back to England for the author, integral to the author's return journey, 0.9
+Peter Williams, The author's old comrade who vouches for him to Captain Biddel, a supporting character in the author's journey, 0.5
+Emperor's Majesty's picture, A symbolic representation of the Emperor of Blefuscu's authority but not a character in itself (therefore, it should not be included based on the given constraints).

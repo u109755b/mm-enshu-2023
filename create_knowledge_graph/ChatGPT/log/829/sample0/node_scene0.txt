@@ -1,0 +1,3 @@
+Mr. Lemuel Gulliver, The author of the Travels and a person of reputed veracity among his neighbours, 0.9
+The Publisher, The individual writing the preface and responsible for bringing Mr. Gulliver's Travels to the public, 0.7
+Richard Sympson, The person addressing the reader in the preface and claiming a familial relation to Mr. Gulliver, 0.8

@@ -1,0 +1,14 @@
+Author, The narrator of the story who is describing his observations and experiences in Lilliput, 0.9
+Lilliputians, The tiny inhabitants of Lilliput whom the author describes in detail, 0.7
+Emperor of Lilliput, The ruler of Lilliput who interacts with the author and has influence over the author's situation, 0.6
+Cook, A Lilliputian mentioned by the author who pulls a lark for cooking, demonstrating the small size of Lilliputians compared to the author, 0.3
+Young girl, A Lilliputian mentioned by the author who threads an invisible needle, demonstrating the small size and precise vision of the Lilliputians, 0.3
+Great lady, A lady from the court of Lilliput indirectly referred to in the author's vindication, involved in a misunderstanding that affected the author's standing, 0.5
+Flimnap, The lord high treasurer of Lilliput who is suspicious of the author and influences the emperor against him, 0.6
+Secretary Reldresal, A secretary who came to the author incognito with an express command from the emperor, 0.4
+Clustril, An informant who contributes to the misconceptions against the author, leading to trouble for him in court, 0.4
+Drunlo, Another informant who contributes to the misconceptions against the author, leading to trouble for him in court, 0.4
+Imperial Majesty, Another reference to the Emperor of Lilliput, reinforcing his importance in the story, 0.6
+Royal consort, The wife of the Emperor of Lilliput who dines with the author along with the emperor and other royals, 0.5
+Young princes, Offspring of the Emperor of Lilliput mentioned in the context of dining with the author, 0.4
+Treasurer's wife, The wife of Flimnap who is mistakenly thought to have a special affection for the author, 0.5

@@ -1,0 +1,11 @@
+Governor of Glubbdubdrib, A high-ranking official who bids farewell to the author, 0.3
+Two Companions, Accompany the author back to Maldonada, 0.2
+Two Gentleman, Assisted the author with provisions and saw him off on his voyage, 0.2
+Pilots, Guided the ship safely to Luggnagg, 0.3
+Custom-house Officer, Examines the author upon his landing in Luggnagg, 0.4
+King of Luggnagg, Monarch who demonstrates leniency and commands that the author be brought to his court, 0.6
+Young Interpreter, A native of Luggnagg and fluent in the languages necessary for the author’s communication, 0.5
+Messenger, Dispatched to inform the King of the author's approach to Luggnagg, 0.2
+High-Chamberlain, Ordered by the King to arrange lodging and expenses for the author in the court, 0.4
+Young Lord, Victim of poisoning due to neglected floor washing after an execution, 0.3
+Page, Neglected his duty to wash the floor, resulting in a young lord's poisoning, 0.3

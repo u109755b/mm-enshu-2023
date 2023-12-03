@@ -1,0 +1,11 @@
+The king, A ruler who held the author captive and desired to see him propagate his kind, 0.6
+The queen, The ruler alongside the king who showed favour to the author, 0.6
+Author, The protagonist recounting his captivity and escape, central to the story, 1.0
+Glumdalclitch, The author's caretaker and friend in the foreign land, pivotal in his life there, 0.7
+The page, The person who was responsible for taking the author to the sea, indirectly leading to his escape, 0.5
+Eagles, Birds that mistakenly carried the author's box away, instrumental in his escape, 0.4
+Mr. Thomas Wilcocks, The captain of the ship that rescued the author, significant in returning him to normal society, 0.6
+Wife of the author, The author's spouse who reunites with him upon his return, represents his tie to his previous life, 0.3
+Daughter of the author, Family member who welcomes the author back, symbolizes his return to family life, 0.3
+Servants, Minor characters that show the author's disorientation upon return, 0.1
+Friends, Minor characters present during the author's return, reflecting his social reintegration, 0.1

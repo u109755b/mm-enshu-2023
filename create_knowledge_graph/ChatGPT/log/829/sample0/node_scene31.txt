@@ -1,0 +1,9 @@
+The author, A human shipwrecked on the land of the Houyhnhnms, trying to learn their language, 0.8
+The master Houyhnhnm, A wise and curious Houyhnhnm who teaches the author their language, 0.7
+Sorrel nag, The under-servant of the master Houyhnhnm who assists the author, 0.5
+Emperor Charles V, A historical figure referenced in relation to language, not directly involved in the story, 0.2
+Mare of the master Houyhnhnm, The master's partner mentioned in the context of helping the author, 0.4
+Colt of the master Houyhnhnm, The master's offspring mentioned in the context of helping the author, 0.4
+Foal of the master Houyhnhnm, The master's offspring mentioned in the context of helping the author, 0.4
+Yahoo, The brutish creatures resembling humans in the world of the Houyhnhnms, frequently mentioned throughout the text, 0.6
+Visiting Houyhnhnms, Several high-quality Houyhnhnms who come to see and converse with the author, 0.5

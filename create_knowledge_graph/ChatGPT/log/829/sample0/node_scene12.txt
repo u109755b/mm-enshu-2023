@@ -1,0 +1,9 @@
+Author, The protagonist and narrator of the story, who goes through numerous adventures, including being sold to and becoming a favourite at the court, 1.0
+Queen, The monarch who buys the author from the farmer and becomes delighted by him, 0.8
+King, The ruler of the land who discusses various topics with the author and shows curiosity about his origins, 0.7
+Farmer, The initial master of the author who sells him to the queen, 0.5
+Glumdalclitch, The daughter of the farmer who takes care of the author and continues to do so at court, 0.9
+Queen's Dwarf, A court dwarf who becomes jealous of the author and plays pranks on him, 0.6
+Sardral, The gentleman-usher who commands the farmer to bring the author to court, 0.4
+Three Great Scholars, Scholars who examine the author and debate his origin and nature, 0.4
+Two Princesses Royal, Daughters of the king and queen who dine with the queen, 0.3

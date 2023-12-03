@@ -1,0 +1,12 @@
+Laputians, The inhabitants of the island of Laputa who are described as highly focused on speculative thoughts and are commonly attended by flappers to keep them engaged during conversations, 0.6
+King of Laputa, The ruler of the island of Laputa, deeply immersed in problem-solving and speculative thoughts, often requiring a flapper to bring his attention to present matters, 0.8
+Flappers, Servants in Laputa tasked with using bladders to rouse their masters' attention or direct them in conversation, crucial for the functioning of Laputian society's communication, 0.7
+Prime quality persons, The individuals of high status who first encountered the author upon his arrival in Laputa, representing the social hierarchy, 0.4
+The king's pages, The young attendants by the king's side who are equipped with flaps to assist in awakening his awareness during court sessions, 0.5
+The king's court, The collective group of nobility and officials who attend to the king and participate in the unique cultural practices of Laputa, 0.6
+The tutor, The person appointed to teach the author the language of Laputa, facilitating his communication and understanding of their society, 0.5
+Servants of the king's palace, The individuals who served the author during his stay at the palace, showing the hospitality of the king to strangers, 0.3
+Persons of quality dining with the author, The noble individuals who shared a meal with the author, indicating the importance of social interactions in Laputa, 0.4
+Women of the island, Known for their vivacity, they defy traditional spousal bonds and are attracted to foreigners, representing a social dynamic in Laputan culture, 0.5
+Court ladies and husbands, Illustrate the domestic and marital life within Laputan society, where the former often seeks external companionship while the latter are preoccupied with thoughts, 0.4
+Prime minister's wife, A specific woman whose escapades provide insight into the social issues and the discontent that some Laputan women feel, 0.4

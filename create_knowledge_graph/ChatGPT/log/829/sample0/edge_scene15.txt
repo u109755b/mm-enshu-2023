@@ -1,0 +1,2 @@
+The input and output nodes of an edge must be one of 'King, Queen, Glumdalclitch, Barber, Cabinet-maker, Queen's woman, Master, English parliament members, Holy persons/Bishops, Judges, Advocates and orators'
+King, Barber, attend levee, The author used to attend the king’s levee once or twice a week and had often seen him under the barber’s hand.

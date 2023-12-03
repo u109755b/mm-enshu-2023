@@ -1,0 +1,6 @@
+Author, Traveller, identity, The author is the traveller who narrates the history of his travels.
+Author, Noble Master, relationship, Noble Master is a figure from whom the author has learned and refers to with respect.
+Traveller, Ferdinando Cortez, comparison, The traveller doubts the ease of conquest in new lands, in comparison to Ferdinando Cortez's conquests.
+Author, Lilliputians, opinion, The author opines that the Lilliputians might not be worth invading.
+Author, Houyhnhnms, teaching ambition, The author seeks to apply the lessons learned from the Houyhnhnms to his own life and to teach his family.
+Author, Wife, interaction, The author permits his wife to dine with him and answer his questions briefly.

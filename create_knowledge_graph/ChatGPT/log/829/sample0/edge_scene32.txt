@@ -1,0 +1,5 @@
+The input and output nodes of an edge must be one of 'Houyhnhnms, Yahoos, My master, The author'
+The author, My master, disapproved/explain/promise/inform, The author faced disapproval from his master, explained various concepts, promised to do his best in explaining, and informed about his personal history and the treatment of Houyhnhnms in his country.
+The Houyhnhnms, The author, not comprehend lying, The Houyhnhnms had difficulty comprehending lying as described by the author.
+My master, The author, inquire/express indignation/observe, My master inquired about Houyhnhnms, expressed indignation about their treatment, and observed the author's physical form.
+My master, The Yahoos, govern, My master suggested that Yahoos with reason would likely be the governing animals.

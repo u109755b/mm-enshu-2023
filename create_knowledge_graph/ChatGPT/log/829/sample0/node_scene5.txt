@@ -1,0 +1,9 @@
+Author, The main character, the narrator, and a person who experiences a range of adventures in Lilliput, including an audience with the emperor and observation of the empire's palace and affairs, 1.0
+Emperor, The ruler of Lilliput who grants the author permission to visit the metropolis Mildendo and who is interested in the author’s potential to serve in wars, 0.9
+Empress, The emperor's wife who smiles at the author and gives him her hand to kiss through a window, 0.4
+Reldresal, A principal secretary in Lilliput who informs the author about the political factions and external threats faced by Lilliput, 0.7
+Young princes, The offspring of the emperor and empress observed by the author in the palace, 0.3
+High heels (Tramecksan), A political faction in Lilliput that prefers high heels on their shoes and seems to have slightly more numbers than their opposition, the low heels, 0.5
+Low heels (Slamecksan), The opposing political faction to the high heels, which is in power and enjoys the emperor's preference for low heels in administration, 0.5
+Imperial Highness (heir to the crown), The heir to the throne of Lilliput who might have a leaning towards the high heels since one of his heels is higher than the other, 0.4
+Big-endians, Exiles and their supporters who follow the controversial practice of breaking their eggs at the larger end, causing conflict and war with Blefuscu, 0.5

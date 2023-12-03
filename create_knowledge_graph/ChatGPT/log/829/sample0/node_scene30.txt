@@ -1,0 +1,11 @@
+Houyhnhnm, A rational horse that leads the author to its house and helps him adapt to the local customs, 0.7
+Gray horse, A horse that seems to possess authority and prevents the author from being mistreated by other horses, 0.6
+Master of the house, A character inferred to hold authority or importance among the Houyhnhnms, as it owns the house the author visits, 0.5
+Mistress of the house, A character similar in standing to the Master, likely his partner, and co-owner of the house, 0.5
+Mare, A well-mannered and neat resident of the house who observes the author upon his entrance, 0.5
+Colt, A young horse living in the house, observed sitting on its haunches; represents the younger generation of Houyhnhnms, 0.4
+Foal, A very young horse, possibly the offspring of the mare, also observed sitting on its haunches, 0.4
+Sorrel nag, A servant of the master horse, tasked with handling one of the Yahoos and comparing it to the author, 0.4
+Old steed, A distinguished guest who comes to dine with the master horse, assumed to be of quality or high status, 0.5
+Mare-servant, A female servant horse who provides the author with milk, suggesting a role in food preparation or household service, 0.4
+Yahoo, A detestable creature with a human-like appearance that the author encounters, quite significant in illustrating the contrast between human and Houyhnhnm societies, 0.6

@@ -1,0 +1,11 @@
+King, A monarch interested in the culture and state of England, 0.7
+Queen, A figure of authority and interest in whom the author seeks to create amusements, 0.6
+Glumdalclitch, A caring individual presumably close to the author, facilitating his needs like a spinet and a teacher, 0.6
+Barber, A person who attends to the grooming of the king, 0.3
+Cabinet-maker, An artisan who assists the author with small jobs and was instrumental in making miniature furniture, 0.4
+Queen's woman, A lady in service of the Queen who collects hair combings for the author, 0.4
+Master, A tutor who teaches Glumdalclitch to play the spinet, 0.3
+English parliament members, Although not individuals, they are collective characters in the author's narrative about the government, 0.5
+Holy persons/Bishops, Discussed in the context of English governance and religion; part of the parliament, 0.5
+Judges, Discussed in relation to the English courts of justice, 0.5
+Advocates and orators, Legal professionals in the English justice system mentioned by the author, 0.4

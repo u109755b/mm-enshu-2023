@@ -1,0 +1,15 @@
+Mistress, The owner of the protagonist who is a farmer's wife, 0.7
+Daughter, The nine-year-old daughter of the mistress, very skilled and the main caretaker of the protagonist, 1.0
+Baby, The infant of the mistress, whose cradle is used to accommodate the protagonist, 0.4
+Master, The owner of the protagonist, a farmer who discovers and exhibits him, 0.8
+Glumdalclitch, Nickname given to the daughter by the protagonist, who acts as his nurse and protector, 1.0
+Friend of Master, A neighboring farmer and friend of the protagonist's master who suggests exhibiting the protagonist, 0.6
+Grildrig, Nickname given to the protagonist by Glumdalclitch, signifying his small stature, 0.9
+Splacnuck, A creature referenced for size comparison to the protagonist, 0.3
+Nobleman's Daughter, A reference for comparison to the protagonist's fair complexion, 0.3
+Inn-keeper, The individual at the inn where the protagonist is exhibited, 0.4
+Crier, The town crier employed to announce the protagonist's exhibition, 0.5
+School-boy, A mischievous boy who almost injures the protagonist, 0.4
+Boy of the House, A servant boy who follows the protagonist, master, and Glumdalclitch with the luggage, 0.4
+People of the Metropolis, Denizens of the city where the protagonist is exhibited, not individually named or characterized, 0.5
+Grultrud, Assumedly the crier or announcer in the metropolis (not clearly a character but mentioned in relation to the crier's job), 0.3

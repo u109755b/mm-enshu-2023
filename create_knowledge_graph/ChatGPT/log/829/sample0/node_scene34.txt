@@ -1,0 +1,14 @@
+Queen Anne, The reigning monarch of England during the time depicted in the text, 0.7
+First minister of state, A high-ranking political leader in European courts often responsible for the administration of government, 0.8
+Yahoo, A term used by the author to describe humans, particularly with negative characteristics such as greed and folly, 0.6
+Houyhnhnm, A rational and superior horse-like species in the author's narrative, representing an ideal of rationality and propriety, 0.65
+Master, The person to whom the narrator is speaking, presumably a Houyhnhnm, who is trying to understand human society, 0.75
+Rich man, Individual characterized by wealth and the ability to enjoy the labor of the poor, reflects the class divide and inequality in society, 0.5
+Poor man, Individual who labors for low wages and lives miserably, highlights the social and economic disparities in the population, 0.5
+Female Yahoo, A term used to describe human females, particularly in a derogatory sense in the context of vanity or immorality, 0.55
+Physicians, Individuals who practice medicine, often criticized in the text for their approach to treating diseases, 0.6
+Ministers of state, Individuals who handle government affairs, sometimes corruptly or ineffectively, 0.7
+Princes, Heirs to the throne or rulers, involved in the political machinations and dynamics of power, 0.65
+Noble family, A group of high social status by birth, represents the societal hierarchy and perceived characteristics of the nobility, 0.55
+Young noblemen, Represents the idle and degenerate youth of the upper class as portrayed in the text, 0.5
+Wife from mean birth, A woman of lower social standing who marries a nobleman for his money, symbolizing social mobility and sometimes moral corruption, 0.5

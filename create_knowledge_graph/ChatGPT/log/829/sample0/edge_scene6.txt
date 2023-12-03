@@ -1,0 +1,6 @@
+The input and output nodes of an edge must be one of 'The author, The emperor of Lilliput, The empress of Lilliput, Ambassadors from the emperor of Blefuscu, The emperor of Blefuscu'.
+The author, The emperor of Lilliput, stratagem, The author by an extraordinary stratagem, prevents an invasion.
+The author, Ambassadors from the emperor of Blefuscu, peace, Ambassadors arrive from the emperor of Blefuscu, and sue for peace.
+The author, The empress of Lilliput, saving, The author instrumental in saving the rest of the palace from the fire.
+The author, The emperor of Blefuscu, visit, The author resolved to attend the emperor of Blefuscu before returning to his own country.
+Ambassadors from the emperor of Blefuscu, The emperor of Lilliput, peace, Ambassadors arrive from the emperor of Blefuscu, and sue for peace.

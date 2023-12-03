@@ -1,0 +1,8 @@
+The author, The main character and narrator of the story, recounting his experiences, 1.0
+The author's wife, Mentioned as the author's spouse who is pregnant when the author leaves, 0.3
+Robert Purefoy, A skilled young surgeon taken on the author's ship, 0.4
+Captain Pocock, A captain from Bristol who the author meets and who later loses his ship in a storm, 0.4
+Buccaneers, The rogue recruits who plot and take over the author's ship, turning to piracy, 0.5
+James Welch, A sailor who informs the author of his being set ashore, 0.4
+The Yahoos, A strange and savage species the author encounters after being stranded, 0.7
+The Houyhnhnms, A species of intelligent and rational horses the author meets, 0.7

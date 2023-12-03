@@ -1,0 +1,14 @@
+Glumdalclitch, The nurse and caretaker of the main character in the story, 0.8
+Dwarf, A malicious court dwarf who plays a practical joke on the main character, 0.4
+Criminal, A character who was executed for murder, mentioned in the story, 0.1
+Spaniel, The dog that carried the main character to its master harmlessly, 0.3
+Gardener, The owner of the spaniel and a kind person who shows concern for the main character, 0.3
+Kite, A bird that attempted to capture the main character, 0.1
+Thrush, A bird that snatched a piece of cake from the main character's hand, 0.1
+Linnet, The bird that the main character captured and then had for dinner, 0.1
+Maids of Honour, Ladies who viewed the main character as a novelty and played with him, 0.5
+Young Gentleman, The nephew of Glumdalclitch's governess who invited them to see an execution, 0.2
+Queen, A character who took interest in the main character and wanted to provide entertainment for him, 0.7
+Monkey, An animal that endangered the main character's life by taking him away, 0.5
+King, A character who engages in playful teasing with the main character, 0.6
+Footman, A servant who helped clean the main character after a dirty incident, 0.2
