@@ -8,25 +8,23 @@ body {
 /* バー以外の主要コンテンツを入れるコンテナ */
 .container {
     display: flex;
-    height: calc(100vh - 90px);
-    margin-top: 90px;
-}
-
-.panel, .content {
-    overflow-y: auto;
-    max-height: 100vh;
-    padding: 10px;
 }
 
 /* グラフや要約を表示する領域 */
 .content {
+    height: calc(100vh - 90px);
+    margin-top: 90px;
     flex-grow: 1;
+    padding: 10px;
+    overflow-y: auto;
+    box-sizing: border-box;
 }
 
 /* グラフを表示する領域 */
 #network {
     height: 450px;
-    border: 1px solid gray;
     margin: 10px 20px;
+    border: 1px solid gray;
     border-radius: 5px;
+    box-sizing: border-box;
 }

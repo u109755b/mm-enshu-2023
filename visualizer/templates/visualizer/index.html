@@ -26,23 +26,30 @@
 
 <body>
 
-    <div class="navigation-bar">
-        <a href="{% url 'home:index' %}" class="app-name">Story Visualizer</a>
-        <div class="line"></div>
-        <a href="{% url 'home:index' %}" class="other-page">Home</a>
-        <a href="{% url 'bookinfo:index' %}" class="other-page">Book Info</a>
+    <div class="title-bar">
+        <div class="title">{{title}}</div>
     </div>
 
-    <div class="title-bar">
-        <p>{{title}}</p>
+    <div class="navigation-bar">
+        <a href="{% url 'home:index' %}" class="navigation">Home</a>
+        <a href="{% url 'bookinfo:index' %}" class="navigation">Book Info</a>
     </div>
 
 
     <div class="container">
 
         <div class="panel">
+            <div class="app-name-block">
+                <a href="{% url 'home:index' %}" class="app-name">Story Visualizer</a>
+            </div>
+
+            <div class="chapter-block">
+                <div class="chapter">Chapter</div>
+            </div>
+
             {{ tabHTML|safe }}
         </div>
+
 
         <div class="content">
             <div id="network"></div>

@@ -1,8 +1,14 @@
 /* 左の章選択のパネル */
 .panel {
-    width: 300px;
-    border-right: 1px solid gray;
+    height: calc(100vh);
+    width: 320px;
     flex-shrink: 0;
+    /* border-right: 1px solid gray; */
+    padding: 10px;
+    padding-top: 0;
+    overflow-y: auto;
+    box-sizing: border-box;
+    background-color: rgb(250, 250, 250);
 }
 
 /* ブラウザの横幅が1000px以下になったらパネルを消す */
@@ -12,16 +18,65 @@
     }
 }
 
+
+
+.app-name-block, .chapter-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-name-block {
+    height: 50px;
+}
+.chapter-block {
+    height: 40px;
+}
+
+/* アプリ名 */
+.app-name {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-family: 'Caveat', cursive;
+}
+
+/* Chapter */
+.chapter {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
 /* 全てのタブがこのクラスを持つ */
 .tab {
     cursor: pointer;
     padding: 5px;
-    margin-bottom: 5px;
+    /* padding-right: 40px; */
+    /* margin-bottom: 5px; */
+    margin: 5px 0;
     font-size: 12px;
+    border-left: 5px solid #eee;
+    
+    position: relative; /* 疑似要素の位置を制御するため */
+    display: flex; /* フレックスボックスを使用 */
+    justify-content: space-between; /* 子要素を両端に配置 */
+    align-items: center;
 }
 .tab:hover {
     background-color: #eee;
     border-radius: 3px;
+}
+.folding-icon::after {
+    content: ''; /* 疑似要素には何かしらの内容が必要 */ 
+    flex-shrink: 0;
+    width: 5px;
+    height: 5px;
+    border: 1px solid;
+    border-color:  transparent transparent #565656 #565656;
+    /* transform: ; */
+    margin: 7px;
+    transform: translateY(-50%) rotate(-45deg);
 }
 
 /* サブタブをグループ化するための入れ物 */
@@ -29,7 +84,7 @@
     display: none;
 }
 
-/* 選択されているセクション */
+/* 選択されている章 */
 .active-tab {
     background-color: #eee;
     border-left: 5px solid lightblue;

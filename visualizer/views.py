@@ -40,6 +40,8 @@ class ViewManager:
             parent_id.append(str(num))
 
             tab = {'class': ['tab']}
+            if 'subSection' in section:
+                tab['class'].append('folding-icon')
             if 0 < depth:
                 tab['class'].append('sub{}-tab'.format(depth if 1<depth else ''))
             tab['id'] = '-'.join(parent_id)
