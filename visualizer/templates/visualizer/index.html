@@ -26,10 +26,12 @@
 
 <body>
 
+    <!-- 物語のタイトルを表示するスペース -->
     <div class="title-bar">
         <div class="title">{{title}}</div>
     </div>
 
+    <!-- Home や Book Info 等を表示するためのスペース -->
     <div class="navigation-bar">
         <a href="{% url 'home:index' %}" class="navigation">Home</a>
         <a href="{% url 'bookinfo:index' %}" class="navigation">Book Info</a>
@@ -38,6 +40,7 @@
 
     <div class="container">
 
+        <!-- 左の章選択パネル -->
         <div class="panel">
             <div class="app-name-block">
                 <a href="{% url 'home:index' %}" class="app-name">Story Visualizer</a>
@@ -50,7 +53,7 @@
             {{ tabHTML|safe }}
         </div>
 
-
+        <!-- グラフや要約を表示するスペース -->
         <div class="content">
             <div id="network"></div>
             <button id="prev">前へ</button>

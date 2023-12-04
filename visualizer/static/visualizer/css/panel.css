@@ -3,7 +3,6 @@
     height: calc(100vh);
     width: 320px;
     flex-shrink: 0;
-    /* border-right: 1px solid gray; */
     padding: 10px;
     padding-top: 0;
     overflow-y: auto;
@@ -20,6 +19,7 @@
 
 
 
+/* アプリ名とChapterを表示するためのブロック */
 .app-name-block, .chapter-block {
     display: flex;
     align-items: center;
@@ -52,11 +52,9 @@
 .tab {
     cursor: pointer;
     padding: 5px;
-    /* padding-right: 40px; */
-    /* margin-bottom: 5px; */
     margin: 5px 0;
     font-size: 12px;
-    border-left: 5px solid #eee;
+    border-left: 5px solid rgb(230, 230, 230);
     
     position: relative; /* 疑似要素の位置を制御するため */
     display: flex; /* フレックスボックスを使用 */
@@ -67,16 +65,29 @@
     background-color: #eee;
     border-radius: 3px;
 }
-.folding-icon::after {
+
+/* 展開出来ることを示すアイコン */
+.expand-icon::after {
     content: ''; /* 疑似要素には何かしらの内容が必要 */ 
     flex-shrink: 0;
     width: 5px;
     height: 5px;
     border: 1px solid;
     border-color:  transparent transparent #565656 #565656;
-    /* transform: ; */
     margin: 7px;
     transform: translateY(-50%) rotate(-45deg);
+}
+
+/* 折り畳み出来ることを示すアイコン */
+.fold-icon::after {
+    content: ''; /* 疑似要素には何かしらの内容が必要 */ 
+    flex-shrink: 0;
+    width: 5px;
+    height: 5px;
+    border: 1px solid;
+    border-color:  transparent transparent #565656 #565656;
+    margin: 7px;
+    transform: translateY(50%) rotate(135deg);
 }
 
 /* サブタブをグループ化するための入れ物 */

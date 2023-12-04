@@ -9,7 +9,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
         .dummy {
-            padding: 10px 0;
+            padding: 5px 0;
         }
         .app-name {
             text-decoration: none;
@@ -21,7 +21,8 @@
             font-weight: bold;
         }
         .image-container {
-            margin: 30px;
+            margin: 30px auto;
+            max-width: 1100px;
             margin-top: 0px;
             display: flex;
             flex-wrap: wrap;
@@ -29,7 +30,8 @@
         }
         .image-box {
             width: calc(33.33% - 10px);
-            height: 32vw;
+            /* height: 32vw; */
+            aspect-ratio: 5 / 8;
             margin-bottom: 20px;
             box-sizing: border-box;
             padding: 10px;
@@ -49,7 +51,7 @@
             -webkit-box-orient: vertical;
             -webkit-line-clamp: 3; /* 表示する行数 */
             overflow: hidden;
-            font-size: 1.4vw;
+            font-size: 2.3vw;
             position: absolute;
             font-weight: bold;
             /* text-align: center; */
@@ -61,15 +63,28 @@
             .image-box {
                 width: calc(33.3%); /* 3列に */
             }
+            .image-title {
+                font-size: 2.3vw;
+            }
         }
         @media (min-width: 900px) {
             .image-box {
                 width: calc(25%); /* 4列に */
             }
+            .image-title {
+                font-size: 1.75vw;
+            }
         }
         @media (min-width: 1100px) {
             .image-box {
                 width: calc(20%); /* 5列に */
+                /* height: 352px; */
+            }
+            .app-name {
+                font-size: 55px;
+            }
+            .image-title {
+                font-size: 15.4px;
             }
         }
   </style>

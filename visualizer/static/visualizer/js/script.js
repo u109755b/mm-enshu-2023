@@ -3,9 +3,9 @@ function _selectParentTabs(tab) {
     tab.addClass('active-tab');
     var parent = tab.parent();
     if (parent.hasClass('group')) {
-        parent.show();
-        parent.addClass('expanded');
-        _selectParentTabs(parent.prev('.tab'));
+        parent_tab = parent.prev('.tab');
+        expand(parent_tab);
+        _selectParentTabs(parent_tab);
     }
 }
 function selectTab(tab) {
@@ -17,14 +17,23 @@ function selectTab(tab) {
 
 // サブタブを展開する
 function expand(tab) {
+    tab.next().show();
+    tab.next().addClass('expanded');
+    tab.removeClass('expand-icon');
+    tab.addClass('fold-icon');
+}
+// サブタブを折り畳む
+function fold(tab) {
+    tab.next().hide();
+    tab.next().removeClass('expanded');
+    tab.removeClass('fold-icon');
+    tab.addClass('expand-icon');
+}
+// サブタブが展開されていれば折りたたむ、折り畳まれていれば展開する
+function toggle_expanding_folding(tab) {
     if (tab.next().hasClass('group')) {
-        if (!tab.next().hasClass('expanded')) {
-            tab.next().show();
-            tab.next().addClass('expanded');
-        } else {
-            tab.next().hide();
-            tab.next().removeClass('expanded');
-        }
+        if (!tab.next().hasClass('expanded')) expand(tab);
+        else fold(tab);
     }
 }
 
@@ -52,7 +61,7 @@ $(function() {
 
     // 章タブを押したとき
     $('.tab').click(function() {
-        expand($(this));
+        toggle_expanding_folding($(this));
         fetch(`${gutenbergID}/section/?chapter_id=${this.id}`)
             .then(response => response.json())
             .then(apply_params);

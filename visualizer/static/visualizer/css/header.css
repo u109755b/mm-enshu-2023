@@ -1,4 +1,4 @@
-.navigation-bar, .title-bar {
+.title-bar, .navigation-bar {
     position: fixed;
     width: calc(100vw - 320px);
     right: 0;
@@ -10,9 +10,16 @@
 
 /* ブラウザの横幅が1000px以下になったらバーを横全体に伸ばす */
 @media screen and (max-width: 1000px) {
-    .navigation-bar, .title-bar {
+    .title-bar, .navigation-bar {
         width: calc(100vw);
     }
+}
+
+/* 本のタイトルを表示するバー */
+.title-bar {
+    top: 0px;
+    height: 40px;
+    justify-content: center;
 }
 
 /* Home や Book Info 等他のページへの誘導バー */
@@ -24,15 +31,17 @@
     border-bottom: 1px solid rgb(200, 200, 200);
 }
 
-/* 本のタイトルを表示するバー */
-.title-bar {
-    top: 0px;
-    height: 40px;
-    justify-content: center;
+
+/* 本のタイトル */
+.title {
+    font-weight: bold;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 20px;
 }
 
-
-/* 他ページへ誘導するためのボタン書式 */
+/* 他ページへの誘導ボタン書式 */
 .navigation {
     text-decoration: none; /* 下線を消す */
     color: black;
@@ -43,13 +52,4 @@
 }
 .navigation:hover {
     background-color: rgb(220, 220, 220);
-}
-
-.title {
-    margin: 0;
-    font-weight: bold;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    font-size: 20px;
 }
