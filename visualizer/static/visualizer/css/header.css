@@ -1,0 +1,63 @@
+.navigation-bar, .title-bar {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+}
+
+/* Home や Book Info 等他のページへの誘導バー */
+.navigation-bar {
+    top: 0;
+    height: 50px;
+    background-color: rgb(215, 215, 215);
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+/* 本のタイトルを表示するバー */
+.title-bar {
+    top: 50px;
+    height: 39px;
+    border-bottom: 1px solid black;
+    background-color: #eee;
+    justify-content: center;
+    font-size: 22px;
+}
+.title-bar p {
+    margin: 0;
+    font-weight: bold;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+/* アプリ名をかっこよく表示する */
+.app-name {
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+    /* font-family: 'Sacramento', cursive; */
+    font-family: 'Caveat', cursive;
+}
+
+/* 縦線を引く */
+.line {
+    margin: 0 10px;
+    width: 1px;
+    height: 30px;
+    background-color: gray;
+}
+
+/* 他ページへ誘導するためのボタン書式 */
+.other-page {
+    text-decoration: none; /* 下線を消す */
+    color: black;
+    padding: 1px 8px;
+    border-radius: 5px;
+    margin: 0 7px;
+}
+.other-page:hover {
+    background-color: #eee; /* マウスオーバー時の背景色 */
+}

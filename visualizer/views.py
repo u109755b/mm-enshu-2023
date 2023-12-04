@@ -91,6 +91,7 @@ class ViewManager:
         if 'summary' not in chapter_data: chapter_data['summary'] = ''
         if 'nodes' not in chapter_data: chapter_data['nodes'] = []
         if 'edges' not in chapter_data: chapter_data['edges'] = []
+        chapter_data['summary'] = '<p><b>{}</b><br>{}</p>'.format(section_data['sectionName'], chapter_data['summary'])
         chapter_data['chapter_id'] = self.chapter_id
         self.request.session['chapter_id'] = self.chapter_id
         return chapter_data
@@ -121,6 +122,7 @@ def index(request, gutenbergID=0):
     request.session.clear()
     view_manager = ViewManager(request, gutenbergID)
     tab_html = view_manager.create_tab_html()
+    view_manager.forward_chapter()
     chapter_data = view_manager.get_chapter_data()
     params = {
         'gutenbergID': str(gutenbergID),

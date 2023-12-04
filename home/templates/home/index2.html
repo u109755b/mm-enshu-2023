@@ -4,8 +4,23 @@
   <meta charset="UTF-8">
   <title>Story visualizer</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+    .dummy {
+        padding: 10px 0;
+    }
+    .app-name {
+        text-decoration: none;
+        color: black;
+        /* font-family: 'Sacramento', cursive; */
+        font-family: 'Caveat', cursive;
+        margin: 0 40px;
+        font-size: 5vw;
+        font-weight: bold;
+    }
     .image-container {
       margin: 30px;
+      margin-top: 0px;
       display: flex;
       flex-wrap: wrap;
       justify-content: flex-start; /* 左寄せに修正 */
@@ -58,10 +73,12 @@
   </style>
 </head>
 <body>
-    <h1>Select a book you would like to read the summary of</h1>
-  <div class="image-container" id="imageContainer">
-    <!-- ここにJavaScriptで生成される画像ボックスが追加されます -->
-  </div>
+    <div class="dummy"></div>
+    <a href="{% url 'home:index' %}" class="app-name">Story Visualizer</a>
+    <div class="dummy"></div>
+    <div class="image-container" id="imageContainer">
+        <!-- ここにJavaScriptで生成される画像ボックスが追加されます -->
+    </div>
 
   <script>
     const images = [

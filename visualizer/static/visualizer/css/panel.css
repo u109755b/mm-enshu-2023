@@ -1,0 +1,62 @@
+/* 左の章選択のパネル */
+.panel {
+    width: 300px;
+    border-right: 1px solid gray;
+    flex-shrink: 0;
+}
+
+/* ブラウザの横幅が1000px以下になったらパネルを消す */
+@media screen and (max-width: 1000px) {
+    .panel {
+        display: none;
+    }
+}
+
+/* 全てのタブがこのクラスを持つ */
+.tab {
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+.tab:hover {
+    background-color: #eee;
+    border-radius: 3px;
+}
+
+/* サブタブをグループ化するための入れ物 */
+.group {
+    display: none;
+}
+
+/* 選択されているセクション */
+.active-tab {
+    background-color: #eee;
+    border-left: 5px solid lightblue;
+    border-radius: 3px;
+}
+
+
+
+
+
+/* サブタブ */
+.sub-tab {
+    margin-left: 10px;
+}
+
+.sub2-tab {
+    margin-left: 20px;
+}
+
+.sub3-tab {
+    margin-left: 30px;
+}
+
+.sub4-tab {
+    margin-left: 40px;
+}
+
+.sub5-tab {
+    margin-left: 50px;
+}

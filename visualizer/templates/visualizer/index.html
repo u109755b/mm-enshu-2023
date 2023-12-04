@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Story Visualizer</title>
+    <title>{{title}}</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,10 +18,25 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
 
     <link rel="stylesheet" href="{% static 'visualizer/css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'visualizer/css/header.css' %}">
+    <link rel="stylesheet" href="{% static 'visualizer/css/panel.css' %}">
     <script src="{% static 'visualizer/js/script.js' %}" defer></script>
 </head>
 
 <body>
+
+    <div class="navigation-bar">
+        <a href="{% url 'home:index' %}" class="app-name">Story Visualizer</a>
+        <div class="line"></div>
+        <a href="{% url 'home:index' %}" class="other-page">Home</a>
+        <a href="{% url 'bookinfo:index' %}" class="other-page">Book Info</a>
+    </div>
+
+    <div class="title-bar">
+        <p>{{title}}</p>
+    </div>
+
+
     <div class="container">
 
         <div class="panel">
@@ -29,7 +44,6 @@
         </div>
 
         <div class="content">
-            <h1 id="title">{{title}}</h1>
             <div id="network"></div>
             <button id="prev">前へ</button>
             <button id="next">次へ</button>
@@ -38,6 +52,7 @@
         </div>
 
     </div>
+
 
     <script>
         // ネットワーク図の更新（初期化時やブラウザ更新時に呼び出される）

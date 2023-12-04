@@ -1,87 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body {
+    margin: 0;
+}
+
+/* バー以外の主要コンテンツを入れるコンテナ */
 .container {
     display: flex;
-    height: 100vh; /* 画面の高さいっぱいに伸ばす */
-}
-
-.panel {
-    width: 300px;
-    flex-shrink: 0;
-    background-color: #f0f0f0;
-    padding: 10px;
-    overflow-y: auto; /* 縦スクロールを有効化 */
-}
-
-@media screen and (max-width: 1000px) {
-    .panel {
-        display: none;
-    }
+    height: calc(100vh - 90px);
+    margin-top: 90px;
 }
 
 .panel, .content {
     overflow-y: auto;
-    max-height: 100vh; /* 画面の高さに合わせる */
-}
-
-.content {
-    position: relative; /* 相対位置 */
-    flex-grow: 1;
+    max-height: 100vh;
     padding: 10px;
 }
 
-.tab, .sub-tab {
-    cursor: pointer;
-    padding: 5px;
-    margin-bottom: 5px;
-    background-color: #eee;
-    border: 1px solid #ccc;
+/* グラフや要約を表示する領域 */
+.content {
+    flex-grow: 1;
 }
 
-.tab, .sub-tab, .sub2-tab, .sub3-tab, .sub4-tab, .sub5-tab {
-    font-size: 12px;
-}
-
-.sub-tab {
-    margin-left: 10px;
-}
-
-.sub2-tab {
-    margin-left: 20px;
-}
-
-.sub3-tab {
-    margin-left: 30px;
-}
-
-.sub4-tab {
-    margin-left: 40px;
-}
-
-.sub5-tab {
-    margin-left: 50px;
-}
-
-.group {
-    display: none;
-}
-
-.active-tab {
-    background-color: #c8e0f4; /* 選択されたメインタブの背景色 */
-}
-
-#title {
-    position: absolute; /* 絶対位置 */
-    top: 20px; /* 上端からの距離 */
-    left: 50px; /* 左端からの距離 */
-    margin: 0; /* マージンをなくす */
-    margin-right: 40px;
-    z-index: 10; /* 他の要素の上に表示 */
-    font-size: 25px;
-}
-
+/* グラフを表示する領域 */
 #network {
     height: 450px;
-    border: 1px solid #000;
-    margin: 20px;
-    margin-top: 0px;
-    margin-bottom: 10px;
+    border: 1px solid gray;
+    margin: 10px 20px;
+    border-radius: 5px;
 }
