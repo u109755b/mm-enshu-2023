@@ -7,49 +7,49 @@
                 "id": "node_id0",
                 "label": "Old Sow",
                 "title": "The mother of the three little pigs, she sent them out to seek their fortune due to lack of resources",
-                "size": 21
+                "size": 19
             },
             {
                 "id": "node_id1",
                 "label": "First Little Pig",
                 "title": "The pig that built a house of straw and was eaten by the Wolf",
-                "size": 25
+                "size": 31
             },
             {
                 "id": "node_id2",
                 "label": "Man with straw",
                 "title": "Gave the first little pig straw to build a house",
-                "size": 21
+                "size": 18
             },
             {
                 "id": "node_id3",
                 "label": "Wolf",
                 "title": "The main antagonist who blew down the houses of straw and furze and ate the first two pigs, failed to destroy the brick house, and was ultimately outsmarted and cooked by the third pig",
-                "size": 29
+                "size": 43
             },
             {
                 "id": "node_id4",
                 "label": "Second Little Pig",
                 "title": "The pig that built a house of furze and was eaten by the Wolf",
-                "size": 25
+                "size": 30
             },
             {
                 "id": "node_id5",
                 "label": "Man with furze",
                 "title": "Gave the second little pig furze to build a house",
-                "size": 21
+                "size": 18
             },
             {
                 "id": "node_id6",
                 "label": "Third Little Pig",
                 "title": "The clever pig that built a brick house, outsmarted the Wolf multiple times, and eventually killed and ate the Wolf",
-                "size": 29
+                "size": 43
             },
             {
                 "id": "node_id7",
                 "label": "Man with bricks",
                 "title": "Gave the third little pig bricks to build a sturdy house",
-                "size": 21
+                "size": 18
             }
         ],
         "edges": [
