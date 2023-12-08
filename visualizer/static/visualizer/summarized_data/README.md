@@ -1,3 +1,16 @@
+#IDのフォルダ内について
+```
+sample{0,1,2}
+のlogについてall_data.jsonを生成
+
+all_data.json：知識グラフ
+title.txt：タイトル
+miss_edge.txt：edge_scene{i}.txtが1行以下の場合のiを集めたtxt
+miss_node.txt：node_scene{i}.txtが1行以下の場合のiを集めたtxt
+```
+
+
+
 # ver2の通信用APIの定義
 ```
 summarized_data := [{obj}, {obj}, ...]
