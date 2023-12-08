@@ -8,7 +8,7 @@
             "title": "三匹の子豚を家から巣立たせ、それぞれの家に招待される。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/summarized_data/0/image_data/mother_pig.png",
+            "image": "/static/visualizer/summarized_data/0/sample0/image_data/mother_pig.png",
             "size": 25
         },
         {
@@ -17,7 +17,7 @@
             "title": "なまけもので、簡単に出来る藁の家を作る。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/summarized_data/0/image_data/pig1.jpeg",
+            "image": "/static/visualizer/summarized_data/0/sample0/image_data/pig1.jpeg",
             "size": 25
         },
         {
@@ -26,7 +26,7 @@
             "title": "めんどくさがり屋で、木の家を作る。",
             "group": "pigs",
             "shape": "image",
-            "image": "/static/visualizer/summarized_data/0/image_data/pig2.jpeg",
+            "image": "/static/visualizer/summarized_data/0/sample0/image_data/pig2.jpeg",
             "size": 25
         }
     ]

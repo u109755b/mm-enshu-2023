@@ -36,7 +36,8 @@ def make_all_data(summarized_data_name):
         },
     ]
 
-    with open(f'{dir_name}/{summarized_data_name}', 'w', encoding='utf-8') as f:
+    os.makedirs(f'{dir_name}/sample0', exist_ok=True)
+    with open(f'{dir_name}/sample0/{summarized_data_name}', 'w', encoding='utf-8') as f:
         json.dump(summarized_data, f, indent=4, ensure_ascii=False)
 
     print('sampleのall_data.jsonを作成しました')

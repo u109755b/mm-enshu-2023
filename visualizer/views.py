@@ -11,7 +11,7 @@ class ViewManager:
         book_dir = f'visualizer/static/visualizer/summarized_data/{gutenbergID}'
         with open(f'{book_dir}/title.txt', encoding='utf-8') as f:
             self.title = f.read()
-        with open(f'{book_dir}/all_data.json', encoding='utf-8') as f:
+        with open(f'{book_dir}/sample0/all_data.json', encoding='utf-8') as f:
             self.section_data = json.load(f)
         self.request = request
         self.gutenbergID = gutenbergID

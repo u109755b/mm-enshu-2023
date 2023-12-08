@@ -53,7 +53,7 @@ if __name__=="__main__":
     if not dir_name: dir_name = '.'
     gutenbergID = int(args[1])
     summarized_data_name = 'all_data.json'
-    summarized_data_path = f'{dir_name}/{gutenbergID}/{summarized_data_name}'
+    summarized_data_path = f'{dir_name}/{gutenbergID}/sample0/{summarized_data_name}'
 
     # gutenbergIDが0のときはサンプルデータを作成する
     if gutenbergID == 0:

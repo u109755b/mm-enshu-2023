@@ -21,7 +21,7 @@
 - periodの項目がなくなった
 #### 参考
 - [Definition](visualizer/static/visualizer/summarized_data/README.md)
-- [Sample](visualizer/static/visualizer/summarized_data/0/all_data.json)
+- [Sample](visualizer/static/visualizer/summarized_data/0/sample0/all_data.json)
 
 ## 進捗
 - [Notion](https://www.notion.so/1e9ce39c45914aa8af0249aec049f908?v=07ba6eee0c0a42069b6605df759fce0d&pvs=4)
