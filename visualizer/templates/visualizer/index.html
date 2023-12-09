@@ -56,9 +56,14 @@
         <!-- グラフや要約を表示するスペース -->
         <div class="content">
             <div id="network"></div>
-            <button id="prev">前へ</button>
+            <!-- <button id="prev">前へ</button>
             <button id="next">次へ</button>
-            <button id="regen">再生成</button>
+            <button id="regen">再生成</button> -->
+            <div class="prev-next">
+                <img id="prev" class="icon" src="{% static 'visualizer/icon/leftarrow.png' %}">
+                <img id="next" class="icon" src="{% static 'visualizer/icon/rightarrow.png' %}">
+                <img id="regen" class="icon" src="{% static 'visualizer/icon/reload.png' %}">
+            </div>
             <div id="summary">{{ summary|safe }}</div>
         </div>
 

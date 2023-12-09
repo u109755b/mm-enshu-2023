@@ -12,8 +12,8 @@ body {
 
 /* グラフや要約を表示する領域 */
 .content {
-    height: calc(100vh - 90px);
-    margin-top: 90px;
+    height: calc(100vh - 100px);
+    margin-top: 100px;
     flex-grow: 1;
     padding: 10px;
     overflow-y: auto;
@@ -24,7 +24,24 @@ body {
 #network {
     height: 450px;
     margin: 10px 20px;
+    margin-bottom: 5px;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 10px;
     box-sizing: border-box;
+}
+
+.prev-next {
+    margin-left: 20px;
+    height: 31px;
+}
+
+.icon {
+    height: 15px;
+    width: 15px;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.icon:hover {
+    background-color: #ddd;
 }

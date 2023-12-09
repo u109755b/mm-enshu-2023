@@ -18,13 +18,13 @@
 /* 本のタイトルを表示するバー */
 .title-bar {
     top: 0px;
-    height: 40px;
+    height: 50px;
     justify-content: center;
 }
 
 /* Home や Book Info 等他のページへの誘導バー */
 .navigation-bar {
-    top: 40px;
+    top: 50px;
     height: 50px;
     background-color: rgb(240, 240, 240);
     border-top: 1px solid rgb(200, 200, 200);

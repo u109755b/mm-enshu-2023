@@ -11,6 +11,7 @@ function _selectParentTabs(tab) {
 function selectTab(tab) {
     $('.tab').css('font-weight', 'initial');
     $('.tab').removeClass('active-tab');
+    fold($('.group').prev('.tab'));
     tab.css('font-weight', 'bold');
     _selectParentTabs(tab);
 }
