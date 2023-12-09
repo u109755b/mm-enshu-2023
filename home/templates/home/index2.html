@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Story visualizer</title>
-    <link rel="icon" href="{% static 'visualizer/icon/favicon.ico' %}">
+    <link rel="icon" href="{% static 'home/icon/favicon.ico' %}">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
@@ -100,24 +100,16 @@
     </div>
 
   <script>
-        const images = [
-            { url: "https://www.gutenberg.org/cache/epub/18155/pg18155.cover.medium.jpg", title: "三匹の子豚" , link: "{% url 'visualizer:index' 0 %}"},
-            { url: "https://www.gutenberg.org/cache/epub/18155/pg18155.cover.medium.jpg", title: "The Story of the Three Little Pigs" , link: "{% url 'visualizer:index' 18155 %}"},
-            { url: "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg", title: "The Adventures of Sherlock Holmes" , link: "{% url 'visualizer:index' 1661 %}"},
-            { url: "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg", title: "Alice's Adventures in Wonderland by Lewis Carroll" , link: "{% url 'visualizer:index' 11 %}"},
-            { url: "https://www.gutenberg.org/cache/epub/120/pg120.cover.medium.jpg", title: "TREASURE ISLAND" , link: "{% url 'visualizer:index' 120 %}"},
-            { url: "https://placehold.jp/200x300.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x370.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x333.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x300.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x370.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x333.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x300.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x370.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x333.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            { url: "https://placehold.jp/200x300.png", title: "bookinfo" , link: "{% url 'bookinfo:index' %}"},
-            // 他の画像情報を追加
-        ];
+        var gutenbergIDs = {{ gutenbergIDs|safe }};
+        var title_list = {{ titles|safe }};
+        
+        var images = [];
+        for (var i = 0; i < gutenbergIDs.length; i++) {
+            var url = "{% static 'home/cover_image/gutenbergID/cover_image.jpg' %}".replace("gutenbergID", gutenbergIDs[i]);
+            var title = title_list[i];
+            var link = "{% url 'visualizer:index' 0 %}".replace("0", gutenbergIDs[i]);
+            images.push({"url": url, "title": title, "link": link});
+        }
 
         const imageContainer = document.getElementById('imageContainer');
 
