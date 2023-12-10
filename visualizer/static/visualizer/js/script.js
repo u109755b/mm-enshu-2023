@@ -79,4 +79,12 @@ $(function() {
     $("#regen").click(function() {
         network = new vis.Network(container, data, options);
     });
+
+    // サンプルデータを選択するドロップダウンメニューでsampleIDを選択されたとき
+    $("#sample-selection").change(function() {
+        var selectedSampleID = $(this).val();
+        fetch(`${gutenbergID}/sample/?sample_id=${selectedSampleID}`)
+            .then(response => response.json())
+            .then(apply_params);
+      });
 });

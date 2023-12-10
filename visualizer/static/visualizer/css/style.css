@@ -30,8 +30,13 @@ body {
     box-sizing: border-box;
 }
 
+.buttons {
+    display: flex;    
+}
+
 .prev-next {
     margin-left: 20px;
+    margin-right: 15px;
     height: 31px;
 }
 
@@ -41,7 +46,15 @@ body {
     padding: 8px;
     border-radius: 15px;
 }
-
 .icon:hover {
+    background-color: #ddd;
+}
+
+#sample-selection {
+    border: 0px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+#sample-selection:hover {
     background-color: #ddd;
 }

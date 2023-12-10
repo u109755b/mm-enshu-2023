@@ -1,6 +1,6 @@
 .title-bar, .navigation-bar {
     position: fixed;
-    width: calc(100vw - 320px);
+    width: calc(100vw - 400px);
     right: 0;
     z-index: 1000;
     display: flex;
