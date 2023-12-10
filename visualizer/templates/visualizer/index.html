@@ -59,9 +59,9 @@
             
             <div class="buttons">
                 <div class="prev-next">
-                    <img id="prev" class="icon" src="{% static 'visualizer/icon/leftarrow.png' %}">
-                    <img id="next" class="icon" src="{% static 'visualizer/icon/rightarrow.png' %}">
-                    <img id="regen" class="icon" src="{% static 'visualizer/icon/reload.png' %}">
+                    <img id="prev" class="icon" src="{% static 'visualizer/icon/leftarrow.png' %}", title="Go to previous chapter">
+                    <img id="next" class="icon" src="{% static 'visualizer/icon/rightarrow.png' %}", title="Go to next chapter">
+                    <img id="regen" class="icon" src="{% static 'visualizer/icon/reload.png' %}", title="regenerate graph">
                 </div>
                 <select id="sample-selection">
                     {{ optionHTML|safe }}
