@@ -1,14 +1,23 @@
 # 本文に基づく知識グラフ構築 (ChatGPT ver)
 ### 対象物語 (随時追加予定)
-| gutenbergID | name | #words |
-| ---- | ---- | ---- |
-| 18155 | The Story of the Three Little Pigs | 960 |
-| 1661 | The Adventures of Sherlock Holmes\* | 8,520 |
-| 11 |  Alice's Adventures in Wonderland by Lewis Carroll | 26,520 |
-| 120 | TREASURE ISLAND | 67,870 |
-| 829 | GULLIVER'S TRAVELS INTO SEVERAL REMOTE NATIONS OF THE WORLD | 105,080 |
+| num | gutenbergID | name | #words |
+| ---- | ---- | ---- | ---- |
+| 1 | 18155 | The Story of the Three Little Pigs | 960 |
+| 2 | 1661 | The Adventures of Sherlock Holmes\* | 8,520 |
+| 3 | 11 |  Alice's Adventures in Wonderland by Lewis Carroll | 26,520 |
+| 4 | 120 | TREASURE ISLAND | 67,870 |
+| 5 | 829 | GULLIVER'S TRAVELS INTO SEVERAL REMOTE NATIONS OF THE WORLD | 105,080 |
+| 6 | 12 | Through the Looking-Glass by Lewis Carroll | 29,256 |
+| 7 | 35 | The Time Machine by H. G. Wells\** | 32,376 |
+| 8 | 16 | Peter Pan by J. M. Barrie | 47,112 |
+| 9 | 146 | A Little Princess by Frances Hodgson Burnett | 66,264 |
+| 10 | 164 | Twenty Thousand Leagues under the Sea by Jules Verne\** | 104,335 |
+| 11 | 521 | The Life and Adventures of Robinson Crusoe by Daniel Defoe | 120,792 |
+| 12 | 1257 | The three musketeers by Alexandre Dumas and Auguste Maquet | 228,997 |
 
 \*  1_preprocess_txt.py 実行後人手で I. A Scandal in Bohemia のみを抽出
+
+\** 1_preprocess_txt.py 実行後人手で一部修正
 
 
 ### 更新履歴
