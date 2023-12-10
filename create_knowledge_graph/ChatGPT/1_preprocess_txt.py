@@ -76,8 +76,8 @@ def preprocess_txt(storyID):
 
     # 本文の分割を行う
     # 数字のパターンを定義 (ローマ数字+".", アラビア数字, 数字を表す英単語)
-    roman_numerals = "X{0,3}(IX|IV|V?I{0,3})\."
-    arabic_numerals = "\d+"
+    roman_numerals = "(?=[LXVI])(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})\."     # 行の先頭が.である場合を除外
+    arabic_numerals = "(?<![\d\s])\d{1,2}(?!\d)"                        # 行の先頭に空白がある場合を除外, 数字を2桁以下に限定
     words_for_numbers = "(ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN)"
 
     # 分割するタイトル行のパターンを定義
@@ -133,6 +133,7 @@ def main():
     if os.path.exists(f"log/{storyID}/body_scene0.txt"):
         print("The preprocessed text already exists!")
         exit()
+
 
     # storyID を基に (1)本文全体，(2)場面ごとに分割された本文をファイルに保存する
     preprocess_txt(storyID)
