@@ -17,12 +17,29 @@ def read_json(path):
         return json.load(f)
 
 def save_txt(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         f.write(data)
 
 def save_json(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+
+def save_image(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'wb') as f:
+        f.write(data)
+
+# 要約データが存在する物語のgutenbergIDのリストを作成する
+def get_gutenbergIDs():
+    gutenbergIDs = []
+    story_data_folders = glob.glob(f'{summarized_data_dir}/*')
+    for story_data_folder in story_data_folders:
+        gutenbergID = story_data_folder.split('/')[-1]
+        if not gutenbergID.isdecimal(): continue
+        gutenbergIDs.append(gutenbergID)
+    return sorted(gutenbergIDs)
 
 # 指定された物語のtitleを返す
 def get_title(gutenbergID):

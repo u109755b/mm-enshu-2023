@@ -122,6 +122,7 @@ class ViewManager:
         return self.chapter_id
 
 
+
 # 最初のページ読み込みや再読み込み時の処理
 def index(request, gutenbergID=0):
     request.session.clear()
