@@ -24,6 +24,16 @@
 - 20231125: 1_preprocess_txt.py 取り敢えず完成
 - 20231126: 2_summarization.py 取り敢えず完成
 - 20231127: 3_create_knowledge_graph.py 取り敢えず完成 (プロンプト改善が必要)
+- 20231213: 場面分割方法を記載した split_type.txt を追加 (取り敢えず人手で追加)
+    | 分割方法 | id |
+    | ---- | ---- |
+    | Part \<num\> | 0 |
+    | Chapter \<num\> | 1 |
+    | \<num\> | 2 |
+    | other | 3 |
+
+    * \<num\>: ローマ数字+".", アラビア数字, 数字を表す英単語
+    * Part I. の Chapter I. の場合: 01
 
 
 ### コードの説明
@@ -31,8 +41,8 @@
 - 2_summarization.py: storyID を入力すると, 各場面の本文の要約を行う.
 - 3_create_knowledge_graph: storyID を入力すると, 各場面の node, edge を取得する.
 - 3_create_knowledge_graph_one_scene: storyID, sceneID を入力すると, 指定した場面の node, edge を取得する.
-- 4_create_json.py: storyID を入力すると, graph.json を作成する.
-- create_json.sh: storyID を入力すると, 1~4 をまとめて実行する
+<!-- - 4_create_json.py: storyID を入力すると, graph.json を作成する. -->
+<!-- - create_json.sh: storyID を入力すると, 1~4 をまとめて実行する -->
 
 
 ### 出力例 (3回実行し, 各結果を sample0, 1, 2 に追加)
@@ -40,6 +50,7 @@
 - 20231201: 11 ChatGPT-output 追加
 - 20231201: 1661 ChatGPT-output 追加
 - 20231201: 120 ChatGPT-output 追加 (sample0のみ)
+- 20231203: 829 ChatGPT-output 追加 (sample0のみ)
 
 
 ### コスト概算
