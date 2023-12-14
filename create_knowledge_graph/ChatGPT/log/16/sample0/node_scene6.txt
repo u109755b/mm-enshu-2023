@@ -1,0 +1,11 @@
+Peter, The main character who measures the children for hollow trees, fits them to trees, and invents games, 0.95
+Wendy, A girl who enjoys the underground home, takes care of the boys, and is considered Peter’s mother, 0.90
+John, Wendy's brother who had to be altered a little to fit his tree, 0.70
+Michael, The youngest brother who slept differently from the other boys and believed Wendy to be his real mother, 0.75
+Hook, The antagonist who sneered at the boys and is mentioned as a contrast to Peter's knowledge of the trees, 0.65
+Tinker Bell, A fairy with her own private apartment in the underground house, contemptuous of the rest, 0.80
+Slightly, One of the Lost Boys, who competes in answering questions about their past, 0.60
+Tootles, One of the Lost Boys, interacts with Peter during fights, 0.55
+Nibs, One of the Lost Boys, interacts with Peter during fights, 0.55
+Twin, One of the Lost Boys, interacts with Peter during fights, 0.55
+Tiger Lily, An ally of Peter's whom he saved, not detailed in this passage but mentioned, 0.50

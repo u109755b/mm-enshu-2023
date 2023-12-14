@@ -1,0 +1,15 @@
+Peter, The main character and leader of the Lost Boys, 0.9
+Tootles, The most humble and least fortunate of the Lost Boys, 0.7
+Nibs, The debonair member of the Lost Boys, 0.6
+Slightly, The most conceited Lost Boy who cuts whistles and dances, 0.6
+Curly, A member of the Lost Boys known for being a pickle, 0.6
+The Twins, Two indistinguishable members of the Lost Boys, 0.6
+Tinker Bell, A fairy who is bent on mischief and tries to trick Tootles, 0.8
+Cecco, A handsome Italian pirate, 0.6
+James Hook, The Captain of the pirates and Peter Pan's archenemy, 0.9
+Smee, Captain Hook's boatswain who is oddly genial, 0.7
+Starkey, A pirate and member of Captain Hook's crew, 0.6
+Skylights, A pirate and member of Captain Hook's crew, 0.5
+Great Big Little Panther, A brave of the redskins, 0.6
+Tiger Lily, The princess of the Piccaninny tribe and the most beautiful of the tribe, 0.8
+Wendy, A character that flies overhead and is targeted by Tinker Bell, 0.8

@@ -1,0 +1,10 @@
+Tootles, A Lost Boy who mistakenly shot Wendy, thinking she was a bird, 0.75
+Wendy, The girl who the Lost Boys mistake for a bird and whom they also desire to be their mother, 0.9
+Peter, Leader of the Lost Boys, also responsible for bringing Wendy to Neverland, 0.95
+Tinker Bell, A fairy who is jealous of Wendy and calls Tootles a "Silly ass", 0.8
+Slightly, The first to realize Wendy is not a bird and regards her as a lady, 0.7
+Nibs, Another Lost Boy who acknowledges they have killed Wendy, 0.6
+Curly, A Lost Boy who figures out that Peter brought Wendy to be their caretaker, 0.6
+The Twins, Unnamed Lost Boys who react to Wendy's shooting, 0.6
+John, Wendy's brother, who arrives at the end and helps with the house, 0.6
+Michael, Wendy's youngest brother, who also assists with the construction of Wendy's house, 0.6

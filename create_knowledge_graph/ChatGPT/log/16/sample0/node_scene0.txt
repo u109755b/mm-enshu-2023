@@ -1,0 +1,7 @@
+Wendy, The eldest of the Darling children, focus of her parents' attention and the first to encounter Peter Pan, 0.8
+Mrs. Darling, The mother of the Darling children, romantic and caring figure, concerned about her children's future and safety, 0.75
+Mr. Darling, The father of the Darling children, practical and proud but sometimes insecure about how he is perceived by others, 0.65
+John, The second child of the Darling family, part of the children's adventures and experiences, 0.5
+Michael, The youngest of the Darling children, depicted as innocent and carefree, also part of the adventures, 0.5
+Nana, The Darling family's nursemaid dog, protector and caretaker of the children, 0.6
+Peter Pan, The mysterious and adventurous boy who appears in the Darling children's lives, central to the unfolding story, 0.9

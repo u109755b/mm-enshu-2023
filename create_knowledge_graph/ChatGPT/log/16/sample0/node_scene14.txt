@@ -1,0 +1,13 @@
+Peter, The main protagonist who is mistaken for a crocodile, 1.0
+Hook, The captain of the pirates and Peter's nemesis, 0.9
+The crocodile, The creature that has lost its ticking sound, leading to a case of mistaken identity, 0.6
+Slightly, One of the boys and a member of Peter's group, known for counting out loud during conflicts, 0.5
+Smee, Hook's boatswain and one of the pirates, known for his spectacles, 0.4
+Wendy, A girl who is bound to the mast but is ultimately saved by Peter, 0.8
+Cecco, One of Hook's pirates who is sent into the cabin and is later found dead, 0.3
+Starkey, A pirate and part of Hook's crew who later escapes and is captured by the redskins, 0.3
+Ed Teynte, The quartermaster who is killed as he emerges from the forecastle, 0.2
+Bill Jukes, A pirate who is found dead in the cabin, 0.2
+Mullins, One of the pirates, part of Hook's crew, 0.2
+Noodler, Another pirate among Hook's crew, 0.1
+Cookson, A pirate who suspects the presence of an additional person on board, 0.1

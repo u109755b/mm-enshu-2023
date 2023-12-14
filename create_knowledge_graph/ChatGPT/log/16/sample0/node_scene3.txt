@@ -1,0 +1,5 @@
+Peter, The main character who leads others to the Neverland and exhibits a variety of unique and sometimes dangerous behaviors, 1
+Wendy, The girl who is concerned about Peter's unconventional ways and cares for her brothers, 0.8
+John, Wendy's brother who is logical and thoughtful about their situation, 0.6
+Michael, The youngest of Wendy's brothers who is involved in the adventure and looks to his siblings for guidance, 0.6
+Tinker Bell, Peter's fairy companion who becomes jealous of Wendy and leads her to danger, 0.7

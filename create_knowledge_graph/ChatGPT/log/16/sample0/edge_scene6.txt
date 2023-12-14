@@ -1,0 +1,5 @@
+Peter, Wendy, measure, Peter measured Wendy for hollow trees.
+Peter, John, measure, Peter measured John for hollow trees.
+Peter, Michael, measure, Peter measured Michael for hollow trees.
+Peter, Tinker Bell, accommodate, Peter provided a private apartment for Tinker Bell within the house.
+Peter, Tiger Lily, save, Peter saved Tiger Lily's life in the Mermaids’ Lagoon.

@@ -9,7 +9,7 @@
 | 5 | 829 | GULLIVER'S TRAVELS INTO SEVERAL REMOTE NATIONS OF THE WORLD | 105,080 | fin |
 | 6 | 12 | Through the Looking-Glass by Lewis Carroll | 29,256 | fin |
 | 7 | 35 | The Time Machine by H. G. Wells\** | 32,376 | fin |
-| 8 | 16 | Peter Pan by J. M. Barrie | 47,112 | summary fin |
+| 8 | 16 | Peter Pan by J. M. Barrie | 47,112 | fin |
 | 9 | 146 | A Little Princess by Frances Hodgson Burnett | 66,264 | summary fin |
 | 10 | 164 | Twenty Thousand Leagues under the Sea by Jules Verne\** | 104,335 | summary fin |
 | 11 | 521 | The Life and Adventures of Robinson Crusoe by Daniel Defoe | 120,792 | summary fin |
@@ -55,6 +55,7 @@
 - 20231214: 35 ChatGPT-output 追加 (sample0のみ)
 - 20231214: 120 ChatGPT-output 修正
 - 20231214: 829 ChatGPT-output 修正
+- 20231214: 16 ChatGPT-output 追加 (sample0のみ)
 
 
 ### コスト概算

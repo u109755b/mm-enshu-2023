@@ -1,0 +1,15 @@
+Wendy, The girl who grew up and had a family, later becoming a storyteller for her daughter, 1.0
+Peter Pan, The boy who never grows up and continues his adventures in Neverland, 0.9
+Mrs. Darling, Wendy's mother who adopts the Lost Boys, 0.7
+Mr. Darling, Wendy's father who struggles with the idea of having more children, 0.6
+The first twin, A Lost Boy characterized as the proud one, 0.4
+The twins, Lost Boys who are part of the group adopted by the Darlings, 0.5
+Nibs, Another Lost Boy who suggests to lie doubled up to take less space, 0.4
+Slightly, A Lost Boy who ends up being put into higher classes at school, 0.4
+Tootles, A Lost Boy who believes Mr. Darling is not a cypher, later becoming a judge, 0.4
+Curly, A Lost Boy, later one of the children going to an office, 0.3
+Tinker Bell (Tink), Peter's fairy companion who lives with him in the tree top house, 0.7
+Michael, Wendy's younger brother, becomes an engine-driver, 0.6
+John, Wendy's other younger brother, who is mentioned briefly in comparison to another character, 0.5
+Jane, Wendy's daughter who inherits the tradition of going to Neverland with Peter, 0.8
+Margaret, Jane's daughter and the future "mother" to Peter, mentioned in the prediction of a continuing cycle, 0.3

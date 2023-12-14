@@ -1,0 +1,13 @@
+Wendy, A storyteller among the children and Peter Pan's companion, 0.85
+Michael, Wendy's younger brother who is at her feet during the story, 0.7
+Peter (Peter Pan), The leader of the Lost Boys who detests grown-ups and intervenes to ensure Wendy can tell her story, 0.95
+John, One of Wendy's brothers who engages with the story she tells, 0.7
+Mr. Darling, Character in Wendy's story, the father, 0.4
+Mrs. Darling, Character in Wendy's story, the mother, 0.4
+Nana, A nurse to Wendy, John, and Michael in the story told by Wendy, 0.5
+Tootles, One of the Lost Boys who shows affection for the concept of a mother's love, 0.65
+Nibs, One of the Lost Boys who questions about the story and mothers, 0.65
+Curly, One of the Lost Boys who expresses a wish about the story's character, 0.6
+The first twin, One of the twins among the Lost Boys who interacts during Wendy's story, 0.6
+The second twin, The other twin among the Lost Boys who worries about the story's ending, 0.6
+Tinker Bell (Tink), A fairy in Peter Pan's company who is tasked with helping Wendy, 0.75

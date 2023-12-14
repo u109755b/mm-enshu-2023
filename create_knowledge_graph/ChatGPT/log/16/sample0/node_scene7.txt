@@ -1,0 +1,13 @@
+Peter, The main character of "Peter Pan"; a boy who can fly and never grows up, 1.0
+Wendy, The eldest of the Darling children; travels with Peter Pan to Neverland, 0.9
+John, Wendy's younger brother; one of the Darling children who go to Neverland, 0.8
+Mermaids, Mystical creatures of Neverland that live in the Mermaids' Lagoon, 0.7
+Hook, The infamous pirate captain and Peter Pan's nemesis, 0.9
+Smee, Hook's loyal boatswain and one of the key pirates, 0.6
+Starkey, Another member of Hook's pirate crew, 0.5
+Tiger Lily, The daughter of the Native chief and a princess of her tribe in Neverland, 0.7
+Michael, The youngest of the Darling children; travels with Peter Pan to Neverland, 0.7
+Tootles, One of the Lost Boys who live with Peter Pan in Neverland, 0.4
+Curly, Another one of the Lost Boys who live with Peter Pan in Neverland, 0.4
+The Never bird, A bird in Neverland, providing assistance to the characters in its own way, 0.3
+The Crocodile, The creature that pursues Captain Hook throughout Neverland, 0.6

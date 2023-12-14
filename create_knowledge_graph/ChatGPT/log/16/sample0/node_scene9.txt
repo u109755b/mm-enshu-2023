@@ -1,0 +1,11 @@
+Peter Pan, The leader of the Lost Boys and the central figure around whom the events revolve, 1.0
+Wendy Darling, The mother figure to the Lost Boys and Peter's close companion, 0.9
+Tinker Bell, Peter Pan's feisty fairy companion who exhibits jealousy and a fiery temper, 0.8
+Tiger Lily, The native princess whom Peter saves, becoming his ally, 0.6
+John Darling, Wendy's brother who looks up to Peter and participates in the adventures, 0.7
+Michael Darling, The youngest of the Darling children, who sees Peter as a father figure, 0.7
+The Twins, Two of the Lost Boys with no distinct characteristics but part of Peter's close-knit group, 0.5
+Slightly, Another one of the Lost Boys, known for his musical talent and inventiveness, 0.5
+Curly, One of the Lost Boys who is part of the family unit under Peter's leadership, 0.5
+Nibs, One of the Lost Boys and a resident of the underground home, 0.5
+Tootles, The humblest and most unfortunate of the Lost Boys, often blamed for things he didn't do, 0.5

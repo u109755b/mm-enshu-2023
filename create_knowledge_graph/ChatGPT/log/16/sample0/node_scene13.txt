@@ -1,0 +1,12 @@
+Smee, A member of Captain Hook's pirate crew who sits at the ship's sewing machine, 0.65
+Hook, The pirate captain of the Jolly Roger, the antagonist of the story, deeply troubled and obsessed with good form, 1.0
+Peter, The protagonist, referred to at the end as the one coming aboard the ship, previously removed from Hook’s path, 0.9
+Wendy, A prisoner on the pirate ship, motherly figure to the boys, and despised by the pirates, 0.8
+Tootles, A boy who steps forward to interact with Hook, one of the children on the ship, 0.4
+Slightly, A boy on the ship who responds to Tootles when questioned about being a pirate, 0.35
+The first twin, One of the twins who responds to Tootles' question regarding the desire to be a pirate, 0.35
+Nibs, Another boy who was about to be asked by Tootles but is interrupted by Hook, 0.3
+John, One of Wendy’s brothers who is singled out by Hook for having a bit of pluck, 0.55
+Michael, The youngest of Wendy’s brothers who discusses potential pirate names with John, 0.55
+Curly, A boy on the ship who cries out "Rule Britannia!" showing loyalty to England, 0.35
+The crocodile, Mentioned at the end, brings fear to Hook, not physically present but its ticking is heard, 0.4

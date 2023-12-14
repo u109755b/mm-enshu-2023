@@ -1,0 +1,11 @@
+Curly, One of the boys captured by the pirates, 0.6
+Cecco, A pirate who first catches Curly, 0.55
+Smee, A pirate who participates in passing Curly along, 0.55
+Starkey, A pirate involved in the chain of throwing Curly, 0.55
+Bill Jukes, A pirate who helps in flinging Curly to another pirate, 0.55
+Noodler, The last pirate in the chain to toss Curly, 0.55
+Wendy, The girl who is treated differently by Hook and is fascinated by him, 0.75
+Hook, The captain of the pirates, known for his ironical politeness and malignant triumph, 0.95
+Slightly, A boy with a secret that makes him vulnerable to Hook's plans, 0.7
+Peter, The main protagonist of the story who is potentially at the mercy of Hook, 0.9
+Tink or Tinker Bell, A fairy who informs Peter of the capture and later saves him by drinking the poisoned medicine, 0.85

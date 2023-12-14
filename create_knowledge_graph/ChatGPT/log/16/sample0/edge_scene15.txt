@@ -1,0 +1,16 @@
+The input and output nodes of an edge must be one of 'Tootles, Nibs, John, Peter, Slightly, Wendy, Mrs. Darling, Mr. Darling, Nana, Liza, Hook, Michael'
+Nibs, position, serve as, Nibs was the first mate.
+John, position, serve as, John was the second mate.
+Peter, position, lashed to, Peter had already lashed himself to the wheel.
+Peter, action, delivered, Peter piped all hands and delivered a short address.
+Peter, crew, treat as, Peter treated the crew as dogs.
+Slightly, punishment, received, Slightly got a dozen for looking perplexed.
+Wendy, action, making, Wendy was making a new suit for Peter out of Hook's garments.
+Mr. Darling, action, crawled, Mr. Darling crawled into the kennel.
+Mr. Darling, kennel, carried in, Every morning the kennel was carried with Mr. Darling in it to a cab.
+Wendy, Michael, have affection for, Some like Wendy best, and some like Michael best.
+Mrs. Darling, children, wait for, Mrs. Darling was in the night-nursery awaiting George's return home.
+Peter, Mrs. Darling, observe, Peter peeped in again to see what Mrs. Darling was doing.
+Wendy, John, Michael, action, flew in, Wendy, John, and Michael flew into the room.
+Nana, Mrs. Darling, stay with, Nana stayed with Mrs. Darling when the children left.
+Mrs. Darling, window, leave open, Mrs. Darling left the window open for the children.

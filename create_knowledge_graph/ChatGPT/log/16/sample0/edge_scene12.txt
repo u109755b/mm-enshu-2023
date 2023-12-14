@@ -1,0 +1,11 @@
+The input and output nodes of an edge must be one of 'Curly, Cecco, Smee, Starkey, Bill Jukes, Noodler, Wendy, Hook, Slightly, Peter, Tink or Tinker Bell'
+Curly, Cecco, tossed to, Curly rose out of his tree into the arms of Cecco.
+Cecco, Smee, tossed to, Cecco flung Curly to Smee.
+Smee, Starkey, tossed to, Smee flung Curly to Starkey.
+Starkey, Bill Jukes, tossed to, Starkey flung Curly to Bill Jukes.
+Bill Jukes, Noodler, tossed to, Bill Jukes flung Curly to Noodler.
+Hook, Wendy, escorted, Hook raised his hat to Wendy and escorted her to the spot where the boys were being gagged.
+Hook, Slightly, discovered secret, Hook discovered Slightly’s secret which was that no boy so blown out could use a tree wherein an average man need stick.
+Hook, Peter, planned attack on, Hook had a foul attempt planned on Peter’s life.
+Tinker Bell, Peter, alerted, Tinker Bell alerted Peter about the capture of Wendy and the boys and also about his poisoned medicine.
+Hook, Peter, poisoned medicine of, Hook added five drops of poison to Peter’s medicine with an exultation.

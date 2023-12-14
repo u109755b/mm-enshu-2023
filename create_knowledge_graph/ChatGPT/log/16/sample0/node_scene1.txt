@@ -1,0 +1,8 @@
+Mrs. Darling, The mother of the Darling children, who is caring and worried about the safety and well-being of her family, 0.8
+Nana, The Darling family's nursemaid dog, who is responsible and protective, particularly of the children, 0.7
+Boy's shadow, The shadow of the boy who leapt through the window, central to a mysterious event in the nursery, 0.5
+Mr. Darling, The father of the Darling children, who is concerned with maintaining order and propriety but also struggles with his pride, 0.8
+Liza, The Darling family’s servant, mentioned in passing but plays a small role in the background, 0.3
+Wendy, The eldest Darling child, who is caring and maternal, emulating her own mother and showing a close bond with her parents, 0.7
+John, A child of the Darling family, who is seen playing and mimicking his father, 0.6
+Michael, The youngest of the Darling children, who resists going to bed and expresses a desire for a mother's love, 0.6

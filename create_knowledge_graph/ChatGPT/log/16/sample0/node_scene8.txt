@@ -1,0 +1,4 @@
+Peter, The protagonist of the story, often involved in adventures and interactions with other characters, 0.9
+The Never bird, A bird character that tries to assist Peter when he is in trouble, illustrates the theme of helpfulness and compassion within the story, 0.7
+Mrs. Darling, Referenced in comparison to the Never bird's feelings, an earlier character likely important to the main storyline and Peter's background, 0.4
+Wendy, A character who cares for the other characters and instills order, emphasizing themes of responsibility and maternal care, 0.8

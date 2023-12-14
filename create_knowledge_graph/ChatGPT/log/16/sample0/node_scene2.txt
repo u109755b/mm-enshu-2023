@@ -1,0 +1,9 @@
+Mr. Darling, Father of the Darling children and husband to Mrs. Darling, 0.5
+Mrs. Darling, Mother of the Darling children and wife to Mr. Darling, 0.5
+Wendy Moira Angela Darling, The eldest Darling child who is intrigued by Peter Pan, 0.8
+John Darling, The middle Darling child, 0.6
+Michael Darling, The youngest Darling child, 0.6
+Nana, The Darling family's nursemaid dog, 0.4
+Peter Pan, The boy who never grows up and the protagonist of the story, 1.0
+Tinker Bell, A fairy and Peter Pan's companion, 0.8
+Liza, The Darling family's housemaid, 0.3

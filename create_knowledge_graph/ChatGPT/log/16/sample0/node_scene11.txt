@@ -1,0 +1,12 @@
+Hook, The pirate captain and antagonist, 0.95
+The Piccaninnies, The native tribe opposing Hook and the pirates, 0.65
+Tiger Lily, The leader of the Piccaninnies, 0.7
+Lean Wolf, A member of the Piccaninnies who perishes in the conflict, 0.4
+Alf Mason, A pirate who is killed by Lean Wolf, 0.4
+Geo. Scourie, A pirate who was killed in the conflict, 0.4
+Chas. Turley, A pirate who fell to the tomahawk of the Panther, 0.4
+The Alsatian Foggerty, A pirate who bit the dust in the battle, 0.4
+The Panther, A notable member of the Piccaninnies, 0.45
+Peter, The boy whom Hook despises and seeks, 0.95
+Wendy, A girl associated with Peter and the band, 0.5
+Smee, A pirate under Hook's command, 0.6

@@ -1,0 +1,9 @@
+Peter Pan, Tiger Lily, save & be friends with, Peter had saved Tiger Lily from a dreadful fate & there was nothing she and her braves would not do for him.
+Peter Pan, Wendy Darling, spoil, appreciate, dance with, express feelings, Peter had brought nuts for the boys as well as the correct time for Wendy, There is nothing more pleasant of an evening for you and me to rest by the fire with the little ones nearby, But we want you to dance, Those of a devoted son, Wendy. (Merged multiple relationships into a single edge)
+Wendy Darling, John Darling, inquire, May I sit in Peter’s chair, as he is not here?
+Wendy Darling, Michael Darling, enforce rules, "I must have somebody in a cradle," she said to Michael.
+Twins, John Darling, complain, We complain of John.
+Peter Pan, Children, fatherhood, It is only make-believe that I am their father. (Generalized "Children" to include all applicable child characters as output nodes)
+Wendy Darling, Peter Pan, assure, Not if you don't wish it.
+Wendy Darling, Tinker Bell, criticize, Oh yes, Tinker Bell will tell you.
+Tinker Bell, Peter Pan, suggest motherhood, Perhaps Tink wants to be my mother?

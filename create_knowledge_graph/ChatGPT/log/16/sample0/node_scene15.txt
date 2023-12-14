@@ -1,0 +1,12 @@
+Tootles, A member of the crew stirring their stumps in the morning, 0.55
+Nibs, First mate on the ship, 0.60
+John, Second mate on the ship, 0.60
+Peter, The captain who lashed himself to the wheel and led the crew, 0.90
+Slightly, A crew member who got punished for looking perplexed, 0.55
+Wendy, The girl creating a suit out of Hook's garments and central to Peter's plans, 0.85
+Mrs. Darling, The mother of Wendy, John, and Michael, who is missed at home, 0.80
+Mr. Darling, The father who feels remorse for his actions and is in the kennel, 0.80
+Nana, The family's nurse who is a dog, symbolizing loyalty and care, 0.75
+Liza, The servant who scorns Mr. Darling's choice of staying in the kennel, 0.50
+Hook, The pirate from whom Wendy is making Peter's new suit (not actively present in events but mentioned), 0.65
+Michael, One of the children taken by Peter, and youngest of the three siblings, 0.70
