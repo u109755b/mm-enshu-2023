@@ -1,14 +1,14 @@
-Queen Anne, The reigning monarch of England during the time depicted in the text, 0.7
-First minister of state, A high-ranking political leader in European courts often responsible for the administration of government, 0.8
-Yahoo, A term used by the author to describe humans, particularly with negative characteristics such as greed and folly, 0.6
-Houyhnhnm, A rational and superior horse-like species in the author's narrative, representing an ideal of rationality and propriety, 0.65
-Master, The person to whom the narrator is speaking, presumably a Houyhnhnm, who is trying to understand human society, 0.75
-Rich man, Individual characterized by wealth and the ability to enjoy the labor of the poor, reflects the class divide and inequality in society, 0.5
-Poor man, Individual who labors for low wages and lives miserably, highlights the social and economic disparities in the population, 0.5
-Female Yahoo, A term used to describe human females, particularly in a derogatory sense in the context of vanity or immorality, 0.55
-Physicians, Individuals who practice medicine, often criticized in the text for their approach to treating diseases, 0.6
-Ministers of state, Individuals who handle government affairs, sometimes corruptly or ineffectively, 0.7
-Princes, Heirs to the throne or rulers, involved in the political machinations and dynamics of power, 0.65
-Noble family, A group of high social status by birth, represents the societal hierarchy and perceived characteristics of the nobility, 0.55
-Young noblemen, Represents the idle and degenerate youth of the upper class as portrayed in the text, 0.5
-Wife from mean birth, A woman of lower social standing who marries a nobleman for his money, symbolizing social mobility and sometimes moral corruption, 0.5
+Queen Anne, The reigning monarch during the time period described and a reference point for the state of England, 0.4
+My master, The person with whom the narrator is having a detailed conversation, presumably Gulliver's Houyhnhnm master, seeking insight into human behavior and society, 0.8
+Yahoos, A term used by the Houyhnhnms to describe human beings in general, representing greed, folly, and a host of other vices, 0.7
+First minister of state, A powerful government official in European courts, described as corrupt, greedy, and insincere, holding tremendous influence, 0.7
+Houyhnhnm, A member of a race of intelligent horses thought to embody rationality and virtue, contrasting with human corruption, 0.6
+Rich man, A character type representing those who benefit from the labor of the poor in society, signifies wealth disparity, 0.5
+Poor man, A character representing the masses who toil for low wages, emphasizing social and economic inequalities, 0.5
+Female Yahoos, Described in the context of vanity and as carriers of diseases, representing the consequences of indulgence and vice, 0.4
+Physicians, Those who profess to cure the sick, often with questionable methods, symbolizing the medical practices of the time, 0.6
+Noble family, Mentioned by the master as a presumed origin of the narrator due to his superior traits, represents social hierarchy, 0.3
+Young noblemen, Depicted as leading lives of idleness and luxury, embodying the decaying moral fabric of the aristocracy, 0.4
+Ministers of state, Described as learning from the chief minister, they represent the corrupt system of governance, aspiring to power through sycophancy, 0.6
+Favourite footman, Indicative of a person wielding significant influence over a chief minister, showing how power can be informally distributed, 0.3
+Pages, lackeys, and porters, Represent subordinates who aspire to climb the social ladder by emulating their superiors in corruption, 0.3

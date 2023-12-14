@@ -1,11 +1,10 @@
-The author, The narrator of the account and proposer of improvements, 1.0
-The professors, Academics at the school proposing ludicrous schemes, 0.8
-The most ingenious doctor, A well-versed person in government who suggests remedies for political corruption, 0.8
-The first senator, A character who participates in the satirical scheme for taxing vices, 0.7
-The second senator, A character who advocates for taxing positive qualities instead of vices, 0.7
-The women, A group proposed for taxation based on beauty and dressing skill, 0.6
-Princes, Implicit characters who are said to have favourites with weak memories, 0.5
-Senators, Members of the great council supposed to raffle for employments, 0.5
-Great statesmen, Implied characters advised to scrutinize suspected persons for plots, 0.5
-The author of the whole discourse, The creator of written work containing political observations, 0.7
-The learned individuals of Tribnia, Those skilled in deciphering and creating plots, 0.7
+Author, The narrator and protagonist of the story, who proposes improvements and provides observations and accounts of the academy, 1.0
+Professors, Individuals who appear to be out of their senses with unrealistic and impossible schemes in the school of political projectors, 0.6
+Ingenious Doctor, A character who is very knowledgeable in government and has studied remedies for the diseases and corruptions of public administration, 0.8
+Senators, Members of the great council in the narrative who are subject to various proposed treatments by the ingenious doctor to improve the legislative process, 0.5
+First Minister, A character who is proposed to be reminded of his business with physical tweaks to prevent forgetfulness, 0.3
+Leaders of each party, People within the context of the political factions who are subject to a proposed method to reconcile violent parties by a literal exchange of brain parts, 0.4
+Two Professors, Characters who debate about the most commodious and effective ways of raising money without grieving the subject, 0.6
+Women, Mentioned in the context of being taxed according to their beauty and skill in dressing, 0.2
+Another Professor, The character who suggests a paper of instructions for discovering plots and conspiracies against the government, 0.5
+Tribnia (Langden) Inhabitants, These are characters mentioned to explain a kingdom's population involved in politically motivated activities such as informing and prosecuting, but are not to be described further as per constraints, 0.4

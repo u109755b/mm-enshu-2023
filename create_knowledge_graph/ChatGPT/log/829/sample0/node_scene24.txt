@@ -1,21 +1,16 @@
-The author, The protagonist and narrator of the story, journeying through fictional lands, 1.0
-Governor of Glubbdubdrib, The ruler of Glubbdubdrib who has the power to summon the dead, 0.8
-Noble protector, A character who previously showed favor to the author, 0.3
-Gentleman of distinction, A resident of Maldonada who suggests a trip to Glubbdubdrib and accompanies the author, 0.6
-Alexander the Great, A historical figure summoned from the dead for the author to meet, 0.5
-Hannibal, A historical figure summoned from the dead to speak with the author, 0.5
-Julius Caesar, A historical figure summoned from the dead to speak with the author, 0.7
-Pompey, A historical figure who appears ready to engage in battle next to Caesar, 0.4
-Brutus, A historical figure summoned from the dead, renowned for his virtue and conversation with the author, 0.7
-Guide, A character hired to show the way to the author and carry baggage, 0.3
-Governor's family, Implied characters related to the Governor, 0.4
-Domestic spectres, The ghosts that serve in the Governor's palace, 0.7
-Gentleman's friend, A friend of the gentleman of distinction who accompanies the author to Glubbdubdrib, 0.4
-Guards, The guards at the Governor's palace, 0.5
-Servants, The servants at the Governor's palace likely being spectres, 0.6
-Junius Brutus, A figure mentioned as being in the company of the greatest virtuous men in history, 0.3
-Socrates, A historical figure mentioned as being in the company of the greatest virtuous men in history, 0.4
-Epaminondas, A historical figure mentioned as being in the company of the greatest virtuous men in history, 0.3
-Cato the Younger, A historical figure mentioned as being in the company of the greatest virtuous men in history, 0.3
-Sir Thomas More, A historical figure mentioned as being in the company of the greatest virtuous men in history, 0.4
-Sextumvirate, The collective term used by the author to refer to the group of historical figures he admires, 0.2
+Author, The narrator of the story who undertakes a journey, 0.9
+Governor of Glubbdubdrib, The ruler of the island of Glubbdubdrib who practices necromancy, 0.7
+Gentleman of distinction, A local of Maldonada who suggests to the Author a visit to Glubbdubdrib, 0.3
+Friend of the gentleman, Accompanies the Author and the gentleman to Glubbdubdrib, 0.3
+Guide, Assisted the Author with the journey and carried his luggage, 0.3
+Noble protector, A person of high status who favored the Author before his departure, 0.3
+Alexander the Great, One of the historical figures summoned by the Governor's necromancy, 0.5
+Hannibal, One of the historical figures summoned by the Governor's necromancy, 0.5
+Cæsar, One of the historical figures summoned by the Governor's necromancy, 0.5
+Pompey, One of the historical figures summoned by the Governor's necromancy, 0.5
+Brutus, One of the historical figures summoned by the Governor's necromancy, 0.5
+Junius Brutus, Mentioned as an ancestor of Brutus, part of a notable group in the afterlife, 0.4
+Socrates, Mentioned as part of a notable group in the afterlife with Brutus, 0.4
+Epaminondas, Mentioned as part of a notable group in the afterlife with Brutus, 0.4
+Cato the Younger, Mentioned as part of a notable group in the afterlife with Brutus, 0.4
+Sir Thomas More, Mentioned as part of a notable group in the afterlife with Brutus, 0.4

@@ -1,16 +1,12 @@
-Long John Silver, A pirate with a timber leg who used to sail with Captain Flint and is now planning his own course, 0.9
-Flint, A notorious pirate captain, formerly the superior of Long John Silver, 0.8
-Pew, An old, blind pirate who lost his sight in the same battle Silver lost his leg; he wasted his money and died a beggar, 0.6
-Youngest hand on board, Admirer of Captain Flint's legend, 0.3
-Master surgeon, The one who amputated Silver's leg and had an unfortunate end, 0.4
-Roberts, Leader of a group of men who had a practice of changing the names of their ships, indirectly relating to the story Silver tells, 0.4
-Davis, Another pirate mentioned by Silver, though he never sailed with him, 0.3
-Spy-glass, Personified as Silver's "old missis" but since it is not specified as a character, it's likely a name of a ship or tavern, 0
-Dick, A young sailor who is being corrupted into piracy, and is trusted by Silver, 0.5
-Israel Hands, The coxswain, who engages in conversation with Silver and also trusts Dick, 0.6
-Cap'n Smollett, Captain of the ship valued by Silver for his seamanship, not present in the conversation but referenced by the characters, 0.7
-The squire and doctor with a map, Not directly involved in the conversation, but their possession of the map makes them important, 0.6
-Billy Bones, A deceased pirate known for his ruthlessness, mentioned in passing, 0.4
-Gentleman of fortune, A term used by pirates such as Silver to describe themselves, which refers to pirates in general, not a specific character, 0
-Trelawney, A character Silver claims to have a personal vendetta against and plans to harm, 0.5
-Mr. Arrow, A character not part of this conversation, known to Silver, who suffered from drinking too much, 0.3
+Long John Silver, A one-legged pirate, quartermaster under Captain Flint, and charismatic manipulator who is planning a mutiny, 0.9
+Captain Flint, The deceased former captain of the pirate ship, whose hidden treasure the crew seeks, 0.85
+Old Pew, A blind beggar and former pirate feared for his cruelty, now dead, 0.6
+The youngest hand, Likely refers to Jim Hawkins, the story’s young protagonist and narrator, who overhears the pirates and learns of their plans, 0.9
+Davis, A pirate, mentioned by Silver, but not expanded upon in character, 0.4
+Squire Trelawney, One of the organizers of the treasure voyage, not directly involved in the conversation but targeted by Silver for vengeance, 0.75
+Dr. Livesey, Another organizer of the voyage and a principal character, similarly not active in the conversation but involved in the treasure hunt, 0.75
+Captain Smollett, The captain of the Hispaniola, highly competent and leader of the honest crew members, 0.8
+Mr. Arrow, The ships' former first mate who was destroyed by strong waters (alcohol), 0.5
+Dick, A young and impressionable crew member being corrupted by Silver, 0.65
+Israel Hands, The coxswain, involved in the conversation with Silver and Dick, plotting against Captain Smollett, 0.7
+Billy Bones, A deceased pirate who used to be part of Flint's crew, mentioned as an example of ruthlessness, 0.5

@@ -1,1 +1,4 @@
-Silver, Jim, inform, Silver informed Jim about the breeze coming.
+Buccaneer, Silver, begged, A buccaneer begged Silver for a moment's loan of the torch.
+Silver, Jim, indicate awareness, Silver indicated to Jim that a breeze was coming.
+Morgan, Cutting Bible, disapprove, Morgan disapproved of the act of cutting out the Bible.
+Dick, Black spot, deface Bible, Dick defaced a Bible with the black spot.

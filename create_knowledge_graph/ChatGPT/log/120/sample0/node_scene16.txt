@@ -1,9 +1,9 @@
-Trelawney, A grown man who is over six feet tall and participates in the boat trip, 0.7
-Redruth, A grown man over six feet tall accompanying Trelawney and the captain on the boat trip, 0.7
-Captain, A key figure on the boat trip, giving orders, and participating in critical decisions, 0.9
-Doctor (Narrator), The person recounting the events of the boat trip and actively involved in the actions, 1.0
-Gray, A man sitting in the fore-sheets of the boat, providing observations about the current, 0.6
-Israel Hands, The brandy-faced rascal aboard the HISPANIOLA, involved in the action around the long gun, 0.8
-Mr. Trelawney (Squire), Identified by the narrator as the best shot and asked by the captain to pick off one of the men with a gun, 0.9
-Hunter, Mentioned in context of whether he would stand firm if attacked; his steadiness is known, 0.5
-Joyce, Mentioned as a doubtful case in terms of combat readiness; pleasant and polite but not seen as entirely suited for battle, 0.5
+Trelawney, A grown man and presumably competent with firearms, 0.7
+Redruth, A grown man, over six feet tall and one of the members of the boat crew, 0.6
+The captain, Leader of the group on the boat, giving commands and making decisions, 0.8
+The man Gray, A member of the boat crew, he offers useful observations regarding the current, 0.6
+Israel Hands, A "brandy-faced rascal" involved with the antagonists and handling a gun, 0.7
+The squire, Acknowledged as the best shot among the crew and tasked with firing a gun, 0.7
+Jim, The narrator of the passage and involved in the steering of the boat, 0.8
+Hunter, Mentioned as steady and presumably part of the group associated with the boat crew, 0.5
+Joyce, Described as a pleasant, polite man, but his ability in a fight is questioned, 0.5

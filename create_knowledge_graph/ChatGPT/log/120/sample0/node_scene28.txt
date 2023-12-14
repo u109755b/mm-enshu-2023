@@ -1,10 +1,11 @@
-Silver, A sea-cook and leader among the buccaneers; clever and manipulative, 0.9
-Jim, The narrator of the story; a young boy involved with the buccaneers, 0.85
-George, A mutineer with knowledge of the crew's rules; challenges Silver's authority, 0.7
-Morgan, Another buccaneer who supports Silver; remarks on the bad luck of using a Bible page for the black spot, 0.6
-Dick, A member of the buccaneers implicated in cutting the Bible page; considered unlucky by the crew, 0.65
-The emissary, A member of the buccaneers who temporarily leaves during the meeting to ask for a torch, 0.5
-The kneeling figure, A buccaneer involved in a ritual with a knife and book; his actions draw Jim's attention, 0.55
-The long man with yellow eyes, A distinctive member of the buccaneers who insists on procedure during the council, 0.6
-Anderson, Mentioned by Silver as one who opposed him and tipped him with the black spot, 0.5
-Hands, Mentioned by Silver as one who opposed him; contributed to the crew's troubles, 0.5
+Buccaneer, One of the council members who re-enters the house to ask for a torch, 0.15
+Silver, The sea-cook and a central figure in the mutiny, acting as a leader to the group, 0.9
+Jim, The narrator and main character observing the events, involved in the conflict and decisions, 0.8
+Emmisary, The buccaneer assigned to retrieve the torch from the house, 0.35
+Men with Knife and Book, Likely mutineers conspiring with the torch and possibly casting the black spot, 0.6
+George, Challenges Silver's authority and criticizes his decisions, central in the discussion of the black spot, 0.7
+Dick, Identified as the person who defaced the Bible, which held significance among the crew, 0.6
+Long man with yellow eyes, Challenges Silver and asserts the authority of the crew's decision, 0.65
+Anderson, Mentioned as part of the group opposing Silver's decisions, potentially a crew member of significance, 0.4
+Hands, Another character who contributed to the actions against Silver, likely a crew member, 0.4
+Morgan, Participates in the discussion, contributes to the criticism of Silver, 0.6

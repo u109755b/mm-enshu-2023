@@ -1,5 +1,4 @@
-Long John Silver, A pirate who is involved in a heated and earnest conversation with another crew member, possibly regarding mutiny or treasure, 0.95
-Tom, Another crew member who confronts Silver and is ultimately killed by him for what he sees as a betrayal, 0.85
-Alan, The person who is presumed dead by Tom, believed to be killed by Silver, 0.6
-The unnamed narrator of the story, An observer of the events, who is exploring the island and witnesses the conversation and subsequent murder by Silver, 0.9
-The crew (collectively), Likely involved in the events the narrator is witnessing and may include the voices and the people the narrator fears will discover them, 0.7
+I (Narrator), The protagonist of the story who is exploring the island, 0.8
+Long John Silver, A character who converses with another crew member, possibly a leader or person of influence, 0.7
+Tom, Another crew member who confronts Silver and is ultimately killed by him, 0.6
+Alan, A crew member mentioned by Silver, likely already dead at the time of mention, 0.4
