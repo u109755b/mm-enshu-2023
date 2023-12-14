@@ -1,0 +1,5 @@
+Time Traveller, The primary character who invents the Time Machine and experiences the sensations of time travel, 1.0
+Mrs. Watchett, The housekeeper of the Time Traveller, appearing briefly as she moves across the laboratory, 0.2
+White Sphinx, A large sculpted figure seen by the Time Traveller in the future, representing mystery and possibly the future civilization, 0.4
+Men running by the White Sphinx, Individuals in the distant future observed by the Time Traveller as he stops the machine, 0.3
+Creature in purple tunic, A frail-looking inhabitant of the future that approaches the Time Traveller on the little lawn, 0.5

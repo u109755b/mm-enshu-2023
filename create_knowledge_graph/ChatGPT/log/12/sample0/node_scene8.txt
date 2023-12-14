@@ -1,0 +1,3 @@
+Alice, A young girl who finds herself in a fantastical world where she becomes a queen and interacts with quirky characters, 1
+Red Queen, A domineering and sharp-tongued queen who appears to challenge Alice's understanding and claims, 0.8
+White Queen, A gentler and more whimsical queen who is also present to perplex Alice with riddles and peculiar behavior, 0.8

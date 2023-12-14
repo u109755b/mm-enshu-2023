@@ -1,0 +1,6 @@
+The Time Traveller, The inventor of the time machine and central character presenting his invention, 1.0
+The Psychologist, A skeptical character engaging with the Time Traveller about his invention, 0.8
+The Medical Man, A character who examines the time machine and interacts with the Time Traveller, 0.7
+The Provincial Mayor, A character who participates in the discussion and offers objections about the time travel theory, 0.6
+Filby, A character present in the room who reacts to the Time Traveller's claims and is skeptical, 0.6
+The Very Young Man, A minor character present during the Time Traveller's demonstration, 0.2

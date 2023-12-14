@@ -1,0 +1,5 @@
+Weena, A character saved by the narrator from drowning, who is mentioned retrospectively, 0.4
+Morlocks, A subterranean race that the narrator encounters and theorizes about their habits and evolution, 0.7
+Upperworld people, Inhabitants of the surface world described as beautiful and complacent, lacking the struggles that breed intelligence, 0.6
+Underworld, A mechanical and industrious society mentioned as a contrast to the Upperworld, with more initiative due to their environment, 0.6
+Mother Necessity, Personification used to describe the fundamental needs and survival instincts that assert themselves after being staved off, indicative of the return of basic survival challenges, 0.5

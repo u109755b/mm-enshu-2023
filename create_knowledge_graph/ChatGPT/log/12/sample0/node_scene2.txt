@@ -1,0 +1,13 @@
+Alice, The main character who is experiencing a fantastical adventure in the Looking-Glass world, 1.0
+Guard, A character responsible for checking tickets in a train Alice encounters, 0.2
+Gentleman in white paper, A character sitting opposite Alice in the train, offers advice about taking a return-ticket, 0.3
+Goat, A passenger next to the gentleman in white who comments on Alice's knowledge, 0.2
+Beetle, Another passenger who suggests Alice might have to travel as luggage, 0.2
+Elephant, Initially mistaken by Alice for a large bee, 0.4
+Voices in chorus, A collective group of characters that speak to Alice in the train about her lack of a ticket, 0.3
+Horse, A character that reassures others about a jump the train is about to make, 0.2
+Gnat, An insect Alice converses with that poses questions and makes philosophical remarks, 0.4
+Rocking-horse-fly, An insect mentioned by the Gnat, part of Alice's fantasized insects, 0.2
+Snap-dragon-fly, A fantasized insect with a body of plum-pudding mentioned by the Gnat, 0.2
+Bread-and-Butterfly, A fantastical insect with bread-and-butter wings mentioned by the Gnat, 0.2
+Fawn, A creature Alice encounters in a woodland with no names; has a brief friendship with Alice, 0.4

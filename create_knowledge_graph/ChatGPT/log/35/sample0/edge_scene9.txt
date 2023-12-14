@@ -1,0 +1,6 @@
+The input and output nodes of an edge must be one of 'Time Traveller, Weena, Morlocks, Eloi'
+The Time Traveller, Morlocks, disgust, antagonism, study, and fear, The Time Traveller loathed the Morlocks and felt like an enemy would soon come upon him. The Morlocks studied The Time Traveller and provoked his fear.
+The Morlocks, Eloi, service and fear, The Morlocks made the Eloi's garments and provoked their Fear.
+The Eloi, Morlocks, fear and dependency, The Eloi feared the Morlocks and depended on them for garments.
+The Time Traveller, Weena, protection and care, The Time Traveller carried Weena to protect her from fear and fatigue.
+Weena, The Time Traveller, trust and companionship, Weena showed trust in The Time Traveller by sleeping beside him and putting her arms around his neck for comfort.

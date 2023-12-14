@@ -1,0 +1,3 @@
+Palace of Green Porcelain, A deserted and falling into ruin palace, 0.6
+Weena, A creature from the future with affectionate behavior, 0.8
+Morlocks, Creatures presumed to be the ones removing cases in the palace, 0.7

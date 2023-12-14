@@ -1,0 +1,4 @@
+Time Traveller, The main protagonist who is recounting his experiences with the Eloi and Morlocks in the future, 1.0
+Weena, A member of the Eloi, the future descendants of humanity who forms a bond with the Time Traveller, 0.8
+Morlocks, A different evolved species from humanity that live underground and have a predatory relationship with the Eloi, 0.7
+Eloi, The future descendants of humanity that live above ground and are preyed upon by the Morlocks, 0.6

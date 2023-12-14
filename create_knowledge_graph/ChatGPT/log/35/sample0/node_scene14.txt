@@ -1,0 +1,3 @@
+Time Traveller, The protagonist who travels through time and experiences changes in the environment and society, 1.0
+Mrs. Watchett, The housekeeper who crossed the room when the Time Traveller set out and whose motions appeared reversed when he returned, 0.4
+Hillyer, A character that the Time Traveller seems to see for a fleeting moment upon his return, 0.2

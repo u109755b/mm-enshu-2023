@@ -1,0 +1,2 @@
+Alice, The protagonist who interacts with all other characters, 1.0
+White Queen, A character from Lewis Carroll's "Through the Looking-Glass" who personifies an aspect of the looking-glass world Alice explores, 0.9

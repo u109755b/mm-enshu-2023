@@ -1,0 +1,4 @@
+Tweedledum, One of the twin brothers Alice encounters, significant for his interactions and dialogue with Alice and his brother, 0.75
+Tweedledee, The other twin brother, who also engages in interactions and dialogue with Alice and Tweedledum, equally significant for similar reasons, 0.75
+Alice, The protagonist of the story, central to all interactions and events described, 1.0
+The Red King, A character mentioned as sleeping and dreaming, impacting the narrative by the mention of his dream and Alice's existence within it, 0.5

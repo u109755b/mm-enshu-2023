@@ -1,0 +1,21 @@
+Alice, White Queen, help, Alice helped the White Queen to put on her shawl again.
+Alice, White Queen, greet, Alice very civilly went to meet the White Queen with the shawl.
+Alice, White Queen, start a conversation, Alice managed the conversation herself.
+Alice, White Queen, address, Alice timidly asked if she was addressing the White Queen.
+Alice, White Queen, suggest, Alice suggested how to begin their conversation correctly.
+Alice, White Queen, observe, Alice thought the White Queen was untidy and offered to put her shawl straight.
+Alice, White Queen, assist, Alice carefully released the brush from the White Queen's hair.
+Alice, White Queen, compliment, Alice complimented the White Queen's appearance after helping.
+White Queen, Alice, offer job, The White Queen offered Alice a job with a salary and jam every other day.
+White Queen, Alice, assert, The White Queen asserted about the quality of her jam.
+White Queen, Alice, explain rule, The White Queen explained the rules on jam availability.
+White Queen, Alice, explain living backwards, The White Queen explained the effects of living backwards.
+White Queen, Alice, discuss memory, The White Queen discussed how her memory works.
+White Queen, Alice, prophesy, The White Queen anticipated pricking her finger.
+White Queen, Alice, express dissatisfaction, The White Queen lamented not being consistently glad.
+White Queen, Alice, console, The White Queen tried to console Alice.
+White Queen, Alice, give advice, The White Queen advised Alice on considering things to stop crying.
+White Queen, Alice, reveal age, The White Queen revealed her age to Alice.
+White Queen, Alice, encourage belief, The White Queen encouraged Alice to try believing impossible things.
+White Queen, Alice, succeed, The White Queen succeeded in catching the shawl herself.
+White Queen, Alice, claim improvement, The White Queen claimed her finger was much better.

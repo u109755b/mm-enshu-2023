@@ -1,0 +1,4 @@
+Time Traveller, Monstrous Crab-like Creature, encounter, "I saw the thing was really a monstrous crab-like creature."
+Monstrous Crab-like Creature, Time Traveller, approach, "I saw that, quite near, what I had taken to be a reddish mass of rock was moving slowly towards me."
+Time Traveller, Monstrous Crab-like Creature, defend against, "Its vast ungainly claws, smeared with an algal slime, were descending upon me."
+Monstrous Crab-like Creature, Time Traveller, threaten, "Its evil eyes were wriggling on their stalks, its mouth was all alive with appetite."

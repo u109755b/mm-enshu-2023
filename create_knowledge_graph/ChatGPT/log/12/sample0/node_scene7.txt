@@ -1,0 +1,9 @@
+Alice, The main character who experiences a series of whimsical and nonsensical events in the story, 1.0
+Lion, A character Alice dreams about, 0.4
+Unicorn, A character Alice dreams about, 0.4
+Anglo-Saxon Messengers, Characters Alice thinks about in her supposed dream, 0.3
+Red King, A character in Alice's thoughts; she ponders if she's in his dream, 0.3
+Knight in crimson armour, A character who claims Alice as his prisoner and competes for her, 0.8
+Red Knight, Competes with the White Knight for Alice and battles him, 0.7
+White Knight, Rescues Alice from the Red Knight and exhibits quirky behavior, 0.9
+Aged aged man, A character from the song recited by the White Knight, 0.5

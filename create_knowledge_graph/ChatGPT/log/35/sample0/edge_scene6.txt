@@ -1,0 +1,6 @@
+The input and output nodes of an edge must be one of 'Narrator, White Sphinx, Time Machine, Little People, Owl, Deer, Sparrows'
+Owl, Narrator, flitted by, "a noiseless owl flitted by, and I shivered with the chill of the night."
+White Sphinx, Lawn, face towards, "For the white leprous face of the sphinx was towards it."
+Narrator, Time Machine, realize missing, "The Time Machine was gone!"
+Narrator, Deer, mistaken for, "startling some white animal that, in the dim light, I took for a small deer."
+Narrator, Sparrows, surrounded by, "when I woke again it was full day, and a couple of sparrows were hopping round me on the turf within reach of my arm."

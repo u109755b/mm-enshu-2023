@@ -1,0 +1,3 @@
+Weena, A small, delicate, childlike creature who is part of the Eloi race, 0.75
+Morlocks, A subterranean race of nocturnal creatures who are antagonistic to the Time Traveler and Weena, 0.8
+The Time Traveler, The protagonist and narrator of the story who travels to the future, 1

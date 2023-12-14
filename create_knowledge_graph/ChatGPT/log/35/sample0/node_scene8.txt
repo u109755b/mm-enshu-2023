@@ -1,0 +1,4 @@
+The Morlocks, A subterranean species perceived as antagonistic, reflecting the Time Traveller's fear and disgust, 0.8
+The Eloi, A surface-dwelling, peaceful species influencing the Time Traveller's emotional state, 0.7
+Weena, A small individual belonging to the Eloi who forms a personal connection with the Time Traveller, 0.6
+The Time Traveller, The narrator and central character interacting with the Morlocks and the Eloi, experiencing various challenges, 1.0

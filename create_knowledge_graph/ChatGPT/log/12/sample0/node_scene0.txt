@@ -1,0 +1,9 @@
+White Kitten, One of the two kittens belonging to Dinah; it had been having its face washed by the old cat and was not involved in the earlier mischief caused by the Black Kitten, 0.6
+Black Kitten, The mischievous kitten of Dinah that caused the mischief with Alice's ball of worsted, 0.7
+Dinah, The old cat who is the mother of the White and Black Kittens and was washing their faces, 0.8
+Alice, The protagonist who interacts with the kittens and imagines a series of fantastical scenarios involving them and other characters, 1.0
+Red Queen, A character from "Through the Looking-Glass" used by Alice to pretend and imagine; Alice tries to make the Black Kitten impersonate it, 0.6
+White Queen, A character from the Looking-glass world; she expresses concern for the little Lily and is involved in a whimsical passage with Alice, the White King, and other chess pieces, 0.7
+Red King, A Looking-glass character who, along with the Red Queen, is observed to be walking about two and two by Alice, 0.6
+White King, A Looking-glass character who is seated sulking among the ashes and interacts with the White Queen and Alice in a nonsensical manner, 0.7
+Lily, A White Pawn in the Looking-glass world whom the White Queen calls "my precious Lily, my imperial kitten", adding fantasy character-like importance, 0.5

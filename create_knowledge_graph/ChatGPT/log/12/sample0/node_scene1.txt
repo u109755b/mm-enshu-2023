@@ -1,0 +1,7 @@
+Alice, The protagonist who explores the whimsical landscape, interacts with living flowers, and ultimately encounters the Red Queen, 1.0
+Tiger-lily, A flower with the ability to talk and interact with Alice, possesses a headstrong and opinionated character, 0.8
+Rose, Another talking flower that engages with Alice and comments on the other flowers and Alice herself, 0.7
+Daisy, Part of a group of flowers that also talk and interact with Alice, often speaking all at once and adding to the cacophony, 0.6
+Violet, A somewhat blunt and outspoken flower that participates in the conversation with Alice, 0.6
+Red Queen, A character from "Through the Looking-Glass" who is a queen in the story's chess-themed world, larger than life-size, and interacts with Alice outside the Looking-glass House, 0.9
+Larkspur, A flower that announces the coming of the Red Queen, part of the garden of live flowers, 0.5

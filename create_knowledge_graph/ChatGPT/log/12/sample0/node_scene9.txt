@@ -1,0 +1,2 @@
+Alice, A character who is actively shaking another character, demonstrating a key role in the action described, 0.9
+Red Queen, A character being shaken by Alice, responding passively to the action, also focal to the events in this context, 0.9

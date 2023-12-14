@@ -1,0 +1,4 @@
+Eloi, A race of beautiful, delicate creatures living above ground in a future time, 0.7
+Morlocks, A subterranean species evolved from humans, antagonistic to the Eloi, 0.8
+Weena, A female member of the Eloi who befriends the Time Traveller, 0.9
+Time Traveller, The narrator and central character who explores the future and encounters the Eloi and Morlocks, 1.0

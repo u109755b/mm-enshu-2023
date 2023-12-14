@@ -1,0 +1,9 @@
+Time Traveller, The main character who is capable of time travel and whose story is central to the narrative, 1.0
+Filby, A character who is mentioned as an example to illustrate the skepticism of others toward the Time Traveller, 0.1
+Medical Man, A character who discusses the Time Traveller's experiments and is present at the dinner, 0.4
+Editor, A character who attends the dinner and is skeptical of the Time Traveller’s claims, 0.4
+Psychologist, A character present at both dinners and offers explanations about the Time Traveller’s experiments, 0.4
+Blank, A character only mentioned in passing and present at the dinner, 0.1
+Journalist, A character present at the dinner who is skeptical and makes light of the time travel idea, 0.4
+Silent Man, A character present at the dinner who is quiet and does not offer much to the conversation, 0.2
+Hettie Potter, A character only mentioned in anecdotes by the Journalist, indirect relation to the main narrative, 0.1

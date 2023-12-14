@@ -1,0 +1,7 @@
+Narrator, The person recounting the experience and the primary protagonist, 1.0
+White Sphinx, A statue that the narrator sees which signifies mystery and has the Time Machine hidden within its pedestal, 0.6
+Time Machine, The invention created by the narrator enabling travel through time; central to the story, although not a character itself, 0.7
+Little People, Inhabitants of the world the narrator has travelled to; they interact with and react to the narrator's actions, 0.5
+Owl, A creature the narrator mentions in passing to set the scene; its role is minor, 0.1
+Deer, Another creature the narrator mistakes in the dark; like the owl, its role is minor, 0.1
+Sparrows, Birds that are near the narrator when he wakes on the turf; they have a minor role, 0.1

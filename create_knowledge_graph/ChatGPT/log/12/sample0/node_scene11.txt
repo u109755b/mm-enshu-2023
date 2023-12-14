@@ -1,0 +1,6 @@
+Alice, The main character who had a dream about an adventure in the Looking-Glass world and reflects on the nature of her experiences and the characters she encountered, 1.0
+Kitty, Alice's kitten, whom Alice addresses and accuses of waking her from her dream, and is also imagined to have been the Red Queen in the dream, 0.8
+Red Queen, A chess piece that Alice finds on the table and associates with her kitten as part of her dream experience, 0.6
+White Kitten, Alice's other kitten, referred to as "Snowdrop," which she pretends is the White Queen during her dream, 0.6
+Dinah, Alice's cat, presumed to be the caretaker of the kittens and the one who Alice speculates might have turned into the Humpty Dumpty in her dream, 0.5
+Red King, A character from Alice's dream who she thinks might have been dreaming about her, making her question the nature of reality and dreams, 0.7

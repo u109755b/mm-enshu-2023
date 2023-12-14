@@ -1,0 +1,6 @@
+Alice, A young girl who encounters various fantastic creatures and situations in a nonsensical world, 1.0
+White King, A character in the story who is busy writing in his memorandum-book and discusses soldiers and messengers with Alice, 0.6
+Haigha, One of the White King's messengers, characterized by his joyful and happy attitudes, known for his peculiar movements, 0.7
+Hatta, Another messenger of the White King who has been in prison and is seen eating and drinking tea during a fight, 0.7
+Lion, One of the combatants fighting with the Unicorn for the crown, part of a well-known nursery rhyme and presented as a sleepy and somewhat grumpy character, 0.8
+Unicorn, The other combatant fighting with the Lion, skeptical about the existence of children and accepts Alice after meeting her, 0.8

@@ -1,0 +1,7 @@
+Check carefully whether the Constraints are satisfied, and output the edges that satisfy the constraints. (The input and output nodes of an edge must be one of 'Alice, Tiger-lily, Rose, Daisy, Violet, Red Queen, Larkspur'. The knowledge graph must contain only one edge whose input-output node pairs are the same.)
+Alice, Tiger-lily, is responded to/explained talking reason by, "The Tiger-lily responds that it can talk and explains the reason for the flowers being able to talk is the hardness of the ground."
+Rose, Alice, opines on thought/compares Alice to Red Queen, "The Rose tells Alice that it's of the opinion that Alice never thinks at all and compares Alice to the Red Queen."
+Violet, Alice, comments on appearance, "A Violet suddenly comments on Alice's apparent stupidity."
+Tiger-lily, Violet, criticizes, "The Tiger-lily criticizes the Violet for snoring under the leaves."
+Larkspur, Red Queen, announces arrival, "The Larkspur announces the arrival of the Red Queen."
+Alice, Red Queen, runs with/offers to be a pawn, "Alice runs with the Red Queen and is advised to go faster; the Red Queen offers Alice to be the White Queen’s Pawn."

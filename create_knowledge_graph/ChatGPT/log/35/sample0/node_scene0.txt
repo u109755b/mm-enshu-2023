@@ -1,0 +1,6 @@
+The Time Traveller, The main character who is discussing complex ideas about space and time with his guests, 1.0
+Filby, An argumentative person with red hair, part of the Time Traveller's audience and a skeptic of his theories, 0.6
+Psychologist, A character who engages in the discussion about the Time Traveller's theories, 0.6
+The Medical Man, Another guest who participates in the conversation, particularly in relation to the movement in space and time, 0.6
+The Very Young Man, A character who attempts to relight his cigar and participates in the discussion with simpler input, 0.5
+The Provincial Mayor, A character who is trying to understand the Time Traveller's theories, 0.5

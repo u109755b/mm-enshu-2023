@@ -1,0 +1,4 @@
+The Time Traveller, Mrs. Watchett, observe, The Time Traveller saw Mrs. Watchett walk across the room like a rocket.
+Mrs. Watchett, laboratory, traverse, Mrs. Watchett walked across the laboratory.
+The Time Traveller, Hillyer, see, The Time Traveller seemed to see Hillyer for a moment.
+Hillyer, The Time Traveller, pass by, Hillyer passed by The Time Traveller like a flash.

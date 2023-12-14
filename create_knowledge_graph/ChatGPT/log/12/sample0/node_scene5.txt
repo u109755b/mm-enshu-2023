@@ -1,0 +1,2 @@
+Humpty Dumpty, An egg-like character who engages in conversation with Alice and has an inflated sense of self worth due to having spoken to a king, 0.8
+Alice, The protagonist of the story who interacts with Humpty Dumpty and tries to understand his peculiar ways of thinking and speaking, 0.9

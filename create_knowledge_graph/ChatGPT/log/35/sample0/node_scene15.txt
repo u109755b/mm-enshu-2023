@@ -1,0 +1,8 @@
+Time Traveller, The main protagonist who recounts his adventures through time, 1.0
+Medical Man, A character who is present during the Time Traveller's recounting and is interested in the scientific aspects of his story, 0.7
+Editor, A character who expresses skepticism about the Time Traveller's story and wishes the Time Traveller was a story writer, 0.6
+Journalist, A character who is also listening to the Time Traveller's account and is concerned with practical matters, like getting home, 0.5
+Psychologist, Another member of the audience who exhibits interest in the Time Traveller's story, probably from a psychological perspective, 0.6
+Weena, Although not present, she is mentioned by the Time Traveller as the person who gave him flowers; her role is significant in his personal experiences, 0.4
+Richardson, A character mentioned at the end implying a planned meeting; his role is minimal in the context of the story, 0.1
+Man-servant, The person who appears at the end in the garden, indicating that he was expecting to find the Time Traveller; has a minor role in the conclusion, 0.2
