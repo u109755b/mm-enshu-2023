@@ -30,7 +30,6 @@
 以下のコマンドを順に実行  
 ```sh
 $ pip install django
-$ python create_graph.py --title 三匹の子豚 # タイトルを所望のタイトルに入れ替える
 $ python manage.py migrate
 $ python manage.py runserver
 ```
