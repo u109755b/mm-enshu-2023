@@ -1,0 +1,12 @@
+M. de Tréville, The captain of the Musketeers, loyal to the king, and a father figure to the Musketeers, 0.8
+D’Artagnan, A young man seeking to join the Musketeers and is persistent in seeking justice for wrongs done to him, 0.95
+Athos, A Musketeer and a friend to Porthos and Aramis, injured and of noble character in D’Artagnan's eyes, 0.75
+Porthos, A Musketeer and a friend to Athos and Aramis, passionate and ready for conversation, 0.7
+Aramis, A Musketeer and a friend to Athos and Porthos, polite and able to express himself well, 0.7
+The Guards of the cardinal, They are mentioned as adversaries to the king's Musketeers and are skilled and disciplined, 0.5
+The Two Musketeers, Refers collectively to Porthos and Aramis and represents their camaraderie and collective actions, 0.65
+The surgeon, A medical practitioner who attends to Athos' wounds, essential for Athos' survival, 0.4
+The unknown gentleman, A mysterious figure with a connection to D'Artagnan's stolen letter, becomes D’Artagnan’s obsession, 0.6
+Milady, An Englishwoman involved with the unknown gentleman, has a mysterious box that plays a role in the plot, 0.4
+The king, Although not directly part of the scene, his influence and authority are acknowledged and he is the reason for the existence of the Musketeers, 0.5
+The cardinal, The king's chief minister and the master of the cardinal's Guards, mentioned as a strategic player against whom the Musketeers must measure themselves, 0.6

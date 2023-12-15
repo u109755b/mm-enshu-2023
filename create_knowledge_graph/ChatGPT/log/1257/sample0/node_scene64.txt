@@ -1,0 +1,15 @@
+Athos, One of the extraordinary and brilliant-minded Musketeers, central to the story's plot and leader of the lackeys on their mission, 1.0
+Planchet, One of Athos's lackeys who is intelligent and tasked to follow a specific route in search of Milady, 0.7
+Grimaud, One of Athos's lackeys who receives orders and takes a different route in search of Milady, 0.6
+Bazin, One of Athos's lackeys who receives orders and takes a different route in search of Milady, 0.6
+Mousqueton, One of Athos's lackeys who receives orders and takes a different route in search of Milady, 0.6
+Milady, The antagonist who is being searched for by Athos's lackeys, known to the masters but not to the lackeys, 0.9
+Rochefort’s servant, Mentioned in relation to the carriage followed by Planchet, potentially relevant to the search for Milady, 0.4
+Belated passenger, A person Athos encounters and questions during his search in the evening, showing the urgency of his quest, 0.3
+Night watch, A person Athos asks for directions, illustrating the challenges Athos faces during his search, 0.3
+Mendicant, A beggar Athos encounters and is convinced to accompany him to a certain location, playing a brief but pivotal role in leading Athos, 0.4
+High stature man, The man Athos is seeking, has a significant but mysterious presence in the story and aids Athos after some reluctance, 0.8
+D’Artagnan, A friend of Athos and a fellow Musketeer who enters the story during a moment of anticipation for next steps, important for the plot's progression, 0.8
+Lord de Winter, A character mentioned as part of the group preparing for an expedition, indicative of the high-stakes atmosphere, 0.6
+The three Musketeers (Aramis, name mentioned), Includable as a unit or individual; friends of Athos and vital to the story, influencing the plot and action, 1.0 (0.8 for each if listed separately)
+Tall man in the red cloak, Mystery character introduced towards the end, whose identity and role are intriguing and likely critical, 0.8

@@ -1,0 +1,13 @@
+Countess de Winter, An agent of the cardinal and a character suspected of having stolen diamond studs, 0.6
+Duke of Buckingham, A nobleman deeply involved with Anne of Austria and intertwined with political intrigue, 0.8
+D’Artagnan, The young protagonist showing courage and loyalty, central to the unfolding events, 0.9
+Anne of Austria, The queen mentioned in the passage, whose portrait and circumstances significantly affect the plot, 0.7
+Cardinal, A powerful figure implied to be behind the theft of the diamond studs and an antagonist, 0.7
+Patrick, The duke's confidential valet, involved in the execution of Buckingham's orders, 0.4
+Mr. Jackson, The secretary of Buckingham, responsible for executing orders and communicating with other officials, 0.5
+Mr. O’Reilly, A skilled goldsmith commanded to replicate stolen diamond studs, significant for the plot concerning the studs, 0.6
+Milady, A character perceived briefly by D’Artagnan who might be connected with the Countess de Winter and potentially involved in the central conflict, 0.5
+Captain of the brig Sund, The captain of a ship tasked with transporting D’Artagnan, a minor role but pivotal for travel, 0.3
+Host of the inn at St. Valery, A minor character who assists D’Artagnan with a horse and directions, 0.3
+Landlord of the Golden Harrow, A character mentioned as part of the network of aid for D’Artagnan, 0.2
+M. de Tréville, The commander of D’Artagnan's company, a point of contact upon his return to duty, 0.5

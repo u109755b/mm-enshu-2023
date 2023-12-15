@@ -1,0 +1,10 @@
+D'Artagnan, A young man, primary character involved in the search for Mme. Bonacieux and the center of the narrative, 1.0
+Planchet, D'Artagnan's servant, who accompanies him and is involved in the night's events, 0.8
+Mme. Bonacieux, The woman D'Artagnan is in love with and is searching for throughout the narrative, 0.9
+Monsieur Bonacieux, Mentioned in the context of Planchet's concerns, suggesting some prior knowledge or interactions that are not favorable, 0.5
+M. de Tréville, Mentioned in D'Artagnan's recollection, likely someone of influence or importance to him, 0.3
+The old man, A witness to the events involving Mme. Bonacieux's abduction, provides crucial information to D'Artagnan, 0.7
+The boatman, Provides information about a young woman who crossed over to St. Cloud, which is valuable to D'Artagnan's search, 0.6
+The little old man, Part of the group that abducts Mme. Bonacieux, his physical attributes are described, 0.4
+The tall, dark man, Described by the old man as the leader of the abductors and someone D'Artagnan recognizes as his "demon", 0.6
+The short man, Described as likely a lackey and not a gentleman, part of the abduction group, 0.4

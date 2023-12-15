@@ -1,0 +1,17 @@
+M. de Tréville, The captain of the Musketeers and a well-respected figure at court, 0.9
+Louis XIII, The King of France and friend to M. de Tréville, 0.8
+Henry IV, The father of M. de Tréville, served Louis XIII's father faithfully, 0.6
+Cardinal Armand Duplessis (Richelieu), The rival to the King, also having his own guards and Musketeers, 0.8
+D'Artagnan, A young Gascon gentleman aspiring to become a Musketeer, the protagonist of the story, 0.9
+Porthos, A Musketeer who boasts a magnificent baldric he claims to have purchased with his own money, 0.7
+Aramis, A Musketeer and friend to Porthos, who balances his religious interests with his duties as a soldier, 0.7
+Athos, Another Musketeer, referenced in the conversation between Porthos and Aramis, 0.6
+Rochefort, An agent of the cardinal disguised as a Capuchin, 0.6
+Monsieur de Laigues, A character who was tricked by Rochefort, mentioned in Musketeers' conversation, 0.5
+Chalais, A character whose throat was cut under charges of a plot, mentioned in Musketeers' conversation, 0.5
+Mme. d’Aguillon, The cardinal's mistress, mentioned in the Musketeers' ballads, 0.5
+Mme. Cambalet (Madame de Combalet), The cardinal's niece, also mentioned in the Musketeers' ballads, 0.5
+Monsieur de Buckingham, The Duke of Buckingham, mentioned as being in France and implied in court scandals, 0.6
+Madame d’Aguillon, The lady whom Aramis frequents, named in the banter between Porthos and Aramis, 0.5
+Madame de Bois-Tracy, The cousin of Madame de Chevreuse and another lady connected to Aramis, 0.5
+Madame de Chevreuse, Associated with Madame de Bois-Tracy and court intrigues, 0.5

@@ -1,0 +1,9 @@
+D’Artagnan, A young man and a member of the king's Musketeers, 1
+Mme. Bonacieux, The wife of Monsieur Bonacieux and a woman in trouble who seeks D’Artagnan’s help, 0.9
+Monsieur Bonacieux, The husband of Mme. Bonacieux and a character considered a simpleton and a fool by D’Artagnan, 0.7
+The man in the cloak, An unknown man interacting with Monsieur Bonacieux regarding affairs that involve Mme. Bonacieux, 0.6
+Athos, Porthos, Aramis, Three of the king’s Musketeers mentioned in the conversation, 0.5
+Monsieur de Tréville, The captain of the king's Musketeers, 0.6
+Cardinal, A person of high rank mentioned in relation to the queen and events discussed by the characters, though not directly involved in the scene, 0.4
+The queen, An important figure who is alluded to as someone the characters wish to protect or serve, not directly present in the scene, 0.5
+Madame de Chevreuse, The Duke of Buckingham, Madame de Vernet, Individuals whose names are mentioned to ensure they did not come up in the conversation with Mme. Bonacieux, 0.3

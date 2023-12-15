@@ -1,0 +1,11 @@
+Milady, A woman who is the primary antagonist and sentenced to execution, 1.0
+Grimaud, One of the lackeys who hesitated to assist Milady's escape, 0.7
+Mousqueton, Another lackey who trembled at Milady's offering, showing fear and possible temptation, 0.7
+Athos, One of the characters who directly confronts Milady and seems to be in a position of authority, 0.9
+Lord de Winter, A character involved in the decision to change the lackeys and has authority over Milady's fate, 0.8
+D'Artagnan, A younger man involved in Milady's capture and expresses conflict over her execution, 0.9
+Porthos, Mentioned as part of the procession but without specific actions or dialogue in the text, 0.6
+Aramis, Along with Porthos, included in the procession, presence contributes to the circumstance, 0.6
+Planchet, A lackey called to replace Grimaud, participates in Milady's escort to execution, 0.7
+Bazin, Like Planchet, replaces Mousqueton and is involved in the final act against Milady, 0.7
+The executioner, The individual tasked with binding and ultimately executing Milady, 0.8

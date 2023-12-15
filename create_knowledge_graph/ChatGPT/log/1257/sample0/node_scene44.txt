@@ -1,0 +1,9 @@
+Athos, One of the three friends who inadvertently helped someone protected by the cardinal, a contemplative and attentive Musketeer who overheard the secretive conversation, 0.85
+Porthos, One of the three friends, a Musketeer who plays dice and is part of the group overhearing the secret conversation, 0.7
+Aramis, One of the three friends, another Musketeer involved in playing dice and later listening in on the conversation, 0.7
+Cardinal, The character who is orchestrating a political scheme and whose conversation with Milady is overheard by Athos, holds significant influence and is protected by the Musketeers, 0.9
+Milady, The person who the cardinal is speaking with, involved in a covert operation, likely against the queen and Buckingham, overheard by Athos which makes her an enemy to the Musketeers' cause, 0.9
+Buckingham, The target of the cardinal's scheme, mentioned in the overheard conversation as a political enemy and part of a larger plot, 0.8
+Queen, Implied to be in danger from the cardinal's plan and possibly involved with Buckingham, central to the intrigue that Milady and the cardinal are discussing, 0.8
+Bonacieux, Mentioned by Milady as an enemy and a small intrigante, impacted by the political scheme, 0.6
+D’Artagnan, Recognized by Milady as her and the cardinal's formidable enemy who is directly opposed to their plots, a central figure to the resistance against the cardinal and Milady, 0.9

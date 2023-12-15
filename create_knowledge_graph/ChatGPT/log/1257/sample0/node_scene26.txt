@@ -1,0 +1,17 @@
+Aramis, A young and impulsive Musketeer contemplating a serious commitment to the church, 0.9
+D’Artagnan, The narrator and protagonist who is concerned about his friends and their secrets, 0.9
+Bazin, The loyal servant of Aramis, who dreams of serving a churchman, 0.6
+Madame Bonacieux, The woman D’Artagnan loves and believes to be in trouble or held by the Cardinal, 0.8
+The Superior of the Jesuits of Amiens, A religious figure engaged in theological discussion with Aramis, 0.5
+The Curate of Montdidier, Another religious figure present in the discussion with Aramis, 0.5
+The Officer, A rival of Aramis who previously insulted him due to jealousy and was later killed by Aramis in a duel, 0.7
+M. de Tréville, The captain of the Musketeers, not directly involved in the scene, but mentioned in context of Aramis’s background, 0.4
+The Hostess, Receives D’Artagnan at the inn, minor role in the narrative, 0.3
+Planchet, D'Artagnan's servant, who holds his horse's bridle in the scene, 0.4
+Athos & Porthos, Friends of Aramis and D'Artagnan, mentioned in Aramis's backstory, 0.5
+The Mistress of the Inn, Betrays Bazin by revealing Aramis is not absent, minor role, 0.3
+The Minister (the Cardinal), The antagonist suspected of causing Madame Bonacieux’s troubles, 0.7
+M. de Cavois, Captain of the Guards, possibly holds information regarding why D’Artagnan found favor from the minister, 0.4
+The Vainglorious Musketeer, Likely a reference to one of D'Artagnan's friends, not enough context to determine identity or importance, 0.3
+The Two Men in Black, Including the Jesuit, referring to the Superior of the Jesuits and the Curate in religious debate, summarized individually above, 0.5
+The Young and Pretty Mme. Bonacieux, The missing love interest of D'Artagnan, already summarized as Madame Bonacieux above, 0.8

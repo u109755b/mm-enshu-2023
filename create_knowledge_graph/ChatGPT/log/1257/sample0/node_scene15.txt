@@ -1,0 +1,20 @@
+Athos, One of the Musketeers; accused and interrogated, 0.9
+M. de Tréville, Captain of the Musketeers and defender of his soldiers, 0.9
+D’Artagnan, A young Musketeer involved in the events, 0.8
+Porthos, A Musketeer and companion to D'Artagnan, 0.6
+Aramis, A Musketeer who had gone to Rouen, 0.6
+Louis XIII, King of France, involved in the judicial process of Athos, 0.8
+Cardinal Richelieu, The king's minister, involved in the intrigue, 0.8
+Mme. de Chevreuse, A woman entangled in political and amorous intrigues, 0.7
+Anne of Austria, Queen of France, involved in political intrigues, 0.7
+Duke of Buckingham, Reference to a person causing the cardinal unease, 0.6
+M. or Mme. Bonacieux, Individuals associated with Athos's interrogation, 0.5
+M. le Duc de la Trémouille, A distinguished gentleman referenced by Athos, 0.5
+Monsieur de Cahusac, A person who was wounded by Athos in a duel, 0.5
+Jussac & Bernajoux, People who had altercations with D'Artagnan, 0.5
+Comte de Châlus, A gentleman in M. de Tréville's company, 0.5
+Lieutenant-criminel, The officer in command, involved in Athos’s case, 0.6
+Governor of Fort l’Evêque, Not explicitly named but involved in keeping Athos in confinement, 0.6
+Officer of the Red Cross, The command officer involved in Athos’s case, 0.5
+Commissaries of inquiry, Officers attacked by Athos, 0.7
+Bailiffs and Soldiers, The mixed crowd that laid siege to the house, 0.6

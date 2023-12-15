@@ -1,0 +1,12 @@
+Athos, A member of the group of friends and the one they plan to meet at his residence once a week, 0.6
+Aramis, A member of the group of friends who is considering resuming a religious life and who has to deal with a message from Tours, 0.7
+Porthos, A member of the group of friends who hints at relief from a lady of elevated rank and encounters issues with his equipment, 0.7
+D'Artagnan, The central character among the group of friends who is involved in various concerns, including plans regarding Milady and seeking a good dinner, 0.8
+Kitty, A character who visits D’Artagnan before he goes to meet Athos and Aramis, 0.2
+Mousqueton, Porthos's servant who informs him about an urgent matter related to his equipment, 0.3
+Bazin, Aramis's servant who brings the news that a mendicant from Tours wishes to speak with Aramis, 0.3
+The Mendicant, A mysterious figure who brings Aramis a letter and a significant amount of money, 0.4
+The Duchess, A lady of quality who indirectly causes trouble for Porthos through her husband's intervention, 0.2
+The Husband of the Duchess, A character who interfered with the gift given to Porthos by substituting poor animals for the quality ones that were expected, 0.1
+Madame Coquenard, The procurator's wife who tried to buy cheap and made a mistake, eventually inviting Porthos for a meeting, 0.4
+Monsieur Coquenard, The procurator and husband of Madame Coquenard, whose absence facilitates a meeting with Porthos, 0.2

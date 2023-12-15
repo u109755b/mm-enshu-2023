@@ -1,0 +1,11 @@
+D’Artagnan, Planchet, instruct, D’Artagnan instructed Planchet to sit up for him.
+D’Artagnan, Planchet, ask about a letter, D’Artagnan eagerly asked Planchet if a letter had been brought for him.
+Planchet, D’Artagnan, report on letter, Planchet reported to D’Artagnan about the letter found in the apartment.
+Mme. Bonacieux, D’Artagnan, invite to a rendezvous, Mme. Bonacieux wrote a letter inviting D’Artagnan to meet her at St. Cloud.
+D’Artagnan, Planchet, reward, D’Artagnan gave Planchet a crown to drink his health.
+D’Artagnan, Planchet, order preparation, D’Artagnan told Planchet to prepare two horses for the evening’s venture. 
+M. Bonacieux, D’Artagnan, conversate, M. Bonacieux and D’Artagnan engaged in a conversation about past events.
+M. de Laffemas, M. Bonacieux, persecute, M. Bonacieux recounted his persecution by M. de Laffemas to D’Artagnan.
+D’Artagnan, M. de Tréville, report, D’Artagnan went to report to M. de Tréville about recent events, including the ball at the Louvre.
+The queen, D’Artagnan, give a diamond, The queen gave D’Artagnan a diamond.
+M. de Tréville, D’Artagnan, warn, M. de Tréville warned D’Artagnan of possible dangers from the cardinal.

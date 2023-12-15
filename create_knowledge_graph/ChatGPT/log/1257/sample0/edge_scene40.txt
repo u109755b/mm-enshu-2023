@@ -1,0 +1,11 @@
+Cardinal de Richelieu, D’Artagnan, look intently at, The cardinal looked intently at D’Artagnan.
+Cardinal de Richelieu, D’Artagnan, ask, The cardinal asked D’Artagnan if he is from Béarn.
+Cardinal de Richelieu, D’Artagnan, know story of, The cardinal knows the story of what happened to D’Artagnan at Meung.
+Cardinal de Richelieu, Monsieur de Tréville, recommend, D’Artagnan was recommended to Monsieur de Tréville by the cardinal.
+Cardinal de Richelieu, Monsieur Dessessart, place in the company of, The cardinal mentioned D’Artagnan being placed in the company of his brother-in-law, Monsieur Dessessart.
+Cardinal de Richelieu, D’Artagnan, offer position, The cardinal offered D’Artagnan an ensign's commission in his guards.
+Cavois, D’Artagnan, visit, Cavois visited D’Artagnan to request his presence at the palace.
+D’Artagnan, Mme. Bonacieux, recall abduction of, D’Artagnan recalled the abduction of Mme. Bonacieux.
+Cardinal de Richelieu, D’Artagnan, propose plan, The cardinal proposed a plan to D’Artagnan.
+D’Artagnan, Cardinal de Richelieu, refuse offer, D’Artagnan refused the cardinal's offer to join his guards.
+Athos, D’Artagnan, influence decision, The thought of Athos influenced D’Artagnan's decision.

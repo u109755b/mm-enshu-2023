@@ -1,0 +1,15 @@
+Bonacieux, A mercer who is being interrogated and is involved in a conspiracy, 0.7
+Cardinal de Richelieu, The powerful and influential French cardinal who is interrogating Bonacieux and orchestrating complex political schemes, 0.9
+Officer, A subordinate of Cardinal de Richelieu carrying out his orders, 0.4
+Guards, Individuals who are tasked with escorting and handling Bonacieux, 0.3
+Queen (mentioned as "her Majesty" and "the queen"), Central figure in political intrigue, whose associations and actions are of great interest to the cardinal, 0.8
+Duke of Buckingham, An English nobleman involved with the queen and focal point of the political intrigue, 0.8
+Madame de Chevreuse, Associate of the queen and suspected of involvement in the conspiracy, 0.6
+Duchess de Chevreuse (mentioned separately, possibly the same as Madame de Chevreuse), Another reference to a character involved in the plot surrounding the queen, 0.6
+Rochefort, Emissary and agent for Cardinal de Richelieu, known for executing the cardinal's plans, 0.6
+Commissary (mentioned as "Monsieur the Commissary"), A character mentioned in the context of Bonacieux's wife's disappearance, 0.4
+Madame de Lannoy, A woman who is loyal to Cardinal de Richelieu and provides him with important information, 0.5
+Donna Estafania, A woman who accompanied the queen, 0.5
+Milady, A character to whom the cardinal is writing a letter with instructions to interfere with the Duke of Buckingham, evidently an agent of his, 0.7
+Vitray, A messenger who is being sent to deliver a letter and instructions to Milady, 0.4
+Keeper of the seals, Séguier (mentioned as "the keeper of the seals, Séguier"), A high official who the cardinal intends to summon, likely involved in the legal aspects of Richelieu's schemes, 0.5

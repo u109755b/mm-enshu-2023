@@ -1,0 +1,16 @@
+King, The monarch and leader keen to drive the English from the Isle of Ré and to siege La Rochelle, 0.85
+Cardinal, A powerful religious and political figure, instrumental in military and political strategies, 0.95
+Buckingham, The enemy commander from England, opposing French forces in La Rochelle, 0.8
+MM. Bassompierre, One of the marshals of France conflicted with Schomberg and the Duc d’Angoulême, significant in military command disagreements, 0.75
+Schomberg, A marshal of France who conflicts with MM. Bassompierre and the Duc d’Angoulême regarding military command, 0.75
+Duc d’Angoulême, Preferred by the cardinal, he causes dissent among the French command, and is made lieutenant general by the king, 0.78
+M. de Toiras, A character who provides military intelligence during the siege, 0.6
+Claude de St. Simon, The individual responsible for taking the English flags to Paris after the battle, 0.5
+Duke of Buckingham, The English commander targeted by a political league, and also mentioned as an envoy's arrest linked to him compromises Mme. de Chevreuse and the queen, 0.8
+Montague, An envoy of the Duke of Buckingham caught, leading to the discovery of a league against France, 0.5
+Mme. de Chevreuse, A character implicated in discovered papers at Buckingham’s lodging, potentially compromising the queen, 0.65
+D’Artagnan, A Musketeer not present with the other three during a specific event because he was in the trenches, 0.7
+Athos, A Musketeer involved in an interrogation by the cardinal and an altercation at the Red Dovecot, 0.78
+Porthos, A Musketeer, friend of Athos and Aramis, involved in an altercation at the Red Dovecot, 0.76
+Aramis, A Musketeer who received a sword wound and is involved in the Red Dovecot incident, 0.76
+Monsieur de Tréville, The commanding officer of Athos, Porthos, and Aramis, giving them special permissions, 0.65

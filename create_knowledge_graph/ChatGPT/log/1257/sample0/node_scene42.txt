@@ -1,0 +1,20 @@
+The King, Monarch receiving treatment and anticipated at the siege, 0.65
+Monsieur, A character in the camp who may be replaced from his command, 0.5
+Duc d’Angoulême, One of the potential replacements for Monsieur's command, 0.4
+Bassompierre, One of the potential replacements for Monsieur's command, 0.4
+Schomberg, One of the potential replacements for Monsieur's command, 0.4
+D'Artagnan, Main character considering his friends, 0.8
+Athos, One of D'Artagnan's friends, 0.7
+Porthos, One of D'Artagnan's friends, 0.7
+Aramis, One of D'Artagnan's friends, 0.7
+Godeau, Purveyor of the Musketeers who sends D'Artagnan wine, 0.55
+Planchet, D'Artagnan's servant helping with the entertainment preparations, 0.6
+Fourreau, Lackey assisting with the banquet preparations, 0.5
+Brisemont, The false soldier who was supposed to be killed by D’Artagnan but serves Planchet, 0.6
+M. de Tréville, Recognizes D'Artagnan among the Musketeers, 0.55
+Guardsmen, Associates of D'Artagnan invited to drink the Anjou wine, 0.45
+Constance (Madame Bonacieux), D'Artagnan's love interest mentioned to be in a convent, 0.6
+Queen, The person who possibly chose the convent for Constance, 0.55
+Marchioness/Duchess/Princess (implied), Porthos's acquaintances who might help locate Constance, 0.45
+Cardinalist Lady, Porthos's acquaintance who shouldn't be informed about their plans, 0.4
+Queen's Almoner, The contact through which Aramis plans on obtaining information, 0.5

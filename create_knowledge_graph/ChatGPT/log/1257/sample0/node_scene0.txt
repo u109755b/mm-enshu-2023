@@ -1,0 +1,14 @@
+M. d’Artagnan, The person whose memoirs the narrator stumbled upon; inspired the story, 0.9
+Louis XIV, The king during the period the author made researches; the subject of the author's history research, 0.6
+Pierre Rouge, The printer of M. d’Artagnan’s memoirs; symbolizes the prohibited truth-telling of the era, 0.4
+Louis XIII, Mentioned as part of the era's portraits in d’Artagnan’s memoirs, 0.5
+Anne of Austria, Mentioned as part of the era's portraits in d’Artagnan’s memoirs, 0.5
+Richelieu, Mentioned as part of the era's portraits in d’Artagnan’s memoirs, 0.5
+Mazarin, Mentioned as part of the era's portraits in d’Artagnan’s memoirs, 0.5
+M. Anquetil, The author of a historical work comparable to the memoirs, providing faithful likenesses of the era’s figures, 0.4
+M. de Tréville, The captain of the king’s Musketeers whom d’Artagnan visited, 0.7
+Athos, A musketeer with a pseudonym that piqued the narrator’s curiosity, 0.8
+Porthos, A musketeer with a pseudonym that piqued the narrator’s curiosity, 0.8
+Aramis, A musketeer with a pseudonym that piqued the narrator’s curiosity, 0.8
+Paulin Paris, The narrator's friend who guided him to the manuscript, 0.5
+Comte de la Fère, The name associated with the manuscript that contains mention of the musketeers, 0.7

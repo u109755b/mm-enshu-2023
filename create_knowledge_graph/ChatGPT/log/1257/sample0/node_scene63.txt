@@ -1,0 +1,11 @@
+Milady, A crafty and manipulative woman who plots against the protagonists and is revealed to be the brother of Rochefort, 0.9
+Mme. Bonacieux, A young woman who is involved in Milady's schemes and is close to D'Artagnan, 0.8
+Rochefort, An ally of Milady, who has just departed prior to the conversation between her and Mme. Bonacieux, 0.7
+D'Artagnan, A central figure connected to Mme. Bonacieux and who along with his friends, comes to Mme. Bonacieux's aid, 0.9
+The cardinal, A powerful figure whose emissaries and influence play a significant role in the events described, 0.5
+The abbess, A secondary character who is in the position to influence Mme. Bonacieux's situation, 0.3
+Madame de Chevreuse, A character to whom a forged letter is attributed, leading to further plot developments, 0.4
+Athos, One of D'Artagnan's friends, who arrives to help D'Artagnan and has a significant personal revelation at the end, 0.8
+Porthos, Another friend of D'Artagnan who is present at Mme. Bonacieux's side and plays a role in the rescue, 0.7
+Aramis, The third friend of D'Artagnan who also helps in Mme. Bonacieux's attempted rescue, 0.7
+Lord de Winter, A character who reveals critical information about Milady and ties to other characters, 0.8

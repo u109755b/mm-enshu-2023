@@ -1,0 +1,17 @@
+La Rochelle, A city that surrendered after a year-long siege, 0.5
+The English fleet, Assisted La Rochelle and promised a diversion by Buckingham, 0.3
+Buckingham, Promised a diversion to assist La Rochelle, 0.3
+The king, Made a triumphal entrance into Paris, received as a conquering hero, 0.6
+D’Artagnan, Took possession of his command, remained a Musketeer, later wounded Rochefort three times, 0.8
+Porthos, Left the service, married Mme. Coquenard, previously coveted a coffer, 0.6
+Mme. Coquenard, Married Porthos, associated with the coveted coffer, 0.4
+Mousqueton, Had a magnificent livery, achieved his life ambition, 0.5
+Aramis, Disappeared after a journey, retired into a convent, ceased correspondence with friends, 0.7
+Mme. de Chevreuse, Informed friends about Aramis's retreat into a convent, 0.4
+Bazin, Became a lay brother, associated with the religious sphere, 0.4
+Athos, Remained a Musketeer under D’Artagnan, later quit the service, inherited property, followed by Grimaud, 0.7
+Grimaud, Followed Athos, associated with Athos's decisions, 0.5
+Rochefort, Fought and was wounded by D’Artagnan, considered stopping the conflict, revealed he could have had D’Artagnan killed earlier, 0.7
+Planchet, Acquired the rank of sergeant in the Piedmont regiment from Rochefort, 0.5
+M. Bonacieux, Lived quietly, unaware of his wife's fate, was taken care of by the cardinal's order, disappeared presumably to a royal castle, 0.6
+The cardinal, Provided for M. Bonacieux's disappearance, ensuring he would never want for anything, 0.7

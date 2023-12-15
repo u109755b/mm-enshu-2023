@@ -1,0 +1,13 @@
+D'Artagnan, A young Gascon, lead character on a mission with a sense of urgency, 1.0
+Athos, A Musketeer who D'Artagnan runs into and who expects politeness regardless of haste, 0.8
+Porthos, A Musketeer involved in a cloak and baldric incident with D'Artagnan, 0.8
+Aramis, A Musketeer who gets into a dispute with D'Artagnan over a handkerchief, 0.8
+M. de Tréville, Captain of the Musketeers, mentioned in context but not directly involved in the events, 0.5
+Monsieur Man-in-a-hurry, A moniker used by Athos for D'Artagnan highlighting his rush, 0.2
+The stranger, An unidentified character D'Artagnan is chasing, importance to the narrative but not directly interacted with, 0.4
+The soldier on guard, Person Porthos is speaking with, minor involvement in the scene, 0.1
+Guardsman of Bois-Tracy, Friends of Aramis, partake in the handkerchief conversation, 0.3
+Madame de Bois-Tracy, Woman mentioned in the context of the handkerchief conversation, indirect importance to the situation, 0.3
+Montaran, One of the Guardsmen involved in the handkerchief dispute, minor role, 0.2
+The cardinal’s creatures, Mention of the Cardinal's men who could be at the Hôtel d’Arguillon, not directly involved in action, 0.1
+Monsieur de Tréville, Mentioned as the place where D'Artagnan and Aramis plan to meet, indirect involvement, 0.3

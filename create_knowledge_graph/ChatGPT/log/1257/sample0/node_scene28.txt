@@ -1,0 +1,10 @@
+D'Artagnan, A young and aspiring Musketeer, central to the story for his interactions with all other characters, 1.0
+Athos, A Musketeer and friend to D’Artagnan, wise and secretive, pivotal for revealing personal history and guiding the group, 0.9
+Porthos, A Musketeer and one of D’Artagnan's friends, known for his physical strength and good-natured folly, 0.8
+Aramis, A Musketeer and a friend of D’Artagnan, depicted as the thoughtful and scheming member of the group, 0.8
+Planchet, D’Artagnan's lackey, involved indirectly in the musketeers' plans and schemes, 0.4
+Grimaud, Athos’s lackey, known for his obedience and silence, part of the support for the musketeers, 0.3
+Mousqueton, Porthos’s lackey, associated with Porthos’s story and personal affairs, 0.3
+Bazin, Aramis’s lackey, minor character involved with Aramis’s needs and plans, 0.2
+The Englishman, A character who interacts with Athos over a horse, contributing to the plot and giving insight into Athos’s character, 0.5
+M. de Tréville, Captain of the Musketeers, he influences D'Artagnan’s position and the actions of the Musketeers, 0.7

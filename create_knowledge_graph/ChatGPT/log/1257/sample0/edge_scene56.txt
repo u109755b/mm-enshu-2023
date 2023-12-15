@@ -1,0 +1,7 @@
+The input and output nodes of an edge must be one of 'Milady, Felton, Lord de Winter, Buckingham, D’Artagnan and his friends'
+Milady, Felton, contend with, Milady had to contend with the unpolished nature of Felton, concentrated and insensible by force of austerity.
+Buckingham, Order signing, facilitate Milady’s exile, Once the order signed by Buckingham, baron would make Milady embark immediately.
+Cardinal, Milady, support and future vengeance, The Cardinal was Milady's only support, protector, and the instrument of her future fortune and vengeance.
+Lord de Winter, Milady's prison security, ensure, Lord de Winter made his customary visit to ensure the security of Milady’s prison.
+Felton, Milady, false statement, Felton lied to the sentinel about his intentions towards Milady.
+Milady, Knife acquisition, Milady convinced Felton to bring her a knife, promising to return it.

@@ -1,0 +1,16 @@
+King, The monarch in the story who shows emotions over Buckingham's death and exhibits political behaviors, 0.7
+Queen, The character who loved Buckingham and initially disbelieved the news of his death, 0.6
+Cardinal, The central antagonist who shows displeasure towards the King's joy and is involved in D'Artagnan's arrest, 0.9
+Buckingham, The person whose assassination is a pivotal event in the story, influencing several characters, 0.7
+Laporte, The messenger who brings the duke’s dying gift to the queen, playing a role in confirming Buckingham's death, 0.4
+Louis XIII, Identified as the King, demonstrating a lack of generosity and feeling entrapped by the Cardinal, 0.7
+D'Artagnan, A protagonist who encounters his nemesis, is arrested, but eventually gains favor and a promotion from the Cardinal, 1.0
+Athos, A leader among the Musketeers, a friend of D'Artagnan, who possesses wisdom and emotional depth, 0.8
+Porthos, A Musketeer and a friend of D'Artagnan, who is preparing to get married and refuses a promotion, 0.7
+Aramis, A Musketeer planning to leave military life for the church, friend of D'Artagnan who also refuses a promotion, 0.7
+Rochefort, The Cardinal's equerry who arrests D'Artagnan and later accepts D'Artagnan's word to not escape, 0.65
+Chevalier de Rochefort, The same as Rochefort, identified by his full title and position, 0.65
+Richelieu, Identified as the Cardinal, who governs the action and D'Artagnan's fate with high influence, 1.0
+Milady de Winter, A character whose alleged crimes and eventual fate become a focal point of discussion and action, 0.8
+Mme. Bonacieux, A victim of Milady de Winter mentioned in D’Artagnan’s recount of events, affecting the cardinal's decision, 0.4
+Charles I, Mentioned as part of the historical context, his orders impacted Laporte's ability to bring the queen news, 0.5

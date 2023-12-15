@@ -1,0 +1,14 @@
+M. Bonacieux, An individual suspected of any crime and arrested, 0.7
+Cardinal, The person who has people that conduct interrogations and arrests at M. Bonacieux's apartment, 0.9
+D'Artagnan, A central character who observes the arrests from his apartment and later comes to the aid of Madame Bonacieux, 0.95
+Athos, One of D'Artagnan's friends who is engaged in earnest inquiries, 0.8
+Porthos, Another friend of D'Artagnan involved in the inquiries, 0.8
+Aramis, A friend of D'Artagnan, also involved in the inquiries and previously had an altercation over a handkerchief, 0.8
+M. de Tréville, Captain of the Musketeers, whom Athos has questioned about recent events, 0.85
+King, Mentioned as looking uneasy during the last meeting with the cardinal and the queen, 0.6
+Queen, Mentioned as tearful and connected to D'Artagnan's suspicions about Madame Bonacieux's abductors, 0.65
+Planchet, D'Artagnan's servant who is present during a critical scene, 0.7
+Madame Bonacieux, A woman arrested and interrogated by the cardinal's people, later rescued by D'Artagnan, 0.85
+Duke of Buckingham, A man whose potential presence in Paris and contact with the queen are of interest to D'Artagnan, 0.7
+Monsieur Laporte, The queen's valet de chambre whom Madame Bonacieux intends to contact via D'Artagnan for information, 0.75
+Germain, The individual at the Louvre who responds to the password given by Madame Bonacieux, 0.7

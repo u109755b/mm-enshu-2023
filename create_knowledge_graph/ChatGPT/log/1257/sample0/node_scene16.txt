@@ -1,0 +1,28 @@
+Louis XIII, King of France and husband of Anne of Austria, 0.95
+Cardinal Richelieu, Chief Minister to Louis XIII and political manipulator, 0.98
+Duke of Buckingham, English nobleman and alleged lover of Anne of Austria, 0.85
+Madame de Chevreuse, Close friend and confidant of Anne of Austria, involved in intrigues against Richelieu, 0.7
+Madame de Longueville, Noblewoman and political figure in France, 0.6
+The Condés, Noble family opposed to Richelieu's policies, 0.65
+Madame de Lannoy, One of Anne of Austria's ladies-in-waiting, 0.55
+Anne of Austria, Queen of France and suspected of conspiring against her husband, 0.9
+Laporte, Confidant and valet to Anne of Austria, suspected of involvement in her intrigues, 0.65
+Monsieur de Séguier, Keeper of the Seals, tasked with searching the queen's papers, 0.75
+Maréchale d’Ancre, Reference to a past event involving a search and arrest, not present in the current narrative, 0
+Mme. de Guitaut, Lady-in-waiting of Anne of Austria, 0.5
+Mme. de Sable, Lady-in-waiting of Anne of Austria, 0.5
+Mme. de Montbazon, Lady-in-waiting of Anne of Austria, 0.5
+Mme. de Guémené, Lady-in-waiting of Anne of Austria, 0.5
+Donna Estafania, Spanish companion to Anne of Austria, 0.5
+Des Roches le Masle, Chancellor and former canon involved in queen's paper examination, 0.75
+Anne's Brother, King of Spain, mentioned in letter conspiracy but not an active participant here, 0
+Emperor of Austria, Mentioned in letter conspiracy but not an active participant here, 0
+Monsieur de Condé, The person suggested to take over in La Rochelle, a military figure, 0.6
+Monsieur de Bassopierre, The person suggested to take over in La Rochelle, a military figure, 0.6
+M. de Laffemas, Chief gamekeeper of France and part of Anne's persecution, 0.5
+Mme. de Chevreuse, Exiled confidant of Anne of Austria, 0.7
+Mme. de Bernet, Exiled confidant of Anne of Austria, 0.6
+M. de Guitant, Captain of the Guards, 0.55
+King Charles I, Mentioned as the employer of Buckingham, not directly involved, 0
+Marie de Médicis, Queen-mother, historically persecuted by Richelieu, 0
+The Aldermen of the City, Planners of the fête, indirectly mentioned, 0.4

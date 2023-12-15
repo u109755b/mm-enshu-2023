@@ -1,0 +1,15 @@
+D'Artagnan, A young and brave Musketeer, 1.0
+Milady, A mysterious and beautiful Englishwoman with a connection to many events, 0.9
+Planchet, D'Artagnan's loyal servant and companion, 0.7
+Athos, One of the three Musketeers, a close friend to D'Artagnan and a nobleman, 0.9
+Grimaud, Athos's servant, known for his silent obedience, 0.4
+Madame Bonacieux, D'Artagnan's love interest whom he is desperate to find, 0.5
+Lord de Winter, Baron Sheffield, The English cavalier who has a quarrel with D'Artagnan, 0.6
+Porthos, One of the three Musketeers, known for his vanity and dueling skills, 0.8
+Aramis, One of the three Musketeers, a poet with aspirations for the church, 0.8
+M. de Tréville, Captain of the Musketeers, supports D'Artagnan by lending him horses, 0.6
+Lubin, The lackey of the Comte de Wardes, encountered by Planchet, 0.3
+The soubrette, Milady's maid, who interacts with Planchet and delivers a secret message, 0.4
+Mme. Bonacieux's captor, The man in the black cloak with a scar who may be involved with Milady, 0.5
+The procurator's wife, Mentioned as part of a backstory involving Porthos, 0.4
+Constance, Another name for Madame Bonacieux, representing D'Artagnan's strong feelings for her, 0.5

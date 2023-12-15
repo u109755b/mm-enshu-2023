@@ -1,0 +1,8 @@
+Lord de Winter, Brother-in-law of Milady and a governor with authority over a castle and port, 0.7
+Milady, Sister-in-law of Lord de Winter, a woman with a mysterious and possibly treacherous history, involved in various intrigues and seeking to regulate her future conduct, main focus of the narrative, 1.0
+Athos, Person mentioned in passing as having revealed information about Milady to others; role in the overall situation is indirect, 0.1
+Cardinal, An influential figure alluded to with possible ties to Milady and involved in the political backdrop of the story, 0.3
+Buckingham, A powerful man who might have motives to seek vengeance against Milady; part of Milady's speculations regarding her situation, 0.2
+D’Artagnan, Referenced in relation to Milady's past actions, possibly connected to Athos's knowledge of her arrival, 0.1
+Kitty, Milady's servant who may have betrayed Milady's actions or intentions to Lord de Winter, 0.3
+Mr. Felton, A young lieutenant and officer under Lord de Winter's command, charged with guarding Milady, 0.6

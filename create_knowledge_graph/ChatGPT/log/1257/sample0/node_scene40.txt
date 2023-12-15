@@ -1,0 +1,18 @@
+Cardinal de Richelieu, The primary antagonist and a powerful figure who speaks with D’Artagnan about his past actions and future, 0.9
+D’Artagnan, The young protagonist who converses with the Cardinal, recollects his past adventures, and is offered a position by the Cardinal, 1.0
+King Henry, The father of the current king, mentioned as the leader D’Artagnan's father served under, 0.2
+Monsieur de Tréville, Captain of the Musketeers, whom D’Artagnan was recommended to, 0.6
+Monsieur Dessessart, Brother-in-law to de Tréville, and leader of the company D’Artagnan joins, 0.5
+Athos, One of the three Musketeers and a person of significant influence over D’Artagnan, 0.7
+Porthos, One of the three Musketeers and a friend to D’Artagnan, he is also mentioned in relation to the procurator’s wife, 0.6
+Aramis, One of the three Musketeers and D’Artagnan's friend, 0.6
+Mme. Bonacieux, A woman whose abduction is noted, related to D’Artagnan, 0.4
+Cavois, A character who is sent to request D’Artagnan to come to the palace, 0.3
+M. Coquenard, A relative of Porthos through marriage, he harbors ill will towards Porthos, 0.3
+Mme. Coquenard, Porthos's lover who is very attached to Porthos despite disputes with her husband, 0.4
+Milady, A sinister character who designates D’Artagnan to the ill-looking men, significantly impacting the plot, 0.7
+Kitty, A character associated with Aramis, awaiting a letter from him, 0.3
+The servant, An individual who has horses ready for the ill-looking men following D’Artagnan, 0.2
+The two ill-looking men, Characters who follow D’Artagnan at Milady's indication, part of the unfolding plot against him, 0.5
+The King, The current monarch, only mentioned in relation to his health and the campaign, 0.3
+The procurator’s wife, Not directly named but referenced in relation to Porthos, showcasing her feelings towards him, 0.4

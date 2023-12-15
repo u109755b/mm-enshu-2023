@@ -1,0 +1,15 @@
+Charles I, King of England during the early 17th century, 0.6
+Richelieu, Cardinal of France and prominent political figure, 0.7
+Duke of Buckingham, English statesman and assassination victim, 0.5
+Ambassadors of Denmark, Diplomats from Denmark in England during the reign of Charles I, 0.3
+Ambassador of Holland, Diplomat from Holland in England involved in maritime affairs, 0.3
+Milady, Antagonist related to events with the Rochellais and Buckingham's death, 0.6
+M. de Tréville, Captain of the Musketeers and confidant to his soldiers, 0.4
+D'Artagnan, Young and aspiring Musketeer, main protagonist, 0.8
+Mme. Bonacieux, Character of interest, connected to D'Artagnan and targeted by Milady, 0.6
+Aramis, One of the four Musketeers, involved in the plot to help Mme. Bonacieux, 0.5
+Marie Michon, Alias used by a seamstress with connections to the queen, 0.4
+Anne of Austria, Queen of France, involved in the correspondence about Mme. Bonacieux, 0.7
+Athos, Porthos, and Aramis, The three Musketeers and D'Artagnan's comrades, 0.7
+Porthos, One of the four Musketeers known for his strength and appetite, 0.5
+Planchet, D'Artagnan's loyal servant, 0.3

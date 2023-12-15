@@ -1,0 +1,20 @@
+Cardinal Richelieu, The primary antagonist, a powerful and influential figure who seeks control and management of affairs within France and in its conflicts, 1.0
+Louis XIII, King of France, less involved in the direct management of the siege of La Rochelle, showing signs of impatience and boredom, 0.7
+Anne of Austria, Queen of France, not directly involved in the passages provided but mentioned in reference to her past relationship with the king, 0.4
+M. de Bassompierre, A marshal embroiled in conflicts needing the cardinal's attention, a figure of some military importance, 0.5
+Duc d’Angoulême, Involved in a dispute requiring the cardinal's intervention, a person of noble and possibly military stature, 0.5
+Monsieur, Unspecified but likely a person of high rank who began the siege, 0.6
+Mayor of La Rochelle, A determined leader of the besieged city who deals harshly with mutineers, significant for the city's resilience, 0.8
+Buckingham, The general outside force that the Rochelle people believed in for salvation, representing hope for the city, 0.9
+Milady, An enigmatic and dangerous agent of the cardinal, whose loyalties and status are unclear, 0.8
+Henry IV, A historical figure mentioned in reference to his techniques in siege, though not a character in the events being described, 0.2
+Tristan, A reference to a figure linked to King Louis XI, not actively involved in the narrative but influential historically, 0.1
+Cahusac, An attendant of Cardinal Richelieu, 0.3
+La Houdinière, An attendant of Cardinal Richelieu, 0.3
+Athos, One of the four Musketeers, who is calm, composed, and displays leadership, 1.0
+Porthos, One of the four Musketeers, known for his strength and zest, 0.8
+Aramis, One of the four Musketeers, a romantic and sometimes secretive figure, 0.8
+D’Artagnan, A young Musketeer known for his bravery and involvement in various escapades, 1.0
+Grimaud, A lackey to the Musketeers, often silent and dutifully following orders, 0.5
+Marie Michon, A pseudonym for a character who writes to Aramis, related to private matters and not state affairs, 0.3
+Constance, D'Artagnan's love interest who is in a convent, indirectly motivating his actions, 0.6

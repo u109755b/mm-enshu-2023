@@ -1,0 +1,8 @@
+Cardinal Richelieu, Musketeers, enter, The cardinal opened the door of the room in which the Musketeers were.
+Porthos, Aramis, play, Porthos playing an earnest game of dice with Aramis.
+Cardinal Richelieu, Athos, inquire, "What has become of Monseigneur Athos?" asked the cardinal.
+Porthos, Athos, explain, Porthos explained Athos has gone as a scout.
+Cardinal Richelieu, Porthos, inquire, "And you, what have you done, Monsieur Porthos?"
+Porthos, Aramis, win, "I have won five pistoles of Aramis," said Porthos.
+Cardinal Richelieu, Musketeers, order, "To horse, then, gentlemen; for it is getting late," commanded the cardinal.
+Cardinal Richelieu, Duke of Buckingham, engage (assassination), Milady made an engagement with Cardinal Richelieu to cause the Duke of Buckingham to be assassinated.

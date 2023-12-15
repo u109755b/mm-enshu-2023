@@ -1,0 +1,14 @@
+Milady, A cunning and manipulative agent of the cardinal, 0.95
+Rochefort, An accomplice of Milady and also an agent for the cardinal, 0.85
+Buckingham, The Duke of Buckingham, mentioned as dead or wounded, 0.65
+D'Artagnan, One of the Four Musketeers and considered a threat by Milady and Rochefort, 0.85
+Athos, One of the Four Musketeers and considered a threat by Milady and Rochefort, 0.80
+Aramis, One of the Four Musketeers, is the lover of Madame de Chevreuse, less of a threat, 0.70
+Porthos, One of the Four Musketeers, regarded as a fool and not worth concerning over by Milady, 0.50
+Madame Bonacieux, The young woman saved from prison by the queen and known to D'Artagnan, 0.75
+Cardinal, Presumably Cardinal Richelieu, although not directly mentioned, he is the figure for whom Milady and Rochefort work, 0.85
+Queen, Not specified but implied as the queen of France, involved in prison escape of Madame Bonacieux, 0.65
+Lord de Winter, A character warned about Milady's arrival in England, 0.60
+Madame de Chevreuse, Mentioned as the lover of Aramis, 0.60
+Abbess, The person to whom Milady will show Rochefort's full power, 0.50
+Eminence, Another reference to the Cardinal, 0.85

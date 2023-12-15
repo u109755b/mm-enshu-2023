@@ -1,0 +1,10 @@
+Cardinal Richelieu, The powerful and cunning chief minister and advisor to King Louis XIII who orchestrates various political plots, 1.0
+King Louis XIII, The King of France who is often influenced by Cardinal Richelieu and feels humiliated by him sometimes, 0.95
+Anne of Austria, The Queen of France who is involved in complex political intrigues and has a secret communication with the Duke of Buckingham, 0.95
+Duke of Buckingham, A character mentioned as having received diamond studs from Queen Anne of Austria, 0.6
+Mme. de Chevreuse, A character mentioned in the context of the political plot, likely an ally of Queen Anne of Austria, 0.4
+Laporte, An individual who is associated with the Queen and seems to be a confidante or facilitator for her, 0.4
+Mme. Bonacieux, The young woman loyal to Queen Anne who discovers a way to help the Queen and is married to M. Bonacieux, 0.8
+M. Bonacieux, The husband of Mme. Bonacieux who is avaricious and cowardly, and ultimately is a supporter of Cardinal Richelieu, 0.7
+Comte de Rochefort, An associate of Cardinal Richelieu who becomes friendly with M. Bonacieux and influences his opinions, 0.5
+D’Artagnan, A brave young man who is involved romantically with Mme. Bonacieux and is a Guardsman, 0.7

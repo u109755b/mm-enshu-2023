@@ -1,0 +1,16 @@
+Louis XIII, The King of France, 1.0
+Cardinal, The chief minister of King Louis XIII and his most trusted advisor, 0.9
+M. de Tréville, The captain of the Musketeers, 0.8
+Musketeers, Soldiers under M. de Tréville's command, loyal to the king, 0.7
+M. de la Trémouille, A nobleman involved in the conflict with the Musketeers, 0.6
+Bernajoux, Relative of M. de la Trémouille's esquire, wounded in the conflict, 0.5
+Athos, One of the three best soldiers in the Musketeers, 0.8
+Porthos, One of the three best soldiers in the Musketeers, 0.8
+Aramis, One of the three best soldiers in the Musketeers, 0.8
+D'Artagnan, The young man who aspires to join the Musketeers and is involved in the conflict, 0.9
+Cahusac, One of the cardinal's Guardsmen involved in the conflict, 0.5
+Bicarat, One of the cardinal's Guardsmen involved in the conflict, 0.5
+de Jussac, One of the cardinal's Guardsmen who was severely wounded by D'Artagnan, 0.6
+La Chesnaye, The king's confidential valet, 0.4
+M. Dessessart, Brother-in-law to M. de Tréville, the captain of a company of the Guards, 0.6
+Guardsmen of the Cardinal, Soldiers loyal to the Cardinal and rivals to the Musketeers, 0.7

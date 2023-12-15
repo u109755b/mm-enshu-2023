@@ -1,0 +1,14 @@
+The Englishmen, the Musketeers, joining, A silent party of Englishmen joined the Musketeers.
+Lord de Winter, Musketeers, questioning, Lord de Winter questioned the true identity of the Musketeers.
+Athos, one of the four Englishmen, secret sharing, Athos communicated his name in a low voice to one of the four Englishmen.
+Porthos, Porthos's English adversary, secret sharing, Porthos did the same as Athos.
+Aramis, Aramis's English adversary, secret sharing, Aramis did the same as Athos.
+Athos, his adversary, killing, Athos killed his adversary.
+Porthos, Porthos's English adversary, wounding and helping, Porthos stretched his adversary upon the grass with a wound through his thigh and then helped him to his carriage.
+Aramis, Aramis's English adversary, pursuit and escape, Aramis pushed his adversary who ended by taking to his heels.
+D'Artagnan, The Englishman who duels with D'Artagnan, sparing life, D'Artagnan spared the life of the Englishman for the sake of his sister.
+D'Artagnan, Lord de Winter, returning purse, D'Artagnan returned the purse to Lord de Winter.
+Lord de Winter, D'Artagnan, invitation, Lord de Winter invited D'Artagnan to meet his sister, Milady Clarik.
+Milady Clarik, D'Artagnan, reception, Milady Clarik received D'Artagnan ceremoniously.
+Lord de Winter, D'Artagnan, presentation, Lord de Winter presented D'Artagnan to his sister expressing his gratitude.
+Milady, D'Artagnan, gratitude expression, Milady expressed her gratitude to D'Artagnan.

@@ -1,0 +1,9 @@
+Milady, A cunning and manipulative prisoner plotting her own agenda, 0.95
+D’Artagnan, The object of Milady's dreams, presumably her enemy, 0.6
+Felton, A soldier and guard, torn between duty and emotion, 0.85
+Headsman, An imagined character in Milady's dream, envisioned as executing D’Artagnan, 0.1
+Lord de Winter, Milady's relative by marriage and her jailer, possibly her brother, 0.8
+Woman, An unnamed character who offers services to Milady, 0.3
+Physician, A suggested but not actual character for attending Milady's feigned illness, 0.05
+Soldier, An individual who is affected by Milady’s performance of devotion, 0.4
+Second husband's servant, An off-screen character who taught Milady Puritan prayers, 0.05

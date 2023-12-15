@@ -1,0 +1,13 @@
+Milady de Winter, A lady with serious accusations against her and connected to a dark plan within Felton, 0.9
+Felton, A man who is deeply conflicted and acts under the influence of strong emotions and beliefs, leading to a tragic event, 1.0
+John Felton, The full name of Felton, which emphasizes his identity and role in the climax of the plot, 0.8
+Lord de Winter, The individual who tasks Felton with a mission and later realizes the tragedy too late, 0.75
+Duke of Buckingham, A high-ranking nobleman entangled with Milady de Winter and a victim of assassination, 0.95
+Patrick, The duke’s confidential lackey who interacts with Felton and others during critical moments, 0.6
+Anne of Austria, Although not directly involved, her influence and connection to Buckingham are crucial to the plot’s emotional depth, 0.65
+Baron de Winter, Alternative title for Lord de Winter, signifying his social rank and his close relationship with Felton, 0.7
+Charlotte Backson, An assumed name for Milady de Winter used in a crucial document for her release, 0.85
+James I, Mentioned in relation to the public crimes of the Duke of Buckingham, adding historical context, 0.5
+Charles I, Linked to Buckingham through public crimes, adding further historical context to the story, 0.5
+Laporte, The loyal servant of Anne of Austria, present during the duke’s final moments, 0.55
+Prince de Soubise, Named as the head of the deputies from La Rochelle, indicating his political importance, 0.4

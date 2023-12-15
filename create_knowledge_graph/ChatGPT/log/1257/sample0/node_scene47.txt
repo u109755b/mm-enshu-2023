@@ -1,0 +1,10 @@
+Athos, The leader of the expedition and a musketeer known for his strategic thinking, 0.8
+Porthos, A musketeer and a member of the group, recognized for his physical strength and valor, 0.7
+Aramis, A musketeer and a member of the group, known for his elegance and theological knowledge, 0.7
+D'Artagnan, A young and brave Guardsman aspiring to be a musketeer, central to the plot and involved in a conflict with Milady, 0.9
+Grimaud, Athos's servant, who aids the musketeers silently and follows Athos's orders, 0.5
+Milady, A dangerous woman who seeks vengeance against D'Artagnan and is involved in political intrigue, 0.8
+Cardinal, Likely Cardinal Richelieu, who is a powerful figure in the state and has a complex relationship with the musketeers, 0.6
+Lord de Winter, Milady's brother-in-law, who has a strained relationship with her and becomes part of the musketeers' plan against Milady, 0.5
+Bazin, Aramis's servant, who is considered trustworthy to carry out a mission for the musketeers, 0.4
+Planchet, D'Artagnan's servant, who is also considered trustworthy to carry out a mission for the musketeers, 0.4

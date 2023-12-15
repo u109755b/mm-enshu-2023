@@ -1,0 +1,6 @@
+D'Artagnan, A young man who is madly in love with Milady and is entangled in her intrigues, 0.95
+Milady, A manipulative and secretive woman who does not love D'Artagnan but uses him for her plans, 0.95
+Kitty, A chambermaid who is involved with D'Artagnan but feels conflicted due to the events unfolding, 0.75
+De Wardes, The man whom D'Artagnan is supposed to duel and who is an object of Milady's machinations, 0.6
+Comte de Wardes, The same as De Wardes, just referred to by his title; this is not a separate character, 0
+The porter, A minor character who works at the hôtel, mentioned only in the action of drawing the cord, 0.1

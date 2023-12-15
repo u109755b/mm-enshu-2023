@@ -1,0 +1,12 @@
+George Villiers, Duke of Buckingham, A nobleman and close advisor to the English king, known for his good looks and adventurous spirit, with a passionate love for Anne of Austria, 0.9
+Mme. Bonacieux, An associate of the French queen who aids the Duke of Buckingham in entering the Louvre and shares the queen's interests, involving herself in risky political and romantic intrigue, 0.7
+Queen Anne of Austria, The Queen of France, entangled in a dangerous and forbidden romance with the Duke of Buckingham and struggling with her position and feelings, 0.9
+Germain, An individual in the service of the Queen, implied to be helping Mme. Bonacieux and Buckingham, albeit his role is minor in this context, 0.3
+Donna Estafania, A Spanish woman in service to Anne of Austria, present at a crucial moment of interaction between Anne and Buckingham, her role is supportive but limited in the narrative, 0.4
+M. de Tréville, The head of the Musketeers, indirectly facilitating Buckingham's entry to the Louvre due to his Musketeers being on guard, his direct role here is minor, 0.3
+Cardinal Richelieu, Although not actively present in the excerpt, he is a driving force behind political events affecting the characters, particularly Anne of Austria, indicating a significant off-page influence, 0.7
+King Louis XIII of France, As the husband of Anne of Austria and king, his indirect influence over the events is significant due to the potential scandal and political implications, 0.6
+Madame de Chevreuse, Referred to in the dialogue, indicating a past involvement in the romantic and political machinations, her role being mentioned implies a direct but historical influence on the narrative, 0.5
+Madame de Vernet, Like Madame de Chevreuse, she is mentioned in relation to past events that have shaped the current situation, suggesting a historical but important influence, 0.4
+Putange, Another individual mentioned in the context of past events, who was exiled, indicating an indirect influence, 0.4
+Laporte, An individual associated with the Queen, mentioned as a contact for Mme. Bonacieux after her abduction, playing a role in the continuation of the political intrigue, 0.5

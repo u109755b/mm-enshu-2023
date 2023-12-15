@@ -1,0 +1,7 @@
+Officer, Bonacieux, support, The officer who supported Bonacieux.
+Guards, Bonacieux, receive and carry, Two guards received Bonacieux in their arms from the officer and carried him.
+Cardinal de Richelieu, Bonacieux, interrogate and accuse, The cardinal interrogated Bonacieux and accused him of high treason.
+Bonacieux, Madame de Chevreuse, mention, Bonacieux heard his wife mention Madame de Chevreuse.
+Cardinal de Richelieu, Guards, order, The cardinal commanded the guards to place Bonacieux back into care.
+Cardinal de Richelieu, Rochefort, send, The cardinal sent Rochefort to search for the Duchess de Chevreuse and the Duke of Buckingham.
+Cardinal de Richelieu, Vitray, send, The cardinal sent Vitray to London with a letter for Milady.

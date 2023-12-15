@@ -1,0 +1,10 @@
+M. Bonacieux, A retired mercer entangled in political and amorous intrigues, facing accusations of high treason and experiencing harsh treatment and imprisonment, 0.8
+Commissary, An official in the Bastille who interrogates M. Bonacieux with a repulsive appearance and keen, penetrating eyes, representative of justice or the legal system, 0.6
+Officers, Agents who arrested and conducted M. Bonacieux to the Bastille, minor role in the enforcement of the law, 0.4
+Guards, The Bastille's personnel who assist in the imprisonment and movement of M. Bonacieux and present during interrogations, perform subordinate law enforcement functions, 0.4
+Clerk, A subordinate official who assists the commissary and performs administrative tasks in the Bastille, has a small part in the judicial process, 0.3
+Athos, Wrongly identified as Monsieur d’Artagnan, a musketeer with calmness in the face of accusations and mistaken identity, significant in demonstrating the confusion or mistaken justice, 0.5
+Messenger, An individual who brings a letter to the commissary that seems to aggravate M. Bonacieux's situation, plays a minor role in the unfolding of events, 0.3
+M. d'Artagnan, Mentioned in the conversation but not present, a character from whom Bonacieux sought assistance, and who has an implied impact on the plot, 0.4
+Wife of M. Bonacieux, An unseen but referenced character who is central to Bonacieux's troubles and the alleged crimes, pivotal to the background of Bonacieux’s story, 0.5
+Officer, A character who appears to lead Bonacieux at the end of his imprisonment, a minor enforcement role, 0.3

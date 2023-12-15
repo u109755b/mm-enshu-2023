@@ -1,0 +1,16 @@
+Athos, A Musketeer and a key figure in the prosecution of Milady, 1.0
+D’Artagnan, A young, impulsive Musketeer and accuser of Milady for several crimes, 0.9
+Lord de Winter, Accuser of Milady and related to other characters through family ties, 0.8
+Porthos, A Musketeer and part of the group judging Milady, 0.7
+Aramis, A Musketeer and part of the group judging Milady, 0.7
+Milady de Winter, Also known as Charlotte Backson, the central accused with a dark and complex past, 1.0
+Grimaud, Servant to Athos and communicator via gestures, 0.6
+Mousqueton, Servant providing information on Milady's whereabouts, 0.5
+Planchet, Leading the cavalcade, a minor role in this context, 0.4
+Executioner of Lille, Reveals Milady's past crimes and his personal vendetta against her, 0.8
+Man in the red cloak, His identity becomes crucial as the story unfolds, 0.7
+Bazin, Mentioned for guarding a door, a minor role, 0.3
+Felton, Referenced as a victim of Milady's manipulations, significant to the plot but absent in the scene, 0.6
+Duke of Buckingham, A murder victim linked to Milady, important in backstory but not present, 0.6
+Constance Bonacieux, A poisoning victim of Milady, important in backstory but not present, 0.6
+Baron de Wardes, A target of a murder plot, relevant to D’Artagnan’s accusation but not present, 0.5

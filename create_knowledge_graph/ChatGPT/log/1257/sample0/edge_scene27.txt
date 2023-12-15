@@ -1,0 +1,10 @@
+D'Artagnan, Athos, seek, D'Artagnan informed Aramis about the recent events and his desire to search for Athos.
+D'Artagnan, Aramis, departure, D'Artagnan suggests that they both depart together in search of Athos.
+Athos, horse, ownership, D'Artagnan informs that one of the fine horses belongs to Athos.
+Bazin, Aramis, summon, Aramis calls Bazin over being pleased with the horse and its accessories.
+D'Artagnan, Bazin, reassure, D'Artagnan reassures Bazin, who is unhappy about potential combat, suggesting that all can gain the kingdom of heaven.
+D'Artagnan, Planchet, departure, D'Artagnan commends Aramis to the care of their hostess and leaves with Planchet to find Athos.
+D'Artagnan, Athos, preference, D'Artagnan holds a marked preference for Athos, admiring his qualities and noble air.
+Athos, Grimaud, location, Athos and Grimaud are discovered barricaded in the cellar of the inn.
+The two English gentlemen, Athos, conflict, Two English gentlemen are upset about being denied their wine because of Athos in the cellar.
+D'Artagnan, Athos, assistance, D'Artagnan helps the two Englishmen understand the situation and convinces Athos to come out.

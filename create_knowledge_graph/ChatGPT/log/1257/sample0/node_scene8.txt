@@ -1,0 +1,16 @@
+King Louis XIII, Monarch of France during the story's timeline, 0.3
+Athos, One of the four companions and a Musketeer, supports friends financially, 0.7
+Porthos, One of the four companions and a Musketeer, provides temporary support through gambling, 0.7
+Aramis, One of the four companions and a Musketeer, supports friends by selling books, 0.7
+M. de Tréville, Captain of the Musketeers, provides financial support to the four friends, 0.6
+D'Artagnan, The main character, a young, brave, and enterprising man seeking adventure, 0.9
+Planchet, D'Artagnan's lackey, involved in minor aspects of the story, 0.4
+Citizen, A man whose wife has been abducted, confides in D'Artagnan, 0.5
+Bonacieux, D'Artagnan's landlord and the citizen with an abducted wife, 0.6
+Madame de Bois-Tracy, A noblewoman, possibly involved in court affairs, 0.2
+Madame d’Aiguillon, A noblewoman, speculated to be involved in higher court affairs, 0.2
+Madame de Chevreuse, A noblewoman, higher up in court affairs speculation, 0.2
+Duke of Buckingham, A man speculated to be involved in a secret affair with intrigue, 0.3
+Monsieur Laporte, The queen's cloak bearer and godfather to Bonacieux’s wife, involved in the queen's secrets, 0.4
+Man of Meung, A stranger with distinct features, suspected by D'Artagnan to be involved in prior conflicts, 0.5
+Athos, Porthos, Aramis, Three of D'Artagnan's friends who are Musketeers, all considered one unit who supports each other, 0.8

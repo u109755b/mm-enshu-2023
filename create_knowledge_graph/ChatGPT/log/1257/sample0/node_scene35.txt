@@ -1,0 +1,11 @@
+Porthos, One of the four musketeers, 0.2
+D’Artagnan, A young and ambitious musketeer, central character in the events, 1
+Milady, A femme fatale and antagonist in the story, 0.8
+Kitty, Milady's maid and a secondary character involved with D’Artagnan, 0.5
+Dame Nature, Personification of nature mentioned metaphorically, 0.1
+M. de Wardes, A character whom D’Artagnan impersonates, 0.4
+The queen, Only referenced by the possession of a ring, not directly involved in the events, 0.3
+Athos, One of the four musketeers and a close friend to D’Artagnan, 0.7
+Count, A title used by D’Artagnan while impersonating de Wardes, 0.2
+Comte de Wardes, The original identity that D’Artagnan is using to deceive Milady, distinct from the role D’Artagnan plays, 0.4
+Milady Clarik, Another reference to Milady, emphasizing her full name, 0.8

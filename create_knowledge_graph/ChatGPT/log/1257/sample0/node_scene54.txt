@@ -1,0 +1,5 @@
+Felton, A soldier conflicted between his duty and his growing involvement with Milady, 0.7
+Milady, A manipulative and enigmatic woman who is a prisoner and seeks to influence Felton and escape her captivity, 0.9
+Lord de Winter, Milady's captor who appears to have authority over her and is wary of her manipulations, 0.6
+George Villiers (Duke of Buckingham), A character referred to in the past context, possibly as a political figure or a past acquaintance of Milady, 0.3
+Charlotte Backson, An alias name referenced in the text relating to Milady, indicating a potential past identity or cover, 0.4

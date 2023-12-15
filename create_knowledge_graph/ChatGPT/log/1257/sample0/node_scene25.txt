@@ -1,0 +1,8 @@
+D'Artagnan, The protagonist, a brave and resourceful young man who is devoted to his friends and serves as the central character of the narrative, 1.0
+M. de Tréville, Captain of the Musketeers and a figure of authority and guidance for D'Artagnan and his friends, 0.7
+M. Bonacieux, An untrustworthy character whose actions raise D'Artagnan's suspicions, 0.5
+Planchet, D'Artagnan's loyal servant who aids in his master's affairs and provides comic relief, 0.7
+M. de Cavois, The captain of the Cardinal's Guards, who indicates the Cardinal's interest in D'Artagnan, 0.4
+Porthos, One of D'Artagnan's musketeer friends, boastful and in debt, currently injured and unable to leave Chantilly, 0.8
+Mousqueton, Porthos's servant, who procures supplies of food and wine for his master, 0.5
+Madame Coquenard, The purported duchess who is actually the old wife of a procurator, believed to be Porthos's mistress, 0.6

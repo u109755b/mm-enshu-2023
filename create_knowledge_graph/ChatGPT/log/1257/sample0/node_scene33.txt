@@ -1,0 +1,12 @@
+Athos, A wise counselor to D'Artagnan and a mentor figure, 0.4
+D'Artagnan, The protagonist who is in love with Milady and the central character whose actions and feelings drive the plot, 1.0
+Kitty, Milady's soubrette who is in love with D'Artagnan and is a secondary character pivotal in the development of the plot as a go-between, 0.6
+Milady, Object of D'Artagnan's affections and a significant figure whose actions affect D'Artagnan deeply, 0.8
+Monsieur El Comte de Wardes, A character D'Artagnan views as a rival for Milady's affections and for whom a forged letter is written, 0.3
+Madame Bonacieux, Mentioned in passing as someone D'Artagnan had an interest in, 0.1
+Lord de Winter, Milady's brother-in-law who is also mentioned in regard to Milady's past actions, 0.1
+Mme. de Guise, Mentioned as part of D'Artagnan's reflection, but not directly involved in the arc of the narrative presented, 0.1
+Monsieur de Tréville, Mentioned as a potential reason for D'Artagnan's absence, but without direct involvement in the events, 0.1
+Monsieur Dessessart, Mentioned similarly as Monsieur de Tréville, without direct involvement, 0.1
+The cardinal, Referenced as someone who has a past with Milady, influencing her actions, 0.2
+The mercer’s wife of the Rue des Fossoyeurs, Part of a passing mention regarding D'Artagnan's past interest, 0.1

@@ -1,0 +1,24 @@
+Milady, A prisoner plotting escape and manipulating Felton, 0.9
+Felton, A young officer tasked with guarding Milady, susceptible to her influence, 0.9
+Lord de Winter, Milady's brother-in-law and perhaps her jailer, 0.6
+John (Felton), Mentioned in context as Felton, included again due to the direct address by Lord de Winter, 0.7
+Judith, Referenced in analogy, not a direct character, 0.0
+Holofernes, Referenced in analogy, not a direct character, 0.0
+Eloa, A name Felton utters questioning Milady's identity, not a direct character, 0.0
+Astarte, A name Felton utters questioning Milady's identity, not a direct character, 0.0
+Lord de Winter, Already listed but mentioned again in a different context, maintained at 0.6
+D'Artagnan, Referenced by Milady in comparison to Felton's behavior, 0.4
+Musketeer, Referenced in a general context, not as a specific character, 0.0
+the sentinel, A minor character whose presence influences the plot, 0.2
+Baal, Referenced in a quote by Milady, not a direct character, 0.0
+thy God, Referenced in a quote by Milady, not a direct character, 0.0
+Antichrist (the Duke of Buckingham), Referenced by Milady with religious hyperbole, not a direct character, 0.3
+Sardanapalus, A historical reference Milady uses to describe the Duke of Buckingham, 0.1
+Judith, A biblical figure Milady compares herself to, not a direct character, 0.0
+Bethulia, Referenced in the biblical analogy, not a character, 0.0
+Holofernes, Referenced again in the biblical analogy, not a direct character, 0.0
+the eternal, A reference to God by Milady, not a direct character, 0.0
+a brother, Felton regarded as a brother by Milady in an attempt to gain his trust, 0.2
+the baron, Another reference to Lord de Winter, maintained at 0.6
+the sentinel, Already mentioned, maintained at 0.2
+John, Same as Felton, maintained at 0.9

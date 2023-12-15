@@ -1,0 +1,17 @@
+D'Artagnan the elder, The father of the young D’Artagnan who gives him practical and philosophical advice as well as gifts before he departs to join the Musketeers, 0.5
+Young D'Artagnan, The protagonist of the story, an aspiring Musketeer who embarks on a journey to Paris with gifts, advice, and a letter from his father to M. de Tréville, 1.0
+M. d'Artagnan the younger, Another reference to the protagonist, the young Gascon gentleman pursuing a position among the Musketeers and finding himself in adventures and challenges, 1.0
+Host of the Jolly Miller, Owner of the hostelry where the commotion of the town leads the citizens and where D’Artagnan faces ridicule, 0.3
+The gentleman, An initially unnamed character who ridicules D’Artagnan's horse, engages in a duel with him, and possibly steals D’Artagnan's important letter to M. de Tréville, 0.7
+His Eminence, A reference presumably to Cardinal Richelieu, a powerful and influential figure in France and a character about whom D’Artagnan's adversary had some conversation; although not directly involved in the action, his mention indicates political influence or power, 0.4
+Milady, A mysterious woman who interacts with the gentleman who dueled D’Artagnan, possibly a person of significance as indicated by her title and her being given a task by "His Eminence", 0.6
+M. de Tréville, Captain of the Musketeers, whom young D’Artagnan aims to meet with a letter of recommendation from his father, a man of authority and influence in the story, 0.8
+King Louis XIII, The monarch of France, mentioned in relation to the playfellow of M. de Tréville and the adversarial political atmosphere of the country, while not a character in the scene, his role looms in the background, 0.5
+Monsieur the Cardinal, Another probable reference to Cardinal Richelieu, highlighting his significant political influence over France at the time, 0.5
+Mme. D'Artagnan, The mother of the young D’Artagnan, who provides him with a recipe for a healing balsam and exhibits the emotions of a concerned parent as her son leaves for Paris, 0.4
+Henry IV, The late king mentioned in relation to the pure Béarn patois spoken by D'Artagnan the elder, his past influence shades the present characters, 0.2
+The two auditors, Characters who listened to the gentleman speak about D’Artagnan's horse, contributing to the ridicule that leads to the scuffle, minor characters but part of the inciting incident, 0.2
+The host’s wife, Assists the host with the brouhaha caused by D’Artagnan and tends to D’Artagnan's wounds, a minor character contributing to the hospitality setting of the incident, 0.2
+Other Musketeers, Although they do not actively participate in this scene, they are referred to several times, indicating their role in the overarching story, 0.3
+Father Joseph, A character not in the scene but mentioned to highlight the fear harbored by even tough military men for the cardinal's familiar, indicating a presence and influence in the political landscape, 0.2
+Brujon, A presumed servant or horse dealer who buys D’Artagnan's horse, a minor character who only influences D’Artagnan's financial situation, 0.1

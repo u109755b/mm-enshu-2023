@@ -1,0 +1,19 @@
+Milady, A woman of beauty and noble appearance, adept at deception and manipulation, serves Cardinal Richelieu and has a history with D'Artagnan and his friends, 0.9
+Cardinal Richelieu, The powerful and influential minister whom Milady serves and who is involved in political and personal intrigues, 0.8
+Duke of Buckingham, A high-ranking individual whose movement is of great interest to Cardinal Richelieu and Milady, 0.3
+Eminent Monseigneur the Cardinal Richelieu, The person to whom Milady reports information about the movements of the Duke of Buckingham, 0.7
+The abbess, The superior of the Carmelite convent at Béthune who interacts with Milady, 0.4
+Old governor of the port, A person charmed by Milady's appearance and liberality, allowing her to pass without the usual formalities, 0.1
+His Grace the Duke of Buckingham, A person who Milady assures will not set out for France, which is of interest to Cardinal Richelieu, 0.3
+Mme. d’Aiguillon, A noblewoman Milady alleges to have affairs with Cardinal Richelieu, 0.2
+Marion de Lorme, Another noblewoman alleged by Milady to have affairs with Cardinal Richelieu, 0.2
+Mme. Bonacieux (also known as Kitty or Constance), Another boarder at the convent, the object of D'Artagnan's affection and mistaken by Milady for an old chambermaid, 0.6
+D'Artagnan, An acquaintance and friend of Milady whom she has power over, and who is romanticly involved with Mme. Bonacieux, 0.7
+Athos (Comte de la Fère), A friend of D'Artagnan and an unrecognized figure from Milady's past, potentially her husband, 0.6
+Porthos, One of D'Artagnan's friends known by Milady, 0.3
+Aramis, Another of D'Artagnan's friends known by Milady, 0.3
+Monsieur de Putange, An acquaintance mentioned by Milady in the context of shared connections with the novice, 0.1
+Monsieur Dujart, Another acquaintance mentioned by Milady, 0.1
+Monsieur de Tréville, Captain of the king’s Musketeers and known by Milady and the novice, 0.4
+Monsieur de Louvigny, Monsieur de Courtivron, Monsieur de Ferussac, Part of Milady's attempt to associate with known individuals of the Musketeers, 0.1 each
+Comte de Rochefort, An agent of Cardinal Richelieu who appears at the end and is recognized by Milady with joy, 0.4

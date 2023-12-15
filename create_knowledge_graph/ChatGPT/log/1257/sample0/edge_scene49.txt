@@ -1,0 +1,7 @@
+Milady, D’Artagnan, insult, Milady could not get rid of the thought that she had been insulted by D’Artagnan.
+Milady, Athos, threat, Milady could not get rid of the thought that she had been threatened by Athos. 
+The captain, Milady, refuse, The captain refused to obey what he took for Milady’s caprice. (Note: Depending on interpretation, "The captain" may not specifically refer to "The Captain" listed in characters. If "The Captain" refers to a specific character in context, and "the captain" in the sentence is not this character, then this edge should not be included.)
+The cardinal, Milady, recommend, The captain had Milady as a passenger particularly recommended to him by the cardinal.
+Planchet, Milady, coincidental travel, On the day Planchet embarked for France, Milady entered the port in triumph.
+Mr. Felton, Milady, examine/assist/explain, The officer surveyed Milady without speaking, desired to have her packages placed in the boat, offered his hand, and explained the need to conduct foreigners to particular hotels.
+Lord de Winter, Milady, reveal, Lord de Winter revealed to Milady that the castle is his and she is nearly a prisoner.

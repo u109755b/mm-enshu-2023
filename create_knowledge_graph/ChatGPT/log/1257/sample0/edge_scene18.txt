@@ -1,0 +1,6 @@
+D’Artagnan, Mme. Bonacieux, listener/conversational partner, D’Artagnan enters and talks to Mme. Bonacieux.
+D’Artagnan, queen, servant/candidate, D’Artagnan to make a journey for the queen.
+Mme. Bonacieux, queen, speaks of, Mme. Bonacieux has heard the queen speak of Monsieur de Tréville.
+D’Artagnan, Monsieur de Tréville, connection, D’Artagnan considers going to Monsieur de Tréville for help.
+D’Artagnan, Mme. Bonacieux, protector, D’Artagnan assures Mme. Bonacieux of his protectiveness.
+Mme. Bonacieux, D’Artagnan, trust/confider, Mme Bonacieux eventually decides to trust D’Artagnan with the secret.

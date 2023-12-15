@@ -1,0 +1,12 @@
+D’Artagnan, One of the main characters, part of the group known as "The Three Musketeers", 1.0
+Athos, One of the main characters, part of the group known as "The Three Musketeers", carries a sense of authority and is thoughtful, 0.95
+Porthos, One of the main characters, part of the group known as "The Three Musketeers", is characterized by his physical strength and vanity, 0.85
+Aramis, One of the main characters, part of the group known as "The Three Musketeers", is depicted as handsome and pious, 0.85
+Grimaud, Servant to Athos, known for his obedience and silence, 0.5
+Monsieur de Busigny, A gambler and gentleman who interacts with the four friends, 0.6
+The Dragoon, A character in the inn who interacts with the four friends, 0.4
+The Swiss, A character in the inn, known for his distinctive accent and presence, 0.4
+The Light-Horseman, A character who engages in conversation and the wager with the Musketeers, 0.4
+The Fourth Bystander/Auditor, A character present during the wager discussion with no speaking role, 0.2
+Host of the Parpaillot, The innkeeper where the characters have breakfast and plan to go to the bastion, 0.5
+Rochellais, Refers collectively to the enemy soldiers from the city of La Rochelle, though not individually characterized, 0.3

@@ -1,0 +1,20 @@
+D'Artagnan, A young and impulsive Musketeer, 0.95
+Athos, A wise and experienced Musketeer, 0.9
+Porthos, A vain and boisterous Musketeer, 0.85
+Aramis, A pious and scholarly Musketeer, 0.85
+Planchet, D'Artagnan's domestic servant, 0.6
+Monsieur Bonacieux, D'Artagnan's landlord and the husband of the abducted woman, 0.7
+The stranger, A mysterious man who has disappeared, 0.65
+The neighbors, Residents near Bonacieux's house, 0.4
+The Queen, The queen who is being persecuted, 0.75
+Madame Bonacieux, The abducted wife of D'Artagnan's landlord, faithful to the queen, 0.75
+The King, Husband of the queen, 0.5
+The Cardinal, The main political antagonist, often in conflict with the protagonists, 0.8
+The Duke of Buckingham, A nobleman loved by the queen and envied by others, 0.7
+Monsieur Putange, The queen's equerry, involved in Buckingham’s introduction to Amiens' garden, 0.55
+The mercer, Another name for the haberdasher (Bonacieux), who's also the landlord of D'Artagnan, 0.65
+The doctor of theology, Aramis's acquaintance and provider of scholarly advice, 0.5
+The doctor's niece, A woman with connections to higher circles Aramis interacts with, 0.55
+Monsieur Boisrenard, The leader of the posse that arrested the mercer, 0.6
+The four guards, The posse members tasked with arresting Bonacieux, 0.4
+Laporte, The queen's valet and godfather to Madame Bonacieux, 0.55

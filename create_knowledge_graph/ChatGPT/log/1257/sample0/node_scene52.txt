@@ -1,0 +1,10 @@
+Milady, A female prisoner plotting revenge and escape, 0.95
+D’Artagnan, The man who has outwitted and captured Milady, 0.85
+Lord de Winter, Milady's jailer and brother-in-law, responsible for holding her captive, 0.75
+Felton, A lieutenant and guard of Milady who might be susceptible to her influence, 0.65
+Buckingham, An individual hated by Milady and a target of her past affections, 0.3
+Richelieu, A person from whom Milady obtained a carte blanche, likely a powerful individual, 0.3
+Mme. Bonacieux, Another target of Milady's vengeful schemes, 0.2
+De Wardes, The person for whom Milady had a fancy and whom D’Artagnan impersonated, 0.2
+The Queen, A person involved in a tempest that D’Artagnan turned aside from her, marginally mentioned, 0.1
+The soldier, An underling present during Milady's captivity, follows orders given by Felton and de Winter, 0.1

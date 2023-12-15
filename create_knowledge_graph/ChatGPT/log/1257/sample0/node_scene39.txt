@@ -1,0 +1,13 @@
+Athos, The leader of the group and the one who devises the strategy for protecting D’Artagnan, 0.8
+Porthos, One of the four friends who is enthusiastic about showing off new equipment and provides a horse for D’Artagnan, 0.75
+Aramis, One of the musketeers who contemplates the impropriety of D’Artagnan meeting a woman who wishes to remain unseen, 0.75
+D'Artagnan, The central character around whom the plot revolves, receives two letters and is advised by his friends on attending the rendezvous, 0.95
+Planchet, D'Artagnan's servant who brings him the letters, 0.6
+La Houdiniere, Captain of the Guards who sends a letter to D’Artagnan to meet at the Palais-Cardinal, 0.5
+Constance, D’Artagnan’s love interest who has previously disappeared, possibly the woman he believes to have seen, 0.7
+Cardinal Duke, His Eminence, the one who sends the resplendent letter to D’Artagnan, 0.85
+Mme. Bonacieux, The woman who D’Artagnan remembers fondly and believes to have seen in the passing carriage, 0.75
+De Wardes, One of the cardinal's tools who may have recognized D’Artagnan and become a threat to him, 0.65
+Monsieur de Tréville, Captain of the Musketeers who offers compliments to the four friends, 0.7
+Mme. Coquenard, Porthos's procurator's wife from whom he owes a horse, indirectly mentioned, 0.55
+Grimaud, Bazin, Mousqueton, The respective lackeys of Athos, Aramis, and Porthos who prepare the horses, each 0.55

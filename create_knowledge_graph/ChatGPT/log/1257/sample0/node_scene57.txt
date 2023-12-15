@@ -1,0 +1,8 @@
+Milady, A woman involved in a dispute with due to her branded shoulder with the fleur-de-lis, a character who interacts with several others and is central to the plot, 1.0
+Felton, A young officer who is influenced by Milady's story and actions and becomes emotionally and physically involved with her, 0.95
+Executioner, A character who is called upon to carry out a punishment on Milady, a figure of Milady's past and torment, 0.3
+Lord de Winter, Milady's protector and a key figure in her past and current situation, 0.9
+Buckingham, A character who is not directly present in the scene but is part of Milady's backstory and the source of her trouble, 0.8
+Sergeant, A soldier who interacts with Felton when the commotion in Milady’s room is overheard, 0.4
+Affianced husband, A character from Milady's past who is mentioned as someone who supported and believed her, 0.2
+God, An omnipotent entity from whom characters in the story seek help or by which they swear oaths, although not a character in the traditional sense its influence on the characters' actions and thoughts gives it importance, 0.5

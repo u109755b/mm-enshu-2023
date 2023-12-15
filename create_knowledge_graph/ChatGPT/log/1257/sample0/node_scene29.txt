@@ -1,0 +1,15 @@
+D'Artagnan, A young, brave, and clever Guardsman with a mix of vanity and providence in his character, 0.7
+Mme. Bonacieux, The missing wife of a mercer, whose whereabouts are unknown causing D'Artagnan concern, 0.45
+M. de Tréville, The captain of the Musketeers who has spoken to the queen about Mme. Bonacieux, 0.55
+The Queen, Unaware of Mme. Bonacieux's location despite inquiring, 0.4
+Athos, A musketeer who is not taking part in the equipment search and plans to die honorably if he does not equip, 0.6
+Porthos, A vain musketeer concerned with his appearance and engages in a church flirtation, 0.8
+Aramis, A musketeer who is quiet and appears anxious and neglected in his attire, 0.55
+Milady, A mysterious woman recognized by D'Artagnan from Meung, Calais, and Dover, connected to his persecutor with a scar, 0.65
+The Lady with the Red Cushion, A distinguished and beautiful lady who interacts with Porthos in church, possibly of high social standing, 0.5
+The lady with the black hood, Implied to be the procurator's wife, jealous and observing Porthos's actions in church, 0.55
+Mousqueton, Bazin, Planchet, Grimaud, The lackeys of the musketeers aligned with the sadness of their masters, 0.3 (the importance for each is lumped together as they are not individually focused on)
+The procurator's wife of the Rue aux Ours, Implied to be the lady with the black hood, interacting with Porthos and having past dealings with him, 0.7
+The procurator Coquenard, The husband of the procurator's wife mentioned in the conversation with Porthos, 0.35
+The duchess, A woman Porthos claims to have a troubled meeting with due to her jealous husband, part of Porthos's cover story, 0.2
+Madame Coquenard, The procurator's wife who is in a complex relationship with Porthos and discussing financial matters, 0.65

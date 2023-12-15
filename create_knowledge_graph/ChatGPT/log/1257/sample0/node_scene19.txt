@@ -1,0 +1,15 @@
+D’Artagnan, A young guardsman who is given a mission by the queen and who leads a group to execute it, 1.0
+Cardinal, The primary antagonist whom D’Artagnan believes is working against his mission, 0.7
+M. de Tréville, Captain of the Musketeers and an ally to D’Artagnan, offering assistance and guidance, 0.8
+The stranger, A mysterious person referenced as a possible agent of the cardinal, 0.5
+The queen, The implicit sender of the mission D’Artagnan is on, suggesting high stakes involving her honor or life, 0.6
+Athos, A wounded musketeer and one of D’Artagnan's companions who is asked to join the mission, 0.9
+Porthos, One of D’Artagnan's musketeer friends who is also recruited for the mission, 0.9
+Aramis, A musketeer and friend of D’Artagnan who joins the mission and shows philosophical and thoughtful character traits, 0.9
+Monsieur Dessessart, A person from whom D’Artagnan seeks leave of absence for the mission, although not directly part of the story, holds a functional importance, 0.4
+Bazin, Aramis's lackey, who may follow the musketeers to Athos's residence, 0.4
+Mme. Bonacieux, A woman referenced in D’Artagnan's past interaction with Aramis, her identity affects the plot and Aramis's actions, 0.5
+Planchet, D’Artagnan's lackey, who demonstrates loyalty and is part of the travel preparations, 0.4
+Grimaud, Athos's lackey, referenced in the context of making travel arrangements, 0.4
+Mousqueton, Porthos's lackey, mentioned in the context of making travel arrangements, 0.4
+The lackey, A servant who delivers the leave of absence to Aramis, playing a small role in advancing the plot, 0.3

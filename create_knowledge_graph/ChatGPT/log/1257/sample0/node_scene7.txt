@@ -1,0 +1,13 @@
+D'Artagnan, A young man eager to prove himself, newly introduced to the world of the Musketeers and seeking to uncover the history of his friends while trying to establish his own place, 0.9
+Athos, A noble and reserved Musketeer with a mysterious past, known for his taciturn nature and leadership qualities, 0.8
+Porthos, A vain and ostentatious Musketeer, known for his loud personality and love of finery, 0.7
+Aramis, A Musketeer with aspirations of joining the church, secretive in nature with a purported interest in theological studies, 0.7
+Planchet, D'Artagnan's valet, initially doubtful of his situation but remains loyal after being convinced by D'Artagnan's promise of future fortune, 0.5
+Grimaud, Athos's valet, trained to understand and obey his master's gestures and movements without verbal communication, 0.5
+Mousqueton, Porthos's valet, a man with conditions for his service, known for making a good appearance, 0.5
+Bazin, Aramis's valet, dressed in black in hopes of his master becoming a churchman, devoted to religion and peaceable in nature, 0.5
+King Louis XIII, Mentioned as the source of money (forty pistoles), but not part of the action in this excerpt, 0.3
+Madame d'Aiguillon, A character mentioned in passing as someone for whom Aramis needs to write some verses, 0.1
+Madame de Chevreuse, A character mentioned for whom Aramis needs to purchase rouge, a small detail indicating some connection to Aramis, 0.1
+M. de Tréville, Captain of the Musketeers, who supports D'Artagnan and recommends him to the king, an influential figure but not directly involved in the action of this excerpt, 0.4
+M. de Chevalier Dessessart, The person who admitted D'Artagnan as a cadet in his company of Guards on the king's command, mentioned but not directly involved, 0.3

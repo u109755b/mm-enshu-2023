@@ -1,0 +1,13 @@
+Louis XIII, Cardinal Richelieu, perceive, Louis XIII perceived the Cardinal's reaction upon hearing the news.
+Louis XIII, Madame de Chevreuse, suspect, Louis XIII suspects Buckingham conspires against his honor with Madame de Chevreuse.
+Louis XIII, Madame de Longueville, suspect, Louis XIII suspects Buckingham conspires against his honor with Madame de Longueville.
+Louis XIII, The Condés, suspect, Louis XIII suspects Buckingham conspires against his honor with The Condés.
+Cardinal Richelieu, Louis XIII, pacify, Cardinal Richelieu tries to pacify the king by downplaying the queen's role.
+Louis XIII, Anne of Austria, doubt, Louis XIII expresses doubt about Anne of Austria's love for him.
+Louis XIII, Madame de Lannoy, command, Louis XIII commanded Cardinal Richelieu to interrogate Madame de Lannoy.
+Louis XIII, Anne of Austria, marriage, Louis XIII and Anne of Austria are married but have tensions.
+Cardinal Richelieu, Anne of Austria, suspect, Cardinal Richelieu suspects Anne of Austria of political conspiracy.
+Anne of Austria, Mme. de Chevreuse, friendship, Anne of Austria's friendship caused the exile of Mme. de Chevreuse.
+Anne of Austria, Laporte, friend, Anne of Austria has Laporte, likely a devoted servant or confidant.
+Cardinal Richelieu, Monsieur de Séguier, recommend, Cardinal Richelieu recommends Monsieur de Séguier to retrieve the queen’s papers.
+Louis XIII, Monsieur de Séguier, send, Louis XIII sends the chancellor to see the queen.

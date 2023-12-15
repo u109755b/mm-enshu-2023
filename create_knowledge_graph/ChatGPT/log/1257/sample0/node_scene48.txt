@@ -1,0 +1,23 @@
+Athos, A principal character invented the phrase, family affair, and shows leadership among his friends, 0.95
+Aramis, A principal character who came up with the idea involving the lackeys and writes elegant letters, 0.95
+Porthos, A principal character known for boasting about the strength of his lackey Mousqueton, 0.9
+D’Artagnan, The protagonist who is deeply involved in the plot and is concerned about Milady's influence, 0.98
+Milady, A powerful antagonist whose very name paralyzes D’Artagnan and is a constant worry for him, 0.95
+M. de Tréville, A supporting character providing a location for a cheerful breakfast, importance inferred as lower due to less direct involvement, 0.4
+Grimaud, Athos’s lackey known for his discretion, a minor but crucial character for operations, 0.6
+Mousqueton, Porthos's lackey praised for his strength, plays a minor role in the group's plan, 0.6
+Bazin, Aramis’s lackey who is confident and learned, aspiring to a higher station, 0.65
+Planchet, D'Artagnan's lackey known for his bravery and cleverness, pivotal for carrying out the plan, 0.85
+Lord de Winter, A character who is off-screen but is the intended recipient of a crucial letter concerning family affairs, importance reflected in his connection to the plot, but not direct interaction, 0.6
+The Cardinal, Referring to Cardinal Richelieu, an influential off-screen character affecting the plot, 0.75
+Monsieur Abbé, A title referring to Aramis reflecting his scholarly and moralizing manner, 0.5
+The clever person at Tours, An unidentified character connected to the group’s schemes, importance is speculative due to lack of details, 0.3
+Michon, Alias used by Milady for clandestine communication, central to the plot and manipulation, 0.85
+The queen, An off-screen character who is important but not directly involved in the current events, significance based on the power she holds, 0.65
+Buckingham, An off-screen character crucial to D'Artagnan's concerns for safety, his importance inferred from concern shown for him, 0.6
+Sixtus V, A historical figure mentioned to highlight Bazin's aspirations and ambitions, importance purely referential, 0.1
+Madame Bonacieux, A character briefly mentioned as a comparison for the situation, importance based on her previous role in the plot, 0.4
+M. de Busigny, A minor character who dines with Athos, less central to the main plot, 0.2
+Marie Michon, A name used in a letter as a cover for correspondence, indirectly vital to the ruse, 0.4
+The Swiss, A minor character participating in a brief interaction, limited role in the plot, 0.1
+The dragoon, Another minor character in the scene with the Swiss providing some comic relief, 0.1

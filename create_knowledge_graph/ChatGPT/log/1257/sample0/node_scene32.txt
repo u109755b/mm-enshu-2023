@@ -1,0 +1,7 @@
+Porthos, A member of the Musketeers and cousin to Mme. Coquenard, central character in the dinner situation, 1.0
+Mousqueton, Porthos's valet, mentioned in relation to Porthos's preparations and activities, 0.3
+M. Coquenard, The procurator and husband to Mme. Coquenard, hosts the dinner for Porthos and is skeptical about their kinship, 0.6
+Mme. Coquenard, Wife of the procurator, M. Coquenard, and cousin to Porthos, holds affection for Porthos and is central to the dinner narrative, 0.7
+D'Artagnan, Another Musketeer, mentioned to contrast Porthos's feelings, 0.4
+Clerks, Employees of M. Coquenard who attend and serve the dinner, 0.5
+Errand Boy, A minor character mentioned in the context of the dinner, not part of the main events, 0.1

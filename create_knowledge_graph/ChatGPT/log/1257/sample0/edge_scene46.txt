@@ -1,0 +1,8 @@
+D’Artagnan, Athos, encounter, D’Artagnan found Athos assembled with his friends in the same chamber.
+D’Artagnan, friends, warn, D’Artagnan warned his friends about making him come there.
+D’Artagnan, bastion, dismantle, D’Artagnan spent a night taking and dismantling a bastion.
+Athos, Aramis, inquire, Athos inquired about Aramis's past visit to the Parpaillot inn.
+Athos, friends, propose, Athos proposed going to Parpaillot because the walls of their current location were like sheets of paper.
+Athos, Grimaud, summon, Athos made a sign to Grimaud to come with them.
+Athos, wager, propose, Athos proposed a wager to his companions and the others at the inn.
+Athos, Monsieur de Busigny, invite, Athos invited Monsieur de Busigny to set the wager stakes.

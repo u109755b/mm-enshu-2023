@@ -1,0 +1,22 @@
+Four adventurers, A group of individuals embarking on a journey, 0.6
+The Musketeers, Elite soldiers known for their bravery and skill, 0.75
+Lackeys, Servants accompanying the four adventurers, 0.5
+Gentleman, A person they interact with during breakfast, 0.4
+Mousqueton, One of the servants who got wounded, 0.5
+Athos, A member of the traveling group, wise and composed, 0.8
+Porthos, A member of the traveling group, strong and daring, 0.8
+Aramis, A member of the traveling group, injured in an ambush, 0.8
+D’Artagnan, The protagonist and a member of the traveling group, 0.9
+Laborers, Individuals involved in an ambush against the travelers, 0.4
+Bazin, A servant mentioned alongside Aramis, 0.4
+Grimaud, One of the lackeys, tasked with taking care of the horses, 0.5
+Planchet, D’Artagnan's servant, who is resourceful and loyal, 0.7
+Governor, An official who oversees the port, 0.5
+Ships's captain, The individual in charge of the vessel that D'Artagnan takes, 0.4
+Comte de Wardes, The individual whose travel documents D'Artagnan acquires, 0.6
+Lubin, Lackey of the Comte de Wardes, 0.5
+Host, The proprietor of the auberge of the Golden Lily, 0.4
+Veterinary surgeon, Person who by error bled Mousqueton's horse, 0.3
+King, Mentioned in context with Buckingham, likely Charles I of England, 0.6
+Duke (Buckingham), A nobleman whom D’Artagnan seeks in England, 0.7
+Patrick, The duke’s valet who speaks French, 0.5

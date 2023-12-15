@@ -1,0 +1,22 @@
+Sieur de la Coste, Ensign in the king’s Guards tasked with guarding the keys for the event, 0.35
+Clement, The city registrar from whom Sieur de la Coste demanded keys, 0.25
+Duhallier, Captain of the Guards who brought fifty archers to secure the Hôtel de Ville, 0.35
+Madame la Première Présidente, A high-ranking lady who attended the event and was second only to the queen, 0.40
+The king, The monarch of France, central to the ballet event and the evening's tensions, 1.00
+The queen, The queen of France who had an important interaction involving diamond studs, 0.90
+The cardinal, The strategic and influential figure who had a tense exchange with the king and queen, 0.85
+M. le Comte de Soissons, A royal Highness who accompanied the king during the event, 0.45
+The Grand Prior, A noble present with the king at the event, 0.40
+Duc de Longueville, A noble present with the king at the event, 0.40
+Duc d’Eubœuf, A noble present with the king at the event, 0.40
+Comte d’Harcourt, A noble present with the king at the event, 0.40
+Comte de la Roche-Guyon, A noble present with the king at the event, 0.40
+M. de Liancourt, A noble present with the king at the event, 0.40
+M. de Baradas, A noble present with the king at the event, 0.40
+Comte de Cramail, A noble present with the king at the event, 0.40
+Chevalier de Souveray, A noble present with the king at the event, 0.40
+Monsieur, The unspecified brother of the king who also had a private room prepared, 0.45
+Madame the President, The lady who the king chose to dance with during the ballet, 0.55
+Anne of Austria, The queen's full name, as she played a significant role during the evening, 0.60
+D’Artagnan, A character observing the events transpire, receiving a ring from the queen, 0.70
+Mme. Bonacieux, D’Artagnan's guide and the young woman who led him to the private room, 0.65

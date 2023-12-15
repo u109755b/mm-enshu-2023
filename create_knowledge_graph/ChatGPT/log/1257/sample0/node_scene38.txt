@@ -1,0 +1,12 @@
+Athos, A Musketeer and friend of D'Artagnan, known for his nobility and calm demeanor, 0.95
+D’Artagnan, A young man on an adventure and the central character of the story, very active and emotionally involved in the events unfolding, 1.0
+Kitty, A girl who appears to be in love with D’Artagnan and is seeking protection from him, 0.5
+Grimaud, A servant of Athos who initially answers D’Artagnan's noisy summons at the door, 0.7
+Milady, A mysterious woman with a marked past, central to D’Artagnan's terrible adventure, and connected to Athos's emotional response, 0.8
+Planchet, D’Artagnan's servant, who is faithful and involved in procuring his master's needs, 0.65
+Aramis, Another Musketeer and friend of Athos and D’Artagnan, who offers assistance to find a placement for Kitty, 0.85
+Porthos, Another Musketeer mentioned in relation to Aramis, but not actively present in the scene, 0.4
+Lord de Winter, Mentioned as the brother-in-law of Milady, however, not present in the action, 0.2
+Madame Bonacieux, The woman Athos and D’Artagnan are concerned for, but who does not directly appear in the scene, 0.35
+Jew, An off-stage character who appraises and offers to buy the sapphire ring, serves to progress the plot, 0.3
+Bonacieux, The husband of Madame Bonacieux, described negatively by D'Artagnan, 0.3

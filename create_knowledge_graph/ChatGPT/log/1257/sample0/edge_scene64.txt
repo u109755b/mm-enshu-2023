@@ -1,0 +1,5 @@
+Athos, Planchet, give orders, Athos gave clear, positive, and serious orders to Planchet.
+Athos, Grimaud, give orders, Athos gave clear, positive, and serious orders to Grimaud.
+Athos, Bazin, give orders, Athos gave clear, positive, and serious orders to Bazin.
+Athos, Mousqueton, give orders, Athos gave clear, positive, and serious orders to Mousqueton.
+Planchet, Rochefort’s servant, follow, Planchet was to follow the route taken by Rochefort’s servant.

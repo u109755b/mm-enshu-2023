@@ -1,0 +1,13 @@
+Athos, Grimaud, command, Athos had assumed command of the expedition and gave orders to Grimaud.
+Athos, Grimaud, task assignment, Athos assigns the task of searching the corpses and disposing of them to Grimaud.
+D'Artagnan, Grimaud, suggestion, D'Artagnan suggests letting Grimaud search the corpses and throw them over the walls.
+Athos, Grimaud, instruction, Athos tells Grimaud to stand as a sentinel by pointing to a turret.
+Athos, Musketeers, invitation, Athos invites the Musketeers to begin their meal.
+Athos, Musketeers, plan, Athos talks about his plan to provide amusement and glory to the Musketeers.
+Athos, meeting with Milady, revelation, Athos reveals that he saw Milady last night.
+Porthos, Aramis, confirmation, Porthos and Aramis confirm hearing Milady's demand for D'Artagnan's head.
+Grimaud, Musketeers, support, Grimaud supports the Musketeers by reloading their weapons during the skirmish.
+Athos, Lord de Winter, strategy, Athos suggests informing Lord de Winter about Milady's actions to preempt her plots.
+D'Artagnan, Buckingham, protection, D'Artagnan expresses his desire to protect Buckingham from Milady's assassination plot.
+Bazin, errand, commitment, Aramis expresses confidence that Bazin could be trusted to deliver a message to the queen.
+Planchet, errand, commitment, D'Artagnan expresses confidence that Planchet could be trusted to deliver a message to Lord de Winter.

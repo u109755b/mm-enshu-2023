@@ -1,0 +1,17 @@
+D’Artagnan, A young and adventurous Musketeer, 1.0
+Planchet, D’Artagnan's loyal lackey, 0.7
+Mme. Bonacieux, D’Artagnan's beautiful mistress who seems to be involved in political intrigue, 0.8
+M. Bonacieux, The husband of Mme. Bonacieux and the landlord of D’Artagnan, 0.6
+M. de Tréville, The captain of the Musketeers and mentor to D'Artagnan, 0.7
+Athos, One of D’Artagnan's close companions and fellow Musketeer, 0.5
+Porthos, One of D’Artagnan's Musketeer friends, known for his duels, 0.5
+Aramis, Another of D’Artagnan's Musketeer friends, recovering from a wound, 0.5
+M. de Laffemas, A character referenced as a persecutor, likely an antagonist, 0.3
+The stranger of Meung, A mysterious figure connected to D’Artagnan's past interactions, 0.3
+The queen, Implied to be Queen Anne of Austria, who seems to have D’Artagnan's loyalty, 0.4
+The cardinal, Likely Cardinal Richelieu, the primary antagonist manipulating events from behind, 0.7
+The king, Implied to be King Louis XIII, part of the political intrigue and backdrops, 0.4
+Comte de Wardes, A character mentioned as D'Artagnan's enemy, 0.3
+Rochefort, Cousin to de Wardes and likely an antagonist, 0.3
+M. d’Estrées, A character whose house is a rendezvous location, 0.2
+The Gascon priest, A minor character who helped D’Artagnan and friends before, 0.1

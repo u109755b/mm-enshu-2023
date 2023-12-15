@@ -1,0 +1,12 @@
+Athos, One of the Musketeers, highly skilled and intelligent, 0.85
+Cardinal Richelieu, The powerful minister of Louis XIII, playing political games with the Musketeers, 0.8
+Porthos, One of the Musketeers, present in the eventful game of dice and combatant, 0.7
+Aramis, One of the Musketeers, involved in the dice game and close to the unfolding events, 0.7
+Milady, An agent of Cardinal Richelieu, central to the plot against the Duke of Buckingham and D'Artagnan, 0.9
+Attendant, The cardinal's subordinate, minor role in assisting the cardinal, 0.4
+Monsieur d'Artagnan, Friend of the Musketeers and target of Milady's vindictiveness, 0.75
+Duke of Buckingham, Victim of Milady's plot, but only mentioned, not present, 0.5
+Anne de Breuil, Another name for Milady, revealing her past connection with Athos, 0.9
+Madame Bonacieux, Victim of Milady's schemes, mentioned but not present, 0.4
+De Wardes, Initially mistaken for D'Artagnan by Milady and part of her interpersonal conflicts, 0.5
+Esquire, Attendant to the cardinal and the Musketeers, minor role, 0.4

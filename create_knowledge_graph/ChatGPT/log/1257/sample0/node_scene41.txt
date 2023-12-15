@@ -1,0 +1,17 @@
+Louis XIII, King of France during the Siege of La Rochelle, 0.6
+Cardinal Richelieu, The central minister and driving force behind the siege, adversary to Buckingham, 0.8
+Henry IV, Previous King of France, gave cities to Huguenots, mentioned in historical context, 0.3
+Anne of Austria, The queen loved by Richelieu and Buckingham, central to their personal conflict, 0.7
+Duke of Buckingham, Englishman opposed to Richelieu and involved with the queen, 0.8
+Comte de Toiras, Commander for the king at Isle of Ré, 0.5
+Baron de Chantal, Noble who died in fight, left behind orphan who became Mme. de Sévigné, 0.4
+Mme. de Sévigné, Orphaned girl who becomes notable figure later, 0.3
+M. Dessessart, Captain of the Guards, gives orders to D’Artagnan, 0.5
+D’Artagnan, the protagonist and member of the Guards seeking to join Musketeers, central to the story, 0.9
+Athos, Porthos, Aramis, The three musketeers and friends of D’Artagnan, 0.7
+Milady, A mysterious woman, antagonist, orchestrates assassination attempt on D’Artagnan, 0.8
+Mme. Bonacieux, The woman D’Artagnan loves who has disappeared, 0.7
+Duc d’Orléans, Visits the troops, interaction with D’Artagnan, 0.6
+Two unnamed Guardsmen, Companions to D’Artagnan in a mission, 0.5
+Two unnamed soldiers, Involved in the ambuscade against D’Artagnan, 0.6
+Two unnamed assassins, Attempt to kill D’Artagnan under Milady's orders, 0.7

@@ -1,0 +1,15 @@
+Athos, One of the four main Musketeers, skilled and calm in dueling, abides by a code of honor including not taking spoils from duels, 0.9
+Porthos, One of the four main Musketeers, demonstrates skill and prudence in dueling, suffered a wound previously which affects his confidence, 0.85
+Aramis, One of the four main Musketeers, appears to be in a hurry during his duel as he has poetry to finish, indicates intelligence and a dual interest in arts and combat, 0.85
+D'Artagnan, Protagonist, involved in multiple duels, shows mercy based on his feelings for his adversary's sister and demonstrates political and personal ambition, 0.95
+Lord de Winter, English nobleman who brings D'Artagnan to meet Milady, his sister, and appreciates D'Artagnan's mercy, 0.8
+Milady Clarik, Sister to Lord de Winter and connected with the cardinal, D'Artagnan is infatuated with her despite her potentially dangerous ties, 0.9
+Kitty, Milady's soubrette, seems to have an interest in D'Artagnan that goes unnoticed by him, 0.5
+M. de Tréville, Mentioned as the leader of the Musketeers, not directly involved in the action, 0.4
+The three unnamed Englishmen who duel with Athos, Porthos, and Aramis, Adversaries in the duel, have a certain level of honor by dueling only with equals, 0.7 each
+The Englishman who duels with D'Artagnan, Adversary in the duel who respects D'Artagnan for sparing his life, 0.75
+Lord de Winter's English adversary, Killed by Lord de Winter during the duel, minimal impact on the plot, 0.1
+Porthos's English adversary, Wounded and taken care of by Porthos, minimal further impact on the plot, 0.1
+Grimaud, Bazin, Mousqueton, and Planchet, The lackeys of the Musketeers, they do not applaud the French generosity, 0.6 collectively since they are grouped together in reaction
+M. de Wardes, Mentioned as someone potentially involved with Milady, not participating in action, 0.3
+Madame Bonacieux, Mentioned as a past love interest of D'Artagnan, not present in action, 0.2

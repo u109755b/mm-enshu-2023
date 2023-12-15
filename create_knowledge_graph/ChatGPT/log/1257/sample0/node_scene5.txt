@@ -1,0 +1,10 @@
+D'Artagnan, A young adventurer new to Paris seeking to join the Musketeers, 0.9
+Athos, A brave Musketeer who D'Artagnan is scheduled to duel, but whom D'Artagnan hopes to befriend, 0.8
+Porthos, A Musketeer involved in the conflict who is known for a sense of humor about dress, 0.7
+Aramis, A shrewd and astute Musketeer whose quarrel with D'Artagnan involves a theological argument, 0.7
+M. de Tréville, Captain of the Musketeers and a connection of D'Artagnan's father, an influential figure in D'Artagnan's life, 0.6
+M. de Jussac, A member of the Cardinal's Guards who interrupts the duel, 0.5
+Cahusac, A favorite of the cardinal and one of the aggressors in the conflict, 0.4
+Bicarat, A member of the Cardinal's Guards who duels with Porthos, 0.4
+The King, Mentioned as one of the only people D'Artagnan is instructed to endure hardship from, indicating the importance of loyalty to royalty in D'Artagnan's values, but he is not an active character in this narrative, 0.1
+The Cardinal, Referenced in a way that suggests he is an antagonist or opposite to the King's Musketeers, important in the background politics, but not an active character in this narrative, 0.1

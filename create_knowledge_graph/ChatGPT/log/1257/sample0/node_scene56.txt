@@ -1,0 +1,5 @@
+Milady, A skillful seductress and manipulative woman who plots vengeance and schemes to use her beauty and wits to control others, 0.9
+Felton, A religious and austere young man who is resistant to Milady's seductions due to his faith and moral uprightness, 0.85
+Lord de Winter, A character who makes a customary visit to Milady, using caution and suspicion, likely responsible for her imprisonment, 0.6
+Buckingham, A person of power who is intended to sign an order that would result in Milady's exile, 0.4
+D’Artagnan and his friends, Mentioned as characters expected to receive a reward for services they rendered, indicating a connection to the unfolding events, 0.3

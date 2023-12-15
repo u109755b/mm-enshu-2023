@@ -1,0 +1,5 @@
+Milady, A vengeful and manipulative woman seeking to use D'Artagnan to get her revenge, 0.75
+M. d’Artagnan, A young man caught between duty, love, and manipulation, deeply involved in Milady's plans, 0.85
+Kitty, Milady's maid, who acts as a messenger and is affected by the unfolding events, 0.4
+M. de Wardes, The man whom Milady wants D'Artagnan to take revenge on, though he does not appear directly in the text, 0.6
+Brother-in-law of Milady, Mentioned in Milady's letter but not directly involved in the interaction, importance is minimal as he does not directly contribute to the events described, 0.1

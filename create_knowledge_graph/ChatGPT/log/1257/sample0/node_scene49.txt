@@ -1,0 +1,13 @@
+Milady, A woman embroiled in an intrigue with high stakes, struggling with the ramifications of her actions and plotting revenge, 1
+D’Artagnan, A man who has insulted Milady in the past, indirectly affecting the plot through her desire for revenge, 0.6
+Athos, Another man who has threatened Milady, similarly affecting the plot through her vengeful desires, 0.6
+The Captain, The seafaring captain who refuses to put Milady ashore, affecting her trajectory and indirectly her plans, 0.5
+The Cardinal, An influential figure in the background, having recommended Milady to the captain, his influence affects her options and actions, 0.7
+Planchet, An individual who embarked for France, loosely connected to the plot by the timing of his actions with Milady's story, 0.3
+Buckingham, A richly adorned and high-status figure, indirectly affects Milady by his relation to the broader political context and environment she is navigating, 0.5
+Judith, A historical figure Milady compares herself to in thought, important as a reflection of Milady's own self-image and aspirations, 0.3
+The officer, An English navy officer who interacts with Milady, his actions deciding her immediate circumstances, 0.8
+Lady Clarik, An alias used by Milady to hide her identity, its effectiveness influencing interactions, 0.4
+The young man, Likely another designation for the officer, involved in Milady’s transportation and handling upon arrival in England, 0.8
+Lord de Winter, Milady's brother, who surprises her at the end, his relationship to her and his control over her situation make him crucial, 1
+Mr. Felton, Presumably a subordinate to Lord de Winter, he plays a minor role in fulfilling orders, 0.3

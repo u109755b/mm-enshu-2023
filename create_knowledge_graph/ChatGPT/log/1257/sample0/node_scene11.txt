@@ -1,0 +1,9 @@
+D'Artagnan, A young, aspiring Musketeer filled with dreams and desires, often torn between love and duty, 0.9
+Mme. Bonacieux, A mysterious woman who becomes an object of D'Artagnan's affection and plays a pivotal role in his life, 0.8
+Aramis, One of the three Musketeers and D'Artagnan's friend, although sometimes a source of confusion or jealousy for D'Artagnan, 0.7
+Athos, Another of the three Musketeers, a close friend of D'Artagnan's, though his identity is sometimes mistaken, 0.7
+Porthos, The third of the Musketeers, a friend of D'Artagnan, often involved in adventures or aiding D'Artagnan indirectly, 0.7
+M. de Tréville, Captain of the Musketeers, a figure of authority and support for D'Artagnan and his friends, 0.6
+Planchet, D'Artagnan's loyal servant, provides comic relief, support, and obedience, 0.5
+M. Bonacieux, Mme. Bonacieux's husband, indirectly associated with D'Artagnan's adventures, 0.4
+The Duke of Buckingham, A powerful and noble figure who becomes entangled with D'Artagnan and Mme. Bonacieux's affairs, 0.8

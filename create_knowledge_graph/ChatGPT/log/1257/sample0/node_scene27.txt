@@ -1,0 +1,11 @@
+Athos, A noble and distinguished member of the Musketeers, a man with a mysterious past who embodies bravery, wisdom, and a sense of melancholy, 0.9
+D'Artagnan, A young Musketeer, eager and brave, central to the plot and the character who connects with others in the story, 0.95
+Aramis, One of the Musketeers, intellectual and vibrant, an essential part of the friend group and a key figure in D'Artagnan's life, 0.85
+Porthos, One of the Musketeers, known for physical strength and good nature, an integral part of the circle of friends, 0.85
+Bazin, Aramis's servant, presented as pious and somewhat sluggish in personality, a minor but distinctive character in the narrative, 0.4
+Grimaud, Athos's servant, depicted through his silence and obedience, a secondary character who nonetheless plays a role in the events, 0.5
+Planchet, D'Artagnan's servant who partakes in battles and adventures, offering a degree of comic relief and loyalty, 0.6
+Madame Bonacieux, The woman D'Artagnan falls in love with, she is central to D'Artagnan's personal story arc but not present in this passage, 0.2
+The Host, Innkeeper where D'Artagnan and his friends stay, a character who suffers due to the actions of the Musketeers, 0.5
+The Hostess, Wife of the host, she deals with the consequences of her husband's actions and the Musketeers' behavior, 0.5
+The two English gentlemen, Visitors at the inn who expect good wine, play a minor role in the specific event mentioned, 0.3

@@ -1,0 +1,11 @@
+Rochefort, Milady, inquire origin, “And you come?” asked Milady.
+Milady, Rochefort, state origin, “From England.”
+Rochefort, Buckingham, discuss status, “Buckingham?” “Dead or desperately wounded, as I left without having been able to hear anything of him."
+Rochefort, Milady, inquire actions, “But what brings you here?” “His Eminence was uneasy, and sent me to find you.”
+Rochefort, Milady, question activity, “And what have you been doing since yesterday?” “I have not lost my time.”
+Milady, Madame Bonacieux, mention relationship, “Yes; Madame Bonacieux, with whose retreat the cardinal was unacquainted.”
+Rochefort, D’Artagnan, mention relationship, “The mistress of that fellow D’Artagnan?”
+Rochefort, Milady, discuss strategy, “They will come for her tomorrow or the day after, with an order from the queen.” "Indeed! And who?" "D’Artagnan and his friends."
+Milady, D’Artagnan and Athos, mention as threat, “tell him that among these four men two only are to be feared—D’Artagnan and Athos.”
+Milady, Aramis, expose secret, “the third, Aramis, is the lover of Madame de Chevreuse—he may be left alone, we know his secret, and it may be useful.”
+Milady, Cardinal, deliberate on orders, “You cannot take me with you?” “No, the order is imperative."

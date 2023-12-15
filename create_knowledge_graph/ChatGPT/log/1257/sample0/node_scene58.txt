@@ -1,0 +1,10 @@
+Milady, A prisoner trying to escape, 1.0
+Lord de Winter, The captor and jailer of Milady, 0.8
+Felton, Milady's hope and accomplice in her escape, 0.9
+The doctor, A minor character who checks on Milady's wounds, 0.1
+The woman assisting Milady, A dupe of Milady's acting, 0.2
+Soldiers guarding Milady, Their uniform change signifies a change in Milady's custody, 0.3
+The sergeant, Ordered to shoot Milady if she speaks before boarding, 0.2
+The captain, In charge of the vessel transporting Milady, 0.5
+Sailors, Row the boat to help in Milady's escape, 0.4
+The patrol, Their presence imposes a threat to Milady and Felton's escape, 0.3
