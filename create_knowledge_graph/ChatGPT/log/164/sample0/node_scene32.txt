@@ -1,0 +1,4 @@
+Professor, A scholar experiencing the submarine journey and observing the natural phenomena, 1.0
+Captain Nemo, The leader of the Nautilus submarine and knowledgeable about the undersea world, 1.0
+Conseil, Professor's servant and a character in the journey, 0.8
+Ned Land, A Canadian harpooner aboard the Nautilus, curious and adventurous, 0.8

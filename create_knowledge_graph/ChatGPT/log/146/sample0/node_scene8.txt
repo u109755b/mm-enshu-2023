@@ -1,0 +1,6 @@
+Sara, An imaginative and compassionate girl who has fallen from her status as a favored student to a poor orphan teaching at the school, 0.95
+Lottie, A young child who is bewildered by the changes in Sara's life and looks up to Sara as a motherly figure, 0.8
+Miss Minchin, The strict headmistress of the school who holds Sara accountable for any student misbehaviors, 0.85
+Melchisedec, A rat living in the attic that Sara befriends, symbolizing her ability to find companionship even in the least expected places, 0.7
+Ermengarde, A friend of Sara's, who visits her in the attic and shares in the imaginative stories Sara creates, 0.75
+Becky, A fellow servant girl who communicates with Sara through knocks on the wall, joining in the fantasy of the Bastille, 0.6

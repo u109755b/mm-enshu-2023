@@ -1,0 +1,16 @@
+Sara Crewe, The protagonist, a young girl with a vivid imagination who copes with her misfortunes by imagining herself as a princess, 1.0
+Ram Dass, The Indian servant next door who shows kindness to Sara and plays a role in the "magic" transformation of her attic, 0.4
+Indian gentleman, The neighbor whose lost niece is the cause of his loneliness and unhappiness; later revealed to be intimately connected to Sara's past and future, 0.7
+Miss Minchin, Headmistress of the seminary where Sara is enrolled; antagonist who mistreats Sara after her fortune changes, 0.9
+Becky, A servant girl at the seminary, becomes close friends with Sara, bonding over shared hardship, 0.8
+Miss Amelia, Miss Minchin's softer and less severe sister, who plays a less prominent role in the boarding school, 0.3
+Ermengarde, A student at the seminary and Sara's friend, who is not very clever but kind-hearted, 0.7
+Lavinia, A student at the seminary, possibly the one who betrays Sara's secret to Miss Minchin, 0.6
+Melchisedec, A rat living in the attic who keeps Sara company in her loneliness, 0.2
+Carmichael, The search agent for the Indian gentleman's lost niece, mentioned in the context of possibly finding her in Moscow, 0.3
+Madame Pascal, Runs the school in Paris from which the little girl was taken, mentioned in connection with Carmichael's search, 0.2
+Sara's Papa, Mr. Crewe, Sara's deceased father, whose lost fortune leads to Sara's hardship, 0.6
+Cook, A staff member at the seminary who dislikes Sara and adds to her misery, 0.5
+Lottie, A younger student whom Sara comforts and aids with her lessons, 0.3
+Guy Clarence, A member of the Large Family, a child who once gave Sara money, 0.2
+Becky's policeman, Mentioned in passing when Becky is accused of stealing, 0.1

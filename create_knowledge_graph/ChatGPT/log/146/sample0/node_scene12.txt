@@ -1,0 +1,13 @@
+Sara, A young girl faced with extreme hardship and poverty, demonstrating resilience and kindness, 1.0
+Becky, A servant girl in the same household as Sara, who finds comfort and friendship with Sara, 0.6
+The Indian Gentleman, A neighbor of Sara’s who is mentioned for his previous exotic living situation and possible connection to Sara’s past, 0.4
+The Baker Woman, A kind woman who gives Sara and another hungry child some buns, showing compassion towards those less fortunate, 0.5
+The Beggar Child, A destitute child living on the streets, to whom Sara shows kindness by giving some of her food, 0.5
+Miss Minchin, The head of the boarding school where Sara is mistreated, representing the cruel and oppressive figure in Sara’s life, 0.6
+Mr. Montmorency, A father figure in the Large Family, who is mentioned for his love and care for his children and whom Sara observes warmly, 0.4
+The Cook, A staff member in Sara's household, mentioned as part of the oppressive environment, 0.2
+Members of the Large Family, A family that Sara observes from a distance, providing her with a sense of normalcy and emotional warmth, 0.4
+Captain Crewe, Sara’s loving father who is absent due to his unfortunate circumstances, remaining an integral part of her memories and motivation for her imaginings, 0.6
+Guy Clarence, One of the children in the Large Family, specifically seen interacting with Mr. Montmorency and contributes to the sense of the normal family dynamic that Sara observes, 0.3
+Janet, One of the children in the Large Family who interacts in the family scene that Sara observes, 0.2
+Nora, Another child of the Large Family present in the farewell scene that Sara witnesses, contributing to Sara's observation, 0.2

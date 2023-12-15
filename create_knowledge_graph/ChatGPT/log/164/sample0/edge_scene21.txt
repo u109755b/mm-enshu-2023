@@ -1,0 +1,4 @@
+The input and output nodes of an edge must be one of 'Captain Nemo, Professor Aronnax, Ned Land, Conseil'
+Captain Nemo, Professor Aronnax, order, Captain Nemo ordered Professor Aronnax to be confined.
+Captain Nemo, Professor Aronnax, communicate, Captain Nemo communicated in a foreign language to his lieutenant in front of Professor Aronnax.
+Conseil, Ned Land, advise, Conseil advised Ned Land to eat the breakfast.

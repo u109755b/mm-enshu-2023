@@ -1,0 +1,4 @@
+I, The narrator and main character who participates in the adventure, 1.0
+Ned Land, A Canadian harpooner, known for his strong opinions and physical capabilities, 0.9
+Captain Nemo, The enigmatic commander of the Nautilus who has confined the narrator and his companions, 0.8
+Conseil, The narrator's servant who accompanies him on the journey and provides assistance, 0.7

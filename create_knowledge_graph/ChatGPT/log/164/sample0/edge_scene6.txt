@@ -1,0 +1,12 @@
+Narrator, Frigate, search for, My first care was to look for the frigate.
+Narrator, Crew, question of awareness, Had the crew seen me disappear?
+Narrator, Abraham Lincoln, question if veered, Had the Abraham Lincoln veered round?
+Narrator, Captain, question of action, Would the captain put out a boat?
+Narrator, Men at the wheel, hearing report from, “The screw and the rudder are broken.”
+Monster, Frigate, cause damage to, Yes, broken by the monster’s teeth.
+Conseil, Narrator, offering assistance, "If master would be so good as to lean on my shoulder."
+Narrator, Conseil, recognition of, I seized with one hand my faithful Conseil’s arm.
+Narrator, Voice, hearing of, I heard him repeat at intervals, “Help! help!”
+Voice, Narrator, response to call, A human voice responded to ours!
+Ned (or Canadian), Narrator, recognition of, “Ned!” I cried. “The same, sir, who is seeking his prize!” replied the Canadian.
+Narrator, Mechanical beings, drawing into submarine, and drew us down into their formidable machine.

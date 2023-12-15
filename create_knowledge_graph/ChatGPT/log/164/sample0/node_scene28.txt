@@ -1,0 +1,6 @@
+Nautilus, Captain Nemo's submarine, 0.9
+Captain Nemo, The mysterious commander of the Nautilus, 1.0
+Ned Land, A Canadian harpooner on board the Nautilus, 0.8
+Conseil, Servant of the protagonist and a fellow captive on the Nautilus, 0.7
+M. Aronnax, Narrator and a naturalist on the Nautilus, 0.9
+Pesca (Nicholas of Cape Matapan), A diver known in the Cyclades, 0.5

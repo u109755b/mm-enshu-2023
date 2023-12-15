@@ -1,0 +1,7 @@
+Captain Nemo, The mysterious commander of the submarine vessel Nautilus, 0.8
+M. Aronnax, A French naturalist captured by Captain Nemo and a protagonist of the story, 0.7
+Ned Land, A Canadian harpooner on board the Nautilus, known for his animosity towards Captain Nemo, 0.6
+Conseil, M. Aronnax's loyal servant and companion during the adventure, 0.5
+Steward, A servant of Captain Nemo assigned to assist M. Aronnax, 0.3
+Sailors from the Nautilus, Crew members who assist in the operation of the Nautilus, 0.4
+Indian fisherman, A poor diver who collects oysters and is saved by Captain Nemo from a shark attack, 0.5

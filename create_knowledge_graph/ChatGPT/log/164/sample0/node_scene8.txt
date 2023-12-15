@@ -1,0 +1,4 @@
+Ned Land, A Canadian harpooner with a temper, prone to anger when hungry or frustrated, 0.7
+Conseil, The protagonist's loyal servant who remains calm and polite even under challenging circumstances, 0.6
+Professor Aronnax, The narrator of the story who is a scientist and observes the events in the submarine, 0.8
+The steward, A crew member aboard the submarine who serves the prisoners and becomes a target of Ned Land's frustration, 0.5

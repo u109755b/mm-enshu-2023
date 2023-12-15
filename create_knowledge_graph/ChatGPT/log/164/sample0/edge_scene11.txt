@@ -1,0 +1,4 @@
+M. Aronnax, Nautilus, examine, M. Aronnax was showed a sketch to examine the Nautilus.
+Captain, M. Aronnax, describe, The Captain began to describe the Nautilus to M. Aronnax.
+M. Aronnax, Captain, compliment, M. Aronnax complimented the Captain's Nautilus.
+Captain, Abraham Lincoln, defend, The Captain defended the Nautilus against the Abraham Lincoln.

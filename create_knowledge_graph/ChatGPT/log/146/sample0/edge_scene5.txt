@@ -1,0 +1,12 @@
+The input and output nodes are among 'Sara, Captain Crewe, Ermengarde, Lottie, Lavinia, Jessie, Miss Minchin, Miss Amelia, Becky'.
+Sara, Captain Crewe, communicates, Sara gathers information about diamond mines from Captain Crewe's letters.
+Sara, Ermengarde, storytelling, Sara painted pictures for Ermengarde of labyrinthine passages in the diamond mines.
+Sara, Lottie, storytelling and comfort, Sara painted pictures for Lottie of labyrinthine passages in the diamond mines and comforts her when she is hurt and crying.
+Ermengarde, diamond mines, fascination, Ermengarde delighted in the story of the diamond mines.
+Lottie, diamond mines, insistence, Lottie insisted on the diamond mines story being retold to her.
+Lavinia, Jessie, disbelief and disdain, Lavinia expresses disbelief in diamond mines and her disdain for Sara to Jessie.
+Jessie, Lavinia, accusation, Jessie accuses Lavinia of hating Sara.
+Lavinia, Sara, mockery and restraint, Lavinia mocks Sara's pretend game of being a princess; Sara restrains herself from slapping Lavinia despite wanting to.
+Miss Minchin, Miss Amelia, location during certain time, Miss Minchin and Miss Amelia are having tea in their sitting room during a certain time.
+Miss Minchin, school image, using Sara's title, Miss Minchin uses Sara's title "princess" to suggest her school is like a royal boarding school.
+Becky, Sara, stories, company, food sharing, and gratitude for gift, Becky enjoys stories and company from Sara, receives and shares food with her, and is grateful for the birthday gift from Sara.

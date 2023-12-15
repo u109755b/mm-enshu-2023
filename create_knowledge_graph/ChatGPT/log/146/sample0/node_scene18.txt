@@ -1,0 +1,14 @@
+Anne, A once hungry and desperate child who was given buns by Sara, becoming an attendant in a bakery showing her gratitude, 0.45
+Uncle Tom, Mr. Carrisford's nickname given by Sara; he becomes her guardian and friend, 0.65
+Sara, The main character, an imaginative and generous girl who transforms from a rich student to a servant and back; her adventures and kindness influence everyone around her, 0.95
+Indian gentleman, Mr. Carrisford, who is searching for Sara throughout the story being her benefactor and later close friend, 0.90
+Ram Dass, Mr. Carrisford's servant who helps in transforming Sara's life and bringing comfort to her when she's in need, 0.60
+Large Family, The children who enjoy Sara's stories and company, finding joy and inspiration from her presence, 0.40
+Melchisedec, The name mentioned about what Sara could see when climbing on a table; not addressed as a character here but seems to be a rat or pet Sara talks about, importance unclear, insufficient data for importance rating
+Mrs. Brown, The owner of the bun shop who is touched by Sara's generosity and later agrees to provide food for hungry children, 0.55
+Mr. Carmichael, Not much context provided about him but seems to suggest a positive change for Mr. Carrisford, insufficient data for importance rating
+Lottie, A member of the Large Family; mentioned in passing as part of the group that spends time with Sara, insufficient data for importance rating
+Ermengarde, A member of the Large Family; mentioned in passing as part of the group that spends time with Sara, insufficient data for importance rating
+Becky, Sara's friend and support, who is also lifted from her life of servitude to better circumstances through Sara's transformation, 0.70
+Boris, The dog gifted to Sara by the Indian gentleman, embodying the magical bond between them, minimal importance, 0.25
+Miss Minchin, The headmistress of the seminary where Sara was mistreated, her perspective shows her displeasure in Sara's changed fortunes, 0.50

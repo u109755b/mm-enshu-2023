@@ -1,0 +1,9 @@
+Commander of the vessel, Ned Land, unspoken conflict, Ned Land felt resentment towards the commander of the vessel.
+Commander of the vessel, Conseil, observation, Conseil interested and stupefied awaited the result of the scene.
+Commander of the vessel, M. Pierre Aronnax, observation, M. Pierre Aronnax was scanned with profound attention by the commander.
+Captain Nemo, M. Pierre Aronnax, identity recognition, Captain Nemo identified M. Pierre Aronnax as Professor of Natural History at the Museum of Paris.
+Captain Nemo, Conseil, identity recognition, Captain Nemo identified Conseil as the servant of M. Pierre Aronnax.
+Captain Nemo, Ned Land, identity recognition, Captain Nemo identified Ned Land as the harpooner of the Abraham Lincoln.
+M. Pierre Aronnax, Captain Nemo, communication, M. Pierre Aronnax had a dialogue with Captain Nemo.
+Ned Land, Captain Nemo, accusation, Ned Land was accused by Captain Nemo of attacking him with a harpoon.
+Captain Nemo, Ned Land, Steward, Conseil, M. Pierre Aronnax, captivity, Captain Nemo imposes a condition of confinement during certain events for the passengers.

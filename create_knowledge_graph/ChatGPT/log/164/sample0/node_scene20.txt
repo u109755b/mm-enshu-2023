@@ -1,0 +1,5 @@
+Captain Nemo, The mysterious and knowledgeable captain of the submarine Nautilus, 1.0
+Professor Aronnax, A scientist and the narrator of the story, 0.9
+Conseil, Professor Aronnax's loyal servant and companion, 0.7
+Ned Land, A Canadian harpooner and one of the main characters, 0.8
+Savages/Natives/Papuans, The indigenous people encountered by the characters, 0.4

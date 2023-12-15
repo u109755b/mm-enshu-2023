@@ -1,0 +1,16 @@
+Narrator, The main character and first-person narrator who finds themselves in a life-threatening situation at sea, 0.95
+Byron, A renowned swimmer to whom the narrator briefly compares their swimming ability; metaphorically used, 0.05
+Edgar Poe, Another renowned swimmer to whom the narrator compares their swimming ability; metaphorically used, 0.05
+Crew, The collective individuals responsible for operating the frigate; mentioned in concern for the narrator's safety, 0.2
+Captain, The leader of the frigate who the narrator hopes will come to their rescue, 0.4
+Abraham Lincoln, The frigate's personified presence in the story, representing hope of rescue, 0.3
+Conseil, The faithful companion and servant of the narrator who helps in the time of need, 0.85
+Men at the wheel, Crew members who inform Conseil about the frigate's damage, indirectly through dialogue, 0.15
+Monster, Imagined or real adversary that damages the frigate and poses a threat, 0.5
+Frigate, The ship that the narrator looks for but is anthropomorphized and therefore treated as a character, 0.3
+Poor boy, Refers affectionately to Conseil, emphasizing his importance and dedication, 0.8
+Unfortunate creature, A possible other victim in the ocean, contributing to the suspense, 0.1
+Voice, An unidentified person or signal of potential rescue that engages with the narrator and Conseil, 0.6
+Ned (or Canadian), A new character and the third person rescued; reveals the truth about the "monster", 0.85
+Mechanical beings, Hypothetical entities inside the submarine boat, around which mystery revolves, 0.2
+Eight strong men, The unknown individuals who capture the narrator and his companions, 0.4

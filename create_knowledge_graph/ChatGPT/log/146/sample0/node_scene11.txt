@@ -1,0 +1,18 @@
+Sara, A young girl imaginatively coping with her circumstances by envisioning the lives of those around her, often referring to herself as a "princess", 0.8
+Ermengarde, Sara's friend, who engages in conversations with her about their lives and families, 0.6
+Indian gentleman, The mysterious and intriguing neighbor whom Sara adopts as a friend and about whom she creates stories of sympathy, 0.7
+Mr. Carrisford, The actual name of the "Indian gentleman", who is troubled by his past and is searching for Crewe's child, indicating a deep connection to Sara's narrative, 0.7
+Mr. Montmorency, A character mentioned as the father of the Large Family who visits Mr. Carrisford regularly, 0.3
+Mrs. Montmorency, Wife of Mr. Montmorency, mentioned in the context of her visits to Mr. Carrisford, 0.2
+Janet, The elder daughter of Mr. Montmorency and one who has a caring relationship with Mr. Carrisford, 0.4
+Nora, Another daughter of Mr. Montmorency who is fond of Mr. Carrisford and visits him with Janet, 0.4
+Donald, The small brother of Janet and Nora who once interacted with Sara, 0.2
+Ram Dass, Mr. Carrisford's servant, provides a connection between Mr. Carrisford's world and Sara's when he shares insights about Sara's living conditions, 0.5
+Mr. Carmichael, A comforting character for Mr. Carrisford, described as the father of the Large Family and an important figure in the search for Crewe's child, hinting at a significant role in the unfolding story, 0.6
+Melchisedec, A pet rodent whom Sara confides in, suggesting her loneliness and rich imagination, 0.4
+Cook, A servant who discusses Mr. Carrisford's situation, giving Sara and the reader information about his background, 0.3
+Large Family, Referred to by Sara, possibly representing the Montmorency family, but not individually developed or named beyond Janet and Nora, 0.2
+Crewe (Sara's father), Mentioned in past tense as someone who loved and nicknamed Sara, indicating his importance in her life and the central mystery of the story, 0.5
+Ralph Crewe, Referred to as a friend of Mr. Carrisford who died thinking Carrisford had ruined him, adding to the backstory and motivation of Mr. Carrisford's character, 0.5
+Madame Pascal, A character not directly interacting but mentioned as part of the backstory regarding the care of Crewe's child after his death, 0.2
+Little Missus, A term of endearment used by Crewe for his daughter, serving as a poignant symbol of Sara's past identity and her father's affection, 0.4

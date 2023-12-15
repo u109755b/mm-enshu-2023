@@ -1,0 +1,6 @@
+Ned, A despairing character who becomes isolated, 0.6
+Captain Nemo, The enigmatic and solitary captain of the Nautilus, 0.9
+Conseil, The ever-loyal companion of the narrator, 0.7
+Cyrus Field, The bold promoter of the transatlantic cable enterprise, 0.6
+Captain Anderson, The captain involved in safeguarding the cable laying operation, 0.5
+Sir (referred in "Sir, to-day is the 13th Prairal"), Likely addressed to the narrator and indicating the historical importance of the date, 0.5

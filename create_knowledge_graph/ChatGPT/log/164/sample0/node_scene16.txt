@@ -1,0 +1,14 @@
+Second Lieutenant, An officer on the Nautilus who announces daily phrases, 0.7
+Captain Nemo, The mysterious and knowledgeable commander of the Nautilus, responsible for the voyage and the activities onboard, 1.0
+Sailors of the Nautilus, Crew members from various nations working on the Nautilus, responsible for tasks such as drawing up nets, 0.8
+Irishmen, Members of the Nautilus' crew, representing the Irish nationality, 0.5
+Frenchmen, Members of the Nautilus' crew, representing the French nationality, 0.5
+Sclaves, Members of the Nautilus' crew, representing the Slavic peoples, 0.5
+Greek or Candiote, Member of the Nautilus' crew, representing Greek nationality, possibly from Candia (Crete), 0.5
+Professor Aronnax, The narrator and protagonist, a scientist aboard the Nautilus exploring the ocean, 0.9
+Ned Land, A Canadian harpooner on the Nautilus, known for his skills and skeptical of Captain Nemo, 0.8
+Conseil, Professor Aronnax's loyal assistant, often accompanying him in explorations, 0.8
+The Florida (ship), A sunken vessel discovered by the Nautilus, an object of observation revealing a tragic shipwreck, 0.6
+Steersman of The Florida, The last image of duty, still seemingly guiding his ship even in death, 0.4
+Woman on The Florida, A young victim of the shipwreck, seen holding her infant, adding a human element to the tragedy, 0.4
+Infant of The Florida, A symbol of innocence and tragedy, held up by its mother during the shipwreck, 0.3

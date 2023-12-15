@@ -1,0 +1,8 @@
+Sara, The main protagonist, a young girl enduring hardship and using her imagination to cope, 1.0
+Miss Minchin, The headmistress of Sara's school, plays the role of the antagonist, 0.9
+Becky, A young servant in the school who shares a secret friendship with Sara, 0.7
+Lavinia, A schoolmate of Sara's, known to be mean-spirited, 0.4
+Ermengarde, Sara's well-meaning but dull friend, who struggles with their changed relationship, 0.6
+Miss Amelia, Miss Minchin's sister, who assists with the school, 0.3
+Mariette, Sara's former maid, who left the house, 0.2
+Lottie, A young child at the school whom Sara helps to look after, 0.3

@@ -1,0 +1,4 @@
+Captain Nemo, The mysterious commander of the Nautilus submarine, 0.9
+Ned Land, A Canadian harpooner and one of the main protagonists, often expressing his desire to escape and his discontent with life aboard the Nautilus, 0.8
+Conseil, A servant to another protagonist, Professor Aronnax, and a devoted companion, known for his calm demeanor and loyalty, 0.6
+Professor Aronnax, The narrator of the story, a French naturalist, and a captive aboard the Nautilus, who is torn between his fascination with the underwater world and the moral dilemmas presented by Captain Nemo, 0.8

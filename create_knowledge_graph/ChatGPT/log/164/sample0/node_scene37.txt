@@ -1,0 +1,4 @@
+Captain Nemo, The mysterious and knowledgeable commander of the Nautilus, 0.95
+Conseil, The faithful servant of the story's narrator, always ready to assist, 0.6
+Ned Land, The impulsive and daring Canadian harpooner, known for his desire to escape, 0.7
+The Narrator, The character through whose perspective the story is told, a scientist of marine biology, 0.9

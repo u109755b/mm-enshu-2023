@@ -1,0 +1,10 @@
+Ermengarde, Sara, visit, Ermengarde makes perilous pilgrimages to visit Sara in the attic.
+Lottie, Sara, visit, Lottie makes perilous pilgrimages to visit Sara in the attic.
+Guy Clarence (Donald), Sara, give, Guy Clarence gives Sara a sixpence.
+Veronica Eustacia (Janet), Sara, listen, Veronica Eustacia listens to Guy Clarence and Sara's interaction.
+Rosalind Gladys (Nora), Sara, listen, Rosalind Gladys listens to Guy Clarence and Sara's interaction.
+Sara, Guy Clarence (Donald), speak, Sara speaks to Guy Clarence and thanks him for the sixpence.
+Indian Gentleman (New Neighbor), furniture, own, The furniture being moved next to Miss Minchin's establishment belongs to the Indian Gentleman.
+Father of the Large Family, Indian Gentleman (New Neighbor), know, The Father of the Large Family appears to know the Indian Gentleman.
+Father of the Large Family, Indian Gentleman (New Neighbor), act, The Father of the Large Family acts on behalf of the Indian Gentleman.
+Doctor, Indian Gentleman (New Neighbor), care, The doctor comes in to take care of the Indian Gentleman.

@@ -1,0 +1,4 @@
+The input and output nodes of an edge must be one of 'Captain Nemo, Ned Land, Conseil, Sir'
+Captain Nemo, Sir, inform/command/announce/instruct/suggest/offer, Captain Nemo informs, commands the clock, announces arrival, instructs on the Sun’s altitude, suggests retiring, and offers the saloon.
+Ned Land, Sir, question/express discontent, Ned Land questions the number of men on board and expresses discontent about seeing nothing.
+Conseil, Sir, appearance, Conseil appears at the door of the saloon.

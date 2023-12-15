@@ -1,0 +1,4 @@
+Canadian (Ned Land), A crew member disappointed in their situation, 0.7
+Captain Nemo, The enigmatic commander of the Nautilus and guide on underwater excursions, 0.9
+M. Aronnax (Narrator), The protagonist and narrator of the adventure who receives a visit from Captain Nemo, 0.8
+Conseil, A companion of the narrator who returns to Conseil after dressing, 0.6

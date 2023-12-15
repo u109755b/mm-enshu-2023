@@ -1,0 +1,4 @@
+Ned Land, A harpooner who was one of the companions accompanying the narrator on the journey under the seas, 0.6
+Conseil, A loyal servant who was also one of the companions of the narrator during the voyage, 0.6
+Captain Nemo, The enigmatic captain of the Nautilus, deeply connected with the wonders and dangers of the ocean, playing a crucial role in the narrative, 0.9
+Narrator (myself), The individual recounting the events of the voyage, representing Jules Verne's protagonist from "Twenty Thousand Leagues Under the Sea", 1.0

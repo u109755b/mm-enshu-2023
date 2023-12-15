@@ -1,0 +1,6 @@
+Commander of the vessel, The mysterious and powerful captain of the submarine vessel Nautilus, 0.95
+Ned Land, A Canadian harpooner on board the frigate Abraham Lincoln, known for his strength and anger towards the commander, 0.85
+Steward, A servant on the Nautilus who serves the commander and guests, 0.4
+Conseil, Servant to Professor Aronnax and a man of dependable character and curiosity, 0.75
+M. Pierre Aronnax, Professor of Natural History at the Museum of Paris and main narrator of the story, 0.9
+Captain Nemo, The enigmatic commander of the Nautilus who renounced society, 1.0

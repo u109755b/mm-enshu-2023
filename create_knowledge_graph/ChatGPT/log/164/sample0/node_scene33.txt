@@ -1,0 +1,6 @@
+Nautilus, The submarine that is exploring the Sargasso Sea, 1.0
+Captain Nemo, The commander of the Nautilus with extensive knowledge of the ocean, 0.9
+Maury, A character whose opinion on marine phenomena is discussed and respected, 0.4
+Ned Land, A character presumably a part of the Nautilus crew who has concerns about their journey, 0.6
+Captain Denham, A referenced character known for his deep-sea sounding explorations, 0.3
+Lieutenant Parker, A referenced character also known for attempting to touch the ocean's bottom, 0.3

@@ -1,0 +1,12 @@
+Sara Crewe, The protagonist who is treated poorly at Miss Minchin's seminary but finds mysterious comfort, 1.0
+Becky, Sara's friend, a scullery maid at Miss Minchin's seminary, 0.7
+Miss Minchin, The headmistress of the seminary where Sara and Becky live, a harsh and unsympathetic character, 0.8
+Miss Amelia, Miss Minchin's softer sister and a character at the seminary, 0.6
+Lottie, A younger girl at the seminary who is fond of Sara, 0.3
+Lavinia, A spiteful schoolgirl at Miss Minchin's seminary, envious and mean towards Sara, 0.5
+Ermengarde, Another schoolgirl, Sara's friend at the seminary, 0.4
+Jessie, A schoolgirl at the seminary, she is curious about Sara's sudden change of fortune, 0.4
+Ram Dass, The Indian gentleman's servant, though not explicitly mentioned, he plays a role in Sara's story, 0.1
+The Indian Gentleman, A neighbor to Sara and Becky, though not mentioned directly, his household impacts Sara's circumstances, 0.2
+The Visitor, A mysterious benefactor who helps Sara and Becky, serves as a pivotal character in improving Sara's life, 0.9
+The Monkey, An escaped pet from next door that finds temporary refuge with Sara, 0.3

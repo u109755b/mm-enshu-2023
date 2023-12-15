@@ -1,0 +1,10 @@
+Sara, A compassionate and motherly young girl who becomes an adopted mother to Lottie at Miss Minchin's Select Seminary, 0.95
+Miss Minchin, The headmistress of the Select Seminary, who privately dislikes Sara but flatters her for business reasons, 0.7
+Captain Crewe, Sara's loving father who is capable of removing her from the school if she is unhappy, 0.6
+Ermengarde, A friend of Sara's who discusses with her the nature of being good or bad, 0.5
+Lavinia, A spiteful and jealous girl, formerly the leader at the school before Sara's arrival, 0.65
+Jessie, Lavinia's "best friend" who admires Sara's humility despite her privileges, 0.5
+Miss Amelia, Miss Minchin's softer sister who struggles to manage the difficult child Lottie, 0.55
+Lottie Legh, A young, spoiled child who throws tantrums and views Sara as a motherly figure, 0.75
+Lottie's father, A flighty young man who sent Lottie to school without imagining another solution, 0.4
+Emily, Sara's doll, which becomes a part of Lottie's and Sara's playtime, acting as Lottie's sister, 0.3

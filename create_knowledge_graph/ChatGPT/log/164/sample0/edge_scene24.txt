@@ -1,0 +1,7 @@
+Captain Nemo, M. Aronnax, invite, "Captain Nemo invited M. Aronnax to visit a pearl-fishery."
+Captain Nemo, M. Aronnax, question, "Captain Nemo asked M. Aronnax if he is afraid of sharks."
+M. Aronnax, Sharks, fear, "M. Aronnax admitted not being familiar with sharks and expressed hesitation about hunting them."
+Conseil, Ned Land, join, "Conseil and Ned Land entered the conversation quite composed and joyous."
+Ned Land, Captain Nemo, criticism, "Ned Land critically referred to Captain Nemo's offer about the pearl fishery visit."
+Conseil, M. Aronnax, question, "Conseil asked M. Aronnax for some details of the pearl fishery."
+M. Aronnax, Conseil and Ned Land, educate, "M. Aronnax agreed to teach Conseil and Ned Land about pearls."

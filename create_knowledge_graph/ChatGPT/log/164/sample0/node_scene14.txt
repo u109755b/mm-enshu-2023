@@ -1,0 +1,6 @@
+Captain Nemo, The mysterious commander of the Nautilus and leader of the underwater expedition, 1.0
+Ned Land, A Canadian harpooner showing reluctance to the underwater adventure, 0.8
+M. Aronnax, The narrator and one of the main characters engaging in the diving activity, 0.9
+Conseil, M. Aronnax's loyal servant who follows his master wherever he goes, 0.7
+Nautilus Men, Crew members of the Nautilus assisting the characters with diving suits, 0.3
+Captain's Companion, An unnamed strong companion of Captain Nemo, mentioned briefly, 0.4

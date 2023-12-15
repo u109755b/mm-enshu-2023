@@ -1,0 +1,4 @@
+Captain Nemo, Professor, answer, The Professor asked "where are we?" and Captain Nemo answered "Underground, sir."
+Professor, Companion, look for, The Professor went to look for his companions after talking to Captain Nemo.
+Ned Land, Exit, look for, Ned Land thought of nothing but finding whether the cavern had an exit.
+Conseil, Land, declare, Conseil declared "Here we are, once more on land" upon reaching the volcanic island.

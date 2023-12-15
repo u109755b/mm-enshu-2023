@@ -1,0 +1,13 @@
+Captain Nemo, The mysterious commander of the Nautilus submarine, deeply attached to the sea and seeking to be the first to reach the South Pole, 0.9
+Conseil, Loyal servant and assistant to the story's main character, accompanying him in explorations, 0.6
+Ned Land, A Canadian harpooner aboard the Nautilus, skeptical and less enthusiastic about the South Pole, 0.5
+Captain Nemo's Men, Crew members of the Nautilus who assist in the expedition and land exploration, 0.4
+Old Proteus, A mythical shepherd of Neptune's sea creatures, mentioned in a metaphorical sense, not an actual character present in the story, 0.1
+The Seals, Mammals observed on the Antarctic shore, part of the wildlife encountered during the exploration, 0.2
+The Morses, Also known as walruses, observed and described during the landing on the Antarctic continent, 0.2
+Petrels and Albatrosses, Birds mentioned as part of the Antarctic's rich birdlife, illustrating the diversity of animal life at the South Pole, 0.2
+The Whales, Cetaceans spotted by the protagonists, showcasing the sea life in the Antarctic waters, 0.2
+The Birds on the Rock, Birds that show curiosity and lack of fear towards humans, indicate the untouched nature of the environment, 0.2
+The Medusæ, Jellyfish spotted in the waters, part of the underwater life described in the journey, 0.1
+James Ross, Referenced historical figure who found two active Antarctic volcanoes, providing scientific context for the region, 0.1
+Maury, The American scientist mentioned for his theory about icebergs and continental land at the South Pole, 0.1

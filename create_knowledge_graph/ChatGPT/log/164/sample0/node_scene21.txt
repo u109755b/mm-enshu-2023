@@ -1,0 +1,4 @@
+Captain Nemo, The mysterious and enigmatic captain of the Nautilus, 0.9
+Professor Aronnax, The narrator and a passenger on the Nautilus, 0.9
+Ned Land, The Canadian harpooner and one of the companions of Professor Aronnax on the Nautilus, 0.9
+Conseil, Professor Aronnax's loyal servant and a fellow passenger on the Nautilus, 0.75

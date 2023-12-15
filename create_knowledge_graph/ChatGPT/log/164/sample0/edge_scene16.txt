@@ -1,0 +1,14 @@
+Second Lieutenant, Platform, utter, the Second Lieutenant was uttering his daily phrase.
+Professor Aronnax, Platform, go up, I went up on to the platform.
+Captain Nemo, Professor Aronnax, not aware, He did not seem to be aware of my presence.
+Sailors of the Nautilus, Platform, come up, a number of the sailors of the Nautilus had come up onto the platform.
+Sailors of the Nautilus, Nets, draw up, They came to draw up the nets.
+Irishmen, Sailors of the Nautilus, recognition, I recognised some unmistakable Irishmen.
+Frenchmen, Sailors of the Nautilus, recognition, I recognised some unmistakable Frenchmen.
+Greek or Candiote, Sailors of the Nautilus, recognition, I recognised a Greek, or a Candiote.
+Captain Nemo, Professor Aronnax, address, the Captain turned to me, saying.
+Professor Aronnax, Captain Nemo, reply to, I only know, Captain, what the principal soundings have taught us.
+The Florida (ship), Event, sink, a disabled ship that has sunk perpendicularly.
+Steersman of The Florida, Helm, stand at, one of whom was standing at the helm.
+Woman on The Florida, Poop, stand by holding, a woman standing by the poop, holding an infant in her arms.
+Infant of The Florida, Mother, encircle neck, whose arms encircled its mother’s neck.

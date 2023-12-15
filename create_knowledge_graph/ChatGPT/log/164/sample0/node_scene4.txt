@@ -1,0 +1,6 @@
+Abraham Lincoln, The frigate on which the characters embark on their voyage, 0.8
+Ned Land, A skilled harpooner aboard the Abraham Lincoln known for his dexterity, 0.9
+Monroe, Another ship whose captain requested Ned Land's aid in whale hunting, 0.4
+Commander Farragut, The captain of the Abraham Lincoln who allows Ned Land to help the Monroe, 0.7
+Conseil, A character who accompanies the narrator and offers calm observations, 0.6
+Captain Farragut, Captain of the Abraham Lincoln, who is determined to find the narwhal, 0.7

@@ -1,0 +1,4 @@
+Captain Nemo, The mysterious and knowledgeable captain of the Nautilus, 1
+Professor Aronnax, A learned professor and the narrator who interacts with Captain Nemo about the workings of the Nautilus, 0.8
+Conseil, The assistant to Professor Aronnax, present during the dining scene, 0.5
+Ned Land, A harpooner and companion to Professor Aronnax and Conseil, also present during the dining scene, 0.5

@@ -1,0 +1,10 @@
+Captain Nemo, Leader of the Nautilus crew and the one who looks upon the submarine forest as his own, holding a sense of entitlement akin to the first men of the world, 0.9
+I (Narrator), The person recounting the experience of the underwater journey and the one observing the submarine forest and its inhabitants, 0.9
+Conseil, Companion of the narrator, whose eyes glistened with delight and who showed satisfaction during the journey, 0.7
+Robust companion, Captain Nemo's sturdy companion, possibly another crew member of the Nautilus involved in the excursion, 0.5
+Sailor of the Nautilus, Another crew member who, along with Conseil, awoke during an encounter with a sea-spider, 0.4
+Sea-spider, A monstrous crustacean encountered by the narrator, causing a moment of horror, 0.3
+Ingenious naturalist, The person quoted by the narrator as saying “Curious anomaly, fantastic element!” in reference to the flourishing animal kingdom and non-flowering vegetable kingdom underwater, 0.1
+Sea-otter (Enhydrus), A valuable marine quadruped that Captain Nemo shoots during the journey, prized for its fur, 0.2
+Albatross, A large bird shot by Captain Nemo’s companion with great skill, 0.2
+Tintoreas (sharks), Two formidable sharks encountered by the narrator and the team during their return to the Nautilus, posing great danger, 0.3

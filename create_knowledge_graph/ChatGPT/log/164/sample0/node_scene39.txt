@@ -1,0 +1,9 @@
+Canadian, A man who might have carried the narrator to the platform, 0.6
+Narrator, The main character and voice of the story who is recounting past events, 1.0
+Ned Land, A companion of the narrator who opened his jaws wide, 0.8
+Conseil, A companion of the narrator who speaks about the enjoyment of oxygen, 0.8
+Other unhappy men, A group of men with the narrator and his companions who were previously without food, 0.3
+Captain Nemo, The captain of the Nautilus who is responsible for the journey, 0.9
+Lieutenant, An unnamed individual working under Captain Nemo marking the planisphere, 0.4
+Cramp-fish, The creature that Conseil attacked causing him to be paralyzed, 0.3
+Sea-cows, Manatees mentioned in relation to weed control in tropical rivers, 0.2

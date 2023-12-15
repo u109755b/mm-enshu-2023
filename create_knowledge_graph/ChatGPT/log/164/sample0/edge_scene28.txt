@@ -1,0 +1,9 @@
+Ned Land, Nautilus, join, "About seven o’clock Ned and Conseil joined me."
+M. Aronnax, Ned Land, answer, “We are floating on its surface, friend Ned.”
+Ned Land, M. Aronnax, not believe, "I do not believe it,” replied the Canadian."
+M. Aronnax, Ned Land, explain, “Then you are wrong, Master Land,” I continued; “this low coast which rounds off to the south is the Egyptian coast."
+Ned Land, Nautilus, wish to leave, "What I have to tell you is very simple. We are in Europe; and before Captain Nemo’s caprices drag us once more to the bottom of the Polar Seas, or lead us into Oceania, I ask to leave the Nautilus."
+M. Aronnax, Captain Nemo, no desire to leave, "I certainly felt no desire to leave Captain Nemo."
+M. Aronnax, submarine studies, nearing completion, "Thanks to him, and thanks to his apparatus, I was each day nearer the completion of my submarine studies."
+M. Aronnax, escape attempts, must be successful, “Only one observation—just one. The occasion must be serious, and our first attempt must succeed; if it fails, we shall never find another, and Captain Nemo will never forgive us.”
+Captain Nemo, Pesca (Nicholas of Cape Matapan), acquaintance, "Do not be uncomfortable,” said Captain Nemo. “It is Nicholas of Cape Matapan, surnamed Pesca."

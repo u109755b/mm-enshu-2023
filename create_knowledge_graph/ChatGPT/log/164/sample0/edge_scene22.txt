@@ -1,0 +1,6 @@
+Captain Nemo, M. Aronnax, interact, About two o’clock, I was in the drawing-room, busied in arranging my notes, when the Captain opened the door and appeared.
+Captain Nemo, Sick/Wounded Man, seek assistance, “M. Aronnax, will you consent to prescribe for one of my men?” he asked.
+M. Aronnax, Sick/Wounded Man, prescribe, "I am ready to follow you."
+Captain Nemo, M. Aronnax, inquire, "What caused this wound?” I asked.
+Captain Nemo, M. Aronnax, propose, "Professor, will it be convenient to you to make a submarine excursion to-day?”
+M. Aronnax, Ned Land and Conseil, inform, I rejoined Ned Land and Conseil, and told them of Captain Nemo’s proposition.

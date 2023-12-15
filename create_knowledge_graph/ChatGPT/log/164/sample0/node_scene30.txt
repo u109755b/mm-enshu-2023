@@ -1,0 +1,21 @@
+Atlantic, An ocean, 0.2
+St. Lawrence, A river, 0.1
+Mississippi, A river, 0.1
+Amazon, A river, 0.1
+Plata, A river, 0.1
+Orinoco, A river, 0.1
+Niger, A river, 0.1
+Senegal, A river, 0.1
+Elbe, A river, 0.1
+Loire, A river, 0.1
+Rhine, A river, 0.1
+Nautilus, A submarine vessel, 0.8
+Cape Horn, A geographic landmark, 0.1
+Cape of Tempests, A geographic landmark, 0.1
+Ned Land, A Canadian passenger on the Nautilus, 0.6
+Conseil, A companion of the protagonist, 0.5
+Captain Nemo, The captain of the Nautilus, 0.9
+Louis XIV, King of France referenced in the historical account, 0.2
+Philip V, King of Spain referenced in the historical account, 0.2
+Admiral Chateau-Renaud, French Admiral referenced in the historical account, 0.2
+Ferdinand Cortez, Conquistador mentioned by Captain Nemo concerning treasures, 0.1

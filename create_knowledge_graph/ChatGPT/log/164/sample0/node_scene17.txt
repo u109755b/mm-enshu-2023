@@ -1,0 +1,15 @@
+Captain Nemo, Mysterious and enigmatic captain of the Nautilus, 0.95
+Professor, The narrator of the story and a guest on the Nautilus, 0.85
+Conseil, Servant of the Professor who is also aboard the Nautilus, 0.6
+M. Milne Edwards, The Professor's esteemed teacher who classified madrepores, 0.4
+Captain de Langle, The second of La Perouse on his voyage, 0.3
+Captain Dillon, A Pacific sailor who found traces of La Perouse's wrecks, 0.5
+Commander of the Albemarle (Bowen), Person who reported debris of shipwrecked vessels on the coasts of New Georgia, 0.3
+Bruni d'Entrecasteaux, The commander who went looking for La Perouse with his ships Recherche and Esperance, 0.5
+James Hobbs, Second lieutenant of the Union of Calcutta who saw remnants of La Perouse's ships, 0.3
+Dumont d'Urville, A navy officer who also went looking for La Perouse, 0.7
+Commander of the Bayonnaise (Legoarant de Tromelin), Sent by the French government to follow up on Dumont d'Urville's findings, 0.4
+Commander La Perouse, A French explorer who embarks on a voyage and gets lost at Vanikoro, 0.8
+Louis XVI, King of France, who sent La Perouse on the voyage, 0.5
+Charles X, King of France, who welcomed Captain Dillon back from his voyage, 0.4
+Ned Land, A character on the Nautilus experiencing regret over missing Christmas celebrations, 0.6

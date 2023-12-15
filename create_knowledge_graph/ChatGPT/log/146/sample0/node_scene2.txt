@@ -1,0 +1,9 @@
+Sara Crewe, The protagonist, a new student at Miss Minchin's select seminary who is clever and compassionate, 1.0
+Ermengarde St. John, A fellow student, not academically gifted but good-natured; becomes friends with Sara, 0.8
+Miss Minchin, The strict headmistress of the seminary where Sara and Ermengarde are students, 0.6
+Monsieur Dufarge, The French teacher at Miss Minchin's school who finds Ermengarde's French pronunciation amusing, 0.4
+Lavinia, A student at the seminary who, along with Jessie, giggles at Ermengarde's mistakes, 0.3
+Jessie, A student at the seminary and friend to Lavinia, who also giggles at Ermengarde's mistakes, 0.3
+Mr. St. John, Ermengarde's father, known for his intelligence and high expectations, 0.5
+Aunt Eliza, Ermengarde's aunt, mentioned as a comparison for Ermengarde's slow learning abilities, 0.2
+Emily, Sara's doll, treated as a real person by Sara and introduced to Ermengarde, 0.4

@@ -1,0 +1,19 @@
+Ship's crew, Collective term for the persons on board the ship, including officers and sailors, 0.7
+Harpooner, The crew member responsible for harpooning and likely involved in whale hunting, 0.8
+Commander, The leader of the ship's crew, making critical decisions and giving orders, 0.9
+Officers, The individuals in charge of executing the commander's orders and overseeing various aspects of the ship's operations, 0.7
+Masters, Skilled individuals responsible for navigation and other key tasks aboard the ship, 0.6
+Sailors, The seamen who perform the majority of manual labor on the ship, 0.6
+Cabin Boys, Young boys who assist with menial tasks on the ship, 0.4
+Engineers, Crew members responsible for maintaining and operating the ship's machinery, particularly the engines, 0.7
+Stokers, Crew members tasked with fueling the ship's furnaces to keep the engines running, 0.6
+The Canadian, A character with exceptionally good eyesight, likely Ned Land, the harpooner, 0.8
+Ned Land, The harpooner who first spots the monster, a key figure in the whale hunt, 0.85
+Officers (specifically those who doubted the nature of the light), Crew members expressing skepticism about the source of the light being biological, 0.5
+Captain, The leader of the ship, making strategic decisions during the encounter with the sea creature, 0.9
+Mr. Aronnax, A character conversing with the captain about the nature of the animal, possibly an expert or scientist aboard, 0.8
+Crew (general term), All members of the ship’s complement involved in the pursuit of the narwhal, 0.7
+The Narwhal, The sea creature being pursued, an object of fascination and pursuit by the crew, 0.85
+The Second Lieutenant, An officer responsible for arming the crew for the presumed confrontation with the narwhal, 0.6
+The Engineer (during the chase), The individual responsible for controlling the ship's engine power during the pursuit of the narwhal, 0.65
+Gunner, The aged crew member tasked with aiming and firing at the narwhal with a gun, 0.6

@@ -1,0 +1,25 @@
+Ermengarde, A friend of Sara who visits her in the attic, 0.6
+Lottie, Another friend of Sara who accompanies Ermengarde on rare visits to the attic, 0.4
+Miss Amelia, Likely a staff member at Miss Minchin’s establishment who conducts inspections, 0.6
+Sara, The protagonist living a lonely life after a fall from grace, previously known as the "Princess Sara", 1.0
+Mariette, A former attendant of Sara when she was rich and well-cared for, 0.4
+Miss Minchin, The head of the seminary where Sara stays, tends to be harsh towards Sara, 0.8
+Large Family, A large, happy family living in the square, affectionately named by Sara, 0.7
+Mother of the Large Family, A stout, rosy woman, mother of the eight children Sara observes, 0.5
+Father of the Large Family, A stout, rosy man who is familiar to Sara by sight, 0.5
+Rosy Grandmother, The grandmother of the eight children in the Large Family, 0.4
+Servants of the Large Family, Multiple unnamed individuals who serve the Large Family, 0.3
+Ethelberta Beauchamp Montmorency, Imaginary name given by Sara to the fat, fair baby of the Large Family, 0.3
+Violet Cholmondeley Montmorency, Imaginary name given by Sara to the next baby of the Large Family, 0.3
+Sydney Cecil Vivian Montmorency, Imaginary name given by Sara to the little boy who could just stagger, 0.3
+Children of the Large Family, Named as Lilian Evangeline Maud Marion, Rosalind Gladys, Guy Clarence, Veronica Eustacia, and Claude Harold Hector; all given imaginary names by Sara, each 0.3
+Guy Clarence (Donald), A five-year-old boy from the Large Family, kind-hearted, gives Sara a sixpence, 0.7
+Veronica Eustacia (Janet), A member of the Large Family, not her real name, possibly older and more observant, 0.3
+Rosalind Gladys (Nora), Another member of the Large Family under an imaginary name, 0.3
+Indian Gentleman (New Neighbor), A new, wealthy, and ill neighbor who carries interesting items into his home, 0.8
+Melchisedec, A rat that Sara befriends in the attic, 0.5
+Mrs. Melchisedec, Melchisedec's partner, sometimes brought along with him, 0.3
+Children of Melchisedec, Offspring of Melchisedec, mentioned in passing, 0.2
+Emily, Sara's doll, her only companion in loneliness, 0.6
+Becky, A fellow servant who shares news with Sara about the new Indian neighbor, 0.7
+Doctor, Visits the Indian Gentleman, presumably his healthcare provider, 0.4

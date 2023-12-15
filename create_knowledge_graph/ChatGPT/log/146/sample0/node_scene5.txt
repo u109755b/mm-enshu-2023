@@ -1,0 +1,9 @@
+Sara, The main character, a young girl whose imagination and kindness influence those around her, 1.0
+Captain Crewe, Sara's father, who invests in diamond mines and is affectionate towards his daughter, 0.8
+Ermengarde, Sara's friend, who is delighted by Sara's stories, 0.5
+Lottie, A younger girl at the school who sees Sara as a maternal figure, 0.6
+Lavinia, A spiteful schoolgirl who is jealous and disbelieving of Sara's stories, 0.6
+Jessie, A schoolgirl who engages in conversation with Lavinia about Sara, 0.4
+Miss Minchin, The head of the school, who is unaware of Sara's compassionate acts, 0.7
+Miss Amelia, Miss Minchin's sister, who is also unaware of the complexities of Sara's character, 0.4
+Becky, A maid at the school who becomes close friends with Sara, receiving kindness and stories from her, 0.7

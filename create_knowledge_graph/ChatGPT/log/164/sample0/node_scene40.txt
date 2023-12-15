@@ -1,0 +1,5 @@
+Nautilus, Captain Nemo's submarine, which often feels like a character due to its presence and importance, 0.8
+Captain Nemo, The mysterious and enigmatic commander of the Nautilus, central to the plot and decisions that affect the other characters, 1.0
+Canadian (Ned Land), A harpooner and one of the main protagonists who looks for opportunities to escape the Nautilus, 0.9
+Conseil, Loyal servant to the narrator and companion on the Nautilus, involved in discussions and action, 0.7
+Narrator, The character through whose eyes we see the events, presumably Pierre Aronnax given the context but unnamed in the text provided, 0.9

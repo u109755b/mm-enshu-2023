@@ -1,0 +1,10 @@
+Mr. Carmichael, A friend of Mr. Carrisford aiding in the search for Captain Crewe's daughter, 0.8
+Mr. Carrisford, The 'Indian gentleman' who is anxiously awaiting news, feeling guilty about Captain Crewe's loss, 0.9
+Janet, A member of the Large Family, kind and understanding, 0.6
+Donald, A lively and noisy member of the Large Family, 0.4
+Nora, A member of the Large Family who empathizes with the lost little girl, 0.5
+Captain Crewe, Sara's deceased father who lost his fortune, 0.7
+Sara, The 'little un-fairy princess,' a former pupil, now a drudge next door, 1.0
+Ram Dass, Mr. Carrisford's servant who helps in secretly aiding Sara, 0.8
+Emily Carew, A child mistakenly thought to be Captain Crewe's daughter, 0.3
+Large Family, The family of children trying to cheer up Mr. Carrisford, 0.5 (representing the family as a collective character node because individual members are less central than their collective interaction with Mr. Carrisford)

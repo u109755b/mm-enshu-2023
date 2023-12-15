@@ -1,0 +1,6 @@
+Sara Crewe, The central character who is a thoughtful and dreamy seven-year-old girl, 0.95
+Captain Crewe, Sara's affectionate and wealthy father who has to leave her at a boarding school, 0.85
+Miss Minchin, The strict and cold headmistress of the boarding school Sara is left at, 0.7
+Emily, The doll that Sara and her father purchase, which becomes Sara's companion, 0.6
+Miss Amelia, Miss Minchin's more good-natured but submissive sister, 0.4
+Lady Meredith, A character mentioned as having recommended the boarding school to Captain Crewe, 0.2

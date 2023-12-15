@@ -1,0 +1,4 @@
+Captain Farragut, A good seaman and captain of the frigate who believed in the existence of a sea monster and was determined to rid the seas of it, 0.8
+Ned Land, A Canadian harpooner aboard Captain Farragut's ship, renowned for his skill and strength, skeptical about the existence of the sea monster, 0.9
+Conseil, A character who shows indifference towards the monster hunt, contrasting with the enthusiasm of the crew, 0.6
+Mr. Aronnax, The narrator and a scientist engaging in discussions with Ned Land, invested in the scientific aspect of the sea monster and its existence, 0.8

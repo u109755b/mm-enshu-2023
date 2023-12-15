@@ -1,0 +1,5 @@
+Assistant Professor, A character involved in scientific research and associated with the Museum of Natural History in Paris, 0.6
+Honourable Pierre Aronnax, A professor at the Museum of Paris who is consulted on the phenomenon of a mysterious sea creature and becomes a key opinion leader, 0.8
+Commander Farragut, The person in charge of a frigate, the Abraham Lincoln, on a mission to pursue a mysterious sea creature, 0.7
+J.B. Hobson, The Secretary of Marine who invites Professor Aronnax to join the expedition on the Abraham Lincoln, 0.5
+Narwhal, A marine animal proposed by Aronnax as the potential mysterious creature causing maritime disruptions, 0.4

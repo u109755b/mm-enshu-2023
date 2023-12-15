@@ -1,0 +1,8 @@
+Sara, The protagonist who is admired for her storytelling abilities and kindness, 1.0
+Lavinia, A schoolgirl envious of Sara's storytelling abilities, 0.5
+Becky, A young scullery maid who becomes intrigued by Sara's stories, 0.8
+Lottie, A younger schoolgirl who sees Sara as a motherly figure, 0.4
+Miss Minchin, The headmistress of the school where Sara and other girls reside, 0.6
+Mariette, Sara's maid who provides insights about Becky, 0.3
+Miss Amelia, The sister of Miss Minchin who might appear in the narrative, 0.2
+Emily, Sara's doll, treated as if she were alive by Sara, 0.1

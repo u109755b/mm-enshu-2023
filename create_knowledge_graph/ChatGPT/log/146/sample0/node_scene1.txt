@@ -1,0 +1,10 @@
+Sara Crewe, The protagonist, a new pupil at Miss Minchin's school, fluent in French due to her upbringing, 1.0
+Miss Minchin, The head of the school, stern and severe, critical of Sara, 0.8
+Lavinia Herbert, A nearly thirteen-year-old pupil, feels grown-up and spiteful towards Sara, 0.5
+Lottie Legh, The youngest pupil at age four, referred to as the baby of the school, 0.3
+Mariette, Sara’s French maid, involved in setting up Sara’s clothes, liked by Sara, 0.6
+Jessie, A schoolmate of Sara's and Lavinia's friend, whispers comments about Sara, 0.4
+Monsieur Dufarge, The French teacher at Miss Minchin’s school, impressed with Sara's French, 0.6
+Captain Crewe, Sara’s father, mentioned in her thoughts and background, loves the French language, 0.4
+Emily, Sara’s doll, personified by Sara, recipient of Sara's imaginative thoughts, 0.5
+Miss Amelia, Mentioned in passing as someone Miss Minchin speaks to, likely a teacher or administrator, 0.3

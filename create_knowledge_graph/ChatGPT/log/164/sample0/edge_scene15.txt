@@ -1,0 +1,5 @@
+The input and output nodes of an edge must be one of 'Captain Nemo, I (Narrator), Conseil, Robust companion, Sailor of the Nautilus, Sea-spider, Ingenious naturalist, Sea-otter (Enhydrus), Albatross, Tintoreas (sharks)'
+Sailor of the Nautilus, Sea-spider, defeated, A Sailor of the Nautilus awoke at the moment when a sea-spider was watching the narrator and Captain Nemo pointed it out before it was knocked over by a blow from the butt end of a gun.
+Captain Nemo, Sea-otter (Enhydrus), hunted, Captain Nemo fired at and stunned a sea-otter.
+Captain Nemo, Albatross, hunted, Captain Nemo's companion shouldered his gun and fired at an albatross, which fell stunned due to the shot.
+Tintoreas (sharks), Captain Nemo and companions, threaten, Two tintoreas (sharks) threatened Captain Nemo and his companions, passing by without noticing them.

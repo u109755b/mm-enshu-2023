@@ -1,0 +1,5 @@
+The input and output nodes of an edge must be one of 'Sara Crewe, Captain Crewe, Miss Minchin, Emily, Miss Amelia, Lady Meredith'
+Sara Crewe, Captain Crewe, Daughter-father relationship and affection, Sara Crewe sat with her father Captain Crewe in a cab and Captain Crewe held her affectionately.
+Captain Crewe, Miss Minchin, client-service provider relationship, Captain Crewe brings Sara to Miss Minchin's seminary for her education.
+Sara Crewe, Emily, owner-doll relationship, Sara Crewe talks about Emily as a doll she wants to acquire and be her friend.
+Sara Crewe, Miss Minchin, student-headmistress relationship, Sara Crewe is a student at Miss Minchin's seminary.

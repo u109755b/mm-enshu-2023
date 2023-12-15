@@ -1,0 +1,4 @@
+Captain Nemo, The commander of the submarine Nautilus and the leader of the trapped crew, 1
+I (Narrator), The person recounting the events within the Nautilus, likely Professor Pierre Aronnax, 0.9
+Ned Land, A Canadian harpooner aboard the Nautilus, involved in the efforts to escape the ice, 0.8
+Conseil, The assistant or companion of the narrator, present and supportive during the ordeal, 0.7

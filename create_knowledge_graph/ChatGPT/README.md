@@ -10,10 +10,10 @@
 | 6 | 12 | Through the Looking-Glass by Lewis Carroll | 29,256 | fin |
 | 7 | 35 | The Time Machine by H. G. Wells\** | 32,376 | fin |
 | 8 | 16 | Peter Pan by J. M. Barrie | 47,112 | fin |
-| 9 | 146 | A Little Princess by Frances Hodgson Burnett | 66,264 | summary fin |
-| 10 | 164 | Twenty Thousand Leagues under the Sea by Jules Verne\** | 104,335 | summary fin |
-| 11 | 521 | The Life and Adventures of Robinson Crusoe by Daniel Defoe | 120,792 | summary fin |
-| 12 | 1257 | The three musketeers by Alexandre Dumas and Auguste Maquet | 228,997 | summary fin |
+| 9 | 146 | A Little Princess by Frances Hodgson Burnett | 66,264 | fin |
+| 10 | 164 | Twenty Thousand Leagues under the Sea by Jules Verne\** | 104,335 | fin |
+| 11 | 521 | The Life and Adventures of Robinson Crusoe by Daniel Defoe | 120,792 | todo: 3 |
+| 12 | 1257 | The three musketeers by Alexandre Dumas and Auguste Maquet | 228,997 | todo: 3 |
 
 \*  1_preprocess_txt.py 実行後人手で I. A Scandal in Bohemia のみを抽出
 
@@ -56,6 +56,8 @@
 - 20231214: 120 ChatGPT-output 修正
 - 20231214: 829 ChatGPT-output 修正
 - 20231214: 16 ChatGPT-output 追加 (sample0のみ)
+- 20231215: 146 ChatGPT-output 追加 (sample0のみ)
+- 20231215: 164 ChatGPT-output 追加 (sample0のみ)
 
 
 ### コスト概算

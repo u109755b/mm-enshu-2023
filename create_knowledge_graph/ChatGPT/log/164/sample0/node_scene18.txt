@@ -1,0 +1,6 @@
+Nautilus, Captain Nemo's submarine vessel, 1.0
+Captain Nemo, Mystical and knowledgeable captain of the Nautilus, 1.0
+Conseil, Trusty servant of the protagonist, Professor Aronnax, 0.7
+Professor Aronnax, Main protagonist and narrator, a French marine biologist, 1.0
+Ned Land, Canadian harpooner aboard the Nautilus, 0.8
+Lieutenant, Subordinate and crew member of the Nautilus, 0.6

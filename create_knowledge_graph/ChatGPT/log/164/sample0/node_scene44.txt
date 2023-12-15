@@ -1,0 +1,6 @@
+Captain Nemo, A mysterious and vengeful sea captain, the commander of the Nautilus, 1.0
+Ned Land, A Canadian harpooner and one of the main characters who wishes to escape the Nautilus, 0.9
+Conseil, A servant and devoted companion to the protagonist, often follows and aids in the protagonist’s endeavors, 0.8
+Protagonist (Unnamed, but understood to be Pierre Aronnax from "Twenty Thousand Leagues Under the Sea"), The narrator of the story and a key character who experiences conflict about escaping the Nautilus, 1.0
+Second of Captain Nemo (not named but referenced), Second in command on the Nautilus, role in the story is less clear but inferred as important due to position, 0.5
+Crew of the Nautilus, The individuals operating the Nautilus under Captain Nemo's command, essential for the vessel's function but less individual prominence in the story, 0.6

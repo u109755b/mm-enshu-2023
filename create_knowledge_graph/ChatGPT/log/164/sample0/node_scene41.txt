@@ -1,0 +1,7 @@
+Captain Nemo, The enigmatic captain of the Nautilus and a central figure of the narrative, 1.0
+Conseil, A servant to another character (likely M. Aronnax) who read the recital and found it exact as to facts, 0.6
+The Canadian, Referring to Ned Land, a character who longs for freedom and offers a contrast to Captain Nemo, 0.8
+M. Aronnax, The person recounting the events and possibly the servant's master; heavily involved in the situation on the Nautilus, 0.9
+Ned Land, A vigorous and impatient character who represents a desire for freedom and conveys a threat of revenge, 0.9
+The unfortunate man, A crew member who perishes at the hands of a poulp, eliciting emotional responses from the crew, 0.7
+The Frenchman, A term used to denote Ned Land, highlighting his nationality and connection to the narrator, 0.4

@@ -1,0 +1,6 @@
+Neptune, Roman god of the sea, 0.3
+Pluto, Roman god of the underworld, often associated with geological and subterranean phenomena, 0.3
+Michelet, Historian Jules Michelet, whose work could be referencing the revitalization of man by the Mediterranean climate, 0.1
+Captain Nemo, The enigmatic captain of the submarine Nautilus in Jules Verne's novels, crucial to the narrative as he commands the vessel traveling the Mediterranean, 0.8
+Ned Land, A character known for his desire to escape from Captain Nemo's submarine, a seaman and harpooner, expressing desire for freedom, 0.7
+Conseil, Companion to the narrator, often engaged in scientific discussions and observations, showing interest in marine life and geography, 0.5

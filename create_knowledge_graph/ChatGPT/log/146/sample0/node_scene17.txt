@@ -1,0 +1,15 @@
+Mrs. Carmichael, A comforting woman who explains to Sara what has happened with Mr. Carrisford, 0.4
+Sara Crewe, The protagonist who discovers she is not abandoned and has come into fortune and love, 1.0
+Mr. Carrisford, The sickly "Indian gentleman" who is a friend of Sara's late father and seeks to make amends, 0.7
+Mr. Carmichael, The solicitor aiding Mr. Carrisford in finding Sara and dealing with Miss Minchin, 0.5
+Janet, Mrs. Carmichael's daughter who helps in looking after Sara, 0.3
+Donald, Janet's brother who regrets not having recognized Sara sooner, 0.3
+Miss Minchin, The strict and unkind headmistress of Sara's seminary, 0.6
+Miss Amelia, The timid sister of Miss Minchin who ultimately stands up to her, 0.4
+Ermengarde, Sara's school friend, who is excited about Sara's change in fortune, 0.3
+Lottie, A young pupil at the seminary possibly affected by Sara's change in situation, 0.2
+Jessie, A pupil at the seminary interested in the developments around Sara, 0.2
+Lavinia, A pupil at the seminary curious about the commotion involving Sara, 0.2
+Ram Dass, The servant who helps make Sara comfortable on Mr. Carrisford's orders, 0.4
+Becky, Another girl from the seminary who is to become Sara's attendant, 0.3
+Captain Crewe, Sara's late father, whose perceived lost fortune causes much of the trouble, 0.6

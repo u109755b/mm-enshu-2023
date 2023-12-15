@@ -1,0 +1,8 @@
+Professor Aronnax, A learned academic, 1.0
+Conseil, Loyal servant to Professor Aronnax, 0.5
+Canadian, Friend of Conseil and fellow crew member, likely referring to Ned Land, 0.5
+Captain Nemo, Mysterious commander of the Nautilus, 1.0
+Ned Land, A harpooner and one of the main characters, 0.8
+Steersman, The person steering the Nautilus, 0.2
+Second of Captain Nemo, The deputy to Captain Nemo, 0.4
+Steward, Individual serving meals on the Nautilus, 0.1

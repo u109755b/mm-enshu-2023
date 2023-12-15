@@ -1,0 +1,7 @@
+Professor Aronnax, Ned Land, inform about events, perception, and time, "A seaman could not be mistaken, and I told the Canadian all that had passed during his sleep." | "Quite so, Master Land; it was taking breath." | "Only, Mr. Aronnax, I have no idea what o’clock it is, unless it is dinner-time."
+Professor Aronnax, Conseil, inform about events and confirm about time, "A seaman could not be mistaken, and I told the Canadian all that had passed during his sleep." | "That is my opinion."
+Ned Land, Professor Aronnax, ask about well-being and inform about perception, "Did master sleep well?" | "Soundly, Professor. But I don’t know if I am right or not; there seems to be a sea breeze!"
+Ned Land, Conseil, express disagreement on temperament, "That is just like you, friend Conseil,” said Ned, impatiently. “You are never out of temper, always calm; you would return thanks before grace, and die of hunger rather than complain!"
+Ned Land, Steward, express anticipation and attack, "But dinner or breakfast, the steward will be welcome, whichever he brings." | "Before I could rush forward to stop him, the Canadian had thrown him down, and held him by the throat."
+Conseil, Ned Land and the Steward, attempt to intervene, "Conseil was already trying to unclasp the harpooner’s hand from his half-suffocated victim."
+Steward, Ned Land and Professor Aronnax, request silence, “Be quiet, Master Land; and you, Professor, will you be so good as to listen to me?”

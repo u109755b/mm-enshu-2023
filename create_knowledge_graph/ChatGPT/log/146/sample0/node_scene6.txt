@@ -1,0 +1,13 @@
+Sara Crewe, The protagonist, a rich girl who becomes poor and must adapt to a life of servitude, 1
+Miss Minchin, The strict and greedy headmistress of the seminary where Sara lives, 0.8
+Becky, A scullery maid at the seminary and Sara's secret friend, 0.6
+Captain Crewe, Sara's loving father who dies and leaves her penniless, 0.3
+Mr. Barrow, The solicitor who brings the news of Captain Crewe's death and financial ruin to Miss Minchin, 0.4
+Miss Amelia, Miss Minchin's softer and less assertive sister, 0.5
+Lottie, A younger student who looks up to Sara, 0.2
+Lavinia, A schoolgirl who is jealous of Sara, 0.2
+Jessie, A schoolgirl and Lavinia's friend, 0.2
+Ermengarde, A schoolgirl and one of Sara's friends, 0.3
+The Last Doll, Sara's birthday doll, embodying her past life of luxury (non-human character but represents a pivotal aspect of Sara's change in fortune), 0.5
+James, A manservant at the seminary, 0.1
+Emma, A housemaid at the seminary, 0.1

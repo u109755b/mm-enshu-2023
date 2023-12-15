@@ -1,0 +1,5 @@
+Ned Land, A harpooner who is notably sharp and expresses his indignation at the situation, 0.7
+Conseil, A servant to Professor Aronnax who remains calm and rational throughout the abduction, 0.7
+Professor Aronnax, The narrator of the story, who tries to understand and communicate with the abductors, 0.9
+Captain Nemo, The enigmatic commander of the submarine who observes the abductees with calm assurance, 0.85
+Steward, Person who brings clothes and sets the table for the abductees, showing the hospitality of the captors, 0.6

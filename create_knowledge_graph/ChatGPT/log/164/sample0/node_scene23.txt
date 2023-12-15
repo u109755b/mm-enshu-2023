@@ -1,0 +1,5 @@
+Captain Nemo, The mysterious and enigmatic commander of the submarine vessel Nautilus, with motives beyond avoiding society, possibly seeking revenge, 0.8
+Conseil, The protagonist's loyal companion, a man who views Captain Nemo as a misunderstood genius seeking freedom from society's deceptions, 0.55
+Second Officer, A minor character who performs regular duties on the Nautilus like taking solar observations, less integral to the overall narrative, 0.25
+Sailor of the Nautilus, Another crew member of the Nautilus, part of Captain Nemo's crew and assists in maintaining the submarine, not a focal character for plot progression, 0.2
+Master Conseil, Recorder of the daily observations aboard the Nautilus, likely a specialist or scholar in marine life, contributing to the knowledge and documentation aboard, 0.5

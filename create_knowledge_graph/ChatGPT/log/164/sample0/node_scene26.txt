@@ -1,0 +1,13 @@
+Captain Nemo, Mysterious commander of the Nautilus, 0.9
+M. Aronnax, French professor and protagonist who narrates the story, 0.8
+Ned Land, Canadian harpooner who questions the journey's direction, 0.7
+Moses, Biblical figure referred to in the historical explanation of the Red Sea, 0.2
+M. Lesseps, French diplomat and developer of the Suez Canal, 0.5
+Pharaoh, Egyptian monarch associated with Moses's exodus story, 0.2
+Sesostris, Ancient Egyptian Pharaoh supposedly started canal works, 0.3
+Necos, Egyptian Pharaoh mentioned in the context of ancient canal works, 0.3
+Darius, Persian King who continued canal works, mentioned by Nemo, 0.3
+Ptolemy II, Greek Pharaoh of Egypt associated with canal works, 0.3
+Strabo, Greek geographer and historian who observed the navigated canal, 0.3
+Caliph Omar, Historical figure who restored the canal previously mentioned, 0.3
+General Bonaparte/Napoleon, Referred to in the history of Egypt and the canal, 0.5

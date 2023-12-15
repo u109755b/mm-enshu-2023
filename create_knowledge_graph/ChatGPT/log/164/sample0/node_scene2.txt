@@ -1,0 +1,6 @@
+J. B. Hobson, Secretary of Marine who wrote the letter that inspired the narrator's resolution to chase the unicorn, 0.1
+Unicorn, The elusive monster that the narrator resolves to pursue, 0.7
+Conseil, The devoted servant and companion of the narrator, 0.8
+American Government, The entity offering the mission to the narrator, 0.4
+Narrator, Main character who decides to pursue the unicorn and engages in preparations for the expedition, 1.0
+Commander Farragut, Officer in charge of the expedition on the frigate Abraham Lincoln, 0.6

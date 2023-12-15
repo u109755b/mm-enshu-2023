@@ -1,0 +1,5 @@
+Captain Nemo, Professor Aronnax, explain, "Here, Professor, I ought to give you some explanations."
+Captain Nemo, Electricity, use, "Everything is done by means of it."
+Professor Aronnax, Electricity, question, "Electricity?" I cried in surprise.
+Conseil, Ned Land, devour, Conseil and Ned Land, enchanted with their repast, were devouring it with avidity.
+Captain Nemo, Nautilus, command, "By my orders. An electric thread connects us."

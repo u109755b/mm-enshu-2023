@@ -1,0 +1,18 @@
+Cetacean, A mysterious and puzzling sea creature causing excitement and concern, 0.95
+Captain Baker, Captain of the steamer Governor Higginson who encounters the cetacean, 0.55
+Captain Anderson, Captain of the Scotia who dealt with the aftermath of the creature's attack, 0.6
+Merchants, Individuals excited and concerned about the sea creature's appearance affecting maritime activities, 0.45
+Common Sailors, People at sea who are excited and concerned about the encounters with the mysterious creature, 0.45
+Captains of Vessels, Individuals in charge of ships that have been disturbed by the cetacean, 0.5
+Skippers, Ship masters affected by the sea creature's appearance, 0.45
+Naval Officers, Military seafarers concerned and interested in the mysterious sea phenomenon, 0.5
+Linnæus, Historical figure whose quote is used in the debate on the existence of the cetacean, 0.2
+Aristotle, Historical philosopher mentioned in relation to the existence of sea monsters, 0.15
+Pliny, Ancient author mentioned for his views on sea monsters which are being compared to the cetacean sightings, 0.15
+Bishop Pontoppidan, Historical figure mentioned for his Norwegian tales that contribute to the debate about the cetacean, 0.2
+Paul Heggede, Individual whose accounts add to the controversy regarding the sea creature, 0.2
+Mr. Harrington, Person who claimed to have seen an enormous sea serpent, adding to the monster lore, 0.3
+Engineers, Professionals who inspected the Scotia after it was damaged by the cetacean, 0.4
+Satirical Writers, Journalists who made light of the cetacean sightings, contributing to the public debate, 0.45
+The Monster, Another term for the mysterious cetacean against which the public demanded action, 0.65
+The Chief of the Staff, The author of a satirical article that mocks the existence of the cetacean, 0.4

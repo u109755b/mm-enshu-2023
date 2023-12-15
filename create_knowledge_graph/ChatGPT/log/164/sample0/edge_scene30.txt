@@ -1,0 +1,13 @@
+Atlantic, St. Lawrence, watered by, The Atlantic ocean is watered by the river St. Lawrence.
+Atlantic, Mississippi, watered by, The Atlantic ocean is watered by the river Mississippi.
+Atlantic, Amazon, watered by, The Atlantic ocean is watered by the river Amazon.
+Atlantic, Plata, watered by, The Atlantic ocean is watered by the river Plata.
+Atlantic, Orinoco, watered by, The Atlantic ocean is watered by the river Orinoco.
+Atlantic, Niger, watered by, The Atlantic ocean is watered by the river Niger.
+Atlantic, Senegal, watered by, The Atlantic ocean is watered by the river Senegal.
+Atlantic, Elbe, watered by, The Atlantic ocean is watered by the river Elbe.
+Atlantic, Loire, watered by, The Atlantic ocean is watered by the river Loire.
+Atlantic, Rhine, watered by, The Atlantic ocean is watered by the river Rhine.
+Atlantic, Cape Horn, terminates in, The Atlantic ocean terminates in Cape Horn.
+Atlantic, Cape of Tempests, terminates in, The Atlantic ocean terminates in the Cape of Tempests.
+Nautilus, Atlantic, submerged in, The Nautilus is submerged in the Atlantic ocean.

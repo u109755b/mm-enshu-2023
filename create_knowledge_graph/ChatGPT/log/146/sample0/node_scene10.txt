@@ -1,0 +1,12 @@
+Sara, The protagonist who finds beauty and escapism in sunsets and retains her dignity despite her mistreatment, 0.95
+Ram Dass, The Indian servant of the neighbor who interacts with Sara and values her kindness, 0.6
+Indian gentleman, The new neighbor whom Sara reflects on, possibly the owner of the monkey, 0.5
+Missee Sahib, A term of respect used by Ram Dass for Sara, indicating her as his mistress in his perspective, 0.4
+Miss Minchin, The head of the school where Sara resides, known for her harsh and demeaning treatment towards Sara, 0.75
+Cook, An employee at Miss Minchin's establishment, who notices Sara's polite demeanor, 0.4
+Lascar, An alternative term used by Sara to describe Ram Dass by his ethnicity, 0.2
+Monkey, Ram Dass's pet, which creates a playful chase after escaping, 0.3
+Marie Antoinette, Historical figure Sara admires and emulates in her imagination, 0.2
+King Alfred, Historical figure who Sara thinks of when considering royal figures in disguise, 0.2
+Jessie, A pupil at Miss Minchin's school who is intrigued by Sara's demeanor, 0.4
+Lavinia, A pupil at Miss Minchin's school and likely part of the social dynamics that Sara faces, 0.4

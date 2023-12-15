@@ -1,0 +1,5 @@
+Nautilus, A submarine captained by Nemo, pursuing a course towards the Antarctic regions, 1.0
+Captain Nemo, The leader of the Nautilus and orchestrator of the journey to the Antarctic, 0.9
+Ned Land, A character familiar with icebergs from previous experiences in the Arctic Seas, 0.7
+Conseil, A character who, alongside the narrator, admires the icebergs for the first time, 0.6
+M. Aronnax, The narrator of the story, experiencing and recounting the voyage under the ice, 0.8

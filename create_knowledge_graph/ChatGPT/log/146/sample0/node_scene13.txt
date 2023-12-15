@@ -1,0 +1,7 @@
+Melchisedec, A rat living in the attic who observes the events unfolding without understanding them, 0.6
+Sara, The child referred to in the story, who is friends with Melchisedec and is the subject of the secret plans being made, 1
+Ram Dass, The servant of the Indian gentleman involved in planning something secretive in the attic, 0.8
+The Indian gentleman's secretary, The young man assisting Ram Dass and taking notes for the plans they are making, 0.8
+The Indian gentleman, The person for whom Ram Dass works and whose plans involve Sara, not directly observed in the story but plays a significant role due to his association with Ram Dass and the secretary, 0.7
+Sahib Carrisford, Another name referenced for the Indian gentleman who has a plan that involves Sara, 0.7
+The mistress of the house, She is mentioned as being "evil" and treats Sara poorly, not directly seen but impactful due to her treatment of Sara, 0.5

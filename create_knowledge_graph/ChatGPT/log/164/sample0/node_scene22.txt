@@ -1,0 +1,7 @@
+Captain Nemo, The enigmatic captain of the Nautilus, 1.0
+M. Aronnax, The narrator and a doctor and resident surgeon, 0.9
+Ned Land, A crew member of the Nautilus and companion of M. Aronnax, 0.7
+Conseil, A servant and companion to M. Aronnax, 0.7
+Second Lieutenant, A member of the Nautilus crew giving orders, 0.5
+Impassive Steward, The steward on the Nautilus who serves M. Aronnax, 0.4
+Sick/Wounded Man, A crew member of the Nautilus who is gravely injured, 0.6

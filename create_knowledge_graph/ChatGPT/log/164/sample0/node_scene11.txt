@@ -1,0 +1,3 @@
+M. Aronnax, A professor and the narrator observing the details of the submarine, 0.85
+Captain, The character describing the submarine's features and defending its capabilities, 0.95
+Abraham Lincoln, A vessel that was attacked by the Nautilus, though not a person, it is personified in the text, 0.3

@@ -1,0 +1,4 @@
+Captain Nemo, The commander of the submarine Nautilus and the one who takes the altitude of the Sun to navigate, 0.8
+Ned Land, A Canadian harpooner who is on board the Nautilus and experiences wonder at the sights shown to him, 0.7
+Conseil, Companion to the protagonist who classifies fish alongside Ned Land, 0.6
+Sir, A term of address used by Captain Nemo, possibly referring to the protagonist Professor Aronnax, 0.4

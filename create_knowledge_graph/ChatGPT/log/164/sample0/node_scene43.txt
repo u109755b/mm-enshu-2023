@@ -1,0 +1,11 @@
+Captain Nemo, The mysterious and enigmatic captain of the Nautilus, an advanced submarine, who exhibits both hatred towards oppression and a desire for vengeance, 1.0
+Ned Land, A Canadian harpooner and a crew member aboard the Nautilus who is eager to escape and expresses hostility toward Captain Nemo's vessel, 0.7
+Conseil, A fellow companion and crew member aboard the Nautilus, characterized by his calm demeanor and loyalty, 0.6
+The Avenger, A referenced vessel associated with Captain Nemo's past and indicative of prior acts of vengeance, 0.4
+The Captain of the approaching man-of-war, An unseen character commanding a military ship that engages with the Nautilus, posing a potential threat, 0.5
+Abraham Lincoln, The ship from an earlier encounter where the Canadian, Ned Land, struck it with a harpoon; associated with the pursuit of the Nautilus, 0.3
+Commander Farragut, The commander of the Abraham Lincoln who had previously recognized the Nautilus as a dangerous vessel, 0.3
+The Second of the Nautilus, An officer on the Nautilus who assists Captain Nemo and is involved in the maneuvering of the submarine, 0.4
+The Victim in the Coral Cemetery, A character alluded to as a past casualty connected to an aggressive action taken by the Nautilus, 0.2
+The Crew of the Nautilus, The collective group of individuals manning the Nautilus, sharing Captain Nemo's sentiment and aiding in his mission, 0.5
+The Crew of the man-of-war, The individuals aboard the military ship engaging with the Nautilus, unaware of the true nature of the submarine and its crew, 0.4

@@ -1,0 +1,8 @@
+Nautilus, The submarine vessel in which the story takes place, 0.9
+Ned Land, A Canadian harpooner aboard the Nautilus, shows covetousness and impatience during the hunt, 0.8
+Conseil, Companion of the narrator, present during the dugong hunt, 0.5
+Captain Nemo, The enigmatic captain of the Nautilus who advises and permits Ned Land to hunt the dugong, 0.9
+Dugong, The sea creature that Ned Land attempts to harpoon, an important element of the hunt scene, 0.7
+Coxswain, The helmsman of the boat during the dugong hunt, 0.6
+Sailors, The crew involved in the dugong chase, aiding in the hunt, 0.5
+M. Aronnax, The narrator and main character who observes and describes the events, likely a French scientist, 0.8
