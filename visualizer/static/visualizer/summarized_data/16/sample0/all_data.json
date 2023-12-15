@@ -1,0 +1,2548 @@
+[
+    {
+        "sectionName": "Chapter I. PETER BREAKS THROUGH",
+        "summary": "All children grow up, except for one. Peter Pan is mentioned as a mysterious boy connected to the Darling family, particularly the children: Wendy, John, and Michael. Their nurse is a Newfoundland dog named Nana. The Darling children's minds are filled with thoughts of Peter Pan, a boy who is said to live with the fairies and never grows up. One night, Mrs. Darling dreams of the Neverland and wakes to find Peter Pan in the nursery, recognized by her from the kiss he resembles that she carries in her own being.",
+        "nodes": [
+            {
+                "id": "node_id0",
+                "label": "Wendy",
+                "title": "The eldest of the Darling children, focus of her parents' attention and the first to encounter Peter Pan",
+                "size": 39
+            },
+            {
+                "id": "node_id1",
+                "label": "Mrs. Darling",
+                "title": "The mother of the Darling children, romantic and caring figure, concerned about her children's future and safety",
+                "size": 37
+            },
+            {
+                "id": "node_id2",
+                "label": "Mr. Darling",
+                "title": "The father of the Darling children, practical and proud but sometimes insecure about how he is perceived by others",
+                "size": 34
+            },
+            {
+                "id": "node_id3",
+                "label": "John",
+                "title": "The second child of the Darling family, part of the children's adventures and experiences",
+                "size": 30
+            },
+            {
+                "id": "node_id4",
+                "label": "Michael",
+                "title": "The youngest of the Darling children, depicted as innocent and carefree, also part of the adventures",
+                "size": 30
+            },
+            {
+                "id": "node_id5",
+                "label": "Nana",
+                "title": "The Darling family's nursemaid dog, protector and caretaker of the children",
+                "size": 33
+            },
+            {
+                "id": "node_id6",
+                "label": "Peter Pan",
+                "title": "The mysterious and adventurous boy who appears in the Darling children's lives, central to the unfolding story",
+                "size": 42
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id0",
+                "label": "daughter-mother",
+                "title": "Wendy had various interactions with her mother ranging from sharing moments, concerns about growing up, secrets, and discussions about Peter Pan.",
+                "from": "node_id0",
+                "to": "node_id1",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id1",
+                "label": "romantics-managed to marry",
+                "title": "Mr. Darling both romantically won over Mrs. Darling and felt proud of her respect and love for him.",
+                "from": "node_id2",
+                "to": "node_id1",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id2",
+                "label": "parent-daughter",
+                "title": "Mr. Darling was frightfully proud of Wendy.",
+                "from": "node_id2",
+                "to": "node_id0",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id3",
+                "label": "Michael",
+                "title": "Nana, escort-ducation, Nana took care of escorting Wendy and her brothers to school and their general well-being.",
+                "from": "node_id0",
+                "to": "node_id3",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id4",
+                "label": "doubt-discomfort",
+                "title": "Mr. Darling felt that Nana did not admire him.",
+                "from": "node_id5",
+                "to": "node_id2",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id5",
+                "label": "discovery-awareness",
+                "title": "Mrs. Darling's experience with the concept of Peter Pan evolved from initial curiosity to suspicion, eventually recognizing Peter Pan's presence in reality and dreams.",
+                "from": "node_id1",
+                "to": "node_id6",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id6",
+                "label": "acquaintance",
+                "title": "Wendy believed that Peter Pan visited her at night and played music for her.",
+                "from": "node_id0",
+                "to": "node_id6",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter II. THE SHADOW",
+        "summary": "Mrs. Darling discovers the shadow of a boy who leapt out the window, thinking he was harmed. Nana, the dog nurse, captured the shadow, and Mrs. Darling stored it away. A week later, haunted by that fateful Friday when misadventures occurred, Mr. and Mrs. Darling lament various decisions like pouring medicine, accepting a dinner invitation, and having Nana as a nurse. The night of the party, Mr. Darling struggles with his tie and, after dealing with a medicine-related ruse, confines Nana to the yard. The children are unsettled, sensing danger as the parents leave for the party. Unbeknownst to them, stars watch, awaiting Peter's cue to commence their adventures.",
+        "nodes": [
+            {
+                "id": "node_id7",
+                "label": "Mrs. Darling",
+                "title": "The mother of the Darling children, who is caring and worried about the safety and well-being of her family",
+                "size": 39
+            },
+            {
+                "id": "node_id8",
+                "label": "Nana",
+                "title": "The Darling family's nursemaid dog, who is responsible and protective, particularly of the children",
+                "size": 36
+            },
+            {
+                "id": "node_id9",
+                "label": "Boy's shadow",
+                "title": "The shadow of the boy who leapt through the window, central to a mysterious event in the nursery",
+                "size": 30
+            },
+            {
+                "id": "node_id10",
+                "label": "Mr. Darling",
+                "title": "The father of the Darling children, who is concerned with maintaining order and propriety but also struggles with his pride",
+                "size": 39
+            },
+            {
+                "id": "node_id11",
+                "label": "Liza",
+                "title": "The Darling family\u2019s servant, mentioned in passing but plays a small role in the background",
+                "size": 24
+            },
+            {
+                "id": "node_id12",
+                "label": "Wendy",
+                "title": "The eldest Darling child, who is caring and maternal, emulating her own mother and showing a close bond with her parents",
+                "size": 36
+            },
+            {
+                "id": "node_id13",
+                "label": "John",
+                "title": "A child of the Darling family, who is seen playing and mimicking his father",
+                "size": 33
+            },
+            {
+                "id": "node_id14",
+                "label": "Michael",
+                "title": "The youngest of the Darling children, who resists going to bed and expresses a desire for a mother's love",
+                "size": 33
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id7",
+                "label": "scream in response",
+                "title": "Mrs. Darling screamed, and, as if in answer to a bell, Nana entered.",
+                "from": "node_id7",
+                "to": "node_id8",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id8",
+                "label": "attempt to catch",
+                "title": "She growled and sprang at the boy.<br>Nana hung it out at the window.",
+                "from": "node_id8",
+                "to": "node_id9",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id9",
+                "label": "distress for",
+                "title": "Again Mrs. Darling screamed, this time in distress for him.<br>She ran down into the street to look for his little body.<br>Mrs. Darling examined the shadow carefully.<br>Mrs. Darling could not leave it hanging out at the window.",
+                "from": "node_id7",
+                "to": "node_id9",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id10",
+                "label": "consider showing",
+                "title": "She thought of showing it to Mr. Darling.<br>She decided not to trouble Mr. Darling.",
+                "from": "node_id7",
+                "to": "node_id10",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter III. COME AWAY, COME AWAY!",
+        "summary": "Peter Pan visits the Darling children's nursery after they are left alone. The night-lights go out and Tinker Bell, a fairy, searches for Peter's shadow. Peter arrives, but cannot reattach his shadow. Wendy wakes up and helps him, leading to a friendly conversation where she learns about Peter, the lost boys, and Neverland. Peter is drawn to Wendy's storytelling abilities and invites her to Neverland to tell stories to the lost boys. Wendy is tempted by the adventure and agrees to go with Peter, who promises to teach them to fly. Peter sprinkles them with fairy dust, and after some initial difficulty, the children learn to fly. Just as they are about to leave, Mr. and Mrs. Darling reach the nursery too late; the children and Peter have already flown away towards Neverland.",
+        "nodes": [
+            {
+                "id": "node_id15",
+                "label": "Mr. Darling",
+                "title": "Father of the Darling children and husband to Mrs. Darling",
+                "size": 30
+            },
+            {
+                "id": "node_id16",
+                "label": "Mrs. Darling",
+                "title": "Mother of the Darling children and wife to Mr. Darling",
+                "size": 30
+            },
+            {
+                "id": "node_id17",
+                "label": "Wendy Moira Angela Darling",
+                "title": "The eldest Darling child who is intrigued by Peter Pan",
+                "size": 39
+            },
+            {
+                "id": "node_id18",
+                "label": "John Darling",
+                "title": "The middle Darling child",
+                "size": 33
+            },
+            {
+                "id": "node_id19",
+                "label": "Michael Darling",
+                "title": "The youngest Darling child",
+                "size": 33
+            },
+            {
+                "id": "node_id20",
+                "label": "Nana",
+                "title": "The Darling family's nursemaid dog",
+                "size": 27
+            },
+            {
+                "id": "node_id21",
+                "label": "Peter Pan",
+                "title": "The boy who never grows up and the protagonist of the story",
+                "size": 45
+            },
+            {
+                "id": "node_id22",
+                "label": "Tinker Bell",
+                "title": "A fairy and Peter Pan's companion",
+                "size": 39
+            },
+            {
+                "id": "node_id23",
+                "label": "Liza",
+                "title": "The Darling family's housemaid",
+                "size": 24
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id11",
+                "label": "leave",
+                "title": "Mr. and Mrs. Darling left the house & knew something terrible was happening in their nursery.",
+                "from": "node_id15",
+                "to": "node_id16",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id12",
+                "label": "carry",
+                "title": "He had carried Tinker Bell part of the way & let poor Tink out of the drawer.",
+                "from": "node_id21",
+                "to": "node_id22",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id13",
+                "label": "identify",
+                "title": "She identified Peter, inquired about his name, informed him her name, sewed his shadow, offered stories, and was convinced to go with him.",
+                "from": "node_id17",
+                "to": "node_id21",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id14",
+                "label": "awaken",
+                "title": "Wendy shook John and Michael to wake them up & persuaded them to learn to fly.",
+                "from": "node_id18",
+                "to": "node_id19",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id15",
+                "label": "John Darling",
+                "title": "Michael Darling, fly, They flew out into the night.",
+                "from": "node_id21",
+                "to": "node_id17",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter IV. THE FLIGHT",
+        "summary": "Wendy and the boys follow Peter Pan's whimsical directions toward Neverland, experiencing both the joys and dangers of flying. Peter's carefree attitude toward danger alarms Wendy, especially when he waits until the last second to save the falling boys. They playfully interact with sea creatures, but struggle with flying mechanics and miss having a guiding hand to help steady them. When they finally sight Neverland, the children are thrilled and familiar sights invoke personal memories. However, fear overtakes them as darkness approaches and they become aware of the island's more threatening side. Peter's leadership through hostile invisible forces becomes evident, and they encounter the reality of pirates and the infamous Captain Hook. Tinker Bell, jealous of Wendy, lures her to danger as they all tumble into the true adventures of Neverland.",
+        "nodes": [
+            {
+                "id": "node_id24",
+                "label": "Peter",
+                "title": "The main character who leads others to the Neverland and exhibits a variety of unique and sometimes dangerous behaviors",
+                "size": 45
+            },
+            {
+                "id": "node_id25",
+                "label": "Wendy",
+                "title": "The girl who is concerned about Peter's unconventional ways and cares for her brothers",
+                "size": 39
+            },
+            {
+                "id": "node_id26",
+                "label": "John",
+                "title": "Wendy's brother who is logical and thoughtful about their situation",
+                "size": 33
+            },
+            {
+                "id": "node_id27",
+                "label": "Michael",
+                "title": "The youngest of Wendy's brothers who is involved in the adventure and looks to his siblings for guidance",
+                "size": 33
+            },
+            {
+                "id": "node_id28",
+                "label": "Tinker Bell",
+                "title": "Peter's fairy companion who becomes jealous of Wendy and leads her to danger",
+                "size": 36
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id16",
+                "label": "tells",
+                "title": "Peter had told Wendy, was the way to the Neverland.<br>\u201cI say, Wendy,\u201d he whispered to her, \u201calways if you see me forgetting you, just keep on saying \u2018I\u2019m Wendy,\u2019 and then I\u2019ll remember.\u201d<br>while Wendy was blown upwards with no companion but Tinker Bell.",
+                "from": "node_id24",
+                "to": "node_id25",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id17",
+                "label": "saves",
+                "title": "Eventually Peter would dive through the air, and catch Michael just before he could strike the sea.",
+                "from": "node_id24",
+                "to": "node_id27",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id18",
+                "label": "whispers",
+                "title": "\u201cDo be more polite to him,\u201d Wendy whispered to John.<br>instructs, \u201cThen tell her to go away at once, Peter,\u201d the three cried simultaneously, but he refused.",
+                "from": "node_id25",
+                "to": "node_id26",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id19",
+                "label": "tells",
+                "title": "\u201cThen tell him to stop showing off,\u201d said John.",
+                "from": "node_id26",
+                "to": "node_id24",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id20",
+                "label": "wakes",
+                "title": "Tinker Bell had been asleep on his shoulder, but now he wakened her and sent her on in front.<br>He had a happy idea. John\u2019s hat!",
+                "from": "node_id24",
+                "to": "node_id28",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id21",
+                "label": "begs",
+                "title": "\u201cThen tell her,\u201d Wendy begged, \u201cto put out her light.\u201d",
+                "from": "node_id25",
+                "to": "node_id28",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id22",
+                "label": "orders",
+                "title": "\u201cThen tell her to sleep at once,\u201d John almost ordered.",
+                "from": "node_id26",
+                "to": "node_id28",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id23",
+                "label": "hates",
+                "title": "for Tinker Bell hated to be under an obligation to Wendy.<br>I don\u2019t know whether the idea came suddenly to Tink, or whether she had planned it on the way, but she at once popped out of the hat and began to lure Wendy to her destruction.",
+                "from": "node_id28",
+                "to": "node_id25",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter V. THE ISLAND COME TRUE",
+        "summary": "Peter Pan returns to Neverland, reviving its usual activities. The inhabitants\u2014lost boys, pirates, and natives\u2014cycle around the island, each group hunting the other. The lost boys wear bear skins and remain on alert. Each boy is characterized: Tootles is unlucky, Nibs is cheerful, Slightly is conceited, Curly is a troublemaker, and the twins are indistinguishable. Pirate Captain Hook and his crew are on the trail of the boys, singing menacingly. Hook is distinguished by his elegance, iron hook, and fear of a crocodile that swallowed a ticking clock. The boys hide underground, worrying about Peter and discussing their vague memories of mothers. Hook plans to leave a poisoned cake to kill the boys. As the pirates prepare their trap, the ticking crocodile approaches, sending Hook and Smee running away. Nibs brings news of a mysterious white bird, which Tinker Bell, out of jealousy, convinces the boys to shoot down, believing it's what Peter desires. Tootles shoots the bird, which is revealed to be Wendy, who falls with an arrow in her chest.",
+        "nodes": [
+            {
+                "id": "node_id29",
+                "label": "Peter",
+                "title": "The main character and leader of the Lost Boys",
+                "size": 42
+            },
+            {
+                "id": "node_id30",
+                "label": "Tootles",
+                "title": "The most humble and least fortunate of the Lost Boys",
+                "size": 36
+            },
+            {
+                "id": "node_id31",
+                "label": "Nibs",
+                "title": "The debonair member of the Lost Boys",
+                "size": 33
+            },
+            {
+                "id": "node_id32",
+                "label": "Slightly",
+                "title": "The most conceited Lost Boy who cuts whistles and dances",
+                "size": 33
+            },
+            {
+                "id": "node_id33",
+                "label": "Curly",
+                "title": "A member of the Lost Boys known for being a pickle",
+                "size": 33
+            },
+            {
+                "id": "node_id34",
+                "label": "The Twins",
+                "title": "Two indistinguishable members of the Lost Boys",
+                "size": 33
+            },
+            {
+                "id": "node_id35",
+                "label": "Tinker Bell",
+                "title": "A fairy who is bent on mischief and tries to trick Tootles",
+                "size": 39
+            },
+            {
+                "id": "node_id36",
+                "label": "Cecco",
+                "title": "A handsome Italian pirate",
+                "size": 33
+            },
+            {
+                "id": "node_id37",
+                "label": "James Hook",
+                "title": "The Captain of the pirates and Peter Pan's archenemy",
+                "size": 42
+            },
+            {
+                "id": "node_id38",
+                "label": "Smee",
+                "title": "Captain Hook's boatswain who is oddly genial",
+                "size": 36
+            },
+            {
+                "id": "node_id39",
+                "label": "Starkey",
+                "title": "A pirate and member of Captain Hook's crew",
+                "size": 33
+            },
+            {
+                "id": "node_id40",
+                "label": "Skylights",
+                "title": "A pirate and member of Captain Hook's crew",
+                "size": 30
+            },
+            {
+                "id": "node_id41",
+                "label": "Great Big Little Panther",
+                "title": "A brave of the redskins",
+                "size": 33
+            },
+            {
+                "id": "node_id42",
+                "label": "Tiger Lily",
+                "title": "The princess of the Piccaninny tribe and the most beautiful of the tribe",
+                "size": 39
+            },
+            {
+                "id": "node_id43",
+                "label": "Wendy",
+                "title": "A character that flies overhead and is targeted by Tinker Bell",
+                "size": 39
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id24",
+                "label": "search for and hate lethargy and~",
+                "title": "The lost boys were out looking for Peter. But with the coming of Peter, who hates lethargy, they are under way again. They are forbidden by Peter to look in the least like him. When they seem to be growing up, which is against the rules, Peter thins them out. It was only in Peter\u2019s absence that they could speak of mothers.<br>The pirates were out looking for the lost boys.<br>Such is the terrible man against whom Peter Pan is pitted. \u2019Twas he cut off my arm.<br>\u201cPeter wants you to shoot the Wendy,\u201d Tink\u2019s reply rang out.",
+                "from": "node_id29",
+                "to": "node_id29",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id25",
+                "label": "deceive",
+                "title": "Tinker Bell thinks Tootles is the most easily tricked of the boys.",
+                "from": "node_id35",
+                "to": "node_id30",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id26",
+                "label": "lead",
+                "title": "In the midst of them, the blackest and largest in that dark setting, reclined James Hook.",
+                "from": "node_id37",
+                "to": "node_id37",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id27",
+                "label": "attack by",
+                "title": "But more distinct came the shrill voice of Tinker Bell. The jealous fairy had now cast off all disguise of friendship, and was darting at her victim from every direction, pinching savagely each time she touched.",
+                "from": "node_id43",
+                "to": "node_id35",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id28",
+                "label": "shooting as ordered by Peter",
+                "title": "\u201cLet us do what Peter wishes!\u201d cried the simple boys.",
+                "from": "node_id30",
+                "to": "node_id43",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter VI. THE LITTLE HOUSE",
+        "summary": "Tootles mistakenly shoots Wendy with an arrow, thinking she was a bird, and the boys believe she is dead. They grieve but are interrupted by the sound of Peter Pan's return. Peter is initially unaware of the tragedy and proudly announces he brought a mother (Wendy) for the boys, only to find her apparently lifeless. Tootles admits to shooting the arrow, and as Peter contemplates punishing him, they discover Wendy is still alive, saved by the button Peter had given her. Despite her near-death experience, Wendy accepts the role of mother for the boys and they quickly construct a small house around her. Peter orders various tasks to make Wendy comfortable, including fetching a pretend doctor to tend to her. Wendy wakes up, accepts her new role as the boys' mother, and they celebrate the newly built house. Peter then guards the house and the children as they all settle into their new life, with the evening ending in the cozy, safe little house, watched over by Peter.",
+        "nodes": [
+            {
+                "id": "node_id44",
+                "label": "Tootles",
+                "title": "A Lost Boy who mistakenly shot Wendy, thinking she was a bird",
+                "size": 37
+            },
+            {
+                "id": "node_id45",
+                "label": "Wendy",
+                "title": "The girl who the Lost Boys mistake for a bird and whom they also desire to be their mother",
+                "size": 42
+            },
+            {
+                "id": "node_id46",
+                "label": "Peter",
+                "title": "Leader of the Lost Boys, also responsible for bringing Wendy to Neverland",
+                "size": 43
+            },
+            {
+                "id": "node_id47",
+                "label": "Tinker Bell",
+                "title": "A fairy who is jealous of Wendy and calls Tootles a \"Silly ass\"",
+                "size": 39
+            },
+            {
+                "id": "node_id48",
+                "label": "Slightly",
+                "title": "The first to realize Wendy is not a bird and regards her as a lady",
+                "size": 36
+            },
+            {
+                "id": "node_id49",
+                "label": "Nibs",
+                "title": "Another Lost Boy who acknowledges they have killed Wendy",
+                "size": 33
+            },
+            {
+                "id": "node_id50",
+                "label": "Curly",
+                "title": "A Lost Boy who figures out that Peter brought Wendy to be their caretaker",
+                "size": 33
+            },
+            {
+                "id": "node_id51",
+                "label": "The Twins",
+                "title": "Unnamed Lost Boys who react to Wendy's shooting",
+                "size": 33
+            },
+            {
+                "id": "node_id52",
+                "label": "John",
+                "title": "Wendy's brother, who arrives at the end and helps with the house",
+                "size": 33
+            },
+            {
+                "id": "node_id53",
+                "label": "Michael",
+                "title": "Wendy's youngest brother, who also assists with the construction of Wendy's house",
+                "size": 33
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id29",
+                "label": "shot",
+                "title": "\"Foolish Tootles was standing like a conqueror over Wendy\u2019s body when the other boys sprang, armed, from their trees.\" / \"I have shot the Wendy. Peter will be so pleased with me.\"",
+                "from": "node_id44",
+                "to": "node_id45",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id30",
+                "label": "identify",
+                "title": "\"'This is no bird,' he said in a scared voice. \u2018I think this must be a lady.\u2019\"",
+                "from": "node_id48",
+                "to": "node_id45",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id31",
+                "label": "declare",
+                "title": "\"'And we have killed her,' Nibs said hoarsely.\"",
+                "from": "node_id49",
+                "to": "node_id45",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id32",
+                "label": "express sorrow",
+                "title": "\"'A lady to take care of us at last,' said one of the twins, \u2018and you have killed her!\u2019\"",
+                "from": "node_id51",
+                "to": "node_id45",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id33",
+                "label": "bring",
+                "title": "\"Now I see,' Curly said: 'Peter was bringing her to us.\u2019\" / \"Greetings, boys,\" he cried.\u201d / \u201cGreat news, boys,' he cried, \u2018I have brought at last a mother for you all.\u2019\"",
+                "from": "node_id46",
+                "to": "node_id45",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id34",
+                "label": "confront",
+                "title": "\"'Whose arrow?' he demanded sternly.\" / \"'Mine, Peter,' said Tootles on his knees.\"",
+                "from": "node_id46",
+                "to": "node_id44",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id35",
+                "label": "signal return",
+                "title": "\"'Peter!' they cried, for it was always thus that he signaled his return.\" / \"'I am back,' he said hotly, \u2018why do you not cheer?\u2019\" / \"Then they had to tell Peter of Tink\u2019s crime, and almost never had they seen him look so stern.\"",
+                "from": "node_id46",
+                "to": "node_id46",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id36",
+                "label": "request house",
+                "title": "\"Wendy began to sing: 'I wish I had a pretty house...\u2019\" / \"'Of course it's frightfully fascinating, but you see I am only a little girl. I have no real experience.\u2019\"",
+                "from": "node_id45",
+                "to": "node_id45",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter VII. THE HOME UNDER THE GROUND",
+        "summary": "Peter measures Wendy, John, and Michael for trees that will fit them perfectly for travel in the underground home; Wendy and Michael fit on the first try while John needs adjustments. The home is described as a large room with a floor used for fishing, mutable furniture, and a fireplace, with a bed for the boys and a basket for little Michael. Wendy spends her time sewing and caring for the boys, making new clothes and repairing worn ones, while Peter and the boys have nightly adventures and play new games. Time passes differently in Neverland, and although Wendy does not worry about her parents, she tries to make sure the boys remember their past lives. The narrative struggles to choose which of the many adventures to recount, finally settling on the story of the lagoon.",
+        "nodes": [
+            {
+                "id": "node_id54",
+                "label": "Peter",
+                "title": "The main character who measures the children for hollow trees, fits them to trees, and invents games",
+                "size": 43
+            },
+            {
+                "id": "node_id55",
+                "label": "Wendy",
+                "title": "A girl who enjoys the underground home, takes care of the boys, and is considered Peter\u2019s mother",
+                "size": 42
+            },
+            {
+                "id": "node_id56",
+                "label": "John",
+                "title": "Wendy's brother who had to be altered a little to fit his tree",
+                "size": 36
+            },
+            {
+                "id": "node_id57",
+                "label": "Michael",
+                "title": "The youngest brother who slept differently from the other boys and believed Wendy to be his real mother",
+                "size": 37
+            },
+            {
+                "id": "node_id58",
+                "label": "Hook",
+                "title": "The antagonist who sneered at the boys and is mentioned as a contrast to Peter's knowledge of the trees",
+                "size": 34
+            },
+            {
+                "id": "node_id59",
+                "label": "Tinker Bell",
+                "title": "A fairy with her own private apartment in the underground house, contemptuous of the rest",
+                "size": 39
+            },
+            {
+                "id": "node_id60",
+                "label": "Slightly",
+                "title": "One of the Lost Boys, who competes in answering questions about their past",
+                "size": 33
+            },
+            {
+                "id": "node_id61",
+                "label": "Tootles",
+                "title": "One of the Lost Boys, interacts with Peter during fights",
+                "size": 31
+            },
+            {
+                "id": "node_id62",
+                "label": "Nibs",
+                "title": "One of the Lost Boys, interacts with Peter during fights",
+                "size": 31
+            },
+            {
+                "id": "node_id63",
+                "label": "Twin",
+                "title": "One of the Lost Boys, interacts with Peter during fights",
+                "size": 31
+            },
+            {
+                "id": "node_id64",
+                "label": "Tiger Lily",
+                "title": "An ally of Peter's whom he saved, not detailed in this passage but mentioned",
+                "size": 30
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id37",
+                "label": "measure",
+                "title": "Peter measured Wendy for hollow trees.",
+                "from": "node_id54",
+                "to": "node_id55",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id38",
+                "label": "measure",
+                "title": "Peter measured John for hollow trees.",
+                "from": "node_id54",
+                "to": "node_id56",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id39",
+                "label": "measure",
+                "title": "Peter measured Michael for hollow trees.",
+                "from": "node_id54",
+                "to": "node_id57",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id40",
+                "label": "accommodate",
+                "title": "Peter provided a private apartment for Tinker Bell within the house.",
+                "from": "node_id54",
+                "to": "node_id59",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id41",
+                "label": "save",
+                "title": "Peter saved Tiger Lily's life in the Mermaids\u2019 Lagoon.",
+                "from": "node_id54",
+                "to": "node_id64",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter VIII. THE MERMAIDS\u2019 LAGOON",
+        "summary": "The Mermaids' Lagoon is an enchanted place visited by Peter Pan, Wendy, and the other children, where they swim with mermaids, play games, and rest. Though they interact with mermaids, Wendy never manages to befriend them, as they often flee or act dismissively towards the humans. The mermaids can be seen during full moons, and they play with bubbles made in rainbow-colored water. One day, as the children rest, the atmosphere changes from delightful to ominous, signaling impending danger. Peter, who can detect threats even while asleep, warns the group just as pirates approach. Tiger Lily, captured by the pirates, is to be left on a rock but is saved by Peter impersonating Captain Hook. Hook, planning to capture Wendy and make her the pirates' mother, grows frustrated after the children's unexpected escape. A battle ensues between the pirates and the children, leaving Peter and Wendy stranded on a shrinking rock. As they face their possible doom, a kite appears, and Peter uses it to save Wendy, leaving himself alone to face his fears and the rising waters with bravery.",
+        "nodes": [
+            {
+                "id": "node_id65",
+                "label": "Peter",
+                "title": "The main character of \"Peter Pan\"; a boy who can fly and never grows up",
+                "size": 45
+            },
+            {
+                "id": "node_id66",
+                "label": "Wendy",
+                "title": "The eldest of the Darling children; travels with Peter Pan to Neverland",
+                "size": 42
+            },
+            {
+                "id": "node_id67",
+                "label": "John",
+                "title": "Wendy's younger brother; one of the Darling children who go to Neverland",
+                "size": 39
+            },
+            {
+                "id": "node_id68",
+                "label": "Mermaids",
+                "title": "Mystical creatures of Neverland that live in the Mermaids' Lagoon",
+                "size": 36
+            },
+            {
+                "id": "node_id69",
+                "label": "Hook",
+                "title": "The infamous pirate captain and Peter Pan's nemesis",
+                "size": 42
+            },
+            {
+                "id": "node_id70",
+                "label": "Smee",
+                "title": "Hook's loyal boatswain and one of the key pirates",
+                "size": 33
+            },
+            {
+                "id": "node_id71",
+                "label": "Starkey",
+                "title": "Another member of Hook's pirate crew",
+                "size": 30
+            },
+            {
+                "id": "node_id72",
+                "label": "Tiger Lily",
+                "title": "The daughter of the Native chief and a princess of her tribe in Neverland",
+                "size": 36
+            },
+            {
+                "id": "node_id73",
+                "label": "Michael",
+                "title": "The youngest of the Darling children; travels with Peter Pan to Neverland",
+                "size": 36
+            },
+            {
+                "id": "node_id74",
+                "label": "Tootles",
+                "title": "One of the Lost Boys who live with Peter Pan in Neverland",
+                "size": 27
+            },
+            {
+                "id": "node_id75",
+                "label": "Curly",
+                "title": "Another one of the Lost Boys who live with Peter Pan in Neverland",
+                "size": 27
+            },
+            {
+                "id": "node_id76",
+                "label": "The Never bird",
+                "title": "A bird in Neverland, providing assistance to the characters in its own way",
+                "size": 24
+            },
+            {
+                "id": "node_id77",
+                "label": "The Crocodile",
+                "title": "The creature that pursues Captain Hook throughout Neverland",
+                "size": 33
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id42",
+                "label": "elicited irritation",
+                "title": "Wendy was irritated when she saw Mermaids combing their hair.<br>Mermaids intentionally splashed Wendy with their tails.",
+                "from": "node_id68",
+                "to": "node_id66",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id43",
+                "label": "conversing and sitting",
+                "title": "Peter chatted with the Mermaids and sat on their tails.",
+                "from": "node_id65",
+                "to": "node_id68",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id44",
+                "label": "given a comb",
+                "title": "Peter gave Wendy a comb from the Mermaids.",
+                "from": "node_id66",
+                "to": "node_id65",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id45",
+                "label": "planned rescue",
+                "title": "Peter intended to save Tiger Lily from the Pirates.",
+                "from": "node_id65",
+                "to": "node_id72",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id46",
+                "label": "expressed fear",
+                "title": "Hook expressed fear that Peter is nearby and planning something.<br>Hook wounded Peter during the fight.",
+                "from": "node_id69",
+                "to": "node_id65",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id47",
+                "label": "proposed plan",
+                "title": "Hook proposed a plan to the Pirates to kidnap Wendy and make her their mother.",
+                "from": "node_id69",
+                "to": "node_id69",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id48",
+                "label": "attempted rescue",
+                "title": "Peter tried to rescue Wendy as the Rock was submerging.",
+                "from": "node_id65",
+                "to": "node_id66",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter IX. THE NEVER BIRD",
+        "summary": "Peter is left alone, hearing mermaids retreat to their underwater chambers, when he notices the Never bird struggling to reach him as the waters rise. The bird, determined to save Peter, offers her nest to help him drift ashore, despite containing eggs. Initially, they don't understand each other, but after the bird's persistent efforts, Peter grasps her plan. Using the nest, Peter sails across the lagoon while the Never bird secures her eggs on Starkey's floating hat. Later, Peter and the lost boys return home late, delaying bedtime with their tales and demands, while Wendy ensures everyone is cared for after their adventures.",
+        "nodes": [
+            {
+                "id": "node_id78",
+                "label": "Peter",
+                "title": "The protagonist of the story, often involved in adventures and interactions with other characters",
+                "size": 42
+            },
+            {
+                "id": "node_id79",
+                "label": "The Never bird",
+                "title": "A bird character that tries to assist Peter when he is in trouble, illustrates the theme of helpfulness and compassion within the story",
+                "size": 36
+            },
+            {
+                "id": "node_id80",
+                "label": "Mrs. Darling",
+                "title": "Referenced in comparison to the Never bird's feelings, an earlier character likely important to the main storyline and Peter's background",
+                "size": 27
+            },
+            {
+                "id": "node_id81",
+                "label": "Wendy",
+                "title": "A character who cares for the other characters and instills order, emphasizing themes of responsibility and maternal care",
+                "size": 39
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id49",
+                "label": "clap for",
+                "title": "When the floating object won against the tide, Peter clapped as he found it gallant. The Never bird had come to save Peter and give him her nest, though they could not understand each other's language and forgot their manners. She became irritated, but nonetheless propelled the nest toward him to save him. Peter waved his thanks to her.",
+                "from": "node_id78",
+                "to": "node_id79",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id50",
+                "label": "save",
+                "title": "The Never bird had come to save Peter and give him her nest. She offered the nest and became irritated with Peter as they could not understand each other until she propelled the nest toward him.",
+                "from": "node_id79",
+                "to": "node_id78",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id51",
+                "label": "melt for",
+                "title": "Mrs. Darling melted because Peter had all his first teeth.",
+                "from": "node_id80",
+                "to": "node_id78",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id52",
+                "label": "demand bandages from",
+                "title": "The boys demanded bandages from Wendy, and Wendy cried, \u201cTo bed, to bed,\u201d in a commanding voice.",
+                "from": "node_id81",
+                "to": "node_id81",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter X. THE HAPPY HOME",
+        "summary": "Peter's alliance with the redskins makes them protective allies, watching over the Lost Boys' underground home and standing by for a pirate attack. Peter enjoys being revered as the \"Great White Father\" by the redskins, a sentiment that Wendy quietly disapproves of, believing it to be unfitting.  The children's routine evening is punctuated by playful disputes and Wendy's attempts to maintain order, emphasizing her maternal role. An evening of pretend festivities ensues as Peter brings back nuts and the correct time, and the group prepares for a dance in their nightgowns, pretending it's Saturday night.  As the story progresses, the characters' make-believe family dynamics are highlighted, with Peter pondering his pretend role as their father and the children's desire for a mother figure. Wendy and Peter share a tender moment discussing their familial bond, while Tinker Bell's jealousy and playful banter are evident.  Their final night on the island, unknown to them, is spent in joyous dancing and storytelling, culminating in the children settling down for their favorite bedtime story, which Peter typically dislikes but chooses to stay and listen to this time.",
+        "nodes": [
+            {
+                "id": "node_id82",
+                "label": "Peter Pan",
+                "title": "The leader of the Lost Boys and the central figure around whom the events revolve",
+                "size": 45
+            },
+            {
+                "id": "node_id83",
+                "label": "Wendy Darling",
+                "title": "The mother figure to the Lost Boys and Peter's close companion",
+                "size": 42
+            },
+            {
+                "id": "node_id84",
+                "label": "Tinker Bell",
+                "title": "Peter Pan's feisty fairy companion who exhibits jealousy and a fiery temper",
+                "size": 39
+            },
+            {
+                "id": "node_id85",
+                "label": "Tiger Lily",
+                "title": "The native princess whom Peter saves, becoming his ally",
+                "size": 33
+            },
+            {
+                "id": "node_id86",
+                "label": "John Darling",
+                "title": "Wendy's brother who looks up to Peter and participates in the adventures",
+                "size": 36
+            },
+            {
+                "id": "node_id87",
+                "label": "Michael Darling",
+                "title": "The youngest of the Darling children, who sees Peter as a father figure",
+                "size": 36
+            },
+            {
+                "id": "node_id88",
+                "label": "The Twins",
+                "title": "Two of the Lost Boys with no distinct characteristics but part of Peter's close-knit group",
+                "size": 30
+            },
+            {
+                "id": "node_id89",
+                "label": "Slightly",
+                "title": "Another one of the Lost Boys, known for his musical talent and inventiveness",
+                "size": 30
+            },
+            {
+                "id": "node_id90",
+                "label": "Curly",
+                "title": "One of the Lost Boys who is part of the family unit under Peter's leadership",
+                "size": 30
+            },
+            {
+                "id": "node_id91",
+                "label": "Nibs",
+                "title": "One of the Lost Boys and a resident of the underground home",
+                "size": 30
+            },
+            {
+                "id": "node_id92",
+                "label": "Tootles",
+                "title": "The humblest and most unfortunate of the Lost Boys, often blamed for things he didn't do",
+                "size": 30
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id53",
+                "label": "save",
+                "title": "Peter had saved Tiger Lily from a dreadful fate & there was nothing she and her braves would not do for him.",
+                "from": "node_id82",
+                "to": "node_id85",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id54",
+                "label": "spoil",
+                "title": "appreciate, dance with, express feelings, Peter had brought nuts for the boys as well as the correct time for Wendy, There is nothing more pleasant of an evening for you and me to rest by the fire with the little ones nearby, But we want you to dance, Those of a devoted son, Wendy. (Merged multiple relationships into a single edge)",
+                "from": "node_id82",
+                "to": "node_id83",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id55",
+                "label": "inquire",
+                "title": "May I sit in Peter\u2019s chair, as he is not here?",
+                "from": "node_id83",
+                "to": "node_id86",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id56",
+                "label": "enforce rules",
+                "title": "\"I must have somebody in a cradle,\" she said to Michael.",
+                "from": "node_id83",
+                "to": "node_id87",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id57",
+                "label": "complain",
+                "title": "We complain of John.",
+                "from": "node_id88",
+                "to": "node_id86",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id58",
+                "label": "fatherhood",
+                "title": "It is only make-believe that I am their father. (Generalized \"Children\" to include all applicable child characters as output nodes)",
+                "from": "node_id82",
+                "to": "node_id82",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id59",
+                "label": "assure",
+                "title": "Not if you don't wish it.",
+                "from": "node_id83",
+                "to": "node_id82",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id60",
+                "label": "criticize",
+                "title": "Oh yes, Tinker Bell will tell you.",
+                "from": "node_id83",
+                "to": "node_id84",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id61",
+                "label": "suggest motherhood",
+                "title": "Perhaps Tink wants to be my mother?",
+                "from": "node_id84",
+                "to": "node_id82",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XI. WENDY\u2019S STORY",
+        "summary": "Wendy tells a story to the children about the Darling family, consisting of Mr. and Mrs. Darling and their three children, including a faithful nurse dog, Nana. After being punished by Mr. Darling, the children fly off to Neverland, where they have adventures and are carefree, believing their mother will always leave their nursery window open for their return. Years later, they return home, grown up, and find the window still open, symbolizing their mother\u2019s enduring love. However, Peter Pan experiences a painful realization that not all mothers keep the window open, as his had forgotten him and replaced him with another child. Wendy proposes taking all the lost boys back home to be adopted but is sternly reminded by Peter of his unwillingness to grow up. In the end, the children decide to leave with Wendy, but Peter stays in Neverland, determined to remain a boy forever, untouched by the pains of mature affection and responsibility.",
+        "nodes": [
+            {
+                "id": "node_id93",
+                "label": "Wendy",
+                "title": "A storyteller among the children and Peter Pan's companion",
+                "size": 40
+            },
+            {
+                "id": "node_id94",
+                "label": "Michael",
+                "title": "Wendy's younger brother who is at her feet during the story",
+                "size": 36
+            },
+            {
+                "id": "node_id95",
+                "label": "Peter (Peter Pan)",
+                "title": "The leader of the Lost Boys who detests grown-ups and intervenes to ensure Wendy can tell her story",
+                "size": 43
+            },
+            {
+                "id": "node_id96",
+                "label": "John",
+                "title": "One of Wendy's brothers who engages with the story she tells",
+                "size": 36
+            },
+            {
+                "id": "node_id97",
+                "label": "Mr. Darling",
+                "title": "Character in Wendy's story, the father",
+                "size": 27
+            },
+            {
+                "id": "node_id98",
+                "label": "Mrs. Darling",
+                "title": "Character in Wendy's story, the mother",
+                "size": 27
+            },
+            {
+                "id": "node_id99",
+                "label": "Nana",
+                "title": "A nurse to Wendy, John, and Michael in the story told by Wendy",
+                "size": 30
+            },
+            {
+                "id": "node_id100",
+                "label": "Tootles",
+                "title": "One of the Lost Boys who shows affection for the concept of a mother's love",
+                "size": 34
+            },
+            {
+                "id": "node_id101",
+                "label": "Nibs",
+                "title": "One of the Lost Boys who questions about the story and mothers",
+                "size": 34
+            },
+            {
+                "id": "node_id102",
+                "label": "Curly",
+                "title": "One of the Lost Boys who expresses a wish about the story's character",
+                "size": 33
+            },
+            {
+                "id": "node_id103",
+                "label": "The first twin",
+                "title": "One of the twins among the Lost Boys who interacts during Wendy's story",
+                "size": 33
+            },
+            {
+                "id": "node_id104",
+                "label": "The second twin",
+                "title": "The other twin among the Lost Boys who worries about the story's ending",
+                "size": 33
+            },
+            {
+                "id": "node_id105",
+                "label": "Tinker Bell (Tink)",
+                "title": "A fairy in Peter Pan's company who is tasked with helping Wendy",
+                "size": 37
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id62",
+                "label": "is at the feet of",
+                "title": "\"Michael at her feet.\"",
+                "from": "node_id93",
+                "to": "node_id94",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id63",
+                "label": "narrates a story about",
+                "title": "\"Wendy\u2019s Story.\"<br>\"Wendy, now equipped with John and Michael for the journey.\"<br>\"Dear ones,\" she said, \"if you will all come with me I feel almost sure I can get my father and mother to adopt you.\"",
+                "from": "node_id93",
+                "to": "node_id93",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id64",
+                "label": "is married to",
+                "title": "\"The gentleman\u2019s name was Mr. Darling, and her name was Mrs. Darling.\"<br>\"They were married, you know, and what do you think they had?...They had three descendants.\"",
+                "from": "node_id97",
+                "to": "node_id98",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id65",
+                "label": "identified as",
+                "title": "\"was one of the lost children called Tootles? Yes, he was.\"",
+                "from": "node_id100",
+                "to": "node_id100",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id66",
+                "label": "accused by",
+                "title": "\"Wendy, you are wrong about mothers.\"",
+                "from": "node_id93",
+                "to": "node_id95",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id67",
+                "label": "took on a journey across the sea",
+                "title": "\"Tinker Bell will take you across the sea.\"",
+                "from": "node_id105",
+                "to": "node_id93",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id68",
+                "label": "not keeping a girl in Neverland against~",
+                "title": "\"He would keep no girl in the Neverland against her will.\"",
+                "from": "node_id95",
+                "to": "node_id95",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XII. THE CHILDREN ARE CARRIED OFF",
+        "summary": "Pirate Hook orchestrates a surprise attack on the native tribe in disregard of customary battle tactics, and despite the natives' readiness, they are caught off guard by Hook's unconventional approach. The encounter results in a heavy loss for the Piccaninny tribe, though they manage to inflict some casualties on the pirates as well. Hook's strategic ruthlessness is questioned, and his personal vendetta against Peter Pan, driven by Peter's cockiness, is highlighted. The night's violence resolves with the pirates deceiving the captured children into believing they have lost, using the sound of a tom-tom to signal false victory.",
+        "nodes": [
+            {
+                "id": "node_id106",
+                "label": "Hook",
+                "title": "The pirate captain and antagonist",
+                "size": 43
+            },
+            {
+                "id": "node_id107",
+                "label": "The Piccaninnies",
+                "title": "The native tribe opposing Hook and the pirates",
+                "size": 34
+            },
+            {
+                "id": "node_id108",
+                "label": "Tiger Lily",
+                "title": "The leader of the Piccaninnies",
+                "size": 36
+            },
+            {
+                "id": "node_id109",
+                "label": "Lean Wolf",
+                "title": "A member of the Piccaninnies who perishes in the conflict",
+                "size": 27
+            },
+            {
+                "id": "node_id110",
+                "label": "Alf Mason",
+                "title": "A pirate who is killed by Lean Wolf",
+                "size": 27
+            },
+            {
+                "id": "node_id111",
+                "label": "Geo. Scourie",
+                "title": "A pirate who was killed in the conflict",
+                "size": 27
+            },
+            {
+                "id": "node_id112",
+                "label": "Chas. Turley",
+                "title": "A pirate who fell to the tomahawk of the Panther",
+                "size": 27
+            },
+            {
+                "id": "node_id113",
+                "label": "The Alsatian Foggerty",
+                "title": "A pirate who bit the dust in the battle",
+                "size": 27
+            },
+            {
+                "id": "node_id114",
+                "label": "The Panther",
+                "title": "A notable member of the Piccaninnies",
+                "size": 28
+            },
+            {
+                "id": "node_id115",
+                "label": "Peter",
+                "title": "The boy whom Hook despises and seeks",
+                "size": 43
+            },
+            {
+                "id": "node_id116",
+                "label": "Wendy",
+                "title": "A girl associated with Peter and the band",
+                "size": 30
+            },
+            {
+                "id": "node_id117",
+                "label": "Smee",
+                "title": "A pirate under Hook's command",
+                "size": 33
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id69",
+                "label": "misguided trust",
+                "title": "The Piccaninnies, on their part, trusted implicitly to Hook's honor.<br>those confiding savages were found by the treacherous Hook.",
+                "from": "node_id106",
+                "to": "node_id107",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id70",
+                "label": "leadership",
+                "title": "Around the brave Tiger Lily were a dozen of her stoutest warriors.",
+                "from": "node_id108",
+                "to": "node_id108",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id71",
+                "label": "strategic positioning",
+                "title": "The main body of the redskins folded their blankets around them, and squatted above the children\u2019s home.",
+                "from": "node_id107",
+                "to": "node_id107",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id72",
+                "label": "fatal encounter",
+                "title": "with Lean Wolf fell Alf Mason.",
+                "from": "node_id109",
+                "to": "node_id110",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id73",
+                "label": "tomahawk killing",
+                "title": "Turley fell to the tomahawk of the terrible Panther.",
+                "from": "node_id112",
+                "to": "node_id114",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id74",
+                "label": "alliance",
+                "title": "Panther ultimately cut a way through the pirates with Tiger Lily.",
+                "from": "node_id108",
+                "to": "node_id114",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id75",
+                "label": "source of animosity",
+                "title": "The truth is that there was a something about Peter which goaded the pirate captain to frenzy.",
+                "from": "node_id115",
+                "to": "node_id106",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id76",
+                "label": "deceptive action",
+                "title": "Now Smee had found the tom-tom.",
+                "from": "node_id117",
+                "to": "node_id117",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id77",
+                "label": "order to deceive",
+                "title": "To his amazement Hook signed him to beat the tom-tom.",
+                "from": "node_id106",
+                "to": "node_id117",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XIII. DO YOU BELIEVE IN FAIRIES?",
+        "summary": "The children, including Wendy, are captured by pirates, with Peter remaining asleep, unaware of the events. Hook poisons Peter's medicine, but Tinker Bell drinks it to save him, almost dying in the process. She is revived by the belief in fairies from children Peter calls upon. Peter then sets out to rescue Wendy and the boys from the pirates, undeterred by the dangerous journey ahead.",
+        "nodes": [
+            {
+                "id": "node_id118",
+                "label": "Curly",
+                "title": "One of the boys captured by the pirates",
+                "size": 33
+            },
+            {
+                "id": "node_id119",
+                "label": "Cecco",
+                "title": "A pirate who first catches Curly",
+                "size": 31
+            },
+            {
+                "id": "node_id120",
+                "label": "Smee",
+                "title": "A pirate who participates in passing Curly along",
+                "size": 31
+            },
+            {
+                "id": "node_id121",
+                "label": "Starkey",
+                "title": "A pirate involved in the chain of throwing Curly",
+                "size": 31
+            },
+            {
+                "id": "node_id122",
+                "label": "Bill Jukes",
+                "title": "A pirate who helps in flinging Curly to another pirate",
+                "size": 31
+            },
+            {
+                "id": "node_id123",
+                "label": "Noodler",
+                "title": "The last pirate in the chain to toss Curly",
+                "size": 31
+            },
+            {
+                "id": "node_id124",
+                "label": "Wendy",
+                "title": "The girl who is treated differently by Hook and is fascinated by him",
+                "size": 37
+            },
+            {
+                "id": "node_id125",
+                "label": "Hook",
+                "title": "The captain of the pirates, known for his ironical politeness and malignant triumph",
+                "size": 43
+            },
+            {
+                "id": "node_id126",
+                "label": "Slightly",
+                "title": "A boy with a secret that makes him vulnerable to Hook's plans",
+                "size": 36
+            },
+            {
+                "id": "node_id127",
+                "label": "Peter",
+                "title": "The main protagonist of the story who is potentially at the mercy of Hook",
+                "size": 42
+            },
+            {
+                "id": "node_id128",
+                "label": "Tink or Tinker Bell",
+                "title": "A fairy who informs Peter of the capture and later saves him by drinking the poisoned medicine",
+                "size": 40
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id78",
+                "label": "Smee",
+                "title": "Starkey, Bill Jukes, Noodler, Wendy, Hook, Slightly, Peter, Tink or Tinker Bell'",
+                "from": "node_id128",
+                "to": "node_id119",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id79",
+                "label": "tossed to",
+                "title": "Curly rose out of his tree into the arms of Cecco.",
+                "from": "node_id118",
+                "to": "node_id119",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id80",
+                "label": "tossed to",
+                "title": "Cecco flung Curly to Smee.",
+                "from": "node_id119",
+                "to": "node_id120",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id81",
+                "label": "tossed to",
+                "title": "Smee flung Curly to Starkey.",
+                "from": "node_id120",
+                "to": "node_id121",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id82",
+                "label": "tossed to",
+                "title": "Starkey flung Curly to Bill Jukes.",
+                "from": "node_id121",
+                "to": "node_id122",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id83",
+                "label": "tossed to",
+                "title": "Bill Jukes flung Curly to Noodler.",
+                "from": "node_id122",
+                "to": "node_id123",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id84",
+                "label": "escorted",
+                "title": "Hook raised his hat to Wendy and escorted her to the spot where the boys were being gagged.",
+                "from": "node_id125",
+                "to": "node_id124",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id85",
+                "label": "discovered secret",
+                "title": "Hook discovered Slightly\u2019s secret which was that no boy so blown out could use a tree wherein an average man need stick.",
+                "from": "node_id125",
+                "to": "node_id126",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id86",
+                "label": "planned attack on",
+                "title": "Hook had a foul attempt planned on Peter\u2019s life.<br>Hook added five drops of poison to Peter\u2019s medicine with an exultation.",
+                "from": "node_id125",
+                "to": "node_id127",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id87",
+                "label": "alerted",
+                "title": "Tinker Bell alerted Peter about the capture of Wendy and the boys and also about his poisoned medicine.",
+                "from": "node_id128",
+                "to": "node_id127",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XIV. THE PIRATE SHIP",
+        "summary": "The Jolly Roger, a notorious pirate ship, lay off Kidd's Creek. Smee, the ever-diligent but pathetic mate, worked his sewing machine on deck, while Captain Hook brooded over his triumph and personal dilemmas, such as his obsession with good form and his concealed prestigious background. Hook grappled with his success, loneliness, and an anticipated early demise, all while preparing to make the captured boys walk the plank. Tootles and the boys, true to their moral upbringing, refused to become pirates. Wendy was brought up, and even in the face of death, she inspired the boys to be brave. As the execution was about to take place, Peter Pan's ticking\u2014signifying the feared crocodile\u2014was heard approaching, which turned out to be Peter himself, ready to intervene.",
+        "nodes": [
+            {
+                "id": "node_id129",
+                "label": "Smee",
+                "title": "A member of Captain Hook's pirate crew who sits at the ship's sewing machine",
+                "size": 34
+            },
+            {
+                "id": "node_id130",
+                "label": "Hook",
+                "title": "The pirate captain of the Jolly Roger, the antagonist of the story, deeply troubled and obsessed with good form",
+                "size": 45
+            },
+            {
+                "id": "node_id131",
+                "label": "Peter",
+                "title": "The protagonist, referred to at the end as the one coming aboard the ship, previously removed from Hook\u2019s path",
+                "size": 42
+            },
+            {
+                "id": "node_id132",
+                "label": "Wendy",
+                "title": "A prisoner on the pirate ship, motherly figure to the boys, and despised by the pirates",
+                "size": 39
+            },
+            {
+                "id": "node_id133",
+                "label": "Tootles",
+                "title": "A boy who steps forward to interact with Hook, one of the children on the ship",
+                "size": 27
+            },
+            {
+                "id": "node_id134",
+                "label": "Slightly",
+                "title": "A boy on the ship who responds to Tootles when questioned about being a pirate",
+                "size": 25
+            },
+            {
+                "id": "node_id135",
+                "label": "The first twin",
+                "title": "One of the twins who responds to Tootles' question regarding the desire to be a pirate",
+                "size": 25
+            },
+            {
+                "id": "node_id136",
+                "label": "Nibs",
+                "title": "Another boy who was about to be asked by Tootles but is interrupted by Hook",
+                "size": 24
+            },
+            {
+                "id": "node_id137",
+                "label": "John",
+                "title": "One of Wendy\u2019s brothers who is singled out by Hook for having a bit of pluck",
+                "size": 31
+            },
+            {
+                "id": "node_id138",
+                "label": "Michael",
+                "title": "The youngest of Wendy\u2019s brothers who discusses potential pirate names with John",
+                "size": 31
+            },
+            {
+                "id": "node_id139",
+                "label": "Curly",
+                "title": "A boy on the ship who cries out \"Rule Britannia!\" showing loyalty to England",
+                "size": 25
+            },
+            {
+                "id": "node_id140",
+                "label": "The crocodile",
+                "title": "Mentioned at the end, brings fear to Hook, not physically present but its ticking is heard",
+                "size": 27
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id88",
+                "label": "touch",
+                "title": "More than once on summer evenings he had touched the fount of Hook\u2019s tears and made it flow.",
+                "from": "node_id130",
+                "to": "node_id129",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id89",
+                "label": "remove",
+                "title": "Peter had been removed forever from his path.",
+                "from": "node_id130",
+                "to": "node_id131",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id90",
+                "label": "despise",
+                "title": "Wendy despised those pirates.",
+                "from": "node_id130",
+                "to": "node_id132",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id91",
+                "label": "fear",
+                "title": "The terrible tick-tick of the crocodile was the only thing that truly frightened Hook.",
+                "from": "node_id130",
+                "to": "node_id140",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XV. \u201cHOOK OR ME THIS TIME\u201d",
+        "summary": "During an adventure on the island, Peter Pan encounters a ticking-less crocodile which leads to a series of events where he uses the ticking sound to his advantage, impersonates it, and attracts the beast unknowingly. He resolves to face Captain Hook, uttering \"Hook or me this time.\" In a confrontation aboard Hook's ship, Peter's cunning and swordsmanship ultimately lead to a battle where the Lost Boys triumph over the pirates. Hook's last stand is marked by his choice to leap into the sea, where he meets his end at the jaws of the crocodile, having been spared the knowledge of its presence. Smee and Starkey are the only pirates to escape, while Peter and the Lost Boys celebrate their victory. Wendy inspires awe in the boys with her nurturing presence both during and after the fight. The chapter ends with the children settling into sleep on the ship.",
+        "nodes": [
+            {
+                "id": "node_id141",
+                "label": "Peter",
+                "title": "The main protagonist who is mistaken for a crocodile",
+                "size": 45
+            },
+            {
+                "id": "node_id142",
+                "label": "Hook",
+                "title": "The captain of the pirates and Peter's nemesis",
+                "size": 42
+            },
+            {
+                "id": "node_id143",
+                "label": "The crocodile",
+                "title": "The creature that has lost its ticking sound, leading to a case of mistaken identity",
+                "size": 33
+            },
+            {
+                "id": "node_id144",
+                "label": "Slightly",
+                "title": "One of the boys and a member of Peter's group, known for counting out loud during conflicts",
+                "size": 30
+            },
+            {
+                "id": "node_id145",
+                "label": "Smee",
+                "title": "Hook's boatswain and one of the pirates, known for his spectacles",
+                "size": 27
+            },
+            {
+                "id": "node_id146",
+                "label": "Wendy",
+                "title": "A girl who is bound to the mast but is ultimately saved by Peter",
+                "size": 39
+            },
+            {
+                "id": "node_id147",
+                "label": "Cecco",
+                "title": "One of Hook's pirates who is sent into the cabin and is later found dead",
+                "size": 24
+            },
+            {
+                "id": "node_id148",
+                "label": "Starkey",
+                "title": "A pirate and part of Hook's crew who later escapes and is captured by the redskins",
+                "size": 24
+            },
+            {
+                "id": "node_id149",
+                "label": "Ed Teynte",
+                "title": "The quartermaster who is killed as he emerges from the forecastle",
+                "size": 21
+            },
+            {
+                "id": "node_id150",
+                "label": "Bill Jukes",
+                "title": "A pirate who is found dead in the cabin",
+                "size": 21
+            },
+            {
+                "id": "node_id151",
+                "label": "Mullins",
+                "title": "One of the pirates, part of Hook's crew",
+                "size": 21
+            },
+            {
+                "id": "node_id152",
+                "label": "Noodler",
+                "title": "Another pirate among Hook's crew",
+                "size": 18
+            },
+            {
+                "id": "node_id153",
+                "label": "Cookson",
+                "title": "A pirate who suspects the presence of an additional person on board",
+                "size": 18
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id92",
+                "label": "remember not ticking",
+                "title": "Peter remembered that the crocodile had not been ticking.",
+                "from": "node_id141",
+                "to": "node_id143",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id93",
+                "label": "follow",
+                "title": "The crocodile followed Peter mistaking his ticking for its own.",
+                "from": "node_id143",
+                "to": "node_id141",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id94",
+                "label": "cower from",
+                "title": "The pirates cowered from Peter, mistaking his ticking for the crocodile's.",
+                "from": "node_id141",
+                "to": "node_id141",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id95",
+                "label": "abject fear",
+                "title": "Hook was abject as if he had heard the crocodile.<br>Hook and Peter engaged in a sword fight to the death.",
+                "from": "node_id142",
+                "to": "node_id141",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id96",
+                "label": "confirm",
+                "title": "Smee confirmed the ticking sound had passed and all was still again.",
+                "from": "node_id145",
+                "to": "node_id145",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id97",
+                "label": "command",
+                "title": "Hook commanded Jukes to fetch the cat.",
+                "from": "node_id142",
+                "to": "node_id142",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id98",
+                "label": "command",
+                "title": "Hook told Cecco to fetch out the crowing doodle-doo.",
+                "from": "node_id142",
+                "to": "node_id147",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id99",
+                "label": "accuse",
+                "title": "Hook accused Starkey of mutiny, prompting him to jump overboard.",
+                "from": "node_id142",
+                "to": "node_id148",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id100",
+                "label": "eaten by",
+                "title": "Hook, knowing nothing of the crocodile's presence, was eaten by it.",
+                "from": "node_id142",
+                "to": "node_id143",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XVI. THE RETURN HOME",
+        "summary": "The crew aboard the ship, including Peter and Tinker Bell, prepare to return home with Peter acting as captain and maintaining strict authority. Plans for their homecoming and Wendy's reluctancy to create a pirate suit for Peter hint at deception. Back at the nursery, Mrs. Darling remains in distress over the children's absence, while Mr. Darling, feeling responsible, has taken to living in the kennel as penance. The public becomes sympathetic to his plight. Meanwhile, Peter plots to keep Wendy from reuniting with her family by closing the nursery window. However, the window is left open, allowing Wendy, John, and Michael to return home to their unsuspecting parents, who cannot initially believe the children are truly back. The family is joyously reunited, with the exception of Peter, who remains outside, barred from the familial happiness he facilitated.",
+        "nodes": [
+            {
+                "id": "node_id154",
+                "label": "Tootles",
+                "title": "A member of the crew stirring their stumps in the morning",
+                "size": 31
+            },
+            {
+                "id": "node_id155",
+                "label": "Nibs",
+                "title": "First mate on the ship",
+                "size": 33
+            },
+            {
+                "id": "node_id156",
+                "label": "John",
+                "title": "Second mate on the ship",
+                "size": 33
+            },
+            {
+                "id": "node_id157",
+                "label": "Peter",
+                "title": "The captain who lashed himself to the wheel and led the crew",
+                "size": 42
+            },
+            {
+                "id": "node_id158",
+                "label": "Slightly",
+                "title": "A crew member who got punished for looking perplexed",
+                "size": 31
+            },
+            {
+                "id": "node_id159",
+                "label": "Wendy",
+                "title": "The girl creating a suit out of Hook's garments and central to Peter's plans",
+                "size": 40
+            },
+            {
+                "id": "node_id160",
+                "label": "Mrs. Darling",
+                "title": "The mother of Wendy, John, and Michael, who is missed at home",
+                "size": 39
+            },
+            {
+                "id": "node_id161",
+                "label": "Mr. Darling",
+                "title": "The father who feels remorse for his actions and is in the kennel",
+                "size": 39
+            },
+            {
+                "id": "node_id162",
+                "label": "Nana",
+                "title": "The family's nurse who is a dog, symbolizing loyalty and care",
+                "size": 37
+            },
+            {
+                "id": "node_id163",
+                "label": "Liza",
+                "title": "The servant who scorns Mr. Darling's choice of staying in the kennel",
+                "size": 30
+            },
+            {
+                "id": "node_id164",
+                "label": "Hook",
+                "title": "The pirate from whom Wendy is making Peter's new suit (not actively present in events but mentioned)",
+                "size": 34
+            },
+            {
+                "id": "node_id165",
+                "label": "Michael",
+                "title": "One of the children taken by Peter, and youngest of the three siblings",
+                "size": 36
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id101",
+                "label": "John",
+                "title": "Peter, Slightly, Wendy, Mrs. Darling, Mr. Darling, Nana, Liza, Hook, Michael'",
+                "from": "node_id154",
+                "to": "node_id155",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id102",
+                "label": "serve as",
+                "title": "Nibs was the first mate.",
+                "from": "node_id155",
+                "to": "node_id155",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id103",
+                "label": "serve as",
+                "title": "John was the second mate.",
+                "from": "node_id156",
+                "to": "node_id156",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id104",
+                "label": "lashed to",
+                "title": "Peter had already lashed himself to the wheel.<br>Peter piped all hands and delivered a short address.<br>Peter treated the crew as dogs.",
+                "from": "node_id157",
+                "to": "node_id157",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id105",
+                "label": "received",
+                "title": "Slightly got a dozen for looking perplexed.",
+                "from": "node_id158",
+                "to": "node_id158",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id106",
+                "label": "making",
+                "title": "Wendy was making a new suit for Peter out of Hook's garments.",
+                "from": "node_id159",
+                "to": "node_id159",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id107",
+                "label": "crawled",
+                "title": "Mr. Darling crawled into the kennel.<br>Every morning the kennel was carried with Mr. Darling in it to a cab.",
+                "from": "node_id161",
+                "to": "node_id161",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id108",
+                "label": "have affection for",
+                "title": "Some like Wendy best, and some like Michael best.",
+                "from": "node_id159",
+                "to": "node_id165",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id109",
+                "label": "wait for",
+                "title": "Mrs. Darling was in the night-nursery awaiting George's return home.<br>Mrs. Darling left the window open for the children.",
+                "from": "node_id160",
+                "to": "node_id160",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id110",
+                "label": "observe",
+                "title": "Peter peeped in again to see what Mrs. Darling was doing.",
+                "from": "node_id157",
+                "to": "node_id160",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id111",
+                "label": "Michael",
+                "title": "action, flew in, Wendy, John, and Michael flew into the room.",
+                "from": "node_id159",
+                "to": "node_id156",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id112",
+                "label": "stay with",
+                "title": "Nana stayed with Mrs. Darling when the children left.",
+                "from": "node_id162",
+                "to": "node_id160",
+                "arrows": "to"
+            }
+        ]
+    },
+    {
+        "sectionName": "Chapter XVII. WHEN WENDY GREW UP",
+        "summary": "Wendy and the lost boys grew up, with most becoming ordinary adults. Peter Pan remained a boy and continued his adventures, returning annually for Wendy's spring cleaning. Wendy married and had a daughter, Jane, who also meets Peter. Eventually, Peter takes Jane, and later her daughter Margaret, to Neverland for spring cleaning, perpetuating the cycle of the timeless boy and the children who grow up.",
+        "nodes": [
+            {
+                "id": "node_id166",
+                "label": "Wendy",
+                "title": "The girl who grew up and had a family, later becoming a storyteller for her daughter",
+                "size": 45
+            },
+            {
+                "id": "node_id167",
+                "label": "Peter Pan",
+                "title": "The boy who never grows up and continues his adventures in Neverland",
+                "size": 42
+            },
+            {
+                "id": "node_id168",
+                "label": "Mrs. Darling",
+                "title": "Wendy's mother who adopts the Lost Boys",
+                "size": 36
+            },
+            {
+                "id": "node_id169",
+                "label": "Mr. Darling",
+                "title": "Wendy's father who struggles with the idea of having more children",
+                "size": 33
+            },
+            {
+                "id": "node_id170",
+                "label": "The first twin",
+                "title": "A Lost Boy characterized as the proud one",
+                "size": 27
+            },
+            {
+                "id": "node_id171",
+                "label": "The twins",
+                "title": "Lost Boys who are part of the group adopted by the Darlings",
+                "size": 30
+            },
+            {
+                "id": "node_id172",
+                "label": "Nibs",
+                "title": "Another Lost Boy who suggests to lie doubled up to take less space",
+                "size": 27
+            },
+            {
+                "id": "node_id173",
+                "label": "Slightly",
+                "title": "A Lost Boy who ends up being put into higher classes at school",
+                "size": 27
+            },
+            {
+                "id": "node_id174",
+                "label": "Tootles",
+                "title": "A Lost Boy who believes Mr. Darling is not a cypher, later becoming a judge",
+                "size": 27
+            },
+            {
+                "id": "node_id175",
+                "label": "Curly",
+                "title": "A Lost Boy, later one of the children going to an office",
+                "size": 24
+            },
+            {
+                "id": "node_id176",
+                "label": "Tinker Bell (Tink)",
+                "title": "Peter's fairy companion who lives with him in the tree top house",
+                "size": 36
+            },
+            {
+                "id": "node_id177",
+                "label": "Michael",
+                "title": "Wendy's younger brother, becomes an engine-driver",
+                "size": 33
+            },
+            {
+                "id": "node_id178",
+                "label": "John",
+                "title": "Wendy's other younger brother, who is mentioned briefly in comparison to another character",
+                "size": 30
+            },
+            {
+                "id": "node_id179",
+                "label": "Jane",
+                "title": "Wendy's daughter who inherits the tradition of going to Neverland with Peter",
+                "size": 39
+            },
+            {
+                "id": "node_id180",
+                "label": "Margaret",
+                "title": "Jane's daughter and the future \"mother\" to Peter, mentioned in the prediction of a continuing cycle",
+                "size": 24
+            }
+        ],
+        "edges": [
+            {
+                "id": "edge_id113",
+                "label": "adopt",
+                "title": "Mrs. Darling said at once that she would have Wendy.",
+                "from": "node_id168",
+                "to": "node_id166",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id114",
+                "label": "think",
+                "title": "Mr. Darling thought six a rather large number.<br>Mr. Darling said he would find space for them all in the drawing-room.",
+                "from": "node_id169",
+                "to": "node_id171",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id115",
+                "label": "think",
+                "title": "The twins thought the grudging remark was pointed at them.",
+                "from": "node_id171",
+                "to": "node_id169",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id116",
+                "label": "ask",
+                "title": "The first twin asked Mr. Darling if they would be too much of a handful.",
+                "from": "node_id170",
+                "to": "node_id169",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id117",
+                "label": "call",
+                "title": "Wendy cried \"Father!\" to Mr. Darling.",
+                "from": "node_id166",
+                "to": "node_id169",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id118",
+                "label": "tell",
+                "title": "Wendy said she always cut their hair.",
+                "from": "node_id166",
+                "to": "node_id177",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id119",
+                "label": "exclaim",
+                "title": "Mrs. Darling exclaimed noting Mr. Darling's depressed state.",
+                "from": "node_id168",
+                "to": "node_id169",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id120",
+                "label": "inquire",
+                "title": "Tootles asked if Mr. Darling was a cypher.",
+                "from": "node_id174",
+                "to": "node_id169",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id121",
+                "label": "inquire",
+                "title": "Curly asked Tootles if he thought Mr. Darling was a cypher.",
+                "from": "node_id175",
+                "to": "node_id174",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id122",
+                "label": "inquire",
+                "title": "Slightly asked Curly if he thought Mr. Darling was a cypher.",
+                "from": "node_id173",
+                "to": "node_id175",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id123",
+                "label": "visit",
+                "title": "Peter brushed against the window so Wendy could call to him.<br>Peter visited Wendy when she was grown up.",
+                "from": "node_id167",
+                "to": "node_id166",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id124",
+                "label": "offer",
+                "title": "Mrs. Darling offered to adopt Peter Pan.<br>Mrs. Darling reached out to Peter Pan.<br>Mrs. Darling made an offer for Wendy to visit Peter Pan for spring cleaning.",
+                "from": "node_id168",
+                "to": "node_id167",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id125",
+                "label": "ask",
+                "title": "Peter inquired if being adopted involved going to school and then to an office.<br>Peter Pan took Mrs. Darling's kiss with him.",
+                "from": "node_id167",
+                "to": "node_id168",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id126",
+                "label": "comfort",
+                "title": "Wendy tried to comfort Peter with the idea of him growing a beard.<br>Wendy was married in white with a pink sash but Peter did not alight in the church and forbid the banns.<br>Wendy had to explain to Peter Pan that she had grown up.<br>Wendy said goodbye to Peter Pan when he flew away with Jane.",
+                "from": "node_id166",
+                "to": "node_id167",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id127",
+                "label": "request",
+                "title": "Wendy asked Mrs. Darling if she could go with Peter Pan.",
+                "from": "node_id166",
+                "to": "node_id168",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id128",
+                "label": "tell",
+                "title": "Jane always had an odd inquiring look and asked Wendy questions about Peter Pan.",
+                "from": "node_id179",
+                "to": "node_id166",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id129",
+                "label": "tell",
+                "title": "Wendy told Jane all she could remember about Peter Pan.",
+                "from": "node_id166",
+                "to": "node_id179",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id130",
+                "label": "mistake",
+                "title": "Peter mistook Jane for her mother, Wendy.<br>Peter mistook Jane for baby Wendy.",
+                "from": "node_id167",
+                "to": "node_id179",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id131",
+                "label": "wait",
+                "title": "Jane said she had been waiting for Peter Pan to take her to the Neverland.",
+                "from": "node_id179",
+                "to": "node_id167",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id132",
+                "label": "go",
+                "title": "Every spring cleaning time, except when he forgets, Peter comes for Jane.",
+                "from": "node_id179",
+                "to": "node_id179",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id133",
+                "label": "take",
+                "title": "Every spring cleaning time, Peter will likely come for Margaret.",
+                "from": "node_id180",
+                "to": "node_id167",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            }
+        ]
+    }
+]
