@@ -34,7 +34,8 @@
     <!-- Home や Book Info 等を表示するためのスペース -->
     <div class="navigation-bar">
         <a href="{% url 'home:index' %}" class="navigation">Home</a>
-        <a href="{% url 'bookinfo:index' %}" class="navigation">Book Info</a>
+        {% comment %} <a href="{% url 'bookinfo:index' %}" class="navigation">Book Info</a> {% endcomment %}
+        <a href="{% url 'bookinfo:index' gutenbergID %}" class="navigation">Book Info</a> 
     </div>
 
 

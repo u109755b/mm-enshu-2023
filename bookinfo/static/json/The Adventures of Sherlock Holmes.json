@@ -1,0 +1,20 @@
+{
+    "title": "The Adventures of Sherlock Holmes",
+    "image": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg",
+    "author": "Arthur Conan Doyle",
+    "publication_year": "Not specified",
+    "country": "United Kingdom",
+    "language": "English",
+    "publisher": "George Newnes Ltd",
+    "Works": [
+        "A Study in Scarlet (1887)",
+        "The Sign of the Four (1890)",
+        "The Adventures of Sherlock Holmes (1891–1892)",
+        "The Great Shadow (1892)",
+        "The Exploits of Brigadier Gerard (1896)",
+        "Uncle Bernac (1897)",
+        "The Lost World (1912)",
+        "The Poison Belt (1913)",
+        "The Land of Mist (1926)"
+    ]
+}

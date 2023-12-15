@@ -1,0 +1,19 @@
+{
+    "title": "Alice's Adventures in Wonderland",
+    "image": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+    "author": "Lewis Carroll",
+    "publication_year": "November 1865",
+    "country": "United Kingdom",
+    "language": "English",
+    "publisher": "Macmillan Publishers",
+    "Works": [
+            "La Guida di Bragia, a Ballad Opera for the Marionette Theatre (around 1850)",
+            "\"Miss Jones\", comic song (1862)",
+            "Phantasmagoria (poem)|Phantasmagoria and Other Poems (1869)",
+            "A Syllabus of Plane Algebraic Geometry (1860)",
+            "The Fifth Book of Euclid Treated Algebraically (1858 and 1868)",
+            "An Elementary Treatise on Determinants, With Their Application to Simultaneous Linear Equations and Algebraic Equations",
+            "Euclid and his Modern Rivals (1879), both literary and mathematical in style",
+            "Symbolic Logic Part I"
+    ]
+}

@@ -1,50 +1,207 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Work Information</title>
-</head>
-<body>
-    <h1>Work Information</h1>
-
-    <div id="book-info">
-        <!-- Book information will be displayed here -->
-    </div>
-
-    <script>
-
-        // JSONデータを取得して表示する関数
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>book information</title>
+     <style>
+         body {
+             font-family: Arial, sans-serif;
+             margin: 0;
+             padding: 0;
+             display: flex;
+             background-color: #f4f4f4;
+             font-size: 16px;
+         }
+         
+         .header-container {
+             display: flex;
+             flex-direction: column;
+             width: 100%;
+             max-width: 1200px;
+             margin: 10px;
+             height: 100vh; 
+         }
+         
+         .container {
+             display: flex;
+             max-width: 1200px;
+             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+             background-color: #fff;
+             flex: 1;
+             margin: 10px;
+             box-sizing: border-box;
+             height: 80vh; 
+         }
+ 
+         .header {
+             background-color: #333;
+             color: white;
+             padding: 10px 20px;
+             box-sizing: border-box;
+             text-align: center;
+         } 
+ 
+         .tabs {
+             background-color: rgb(250, 250, 250);
+             color: #fff;
+             padding: 20px;
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+             height: 95vh
+         }
+         
+         .tab {
+             cursor: pointer;
+             padding: 10px;
+             margin-bottom: 20px;
+             border: 1px solid black;
+             color: black;
+             font-size: 20px;
+         }
+ 
+         .app-name {
+             text-decoration: none;
+             color: black;
+             font-family: 'Caveat', cursive;
+             font-size: 30px;
+             font-weight: bold;
+             white-space: nowrap;
+             margin: 0 20px 30px 20px;
+         }
+         
+         .header h1 {
+             margin: 0;
+             font-size: 28px;
+             font-weight: bold;
+         }
+ 
+         .container {
+             display: flex;
+             max-width: 1200px;
+             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+             background-color: #fff;
+             flex: 1;
+             margin: 10px;
+             box-sizing: border-box;
+         }
+ 
+         .book-cover {
+             flex: 1;
+             padding: 20px;
+             box-sizing: border-box;
+             display: flex;
+             align-items: stretch;
+         }
+ 
+         .book-cover img {
+             max-width: 100%;
+             max-height: 100%;
+             height: auto;
+             width: 100%;
+             object-fit: contain;
+         }
+ 
+         .book-description {
+             flex: 1;
+             padding: 20px;
+         }
+ 
+         .author-books {
+             flex-basis: 300px;
+             padding: 20px;
+             background-color: #eee;
+         }
+ 
+         h2 {
+             font-size: 24px;
+         }
+ 
+         p {
+             font-size: 18px;
+         }
+ 
+         ul {
+             list-style: none;
+             padding: 0;
+             margin: 0;
+         }
+ 
+         li {
+             margin-bottom: 8px;
+         }
+     </style>
+ </head>
+ <body>
+     <div class="tabs">
+         <a href="{% url 'home:index' %}" class="app-name">Story Visualizer</a>
+         <a href="{% url 'home:index' %}" class="tab">Home</a>
+         {% comment %} <a href="{% url 'visualizer:index' 0 %}".replace("0", gutenbergID) class="tab">Story graph</a> {% endcomment %}
+         <a href="{% url 'visualizer:index' gutenbergID %}" class="tab">Story graph</a>
+     </div>
+ 
+     <div class="header-container">
+         <div class="header">
+             <h1 id="book-title">Title</h1>
+         </div>
+ 
+         <div class="container">
+             <div class="book-cover">
+                 <img id="book-cover-image" alt="book cover">
+             </div>
+             <div class="book-description">
+                 <h2>Book Information</h2>
+                 <p id="author">Author: author</p>
+                 <p id="publication-year">Publication Year: publication_year</p>
+                 <p id="country">Country: country</p>
+                 <p id="language">Language: language</p>
+                 <p id="publisher">Publisher: publisher</p>
+                 <h2 id="works-heading">Works</h2>
+                 <ul id="Works"></ul>
+             </div>
+         </div>
+     </div>
+ 
+     <script>
         async function displayBookInfo() {
             try {
                 var data = {{ json_data|safe }};
-
-                // 書籍情報を表示
-                const bookInfoDiv = document.getElementById('book-info');
-                bookInfoDiv.innerHTML = `
-                    <p><strong>Title:</strong> ${data.title}</p>
-                    <p><strong>Author:</strong> ${data.author}</p>
-                    <p><strong>Publication Year:</strong> ${data.publication_year}</p>
-                    <p><strong>Country:</strong> ${data.country}</p>
-                    <p><strong>Language:</strong> ${data.language}</p>
-                    <p><strong>Publisher:</strong> ${data.publisher}</p>
-                    <h2>Other Works</h2>
-                    <ul>
-                        ${generateList(data.other_works)}
-                    </ul>
-                `;
+                var gutenbergID = {{ gutenbergID|safe }};
+    
+                document.getElementById('book-title').innerText = ` ${data.title}`;
+                document.getElementById('author').innerText = `Author: ${data.author}`;
+                document.getElementById('publication-year').innerText = `Publication Year: ${data.publication_year}`;
+                document.getElementById('country').innerText = `Country: ${data.country}`;
+                document.getElementById('language').innerText = `Language: ${data.language}`;
+                document.getElementById('publisher').innerText = `Publisher: ${data.publisher}`;
+    
+                // Set the book cover image URL
+                document.getElementById('book-cover-image').src = data.image;
+    
+                const worksHeading = document.getElementById('works-heading');
+                const otherWorksList = document.getElementById('Works');
+    
+                if (data.Works != "Not specified") {
+                    // Display the <h2>Works</h2> section only if data.Works is not empty
+                    worksHeading.style.display = 'block';
+                    otherWorksList.innerHTML = generateList(data.Works);
+                } else {
+                    // Hide the <h2>Works</h2> section if data.Works is empty
+                    worksHeading.style.display = 'none';
+                }
             } catch (error) {
                 console.error('Error fetching JSON data:', error);
             }
         }
-
-        // リストを生成する関数
+    
         function generateList(works) {
-            return works.map(work => `<li>${work}</li>`).join('');
+            return works.map(work => `<li>・${work}</li>`).join('');
         }
-
-        // ページが読み込まれた時に書籍情報を表示
+    
         window.onload = displayBookInfo;
     </script>
-</body>
-</html>
+    
+ </body>
+ </html>
+ 

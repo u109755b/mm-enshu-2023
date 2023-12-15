@@ -3,5 +3,5 @@ from . import views
 
 app_name = 'bookinfo'
 urlpatterns = [
-    path('', views.index, name='index'),
+    path('<int:gutenbergID>', views.index, name='index'),
 ]
