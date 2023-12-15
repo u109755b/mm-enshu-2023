@@ -104,4 +104,4 @@
 
 
 ### requirements
-- ChatGPT API の利用準備
+- ChatGPT API の利用準備 (chatgpt_utils.py の GPT_KEY を指定)
