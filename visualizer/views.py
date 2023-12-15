@@ -6,7 +6,7 @@ import json
 from mm_enshu_2023 import utils
 
 class ViewManager:
-    # コンストラクタ
+    # 初期化
     def __init__(self, request, gutenbergID=0, sample_id=None):
         self.request = request
         self.gutenbergID = gutenbergID
@@ -25,11 +25,6 @@ class ViewManager:
         self.chapter_id = self.request.session.get('chapter_id')
         if self.chapter_id not in self.chapter_id_list:
             self.chapter_id = self.chapter_id_list[0]
-
-    # デストラクタ
-    def __del__(self):
-        self.request.session['sample_id'] = self.sample_id
-        self.request.session['chapter_id'] = self.chapter_id
 
     # section_dataから、tabのhtmlを作るための構造データtab_listを作成する（class内からのみ呼び出される）
     def _create_tab_list(self, section_data, depth=0, parent_id=[]):
@@ -121,6 +116,12 @@ class ViewManager:
         self.chapter_id = self.chapter_id_list[index]
         return self.chapter_id
 
+    # セッションデータ保存
+    def save_session_data(self):
+        self.request.session['sample_id'] = self.sample_id
+        self.request.session['chapter_id'] = self.chapter_id
+        self.request.session.save()
+
 
 
 # 最初のページ読み込みや再読み込み時の処理
@@ -139,6 +140,7 @@ def index(request, gutenbergID=0):
         'nodes': json.dumps(chapter_data['nodes'], ensure_ascii=False),
         'edges': json.dumps(chapter_data['edges'], ensure_ascii=False),
     }
+    view_manager.save_session_data()
     return render(request, 'visualizer/index.html', params)
 
 # 初期化時の処理
@@ -154,6 +156,7 @@ def select_chapter(request, gutenbergID=0):
         chapter_data = view_manager.get_chapter_data(chapter_id)
     else:
         chapter_data = {}
+    view_manager.save_session_data()
     return JsonResponse(chapter_data)
 
 # 「前へ」ボタンが押された時の処理
@@ -161,6 +164,7 @@ def prev_chapter(request, gutenbergID=0):
     view_manager = ViewManager(request, gutenbergID)
     view_manager.back_chapter()
     chapter_data = view_manager.get_chapter_data()
+    view_manager.save_session_data()
     return JsonResponse(chapter_data)
 
 # 「次へ」ボタンが押された時の処理
@@ -168,6 +172,7 @@ def next_chapter(request, gutenbergID=0):
     view_manager = ViewManager(request, gutenbergID)
     view_manager.forward_chapter()
     chapter_data = view_manager.get_chapter_data()
+    view_manager.save_session_data()
     return JsonResponse(chapter_data)
 
 # sample選択ボタンが押された時の処理
@@ -175,4 +180,5 @@ def select_sample(request, gutenbergID=0):
     sample_id = request.GET.get('sample_id', None)
     view_manager = ViewManager(request, gutenbergID, sample_id)
     chapter_data = view_manager.get_chapter_data()
+    view_manager.save_session_data()
     return JsonResponse(chapter_data)

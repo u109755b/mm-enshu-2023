@@ -5,9 +5,9 @@ from mm_enshu_2023 import utils
 
 def index(request):
     # フォルダ・ファイル名指定
-    cover_image_dir = 'home/static/home/cover_image'
-    title_file_name = 'title.txt'
-    cover_image_name = 'cover_image.jpg'
+    cover_image_dir = utils.cover_image_dir
+    title_file_name = utils.title_file_name
+    cover_image_name = utils.cover_image_name
 
     gutenbergIDs = utils.get_gutenbergIDs()
     titles = []

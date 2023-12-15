@@ -2,10 +2,17 @@ import os, glob
 import json
 import re
 
-summarized_data_dir = 'visualizer/static/visualizer/summarized_data'
+# フォルダ・ファイル名指定
 title_file_name = 'title.txt'
+
+cover_image_dir = 'home/static/home/cover_image'
+cover_image_name = 'cover_image.jpg'
+
+summarized_data_dir = 'visualizer/static/visualizer/summarized_data'
+
 sample_id_pattern = re.compile(r'^sample\d+$')
 all_data_file_name = 'all_data.json'
+
 
 # ファイルの読み書き
 def read_txt(path):
