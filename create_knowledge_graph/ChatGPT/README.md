@@ -12,12 +12,14 @@
 | 8 | 16 | Peter Pan by J. M. Barrie | 47,112 | fin |
 | 9 | 146 | A Little Princess by Frances Hodgson Burnett | 66,264 | fin |
 | 10 | 164 | Twenty Thousand Leagues under the Sea by Jules Verne\** | 104,335 | fin |
-| 11 | 521 | The Life and Adventures of Robinson Crusoe by Daniel Defoe | 120,792 | todo: 3 |
+| 11 | 521 | ~~The Life and Adventures of Robinson Crusoe by Daniel Defoe~~\*** | 120,792 | todo: 3 |
 | 12 | 1257 | The three musketeers by Alexandre Dumas and Auguste Maquet | 228,997 | todo: 3 |
 
 \*  1_preprocess_txt.py 実行後人手で I. A Scandal in Bohemia のみを抽出
 
 \** 1_preprocess_txt.py 実行後人手で一部修正
+
+\*** 演習に向いていないため除外 (登場人物が少なすぎる)
 
 
 ### 更新履歴
