@@ -42,6 +42,7 @@
 - preprocess_txt.py: storyID (gutenbergID) を入力すると, 本文を場面ごとに分割し保存する.
 - summarize.py: storyID を入力すると, 各場面の本文の要約を行う.
 - create_knowledge_graph: storyID を入力すると, 各場面の node, edge を取得する. (場面の範囲を指定可能)
+- create_knowledge_graph_parallel: create_knowledge_graph を並列化
 <!-- - 4_create_json.py: storyID を入力すると, graph.json を作成する. -->
 <!-- - create_json.sh: storyID を入力すると, 1~4 をまとめて実行する -->
 
@@ -96,12 +97,12 @@
 
 
 - 829: GULLIVER'S TRAVELS INTO SEVERAL REMOTE NATIONS OF THE WORLD (105,080)
-    | program | time | money (I/O, $) |
+    | program | time (parallel) | money (I/O, $) |
     | ---- | ---- | ---- |
     | preprocess_txt.py | 0:01 | --- |
-    | summarize.py | 8:30 | 1.30/0.20 |
-    | create_knowledge_graph.py | 48:00 | 2.80/1.60 |
+    | summarize.py | 8:30 (0:40) | 1.30/0.20 |
+    | create_knowledge_graph.py | 48:00 (4:30) | 2.80/1.60 |
 
 
 ### requirements
-- ChatGPT API の利用準備 (chatgpt_utils.py の GPT_KEY を指定)
+- ChatGPT API の利用準備

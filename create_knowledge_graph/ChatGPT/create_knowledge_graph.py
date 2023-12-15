@@ -1,5 +1,5 @@
 # storyID を入力すると各場面の node, edge をファイルに保存する
-# sceneID で指定された場面のみを対象とする
+# scene_startID, scene_endID で場面の範囲を指定可能
 import argparse
 import os
 import re
