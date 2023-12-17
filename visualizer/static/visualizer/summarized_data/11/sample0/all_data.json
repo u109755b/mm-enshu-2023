@@ -50,7 +50,7 @@
                 "label": "miss",
                 "title": "\u201cDinah\u2019ll miss me very much to-night, I should think!\u201d",
                 "from": "node_id0",
-                "to": "node_id3",
+                "to": "node_id0",
                 "arrows": "to"
             }
         ]
@@ -142,7 +142,7 @@
                 "label": "dislike of",
                 "title": "\"\u201cNot like cats!\u201d cried the Mouse, in a shrill, passionate voice.\"",
                 "from": "node_id9",
-                "to": "node_id6",
+                "to": "node_id9",
                 "arrows": "to"
             }
         ]
@@ -258,9 +258,9 @@
             {
                 "id": "edge_id12",
                 "label": "Lory",
-                "title": "Eaglet, Duck, and others), explanation, The Dodo explained how to conduct a Caucus-race to Alice.<br>The Dodo pointed to Alice, implying that she should give out the prizes.",
+                "title": "Eaglet, Duck, and others), explanation, The Dodo explained how to conduct a Caucus-race to Alice.<br>Eaglet, Duck), declare, The Dodo declared to the assembly: \"Everybody has won, and all must have prizes.\"",
                 "from": "node_id13",
-                "to": "node_id10",
+                "to": "node_id13",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -269,10 +269,10 @@
             },
             {
                 "id": "edge_id13",
-                "label": "Lory",
-                "title": "Eaglet, Duck), declare, The Dodo declared to the assembly: \"Everybody has won, and all must have prizes.\"",
+                "label": "appoint",
+                "title": "The Dodo pointed to Alice, implying that she should give out the prizes.",
                 "from": "node_id13",
-                "to": "node_id12",
+                "to": "node_id10",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -436,7 +436,7 @@
                 "label": "interaction",
                 "title": "Alice encountered an enormous puppy and engaged in a form of play to avoid being trampled.",
                 "from": "node_id22",
-                "to": "node_id29",
+                "to": "node_id22",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -638,7 +638,7 @@
                 "label": "throw objects",
                 "title": "The cook took the cauldron of soup off the fire, and began to throw things at the Duchess and the baby.",
                 "from": "node_id39",
-                "to": "node_id38",
+                "to": "node_id39",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -778,7 +778,7 @@
                 "label": "denied room and thought plenty of room",
                 "title": "They cried out \u201cNo room! No room!\u201d when they saw Alice coming, but Alice said indignantly \"There\u2019s plenty of room!\"",
                 "from": "node_id44",
-                "to": "node_id45",
+                "to": "node_id44",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -838,7 +838,7 @@
                 "label": "had a quarrel",
                 "title": "The Hatter mentioned that they had quarreled last March\u2014just before he went mad.",
                 "from": "node_id46",
-                "to": "node_id45",
+                "to": "node_id46",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -928,65 +928,41 @@
             {
                 "id": "edge_id46",
                 "label": "ordering beheading for mistakes",
-                "title": "The Queen of Hearts ordered the beheading of the gardeners because they planted a white rose-tree instead of a red one.<br>The Queen of Hearts asked Alice if she could play croquet and then commanded her to join the game.",
+                "title": "The Queen of Hearts ordered the beheading of the gardeners because they planted a white rose-tree instead of a red one.<br>The Queen of Hearts asked Alice what her name was.<br>The Queen of Hearts asked Alice if she could play croquet and then commanded her to join the game.",
                 "from": "node_id52",
-                "to": "node_id50",
+                "to": "node_id52",
                 "arrows": "to"
             },
             {
                 "id": "edge_id47",
                 "label": "providing protection to the gardeners",
-                "title": "Alice helped the gardeners avoid beheading by hiding them in a flower-pot.",
+                "title": "Alice helped the gardeners avoid beheading by hiding them in a flower-pot.<br>Alice boldly claimed \"Nonsense\" in response to the Queen of Hearts's order to behead her.",
                 "from": "node_id48",
-                "to": "node_id51",
+                "to": "node_id48",
                 "arrows": "to"
             },
             {
                 "id": "edge_id48",
-                "label": "asking questions to Alice about her~",
-                "title": "The Queen of Hearts asked Alice what her name was.",
-                "from": "node_id52",
-                "to": "node_id56",
+                "label": "advising the Queen of Hearts to consider",
+                "title": "The King of Hearts suggested to the Queen of Hearts to take into account that Alice was only a child.<br>The King of Hearts asked the Queen of Hearts to remove the Cheshire Cat because he did not like its appearance.",
+                "from": "node_id53",
+                "to": "node_id53",
                 "arrows": "to"
             },
             {
                 "id": "edge_id49",
-                "label": "opposing the Queen of Hearts",
-                "title": "Alice boldly claimed \"Nonsense\" in response to the Queen of Hearts's order to behead her.",
-                "from": "node_id48",
-                "to": "node_id54",
+                "label": "being under sentence for boxing the~",
+                "title": "The White Rabbit informed Alice that the Duchess was under sentence of execution for boxing the Queen's ears.",
+                "from": "node_id57",
+                "to": "node_id57",
                 "arrows": "to"
             },
             {
                 "id": "edge_id50",
-                "label": "advising the Queen of Hearts to consider",
-                "title": "The King of Hearts suggested to the Queen of Hearts to take into account that Alice was only a child.",
-                "from": "node_id53",
-                "to": "node_id56",
-                "arrows": "to"
-            },
-            {
-                "id": "edge_id51",
-                "label": "being under sentence for boxing the~",
-                "title": "The White Rabbit informed Alice that the Duchess was under sentence of execution for boxing the Queen's ears.",
-                "from": "node_id57",
-                "to": "node_id52",
-                "arrows": "to"
-            },
-            {
-                "id": "edge_id52",
                 "label": "speaking to Alice",
                 "title": "Alice found someone to talk to when the Cheshire Cat appeared and spoke to her about the game and the Queen.",
                 "from": "node_id56",
-                "to": "node_id49",
-                "arrows": "to"
-            },
-            {
-                "id": "edge_id53",
-                "label": "asking for removal of the Cheshire Cat",
-                "title": "The King of Hearts asked the Queen of Hearts to remove the Cheshire Cat because he did not like its appearance.",
-                "from": "node_id53",
-                "to": "node_id57",
+                "to": "node_id56",
                 "arrows": "to"
             }
         ]
@@ -1028,60 +1004,88 @@
         ],
         "edges": [
             {
-                "id": "edge_id54",
+                "id": "edge_id51",
                 "label": "Queen",
                 "title": "Mock Turtle, Gryphon'",
-                "from": "node_id59",
+                "from": "node_id58",
                 "to": "node_id59",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id55",
+                "id": "edge_id52",
                 "label": "express affection",
                 "title": "The Duchess was glad to see Alice, tucked her arm affectionately into hers, squeezed closer to Alice, and shared her views on morals.",
                 "from": "node_id59",
                 "to": "node_id58",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id56",
+                "id": "edge_id53",
                 "label": "issue a threat",
                 "title": "The Queen warned the Duchess, resulting in the Duchess immediately leaving.",
                 "from": "node_id60",
                 "to": "node_id59",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id57",
+                "id": "edge_id54",
                 "label": "command",
                 "title": "The Queen told Alice to continue the game, asked if she had seen the Mock Turtle, and instructed her to visit the Mock Turtle and hear his history.",
                 "from": "node_id60",
                 "to": "node_id58",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id58",
+                "id": "edge_id55",
                 "label": "introduce",
                 "title": "The Queen instructed the Gryphon to take Alice to the Mock Turtle.",
                 "from": "node_id62",
                 "to": "node_id58",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id59",
+                "id": "edge_id56",
                 "label": "make a request",
                 "title": "The Gryphon asked the Mock Turtle to share his history with Alice.",
                 "from": "node_id62",
                 "to": "node_id61",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id60",
+                "id": "edge_id57",
                 "label": "teach",
                 "title": "The Mock Turtle agreed to tell his history to Alice.",
                 "from": "node_id61",
                 "to": "node_id58",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             }
         ]
     },
@@ -1134,7 +1138,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id61",
+                "id": "edge_id58",
                 "label": "looked",
                 "title": "The Mock Turtle looked at Alice.<br>The Mock Turtle offered to show Alice a little of the Lobster Quadrille dance.",
                 "from": "node_id64",
@@ -1146,7 +1150,7 @@
                 }
             },
             {
-                "id": "edge_id62",
+                "id": "edge_id59",
                 "label": "help",
                 "title": "The Gryphon set to work shaking him (Mock Turtle) and punching him in the back.<br>The Gryphon told the Mock Turtle \"Oh, you sing,\" when asked which of them should sing.",
                 "from": "node_id65",
@@ -1158,11 +1162,11 @@
                 }
             },
             {
-                "id": "edge_id63",
+                "id": "edge_id60",
                 "label": "inquire",
                 "title": "Alice asked \"What sort of a dance is it?\" about the Lobster Quadrille.",
                 "from": "node_id63",
-                "to": "node_id69",
+                "to": "node_id63",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -1170,7 +1174,7 @@
                 }
             },
             {
-                "id": "edge_id64",
+                "id": "edge_id61",
                 "label": "explain",
                 "title": "The Gryphon explained to Alice how to perform the Lobster Quadrille.",
                 "from": "node_id65",
@@ -1182,7 +1186,7 @@
                 }
             },
             {
-                "id": "edge_id65",
+                "id": "edge_id62",
                 "label": "instruct",
                 "title": "The Mock Turtle instructed the Gryphon to come and try the first figure of the dance.",
                 "from": "node_id64",
@@ -1194,7 +1198,7 @@
                 }
             },
             {
-                "id": "edge_id66",
+                "id": "edge_id63",
                 "label": "invite",
                 "title": "The Whiting invited the Snail to join the dance in the song sung by the Mock Turtle.",
                 "from": "node_id66",
@@ -1206,7 +1210,7 @@
                 }
             },
             {
-                "id": "edge_id67",
+                "id": "edge_id64",
                 "label": "refuse",
                 "title": "The Snail refused the Whiting's invitation to join the dance.",
                 "from": "node_id67",
@@ -1218,7 +1222,7 @@
                 }
             },
             {
-                "id": "edge_id68",
+                "id": "edge_id65",
                 "label": "express",
                 "title": "Alice expressed to the Mock Turtle \"Very much indeed,\" showing her interest in seeing the dance.",
                 "from": "node_id63",
@@ -1230,7 +1234,7 @@
                 }
             },
             {
-                "id": "edge_id69",
+                "id": "edge_id66",
                 "label": "need",
                 "title": "The Mock Turtle said to Alice \"They were obliged to have him with them,\" indicating the need for a porpoise.",
                 "from": "node_id64",
@@ -1334,7 +1338,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id70",
+                "id": "edge_id67",
                 "label": "seated",
                 "title": "The King and Queen of Hearts were seated on their throne.",
                 "from": "node_id70",
@@ -1342,7 +1346,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id71",
+                "id": "edge_id68",
                 "label": "guarded",
                 "title": "The Knave was standing before the King and Queen, in chains, with a soldier on each side to guard him.",
                 "from": "node_id72",
@@ -1350,7 +1354,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id72",
+                "id": "edge_id69",
                 "label": "near",
                 "title": "Near the King was the White Rabbit.",
                 "from": "node_id70",
@@ -1358,47 +1362,31 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id73",
+                "id": "edge_id70",
                 "label": "tempted by",
-                "title": "The sight of the tarts made Alice quite hungry.",
+                "title": "The sight of the tarts made Alice quite hungry.<br>Alice had never been in a court of justice before.<br>Alice identified the twelve creatures as the jurors.",
                 "from": "node_id74",
-                "to": "node_id76",
+                "to": "node_id74",
                 "arrows": "to"
             },
             {
-                "id": "edge_id74",
-                "label": "in",
-                "title": "Alice had never been in a court of justice before.<br>Alice identified the twelve creatures as the jurors.",
-                "from": "node_id74",
-                "to": "node_id83",
-                "arrows": "to"
-            },
-            {
-                "id": "edge_id75",
+                "id": "edge_id71",
                 "label": "is",
-                "title": "The judge was the King.",
+                "title": "The judge was the King.<br>The King said to the jury, \u201cConsider your verdict.\u201d",
                 "from": "node_id70",
-                "to": "node_id81",
+                "to": "node_id70",
                 "arrows": "to"
             },
             {
-                "id": "edge_id76",
+                "id": "edge_id72",
                 "label": "writing down",
                 "title": "The jurors were writing down their names.",
-                "from": "node_id83",
-                "to": "node_id72",
+                "from": "node_id78",
+                "to": "node_id78",
                 "arrows": "to"
             },
             {
-                "id": "edge_id77",
-                "label": "considered verdict",
-                "title": "The King said to the jury, \u201cConsider your verdict.\u201d",
-                "from": "node_id70",
-                "to": "node_id83",
-                "arrows": "to"
-            },
-            {
-                "id": "edge_id78",
+                "id": "edge_id73",
                 "label": "called as witness",
                 "title": "The King called the Hatter as the first witness.",
                 "from": "node_id70",
@@ -1406,7 +1394,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id79",
+                "id": "edge_id74",
                 "label": "looked at",
                 "title": "The Hatter looked at the March Hare.",
                 "from": "node_id76",
@@ -1470,7 +1458,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id80",
+                "id": "edge_id75",
                 "label": "tip over",
                 "title": "Alice tipped over the jury-box with the edge of her skirt, upsetting all the jurymen, and began picking them up again as quickly as she could after upsetting them.",
                 "from": "node_id84",
@@ -1482,7 +1470,7 @@
                 }
             },
             {
-                "id": "edge_id81",
+                "id": "edge_id76",
                 "label": "put right",
                 "title": "Alice put the Lizard right after noticing it was put in head downwards.",
                 "from": "node_id84",
@@ -1494,7 +1482,7 @@
                 }
             },
             {
-                "id": "edge_id82",
+                "id": "edge_id77",
                 "label": "question",
                 "title": "The King asked Alice what she knew about the trial's business.<br>The King accused Alice of being more than a mile high.<br>The King defended the court rule as the oldest in the book.",
                 "from": "node_id86",
@@ -1506,7 +1494,7 @@
                 }
             },
             {
-                "id": "edge_id83",
+                "id": "edge_id78",
                 "label": "response",
                 "title": "Alice told the King she knew \"Nothing\" about the trial's business.<br>Alice challenged the King on the creation of a court rule.",
                 "from": "node_id84",
@@ -1518,7 +1506,7 @@
                 }
             },
             {
-                "id": "edge_id84",
+                "id": "edge_id79",
                 "label": "correct",
                 "title": "The King corrected the White Rabbit's statement, emphasizing it was \"important.\"<br>The King instructed the jury to consider their verdict.",
                 "from": "node_id86",
@@ -1530,7 +1518,7 @@
                 }
             },
             {
-                "id": "edge_id85",
+                "id": "edge_id80",
                 "label": "correct",
                 "title": "The White Rabbit corrected the King by saying \"unimportant.\"<br>The White Rabbit informed the King of new evidence.",
                 "from": "node_id88",
@@ -1542,7 +1530,7 @@
                 }
             },
             {
-                "id": "edge_id86",
+                "id": "edge_id81",
                 "label": "height accusation",
                 "title": "The Queen added that Alice was nearly two miles high.<br>The Queen demanded a sentence before the verdict from Alice.<br>The Queen ordered Alice's execution.",
                 "from": "node_id89",
@@ -1554,7 +1542,7 @@
                 }
             },
             {
-                "id": "edge_id87",
+                "id": "edge_id82",
                 "label": "evidence update",
                 "title": "The White Rabbit updated the Queen that the paper was a set of verses.",
                 "from": "node_id88",
@@ -1566,7 +1554,7 @@
                 }
             },
             {
-                "id": "edge_id88",
+                "id": "edge_id83",
                 "label": "attack",
                 "title": "The Queen threw an inkstand at Lizard (Bill).",
                 "from": "node_id89",
@@ -1578,7 +1566,7 @@
                 }
             },
             {
-                "id": "edge_id89",
+                "id": "edge_id84",
                 "label": "refusal",
                 "title": "Alice refused to comply with the Queen's demand.",
                 "from": "node_id84",
@@ -1590,7 +1578,7 @@
                 }
             },
             {
-                "id": "edge_id90",
+                "id": "edge_id85",
                 "label": "awaken",
                 "title": "Alice's Sister woke Alice up from her dream.<br>Alice's Sister comforted Alice after she narrated her dream.",
                 "from": "node_id91",

@@ -1,30 +1,14 @@
 # storyID を入力すると各場面の node, edge をファイルに保存する
-# sceneID で指定された場面のみを対象とする
-# TODO: プロンプトの改良
-
+# scene_startID, scene_endID で場面の範囲を指定可能
 import argparse
 import os
 import re
+from tqdm import tqdm
 from openai import OpenAI
+from chatgpt_utils import get_scene_num, GPT_KEY, GPT_MODEL
 
-# keyは各自で指定
-client = OpenAI(api_key="YOUR API KEY")
-gpt_model = "gpt-4-1106-preview"
-
-
-# storyID を入力すると, 何個の文章に分かれて保存されているか求めてその数を返す関数
-# TODO: utils.py などを作成し共通の関数をまとめる
-def get_scene_num(storyID):
-    dir_files = os.listdir(f"log/{storyID}")
-    sceneIDs = []
-    file_pattern = re.compile(f"body_scene(\d+)\.txt")
-    for file in dir_files:
-        try:
-            sceneIDs.append(int(re.findall(file_pattern, file)[0]))
-        except:
-            pass
-    
-    return max(sceneIDs)+1
+client = OpenAI(api_key=GPT_KEY)
+gpt_model = GPT_MODEL
 
 
 # ChatGPT の出力から node, edge を取り出してファイルに保存する関数
@@ -64,14 +48,11 @@ def reshape_responce(response, storyID, sceneID, output_type):
 
 
 # storyID を入力すると, 各場面の node, edge を抽出してファイルに保存する関数
-# TODO: プロンプトの改良
+# TODO: プロンプトの改良, 出力エラーの場合聞き返す
 def create_knowledge_graph_one_scene(storyID, sceneID, show_log):
     # 分割結果の読み込み
     with open(f"log/{storyID}/body_scene{sceneID}.txt", encoding="utf-8") as f:
         scene_body = f.read()
-
-    # トークン数を記録
-    prompt_tokens, completion_tokens = 0, 0
 
     # node, edge の抽出
     # node 抽出用プロンプトの作成
@@ -99,8 +80,6 @@ def create_knowledge_graph_one_scene(storyID, sceneID, show_log):
     print(f"Asking for the following prompts...\n{node_messages}\n") if show_log else None
     response = client.chat.completions.create(model = gpt_model, messages = node_messages)
     print(f"Get the following response!\n{response}\n") if show_log else None
-    prompt_tokens += response.usage.prompt_tokens
-    completion_tokens += response.usage.completion_tokens
 
     # ノードの抽出, 保存
     nodes = reshape_responce(response, storyID, sceneID, "node")
@@ -146,40 +125,45 @@ def create_knowledge_graph_one_scene(storyID, sceneID, show_log):
     print(f"Asking for the following prompts...\n{edge_messages}\n") if show_log else None
     response = client.chat.completions.create(model = gpt_model, messages = edge_messages)
     print(f"Get the following response!\n{response}\n") if show_log else None
-    prompt_tokens += response.usage.prompt_tokens
-    completion_tokens += response.usage.completion_tokens
 
     # エッジの抽出, 保存
     reshape_responce(response, storyID, sceneID, "edge")
-    
-    print(f"total prompt tokens: {prompt_tokens}, total completion tokens: {completion_tokens}")
 
 
 def main():
-    # 入力で storyID, sceneID を指定
+    # 入力で storyID を指定
     parser = argparse.ArgumentParser()
     parser.add_argument("--storyID", type=int)
-    parser.add_argument("--sceneID", type=int)
+    parser.add_argument("--scene_startID", type=int, default=0, help="どの場面から知識グラフを作成し始めるか指定")
+    parser.add_argument("--scene_endID", type=int, default=-1, help="どの場面まで知識グラフを作成し始めるか指定")
     parser.add_argument("--show_log", action="store_true")
     args = parser.parse_args()
 
     storyID = args.storyID
-    sceneID = args.sceneID
+    scene_startID = args.scene_startID
+    scene_endID = args.scene_endID
     show_log = args.show_log
 
+    # scene_endID を指定しない場合, 最後の場面まで知識グラフを作成する
+    if scene_endID == -1:
+        scene_endID = get_scene_num(storyID)
+    else:
+        scene_endID += 1
+
     # すでに実行済みの場合, 実行しない
-    if os.path.exists(f"log/{storyID}/node_scene{sceneID}.txt"):
+    if os.path.exists(f"log/{storyID}/node_scene{scene_startID}.txt"):
         print("Knowledge graph has already existed!")
         exit()
     
     # 分割済みの本文が存在しない場合, 先に 1_preprocess_txt.pyを実行するように促す
-    if not os.path.exists(f"log/{storyID}/body_scene{sceneID}.txt"):
+    if not os.path.exists(f"log/{storyID}/body_scene{scene_startID}.txt"):
         print("The spliteded text doesn't exist!")
         print(f"Please run 'python 1_preprocess_txt.py --storyID {storyID}")
 
     
     # 各場面の知識グラフを作成し, node, edge をファイルに保存する
-    create_knowledge_graph_one_scene(storyID, sceneID, show_log)
+    for sceneID in tqdm(range(scene_startID, scene_endID)):
+        create_knowledge_graph_one_scene(storyID, sceneID, show_log)
 
 
 if __name__ == "__main__":

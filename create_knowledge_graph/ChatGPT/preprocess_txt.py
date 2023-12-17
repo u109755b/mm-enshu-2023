@@ -1,9 +1,6 @@
 # storyID を入力すると (1)本文全体，(2)場面ごとに分割された本文をファイルに保存する
 # (1): log/{storyID}/body.txt
 # (2): log/{storyID}/body_scene{sceneID}.txt
-# 20231125 取り敢えず完成 (11,120,829,1661,18155 に対応)
-# TODO: 他の物語にも対応しているか確認 (対応が難しい物語は演習の対象から除いてもよさそう)
-
 import re
 import os
 import argparse
