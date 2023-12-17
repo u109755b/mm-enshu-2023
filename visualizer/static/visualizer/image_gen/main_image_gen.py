@@ -14,13 +14,13 @@ def sanitize_directory_name(name):
     # Replace spaces with underscores and remove other non-alphanumeric characters
     return re.sub(r'[^a-zA-Z0-9_]', '', name.replace(' ', '_'))
         
-def process_data(data, section_name=None, novel_title=None, log_csv_path=None, api_key_path=None):
+def process_data(data, section_name=None, novel_title=None, log_csv_path=None, api_key_path=None, image_save_dir=None):
     image_count = 0  # Initialize a counter for successful image generations
     for item in data:
         current_section_name = item.get("sectionName", section_name)
 
         if "subSection" in item:
-            image_count += process_data(item["subSection"], current_section_name, novel_title, log_csv_path, api_key_path)
+            image_count += process_data(item["subSection"], current_section_name, novel_title, log_csv_path, api_key_path, image_save_dir)
         elif "nodes" in item and current_section_name:
             chapter_dir = os.path.join(image_save_dir, sanitize_directory_name(current_section_name))
             make_dir(chapter_dir)
@@ -30,6 +30,7 @@ def process_data(data, section_name=None, novel_title=None, log_csv_path=None, a
                     node['shape'] = 'image'
                     image_count += 1
     return image_count
+
 
 def print_node_info(node, chapter_dir, novel_name, log_csv_path, api_key_path):
     image_path = os.path.join(chapter_dir, sanitize_directory_name(node['label']) + '.png')
@@ -67,7 +68,7 @@ def main(gutenberg_id, api_key_file_path):
         data = json.load(f)
 
     start = time.time()
-    image_count = process_data(data, novel_title=title, log_csv_path=image_gen_log_csv_path, api_key_path=api_key_file_path)
+    image_count = process_data(data, novel_title=title, log_csv_path=image_gen_log_csv_path, api_key_path=api_key_file_path, image_save_dir=image_save_dir)
     end = time.time()
 
     with open(summarized_json_path, 'w') as f:
