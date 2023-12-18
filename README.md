@@ -116,11 +116,17 @@ $ python manage.py runserver 0.0.0.0:8000
 <br>
 
 
-
 それぞれ最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
 `http://localhost:8000`  
 
-  
+
+アプリ動作中にエラーが出る場合は、以下を実行して、パッケージを更新してください
+```sh
+$ apt update 
+$ apt upgrade
+```
+
+
 
 ## 本アプリの動作デモ
 ![demo](visualizer_demo.gif)
