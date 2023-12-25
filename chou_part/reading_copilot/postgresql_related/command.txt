@@ -1,0 +1,11 @@
+/usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+
+docker run -d \
+  --name chou_pgdb \
+  --network chou_mm_network \
+  -e POSTGRES_DB="novelDB" \
+  -e POSTGRES_USER="pguser" \
+  -e POSTGRES_PASSWORD="1234" \
+  -p 5432:5432 \
+  -v /data/choukoushin/PGDB:/var/lib/postgresql/data \
+  postgres:latest
