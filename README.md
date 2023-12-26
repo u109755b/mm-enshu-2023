@@ -29,7 +29,9 @@
 ## 本アプリの動作方法
 以下のコマンドを順に実行  
 ```sh
-$ pip install django
+$ pip install -r Docker/requirements.txt
+$ apt update
+$ apt upgrade
 $ python manage.py migrate
 $ python manage.py runserver
 ```
@@ -118,14 +120,6 @@ $ python manage.py runserver 0.0.0.0:8000
 
 それぞれ最後のコマンド実行時、ブラウザで以下のアドレスにアクセス  
 `http://localhost:8000`  
-
-
-アプリ動作中にエラーが出る場合は、以下を実行して、パッケージを更新してください
-(12/27追記，Dockerの初期設定を変更したので更新しなくても動くはずです)
-```sh
-$ apt update 
-$ apt upgrade
-```
 
 
 
