@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 *.vscode
 db.sqlite3
+home/static/home/**/title.txt
