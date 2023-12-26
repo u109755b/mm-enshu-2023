@@ -121,6 +121,7 @@ $ python manage.py runserver 0.0.0.0:8000
 
 
 アプリ動作中にエラーが出る場合は、以下を実行して、パッケージを更新してください
+(12/27追記，Dockerの初期設定を変更したので更新しなくても動くはずです)
 ```sh
 $ apt update 
 $ apt upgrade
