@@ -21,7 +21,7 @@
                     {
                         "id": "node_id2",
                         "label": "Dr. John Watson",
-                        "title": "The close friend and confidant of Sherlock Holmes, often accompanying Holmes and chronicling his adventures",
+                        "title": "The close friend and confidant of Sherlock Holmes, often accompanying Holmes and chronicling his<br>adventures",
                         "size": 42
                     },
                     {
@@ -53,7 +53,7 @@
                     {
                         "id": "edge_id0",
                         "label": "consider",
-                        "title": "To Sherlock Holmes she is always the woman. It was not that he felt any emotion akin to love for Irene Adler. And yet there was but one woman to him, and that woman was the late Irene Adler.",
+                        "title": "To Sherlock Holmes she is always the woman. It was not that he felt any emotion akin to love for<br>Irene Adler. And yet there was but one woman to him, and that woman was the late Irene Adler.",
                         "from": "node_id0",
                         "to": "node_id1",
                         "arrows": "to",
@@ -65,7 +65,7 @@
                     {
                         "id": "edge_id1",
                         "label": "acquainted",
-                        "title": "\u201cThe facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler.\u201d \u201cYour Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back.\u201d",
+                        "title": "\u201cThe facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the<br>acquaintance of the well-known adventuress, Irene Adler.\u201d \u201cYour Majesty, as I understand, became<br>entangled with this young person, wrote her some compromising letters, and is now desirous of<br>getting those letters back.\u201d",
                         "from": "node_id3",
                         "to": "node_id1",
                         "arrows": "to",
@@ -221,7 +221,7 @@
                     {
                         "id": "node_id18",
                         "label": "Irene Norton n\u00e9e Adler",
-                        "title": "A clever woman who outwits Sherlock Holmes and the King of Bohemia, originally the King's love interest",
+                        "title": "A clever woman who outwits Sherlock Holmes and the King of Bohemia, originally the King's love<br>interest",
                         "size": 42
                     },
                     {
@@ -241,7 +241,7 @@
                     {
                         "id": "edge_id9",
                         "label": "rush into the room",
-                        "title": "grasp by shoulder, impatience to be gone, offer reward, The King of Bohemia rushed into the room where Sherlock Holmes was, grasped him by either shoulder and looked eagerly into his face, expressed his impatience to leave, and later offered a reward to Sherlock Holmes for his services.",
+                        "title": "grasp by shoulder, impatience to be gone, offer reward, The King of Bohemia rushed into the room<br>where Sherlock Holmes was, grasped him by either shoulder and looked eagerly into his face,<br>expressed his impatience to leave, and later offered a reward to Sherlock Holmes for his services.",
                         "from": "node_id17",
                         "to": "node_id16",
                         "arrows": "to",
@@ -253,7 +253,7 @@
                     {
                         "id": "edge_id10",
                         "label": "have hopes",
-                        "title": "simplify matters, explain future annoyance, assess the situation, request photograph, Sherlock Holmes told the King of Bohemia that he has hopes, remarked that using the King's brougham would simplify matters, explained that if Irene loves her husband there would be no future annoyance, assessed the situation as not being on the same level as the King's expectations, and requested the photograph of Irene Adler as a reward.",
+                        "title": "simplify matters, explain future annoyance, assess the situation, request photograph, Sherlock<br>Holmes told the King of Bohemia that he has hopes, remarked that using the King's brougham would<br>simplify matters, explained that if Irene loves her husband there would be no future annoyance,<br>assessed the situation as not being on the same level as the King's expectations, and requested the<br>photograph of Irene Adler as a reward.",
                         "from": "node_id16",
                         "to": "node_id17",
                         "arrows": "to",
@@ -265,7 +265,7 @@
                     {
                         "id": "edge_id11",
                         "label": "confirm identity",
-                        "title": "provide information on Irene's departure, The Elderly Woman confirmed the identity of Sherlock Holmes and informed him that Irene had left with her husband.",
+                        "title": "provide information on Irene's departure, The Elderly Woman confirmed the identity of Sherlock<br>Holmes and informed him that Irene had left with her husband.",
                         "from": "node_id20",
                         "to": "node_id16",
                         "arrows": "to",

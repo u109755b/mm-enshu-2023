@@ -29,17 +29,9 @@
                     {
                         "id": "edge_id0",
                         "label": "intimate friend",
-                        "title": "The author of these Travels, Mr. Lemuel Gulliver, is Richard Sympson's ancient and intimate friend, and there is likewise some relation between them on the mother\u2019s side.",
+                        "title": "\uff65 The author of these Travels, Mr. Lemuel Gulliver, is Richard Sympson's ancient and intimate friend,<br>and there is likewise some relation between them on the mother\u2019s side.<br>\uff65 Before he quitted Redriff, Mr. Gulliver left the custody of the following papers in Richard<br>Sympson's hands, with the liberty to dispose of them as Richard Sympson should think fit. Richard<br>Sympson has carefully perused the papers three times, and by the advice of several worthy persons,<br>Richard Sympson now ventures to send them into the world.<br>\uff65 Richard Sympson observed that Mr. Gulliver was distinguished for his veracity.<br>\uff65 If Mr. Gulliver may be a little dissatisfied with the omitted content, Richard Sympson alone is<br>answerable.",
                         "from": "node_id2",
                         "to": "node_id0",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id1",
-                        "label": "custody",
-                        "title": "Before he quitted Redriff, Mr. Gulliver left the custody of the following papers in Richard Sympson's hands, with the liberty to dispose of them as Richard Sympson should think fit. Richard Sympson has carefully perused the papers three times, and by the advice of several worthy persons, Richard Sympson now ventures to send them into the world.<br>Richard Sympson observed that Mr. Gulliver was distinguished for his veracity.<br>If Mr. Gulliver may be a little dissatisfied with the omitted content, Richard Sympson alone is answerable.",
-                        "from": "node_id2",
-                        "to": "node_id2",
                         "arrows": "to"
                     }
                 ]
@@ -56,13 +48,13 @@
                     {
                         "id": "node_id3",
                         "label": "Captain Gulliver",
-                        "title": "The protagonist and narrator of the letter, expressing his disappointment in the publication and reception of his accounts of his travels",
+                        "title": "The protagonist and narrator of the letter, expressing his disappointment in the publication and<br>reception of his accounts of his travels",
                         "size": 45
                     },
                     {
                         "id": "node_id4",
                         "label": "Cousin Sympson",
-                        "title": "The recipient of the letter, urged Gulliver to publish his travels and may have been responsible for alterations",
+                        "title": "The recipient of the letter, urged Gulliver to publish his travels and may have been responsible for<br>alterations",
                         "size": 39
                     },
                     {
@@ -74,31 +66,31 @@
                     {
                         "id": "node_id6",
                         "label": "Lord Godolphin",
-                        "title": "The first chief minister under Queen Anne mentioned by Gulliver, highlighting inaccuracies in the accounts of his travels",
+                        "title": "The first chief minister under Queen Anne mentioned by Gulliver, highlighting inaccuracies in the<br>accounts of his travels",
                         "size": 27
                     },
                     {
                         "id": "node_id7",
                         "label": "Lord Oxford",
-                        "title": "The second chief minister under Queen Anne mentioned by Gulliver, highlighting inaccuracies in the accounts of his travels",
+                        "title": "The second chief minister under Queen Anne mentioned by Gulliver, highlighting inaccuracies in the<br>accounts of his travels",
                         "size": 27
                     },
                     {
                         "id": "node_id8",
                         "label": "Master Houyhnhnm",
-                        "title": "Gulliver\u2019s master in the land of the Houyhnhnms, before whom Gulliver feels it indecent to praise any creature of human composition",
+                        "title": "Gulliver\u2019s master in the land of the Houyhnhnms, before whom Gulliver feels it indecent to praise<br>any creature of human composition",
                         "size": 36
                     },
                     {
                         "id": "node_id9",
                         "label": "Yahoo",
-                        "title": "A term Gulliver uses to represent the worst of human nature and the species he contends are ruling in England",
+                        "title": "A term Gulliver uses to represent the worst of human nature and the species he contends are ruling<br>in England",
                         "size": 42
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id2",
+                        "id": "edge_id1",
                         "label": "write a letter",
                         "title": "A letter from Captain Gulliver to his Cousin Sympson.",
                         "from": "node_id3",
@@ -110,7 +102,7 @@
                         }
                     },
                     {
-                        "id": "edge_id3",
+                        "id": "edge_id2",
                         "label": "have reverence and esteem for",
                         "title": "I did reverence and esteem [Queen Anne] more than any of human species.",
                         "from": "node_id5",
@@ -122,7 +114,7 @@
                         }
                     },
                     {
-                        "id": "edge_id4",
+                        "id": "edge_id3",
                         "label": "know reign details",
                         "title": "being in England during some part of her majesty\u2019s reign, she did govern by a chief minister.",
                         "from": "node_id3",
@@ -134,7 +126,7 @@
                         }
                     },
                     {
-                        "id": "edge_id5",
+                        "id": "edge_id4",
                         "label": "be chief minister for",
                         "title": "the first [chief minister] whereof was the lord of Godolphin.",
                         "from": "node_id6",
@@ -146,7 +138,7 @@
                         }
                     },
                     {
-                        "id": "edge_id6",
+                        "id": "edge_id5",
                         "label": "succeed as chief minister",
                         "title": "the second [chief minister] whereof was the lord of Oxford.",
                         "from": "node_id7",
@@ -158,7 +150,7 @@
                         }
                     },
                     {
-                        "id": "edge_id7",
+                        "id": "edge_id6",
                         "label": "not praise before",
                         "title": "not decent to praise any animal of our composition before my master Houyhnhnm.",
                         "from": "node_id3",
@@ -207,7 +199,7 @@
                     {
                         "id": "node_id14",
                         "label": "Mrs. Mary Burton",
-                        "title": "The Author's wife, represents a major life change for the Author and a source of financial support through her dowry",
+                        "title": "The Author's wife, represents a major life change for the Author and a source of financial support<br>through her dowry",
                         "size": 24
                     },
                     {
@@ -225,13 +217,13 @@
                     {
                         "id": "node_id17",
                         "label": "Captain William Prichard",
-                        "title": "Master of the Antelope, relevant for providing the Author the opportunity that leads to the adventures in Lilliput",
+                        "title": "Master of the Antelope, relevant for providing the Author the opportunity that leads to the<br>adventures in Lilliput",
                         "size": 27
                     },
                     {
                         "id": "node_id18",
                         "label": "Lilliputians",
-                        "title": "The tiny inhabitants of Lilliput, significant for capturing and interacting with the Author post shipwreck",
+                        "title": "The tiny inhabitants of Lilliput, significant for capturing and interacting with the Author post<br>shipwreck",
                         "size": 39
                     },
                     {
@@ -243,7 +235,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id8",
+                        "id": "edge_id7",
                         "label": "beget",
                         "title": "My father had a small estate in Nottinghamshire; I was the third of five sons.",
                         "from": "node_id10",
@@ -255,9 +247,9 @@
                         }
                     },
                     {
-                        "id": "edge_id9",
+                        "id": "edge_id8",
                         "label": "provide education",
-                        "title": "He sent me to Emanuel College in Cambridge at fourteen years old.<br>My father now and then sending me small sums of money.",
+                        "title": "\uff65 He sent me to Emanuel College in Cambridge at fourteen years old.<br>\uff65 My father now and then sending me small sums of money.",
                         "from": "node_id11",
                         "to": "node_id10",
                         "arrows": "to",
@@ -267,7 +259,7 @@
                         }
                     },
                     {
-                        "id": "edge_id10",
+                        "id": "edge_id9",
                         "label": "apprenticed",
                         "title": "I was bound apprentice to Mr. James Bates, an eminent surgeon in London.",
                         "from": "node_id10",
@@ -279,7 +271,7 @@
                         }
                     },
                     {
-                        "id": "edge_id11",
+                        "id": "edge_id10",
                         "label": "provide financial support",
                         "title": "by the assistance of him and my uncle John, and some other relations, I got forty pounds.",
                         "from": "node_id10",
@@ -291,9 +283,9 @@
                         }
                     },
                     {
-                        "id": "edge_id12",
+                        "id": "edge_id11",
                         "label": "recommend",
-                        "title": "Soon after my return from Leyden, I was recommended by my good master, Mr. Bates, to be surgeon to the Swallow.",
+                        "title": "Soon after my return from Leyden, I was recommended by my good master, Mr. Bates, to be surgeon to<br>the Swallow.",
                         "from": "node_id12",
                         "to": "node_id10",
                         "arrows": "to",
@@ -303,7 +295,7 @@
                         }
                     },
                     {
-                        "id": "edge_id13",
+                        "id": "edge_id12",
                         "label": "employ",
                         "title": "I was surgeon to the Swallow, Captain Abraham Pannel, commander.",
                         "from": "node_id15",
@@ -315,7 +307,7 @@
                         }
                     },
                     {
-                        "id": "edge_id14",
+                        "id": "edge_id13",
                         "label": "marry",
                         "title": "I married Mrs. Mary Burton, second daughter to Mr. Edmund Burton.",
                         "from": "node_id10",
@@ -327,7 +319,7 @@
                         }
                     },
                     {
-                        "id": "edge_id15",
+                        "id": "edge_id14",
                         "label": "be father-in-law",
                         "title": "I married Mrs. Mary Burton, second daughter to Mr. Edmund Burton.",
                         "from": "node_id16",
@@ -339,7 +331,7 @@
                         }
                     },
                     {
-                        "id": "edge_id16",
+                        "id": "edge_id15",
                         "label": "employ",
                         "title": "I accepted an advantageous offer from Captain William Prichard, master of the Antelope.",
                         "from": "node_id17",
@@ -351,7 +343,7 @@
                         }
                     },
                     {
-                        "id": "edge_id17",
+                        "id": "edge_id16",
                         "label": "made prisoner by",
                         "title": "is made a prisoner, and carried up the country.",
                         "from": "node_id10",
@@ -363,7 +355,7 @@
                         }
                     },
                     {
-                        "id": "edge_id18",
+                        "id": "edge_id17",
                         "label": "carry",
                         "title": "is made a prisoner, and carried up the country.",
                         "from": "node_id18",
@@ -375,7 +367,7 @@
                         }
                     },
                     {
-                        "id": "edge_id19",
+                        "id": "edge_id18",
                         "label": "send provisions",
                         "title": "plenty of meat and drink should be sent to me.",
                         "from": "node_id10",
@@ -387,9 +379,9 @@
                         }
                     },
                     {
-                        "id": "edge_id20",
+                        "id": "edge_id19",
                         "label": "order tying up",
-                        "title": "the emperor had early notice of it by an express; and determined in council that I should be tied.<br>and a machine prepared to carry me to the capital city.",
+                        "title": "\uff65 the emperor had early notice of it by an express; and determined in council that I should be tied.<br>\uff65 and a machine prepared to carry me to the capital city.",
                         "from": "node_id19",
                         "to": "node_id10",
                         "arrows": "to",
@@ -425,7 +417,7 @@
                     {
                         "id": "node_id23",
                         "label": "Soldiers",
-                        "title": "Subordinates of the Emperor who interact directly with the author, enforcing orders and providing security",
+                        "title": "Subordinates of the Emperor who interact directly with the author, enforcing orders and providing<br>security",
                         "size": 36
                     },
                     {
@@ -485,7 +477,7 @@
                     {
                         "id": "node_id33",
                         "label": "Particular friend of high quality",
-                        "title": "An influential and knowledgeable insider who provides the author with information about the court's views and plans",
+                        "title": "An influential and knowledgeable insider who provides the author with information about the court's<br>views and plans",
                         "size": 36
                     },
                     {
@@ -503,11 +495,19 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id21",
+                        "id": "edge_id20",
                         "label": "visit",
-                        "title": "The emperor of Lilliput comes to see the author in his confinement.<br>Learned men appointed to teach the author their language.<br>An establishment was also made of six hundred persons to be my domestics.",
+                        "title": "\uff65 The emperor of Lilliput comes to see the author in his confinement.<br>\uff65 An establishment was also made of six hundred persons to be my domestics.",
                         "from": "node_id20",
-                        "to": "node_id20",
+                        "to": "node_id27",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id21",
+                        "label": "appoint",
+                        "title": "Learned men appointed to teach the author their language.",
+                        "from": "node_id20",
+                        "to": "node_id34",
                         "arrows": "to"
                     },
                     {
@@ -515,7 +515,7 @@
                         "label": "take from",
                         "title": "His pockets are searched, and his sword and pistols taken from him by soldiers.",
                         "from": "node_id23",
-                        "to": "node_id23",
+                        "to": "node_id27",
                         "arrows": "to"
                     },
                     {
@@ -523,7 +523,7 @@
                         "label": "give victuals and drink",
                         "title": "He ordered his cooks and butlers to give me victuals and drink.",
                         "from": "node_id25",
-                        "to": "node_id25",
+                        "to": "node_id27",
                         "arrows": "to"
                     },
                     {
@@ -571,7 +571,7 @@
                         "label": "deliver",
                         "title": "Colonel thought no punishment so proper as to deliver the ringleaders bound into my hands.",
                         "from": "node_id31",
-                        "to": "node_id31",
+                        "to": "node_id27",
                         "arrows": "to"
                     },
                     {
@@ -579,7 +579,7 @@
                         "label": "instruct",
                         "title": "That six of his majesty\u2019s greatest scholars should be employed to instruct me in their language.",
                         "from": "node_id34",
-                        "to": "node_id34",
+                        "to": "node_id27",
                         "arrows": "to"
                     }
                 ]
@@ -665,7 +665,7 @@
                     {
                         "id": "edge_id31",
                         "label": "divert; gain favor",
-                        "title": "The author diverts the emperor in a very uncommon manner; My gentleness and good behavior had gained so far on the emperor.",
+                        "title": "The author diverts the emperor in a very uncommon manner; My gentleness and good behavior had gained<br>so far on the emperor.",
                         "from": "node_id36",
                         "to": "node_id37",
                         "arrows": "to",
@@ -737,7 +737,7 @@
                     {
                         "id": "edge_id37",
                         "label": "witness performance; let perform",
-                        "title": "Flimnap would infallibly have broken his neck if the emperor had not indirectly mitigated the impact; The emperor lets Flimnap perform on the rope and would infallibly have broken his neck.",
+                        "title": "Flimnap would infallibly have broken his neck if the emperor had not indirectly mitigated the<br>impact; The emperor lets Flimnap perform on the rope and would infallibly have broken his neck.",
                         "from": "node_id37",
                         "to": "node_id38",
                         "arrows": "to",
@@ -775,7 +775,7 @@
                         "label": "lead",
                         "title": "The general is commanded to draw up the troops in close order.",
                         "from": "node_id42",
-                        "to": "node_id42",
+                        "to": "node_id44",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -839,13 +839,13 @@
                     {
                         "id": "node_id48",
                         "label": "Author",
-                        "title": "The main character, the narrator, and a person who experiences a range of adventures in Lilliput, including an audience with the emperor and observation of the empire's palace and affairs",
+                        "title": "The main character, the narrator, and a person who experiences a range of adventures in Lilliput,<br>including an audience with the emperor and observation of the empire's palace and affairs",
                         "size": 45
                     },
                     {
                         "id": "node_id49",
                         "label": "Emperor",
-                        "title": "The ruler of Lilliput who grants the author permission to visit the metropolis Mildendo and who is interested in the author\u2019s potential to serve in wars",
+                        "title": "The ruler of Lilliput who grants the author permission to visit the metropolis Mildendo and who is<br>interested in the author\u2019s potential to serve in wars",
                         "size": 42
                     },
                     {
@@ -857,7 +857,7 @@
                     {
                         "id": "node_id51",
                         "label": "Reldresal",
-                        "title": "A principal secretary in Lilliput who informs the author about the political factions and external threats faced by Lilliput",
+                        "title": "A principal secretary in Lilliput who informs the author about the political factions and external<br>threats faced by Lilliput",
                         "size": 36
                     },
                     {
@@ -869,25 +869,25 @@
                     {
                         "id": "node_id53",
                         "label": "High heels (Tramecksan)",
-                        "title": "A political faction in Lilliput that prefers high heels on their shoes and seems to have slightly more numbers than their opposition, the low heels",
+                        "title": "A political faction in Lilliput that prefers high heels on their shoes and seems to have slightly<br>more numbers than their opposition, the low heels",
                         "size": 30
                     },
                     {
                         "id": "node_id54",
                         "label": "Low heels (Slamecksan)",
-                        "title": "The opposing political faction to the high heels, which is in power and enjoys the emperor's preference for low heels in administration",
+                        "title": "The opposing political faction to the high heels, which is in power and enjoys the emperor's<br>preference for low heels in administration",
                         "size": 30
                     },
                     {
                         "id": "node_id55",
                         "label": "Imperial Highness (heir to the crown)",
-                        "title": "The heir to the throne of Lilliput who might have a leaning towards the high heels since one of his heels is higher than the other",
+                        "title": "The heir to the throne of Lilliput who might have a leaning towards the high heels since one of his<br>heels is higher than the other",
                         "size": 27
                     },
                     {
                         "id": "node_id56",
                         "label": "Big-endians",
-                        "title": "Exiles and their supporters who follow the controversial practice of breaking their eggs at the larger end, causing conflict and war with Blefuscu",
+                        "title": "Exiles and their supporters who follow the controversial practice of breaking their eggs at the<br>larger end, causing conflict and war with Blefuscu",
                         "size": 30
                     }
                 ],
@@ -903,9 +903,9 @@
                     {
                         "id": "edge_id46",
                         "label": "have tendency",
-                        "title": "We apprehend his imperial highness, the heir to the crown, to have some tendency towards the high heels.",
+                        "title": "We apprehend his imperial highness, the heir to the crown, to have some tendency towards the high<br>heels.",
                         "from": "node_id55",
-                        "to": "node_id55",
+                        "to": "node_id53",
                         "arrows": "to"
                     }
                 ]
@@ -941,7 +941,7 @@
                     {
                         "id": "node_id61",
                         "label": "The emperor of Blefuscu",
-                        "title": "Ruler of the empire of Blefuscu, mentioned in the context of peace and the protagonist's interactions",
+                        "title": "Ruler of the empire of Blefuscu, mentioned in the context of peace and the protagonist's<br>interactions",
                         "size": 36
                     }
                 ],
@@ -1021,25 +1021,25 @@
                     {
                         "id": "node_id65",
                         "label": "Cook",
-                        "title": "A Lilliputian mentioned by the author who pulls a lark for cooking, demonstrating the small size of Lilliputians compared to the author",
+                        "title": "A Lilliputian mentioned by the author who pulls a lark for cooking, demonstrating the small size of<br>Lilliputians compared to the author",
                         "size": 24
                     },
                     {
                         "id": "node_id66",
                         "label": "Young girl",
-                        "title": "A Lilliputian mentioned by the author who threads an invisible needle, demonstrating the small size and precise vision of the Lilliputians",
+                        "title": "A Lilliputian mentioned by the author who threads an invisible needle, demonstrating the small size<br>and precise vision of the Lilliputians",
                         "size": 24
                     },
                     {
                         "id": "node_id67",
                         "label": "Great lady",
-                        "title": "A lady from the court of Lilliput indirectly referred to in the author's vindication, involved in a misunderstanding that affected the author's standing",
+                        "title": "A lady from the court of Lilliput indirectly referred to in the author's vindication, involved in a<br>misunderstanding that affected the author's standing",
                         "size": 30
                     },
                     {
                         "id": "node_id68",
                         "label": "Flimnap",
-                        "title": "The lord high treasurer of Lilliput who is suspicious of the author and influences the emperor against him",
+                        "title": "The lord high treasurer of Lilliput who is suspicious of the author and influences the emperor<br>against him",
                         "size": 33
                     },
                     {
@@ -1051,13 +1051,13 @@
                     {
                         "id": "node_id70",
                         "label": "Clustril",
-                        "title": "An informant who contributes to the misconceptions against the author, leading to trouble for him in court",
+                        "title": "An informant who contributes to the misconceptions against the author, leading to trouble for him in<br>court",
                         "size": 27
                     },
                     {
                         "id": "node_id71",
                         "label": "Drunlo",
-                        "title": "Another informant who contributes to the misconceptions against the author, leading to trouble for him in court",
+                        "title": "Another informant who contributes to the misconceptions against the author, leading to trouble for<br>him in court",
                         "size": 27
                     },
                     {
@@ -1069,7 +1069,7 @@
                     {
                         "id": "node_id73",
                         "label": "Royal consort",
-                        "title": "The wife of the Emperor of Lilliput who dines with the author along with the emperor and other royals",
+                        "title": "The wife of the Emperor of Lilliput who dines with the author along with the emperor and other<br>royals",
                         "size": 30
                     },
                     {
@@ -1099,7 +1099,7 @@
                         "label": "confers public mark of favour",
                         "title": "The emperor confers a public mark of favour on an innocent person wrongly accused.",
                         "from": "node_id64",
-                        "to": "node_id64",
+                        "to": "node_id69",
                         "arrows": "to"
                     },
                     {
@@ -1115,7 +1115,7 @@
                         "label": "dined with",
                         "title": "The imperial majesty and royal consort dined with the author.",
                         "from": "node_id62",
-                        "to": "node_id62",
+                        "to": "node_id72",
                         "arrows": "to"
                     },
                     {
@@ -1199,13 +1199,13 @@
                     {
                         "id": "node_id84",
                         "label": "Emperor of Lilliput",
-                        "title": "Mentioned indirectly through his statue and implied actions but a central figure of authority in Quinbus Flestrin's life",
+                        "title": "Mentioned indirectly through his statue and implied actions but a central figure of authority in<br>Quinbus Flestrin's life",
                         "size": 42
                     },
                     {
                         "id": "node_id85",
                         "label": "Empress of Lilliput",
-                        "title": "The imperial consort who harbors malice against Quinbus Flestrin for extinguishing a fire in her apartment with his urine",
+                        "title": "The imperial consort who harbors malice against Quinbus Flestrin for extinguishing a fire in her<br>apartment with his urine",
                         "size": 33
                     }
                 ],
@@ -1261,7 +1261,7 @@
                     {
                         "id": "edge_id66",
                         "label": "advocate for mercy",
-                        "title": "Reldresal argued for mercy for Quinbus Flestrin before the emperor's council.<br>Reldresal was directed to deliver the articles of impeachment to Quinbus Flestrin.",
+                        "title": "\uff65 Reldresal argued for mercy for Quinbus Flestrin before the emperor's council.<br>\uff65 Reldresal was directed to deliver the articles of impeachment to Quinbus Flestrin.",
                         "from": "node_id83",
                         "to": "node_id76",
                         "arrows": "to"
@@ -1313,7 +1313,7 @@
                     {
                         "id": "node_id91",
                         "label": "The treasurer of Lilliput",
-                        "title": "Part of the cabinet consulting the Emperor of Lilliput regarding the author's situation, has a say in political matters",
+                        "title": "Part of the cabinet consulting the Emperor of Lilliput regarding the author's situation, has a say<br>in political matters",
                         "size": 30
                     },
                     {
@@ -1343,19 +1343,19 @@
                     {
                         "id": "node_id96",
                         "label": "Captain Mr. John Biddel",
-                        "title": "The English captain who provides passage back to England for the author, integral to the author's return journey",
+                        "title": "The English captain who provides passage back to England for the author, integral to the author's<br>return journey",
                         "size": 42
                     },
                     {
                         "id": "node_id97",
                         "label": "Peter Williams",
-                        "title": "The author's old comrade who vouches for him to Captain Biddel, a supporting character in the author's journey",
+                        "title": "The author's old comrade who vouches for him to Captain Biddel, a supporting character in the<br>author's journey",
                         "size": 30
                     },
                     {
                         "id": "node_id98",
                         "label": "Emperor's Majesty's picture",
-                        "title": "A symbolic representation of the Emperor of Blefuscu's authority but not a character in itself (therefore",
+                        "title": "A symbolic representation of the Emperor of Blefuscu's authority but not a character in itself<br>(therefore",
                         "size": 15
                     }
                 ],
@@ -1363,7 +1363,7 @@
                     {
                         "id": "edge_id68",
                         "label": "request",
-                        "title": "The author requested His Imperial Majesty of Blefuscu to lend twenty of his tallest vessels and three thousand seamen under the command of the vice-admiral.",
+                        "title": "The author requested His Imperial Majesty of Blefuscu to lend twenty of his tallest vessels and<br>three thousand seamen under the command of the vice-admiral.",
                         "from": "node_id86",
                         "to": "node_id87",
                         "arrows": "to"
@@ -1395,7 +1395,7 @@
                     {
                         "id": "edge_id72",
                         "label": "The author",
-                        "title": "show gratitude, The empress and the young princes showed their gratitude to the author during his departure.",
+                        "title": "show gratitude, The empress and the young princes showed their gratitude to the author during his<br>departure.",
                         "from": "node_id94",
                         "to": "node_id95",
                         "arrows": "to"
@@ -1506,7 +1506,7 @@
                     {
                         "id": "edge_id76",
                         "label": "screamed and ran back at the sight of",
-                        "title": "The farmer's wife screamed and ran back at the sight of Captain John Nicholas.<br>The farmer's wife grew extremely tender of Captain John Nicholas.<br>The farmer's wife held her favourite cat fast for fear the cat might seize Captain John Nicholas.",
+                        "title": "\uff65 The farmer's wife screamed and ran back at the sight of Captain John Nicholas.<br>\uff65 The farmer's wife grew extremely tender of Captain John Nicholas.<br>\uff65 The farmer's wife held her favourite cat fast for fear the cat might seize Captain John Nicholas.",
                         "from": "node_id102",
                         "to": "node_id99",
                         "arrows": "to"
@@ -1612,7 +1612,7 @@
                     {
                         "id": "node_id124",
                         "label": "Grultrud",
-                        "title": "Assumedly the crier or announcer in the metropolis (not clearly a character but mentioned in relation to the crier's job)",
+                        "title": "Assumedly the crier or announcer in the metropolis (not clearly a character but mentioned in<br>relation to the crier's job)",
                         "size": 24
                     }
                 ],
@@ -1620,7 +1620,7 @@
                     {
                         "id": "edge_id78",
                         "label": "parent of",
-                        "title": "My mistress had a daughter of nine years old.<br>her papa and mamma had promised that Grildrig should be hers.",
+                        "title": "\uff65 My mistress had a daughter of nine years old.<br>\uff65 her papa and mamma had promised that Grildrig should be hers.",
                         "from": "node_id110",
                         "to": "node_id111",
                         "arrows": "to"
@@ -1628,17 +1628,17 @@
                     {
                         "id": "edge_id79",
                         "label": "give name",
-                        "title": "She gave me the name of Grildrig.<br>She was likewise my schoolmistress, to teach me the language.",
+                        "title": "\uff65 She gave me the name of Grildrig.<br>\uff65 She was likewise my schoolmistress, to teach me the language.",
                         "from": "node_id111",
-                        "to": "node_id111",
+                        "to": "node_id116",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id80",
                         "label": "find",
-                        "title": "that my master had found a strange animal in the field.<br>My master made his daughter Glumdalclitch ride behind him.<br>My master, finding how profitable I was likely to be, resolved to carry me to the most considerable cities of the kingdom.",
+                        "title": "\uff65 that my master had found a strange animal in the field.<br>\uff65 My master, finding how profitable I was likely to be, resolved to carry me to the most considerable<br>cities of the kingdom.",
                         "from": "node_id113",
-                        "to": "node_id113",
+                        "to": "node_id116",
                         "arrows": "to"
                     },
                     {
@@ -1651,30 +1651,38 @@
                     },
                     {
                         "id": "edge_id82",
-                        "label": "care during journey",
-                        "title": "She carried me on her lap, in a box tied about her waist.<br>My little nurse stood on a low stool close to the table, to take care of me, and direct what I should do.",
-                        "from": "node_id114",
+                        "label": "have ride behind",
+                        "title": "My master made his daughter Glumdalclitch ride behind him.",
+                        "from": "node_id113",
                         "to": "node_id114",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id83",
-                        "label": "witness tricks",
-                        "title": "I was immediately produced, and placed upon a table, where I walked as I was commanded, drew my hanger, put it up again, made my reverence to my master\u2019s guest.",
-                        "from": "node_id115",
-                        "to": "node_id115",
+                        "label": "care during journey",
+                        "title": "\uff65 She carried me on her lap, in a box tied about her waist.<br>\uff65 My little nurse stood on a low stool close to the table, to take care of me, and direct what I<br>should do.",
+                        "from": "node_id114",
+                        "to": "node_id116",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id84",
-                        "label": "aim",
-                        "title": "However, an unlucky school-boy aimed a hazel nut directly at my head.",
-                        "from": "node_id121",
-                        "to": "node_id121",
+                        "label": "witness tricks",
+                        "title": "I was immediately produced, and placed upon a table, where I walked as I was commanded, drew my<br>hanger, put it up again, made my reverence to my master\u2019s guest.",
+                        "from": "node_id115",
+                        "to": "node_id116",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id85",
+                        "label": "aim",
+                        "title": "However, an unlucky school-boy aimed a hazel nut directly at my head.",
+                        "from": "node_id121",
+                        "to": "node_id116",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id86",
                         "label": "followed",
                         "title": "We had no other company but a boy of the house, who rode after us with the luggage.",
                         "from": "node_id122",
@@ -1690,7 +1698,7 @@
                     {
                         "id": "node_id125",
                         "label": "Author",
-                        "title": "The protagonist and narrator of the story, who goes through numerous adventures, including being sold to and becoming a favourite at the court",
+                        "title": "The protagonist and narrator of the story, who goes through numerous adventures, including being<br>sold to and becoming a favourite at the court",
                         "size": 45
                     },
                     {
@@ -1702,7 +1710,7 @@
                     {
                         "id": "node_id127",
                         "label": "King",
-                        "title": "The ruler of the land who discusses various topics with the author and shows curiosity about his origins",
+                        "title": "The ruler of the land who discusses various topics with the author and shows curiosity about his<br>origins",
                         "size": 36
                     },
                     {
@@ -1744,7 +1752,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id86",
+                        "id": "edge_id87",
                         "label": "ownership",
                         "title": "The farmer is the master of the author.",
                         "from": "node_id125",
@@ -1756,9 +1764,9 @@
                         }
                     },
                     {
-                        "id": "edge_id87",
+                        "id": "edge_id88",
                         "label": "buy and present",
-                        "title": "The queen buys the author from the farmer and presents him to the king.<br>The queen employs the author and provides him an apartment at court.",
+                        "title": "\uff65 The queen buys the author from the farmer and presents him to the king.<br>\uff65 The queen employs the author and provides him an apartment at court.",
                         "from": "node_id126",
                         "to": "node_id125",
                         "arrows": "to",
@@ -1768,9 +1776,9 @@
                         }
                     },
                     {
-                        "id": "edge_id88",
+                        "id": "edge_id89",
                         "label": "introduction",
-                        "title": "The queen introduces the author to the king.<br>The king converses with and examines the author.",
+                        "title": "\uff65 The queen introduces the author to the king.<br>\uff65 The king converses with and examines the author.",
                         "from": "node_id125",
                         "to": "node_id127",
                         "arrows": "to",
@@ -1780,7 +1788,7 @@
                         }
                     },
                     {
-                        "id": "edge_id89",
+                        "id": "edge_id90",
                         "label": "favor",
                         "title": "The author is in high favor with the queen.",
                         "from": "node_id125",
@@ -1792,7 +1800,7 @@
                         }
                     },
                     {
-                        "id": "edge_id90",
+                        "id": "edge_id91",
                         "label": "quarrel",
                         "title": "The author has quarrels with the queen's dwarf.",
                         "from": "node_id125",
@@ -1804,7 +1812,7 @@
                         }
                     },
                     {
-                        "id": "edge_id91",
+                        "id": "edge_id92",
                         "label": "observation and selling decision",
                         "title": "The farmer observed the author's poor health and decided to sell him.",
                         "from": "node_id128",
@@ -1816,7 +1824,7 @@
                         }
                     },
                     {
-                        "id": "edge_id92",
+                        "id": "edge_id93",
                         "label": "command",
                         "title": "A sardral commanded the farmer to bring the author to court.",
                         "from": "node_id131",
@@ -1828,7 +1836,7 @@
                         }
                     },
                     {
-                        "id": "edge_id93",
+                        "id": "edge_id94",
                         "label": "request for service",
                         "title": "The author requests the queen for Glumdalclitch's service as his nurse and instructor.",
                         "from": "node_id125",
@@ -1840,7 +1848,7 @@
                         }
                     },
                     {
-                        "id": "edge_id94",
+                        "id": "edge_id95",
                         "label": "employment",
                         "title": "The queen employs Glumdalclitch to tend the author.",
                         "from": "node_id129",
@@ -1852,7 +1860,7 @@
                         }
                     },
                     {
-                        "id": "edge_id95",
+                        "id": "edge_id96",
                         "label": "dispute",
                         "title": "The author disputes with the king's great scholars.",
                         "from": "node_id125",
@@ -1864,7 +1872,7 @@
                         }
                     },
                     {
-                        "id": "edge_id96",
+                        "id": "edge_id97",
                         "label": "examination and conclusion",
                         "title": "The great scholars examine the author and conclude he is a lusus natur\u00e6 (freak of nature).",
                         "from": "node_id132",
@@ -1876,7 +1884,7 @@
                         }
                     },
                     {
-                        "id": "edge_id97",
+                        "id": "edge_id98",
                         "label": "summoning and dismissal",
                         "title": "The king summons the scholars to examine the author and dismisses them after their examination.",
                         "from": "node_id127",
@@ -1974,15 +1982,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id98",
+                        "id": "edge_id99",
                         "label": "accompany",
-                        "title": "For the queen, whom I always attended, never went farther when she accompanied the king in his progresses.",
+                        "title": "For the queen, whom I always attended, never went farther when she accompanied the king in his<br>progresses.",
                         "from": "node_id134",
                         "to": "node_id135",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id99",
+                        "id": "edge_id100",
                         "label": "inspect",
                         "title": "The king in his progresses, and there staid till his majesty returned from viewing his frontiers.",
                         "from": "node_id135",
@@ -1990,27 +1998,27 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id100",
-                        "label": "carry",
-                        "title": "This was always the office of some grave trusty servant, in whom I could confide, whether I attended the king and queen in their progresses.",
-                        "from": "node_id141",
-                        "to": "node_id141",
-                        "arrows": "to"
-                    },
-                    {
                         "id": "edge_id101",
-                        "label": "order",
-                        "title": "Besides the large box in which I was usually carried, the queen ordered a smaller one to be made for me.",
-                        "from": "node_id134",
-                        "to": "node_id134",
+                        "label": "carry",
+                        "title": "This was always the office of some grave trusty servant, in whom I could confide, whether I attended<br>the king and queen in their progresses.",
+                        "from": "node_id141",
+                        "to": "node_id140",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id102",
+                        "label": "order",
+                        "title": "Besides the large box in which I was usually carried, the queen ordered a smaller one to be made for<br>me.",
+                        "from": "node_id134",
+                        "to": "node_id140",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id103",
                         "label": "transport",
-                        "title": "Whenever I had a mind to see the town, it was always in my travelling-closet; which Glumdalclitch held in her lap in a kind of open sedan, after the fashion of the country, borne by four men.",
+                        "title": "Whenever I had a mind to see the town, it was always in my travelling-closet; which Glumdalclitch<br>held in her lap in a kind of open sedan, after the fashion of the country, borne by four men.",
                         "from": "node_id144",
-                        "to": "node_id144",
+                        "to": "node_id140",
                         "arrows": "to"
                     }
                 ]
@@ -2106,23 +2114,23 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id103",
+                        "id": "edge_id104",
                         "label": "interaction",
-                        "title": "Glumdalclitch had an interaction with the Dwarf in the court gardens where he shook an apple tree causing apples to fall on the author.",
+                        "title": "Glumdalclitch had an interaction with the Dwarf in the court gardens where he shook an apple tree<br>causing apples to fall on the author.",
                         "from": "node_id147",
                         "to": "node_id148",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id104",
+                        "id": "edge_id105",
                         "label": "rescue",
-                        "title": "The spaniel owned by the chief gardener picked up the author without harm and brought him to the gardener who returned him to Glumdalclitch.",
+                        "title": "The spaniel owned by the chief gardener picked up the author without harm and brought him to the<br>gardener who returned him to Glumdalclitch.",
                         "from": "node_id147",
                         "to": "node_id150",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id105",
+                        "id": "edge_id106",
                         "label": "feeding",
                         "title": "A linnet fed by Glumdalclitch snatched cake from the author's hand.",
                         "from": "node_id147",
@@ -2130,15 +2138,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id106",
+                        "id": "edge_id107",
                         "label": "concern",
-                        "title": "The queen sent inquiries about the author's health after the monkey incident and ordered the monkey to be killed.",
+                        "title": "The queen sent inquiries about the author's health after the monkey incident and ordered the monkey<br>to be killed.",
                         "from": "node_id157",
                         "to": "node_id158",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id107",
+                        "id": "edge_id108",
                         "label": "conversation",
                         "title": "The king made jokes with the author about the monkey incident, making the court laugh.",
                         "from": "node_id159",
@@ -2166,7 +2174,7 @@
                     {
                         "id": "node_id163",
                         "label": "Glumdalclitch",
-                        "title": "A caring individual presumably close to the author, facilitating his needs like a spinet and a teacher",
+                        "title": "A caring individual presumably close to the author, facilitating his needs like a spinet and a<br>teacher",
                         "size": 33
                     },
                     {
@@ -2196,7 +2204,7 @@
                     {
                         "id": "node_id168",
                         "label": "English parliament members",
-                        "title": "Although not individuals, they are collective characters in the author's narrative about the government",
+                        "title": "Although not individuals, they are collective characters in the author's narrative about the<br>government",
                         "size": 30
                     },
                     {
@@ -2220,17 +2228,17 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id108",
+                        "id": "edge_id109",
                         "label": "Glumdalclitch",
-                        "title": "Barber, Cabinet-maker, Queen's woman, Master, English parliament members, Holy persons/Bishops, Judges, Advocates and orators'",
+                        "title": "Barber, Cabinet-maker, Queen's woman, Master, English parliament members, Holy persons/Bishops,<br>Judges, Advocates and orators'",
                         "from": "node_id171",
                         "to": "node_id162",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id109",
+                        "id": "edge_id110",
                         "label": "attend levee",
-                        "title": "The author used to attend the king\u2019s levee once or twice a week and had often seen him under the barber\u2019s hand.",
+                        "title": "The author used to attend the king\u2019s levee once or twice a week and had often seen him under the<br>barber\u2019s hand.",
                         "from": "node_id161",
                         "to": "node_id164",
                         "arrows": "to"
@@ -2274,7 +2282,7 @@
                     {
                         "id": "node_id177",
                         "label": "Glumdalclitch",
-                        "title": "The individual who possesses a room with the large reading machine, possibly significant to the author",
+                        "title": "The individual who possesses a room with the large reading machine, possibly significant to the<br>author",
                         "size": 30
                     },
                     {
@@ -2298,7 +2306,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id110",
+                        "id": "edge_id111",
                         "label": "make a proposal",
                         "title": "The author makes a proposal of much advantage to the king, which is rejected.",
                         "from": "node_id172",
@@ -2306,27 +2314,27 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id111",
+                        "id": "edge_id112",
                         "label": "following recommendation",
-                        "title": "The author exemplifies the recommendation of Dionysius Halicarnassensis to show partiality to one's own country.",
+                        "title": "The author exemplifies the recommendation of Dionysius Halicarnassensis to show partiality to one's<br>own country.",
                         "from": "node_id172",
                         "to": "node_id174",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id112",
+                        "id": "edge_id113",
                         "label": "invention",
                         "title": "The queen's joiner invented a wooden machine for Glumdalclitch's room.",
                         "from": "node_id176",
-                        "to": "node_id176",
+                        "to": "node_id177",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id113",
+                        "id": "edge_id114",
                         "label": "ownership",
                         "title": "The book of morality belongs to Glumdalclitch\u2019s governess.",
                         "from": "node_id178",
-                        "to": "node_id178",
+                        "to": "node_id177",
                         "arrows": "to"
                     }
                 ]
@@ -2404,52 +2412,76 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id114",
+                        "id": "edge_id115",
                         "label": "Author",
-                        "title": "Glumdalclitch, The page, Eagles, Mr. Thomas Wilcocks, Wife of the author, Daughter of the author, Servants, Friends'",
+                        "title": "Glumdalclitch, The page, Eagles, Mr. Thomas Wilcocks, Wife of the author, Daughter of the author,<br>Servants, Friends'",
                         "from": "node_id188",
                         "to": "node_id182",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id115",
-                        "label": "are favorites",
-                        "title": "The author was the favourite of a great king and great queen.",
-                        "from": "node_id182",
-                        "to": "node_id182",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id116",
-                        "label": "attends",
-                        "title": "Glumdalclitch and the author attended the king and queen in a progress.<br>Glumdalclitch consented with reluctance to letting the author go out with the page and gave a strict charge to be careful.",
-                        "from": "node_id184",
-                        "to": "node_id184",
-                        "arrows": "to"
+                        "label": "are favorites",
+                        "title": "The author was the favourite of a great king and great queen.",
+                        "from": "node_id182",
+                        "to": "node_id188",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id117",
-                        "label": "has fondness",
-                        "title": "The author was very fond of a page, who had sometimes been trusted with him.<br>The page took the author out in his box towards the sea-shore.",
-                        "from": "node_id185",
-                        "to": "node_id185",
-                        "arrows": "to"
+                        "label": "attends",
+                        "title": "\uff65 Glumdalclitch and the author attended the king and queen in a progress.<br>\uff65 Glumdalclitch consented with reluctance to letting the author go out with the page and gave a strict<br>charge to be careful.",
+                        "from": "node_id184",
+                        "to": "node_id188",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id118",
-                        "label": "seize",
-                        "title": "Some eagle had got the ring of the author's box in his beak.",
-                        "from": "node_id186",
-                        "to": "node_id186",
-                        "arrows": "to"
+                        "label": "has fondness",
+                        "title": "\uff65 The author was very fond of a page, who had sometimes been trusted with him.<br>\uff65 The page took the author out in his box towards the sea-shore.",
+                        "from": "node_id185",
+                        "to": "node_id188",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id119",
+                        "label": "seize",
+                        "title": "Some eagle had got the ring of the author's box in his beak.",
+                        "from": "node_id186",
+                        "to": "node_id188",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id120",
                         "label": "offers kindness",
-                        "title": "The captain, Mr. Thomas Wilcocks, observed the author to faint and took him into his cabin, giving him a cordial.<br>Mr. Thomas Wilcocks desired the author to give an account of his travels and the accident that led him to be adrift in the wooden chest.",
+                        "title": "\uff65 The captain, Mr. Thomas Wilcocks, observed the author to faint and took him into his cabin, giving<br>him a cordial.<br>\uff65 Mr. Thomas Wilcocks desired the author to give an account of his travels and the accident that led<br>him to be adrift in the wooden chest.",
                         "from": "node_id187",
-                        "to": "node_id187",
-                        "arrows": "to"
+                        "to": "node_id188",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             }
@@ -2495,9 +2527,9 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id120",
+                        "id": "edge_id121",
                         "label": "visit",
-                        "title": "Captain William Robinson made a visit to the author's house, had always treated the author more like a brother than an inferior officer, and plainly invited the author to be surgeon of the ship.",
+                        "title": "Captain William Robinson made a visit to the author's house, had always treated the author more like<br>a brother than an inferior officer, and plainly invited the author to be surgeon of the ship.",
                         "from": "node_id192",
                         "to": "node_id193",
                         "arrows": "to",
@@ -2507,9 +2539,9 @@
                         }
                     },
                     {
-                        "id": "edge_id121",
+                        "id": "edge_id122",
                         "label": "promise",
-                        "title": "The Japanese captain promised that the author should not die and was kind to provide the author with provisions for the canoe.",
+                        "title": "The Japanese captain promised that the author should not die and was kind to provide the author with<br>provisions for the canoe.",
                         "from": "node_id195",
                         "to": "node_id193",
                         "arrows": "to",
@@ -2519,7 +2551,7 @@
                         }
                     },
                     {
-                        "id": "edge_id122",
+                        "id": "edge_id123",
                         "label": "persuade",
                         "title": "The only difficulty was to persuade the author's wife for the voyage.",
                         "from": "node_id193",
@@ -2531,7 +2563,7 @@
                         }
                     },
                     {
-                        "id": "edge_id123",
+                        "id": "edge_id124",
                         "label": "plead",
                         "title": "The author begged the Dutchman to take pity on them.",
                         "from": "node_id193",
@@ -2543,7 +2575,7 @@
                         }
                     },
                     {
-                        "id": "edge_id124",
+                        "id": "edge_id125",
                         "label": "threaten",
                         "title": "The Dutchman threatened to throw the author into the sea.",
                         "from": "node_id194",
@@ -2563,79 +2595,79 @@
                     {
                         "id": "node_id197",
                         "label": "Laputians",
-                        "title": "The inhabitants of the island of Laputa who are described as highly focused on speculative thoughts and are commonly attended by flappers to keep them engaged during conversations",
+                        "title": "The inhabitants of the island of Laputa who are described as highly focused on speculative thoughts<br>and are commonly attended by flappers to keep them engaged during conversations",
                         "size": 33
                     },
                     {
                         "id": "node_id198",
                         "label": "King of Laputa",
-                        "title": "The ruler of the island of Laputa, deeply immersed in problem-solving and speculative thoughts, often requiring a flapper to bring his attention to present matters",
+                        "title": "The ruler of the island of Laputa, deeply immersed in problem-solving and speculative thoughts,<br>often requiring a flapper to bring his attention to present matters",
                         "size": 39
                     },
                     {
                         "id": "node_id199",
                         "label": "Flappers",
-                        "title": "Servants in Laputa tasked with using bladders to rouse their masters' attention or direct them in conversation, crucial for the functioning of Laputian society's communication",
+                        "title": "Servants in Laputa tasked with using bladders to rouse their masters' attention or direct them in<br>conversation, crucial for the functioning of Laputian society's communication",
                         "size": 36
                     },
                     {
                         "id": "node_id200",
                         "label": "Prime quality persons",
-                        "title": "The individuals of high status who first encountered the author upon his arrival in Laputa, representing the social hierarchy",
+                        "title": "The individuals of high status who first encountered the author upon his arrival in Laputa,<br>representing the social hierarchy",
                         "size": 27
                     },
                     {
                         "id": "node_id201",
                         "label": "The king's pages",
-                        "title": "The young attendants by the king's side who are equipped with flaps to assist in awakening his awareness during court sessions",
+                        "title": "The young attendants by the king's side who are equipped with flaps to assist in awakening his<br>awareness during court sessions",
                         "size": 30
                     },
                     {
                         "id": "node_id202",
                         "label": "The king's court",
-                        "title": "The collective group of nobility and officials who attend to the king and participate in the unique cultural practices of Laputa",
+                        "title": "The collective group of nobility and officials who attend to the king and participate in the unique<br>cultural practices of Laputa",
                         "size": 33
                     },
                     {
                         "id": "node_id203",
                         "label": "The tutor",
-                        "title": "The person appointed to teach the author the language of Laputa, facilitating his communication and understanding of their society",
+                        "title": "The person appointed to teach the author the language of Laputa, facilitating his communication and<br>understanding of their society",
                         "size": 30
                     },
                     {
                         "id": "node_id204",
                         "label": "Servants of the king's palace",
-                        "title": "The individuals who served the author during his stay at the palace, showing the hospitality of the king to strangers",
+                        "title": "The individuals who served the author during his stay at the palace, showing the hospitality of the<br>king to strangers",
                         "size": 24
                     },
                     {
                         "id": "node_id205",
                         "label": "Persons of quality dining with the author",
-                        "title": "The noble individuals who shared a meal with the author, indicating the importance of social interactions in Laputa",
+                        "title": "The noble individuals who shared a meal with the author, indicating the importance of social<br>interactions in Laputa",
                         "size": 27
                     },
                     {
                         "id": "node_id206",
                         "label": "Women of the island",
-                        "title": "Known for their vivacity, they defy traditional spousal bonds and are attracted to foreigners, representing a social dynamic in Laputan culture",
+                        "title": "Known for their vivacity, they defy traditional spousal bonds and are attracted to foreigners,<br>representing a social dynamic in Laputan culture",
                         "size": 30
                     },
                     {
                         "id": "node_id207",
                         "label": "Court ladies and husbands",
-                        "title": "Illustrate the domestic and marital life within Laputan society, where the former often seeks external companionship while the latter are preoccupied with thoughts",
+                        "title": "Illustrate the domestic and marital life within Laputan society, where the former often seeks<br>external companionship while the latter are preoccupied with thoughts",
                         "size": 27
                     },
                     {
                         "id": "node_id208",
                         "label": "Prime minister's wife",
-                        "title": "A specific woman whose escapades provide insight into the social issues and the discontent that some Laputan women feel",
+                        "title": "A specific woman whose escapades provide insight into the social issues and the discontent that some<br>Laputan women feel",
                         "size": 27
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id125",
+                        "id": "edge_id126",
                         "label": "employ",
                         "title": "The king keeps a flapper in his family, as one of his domestics.",
                         "from": "node_id198",
@@ -2643,7 +2675,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id126",
+                        "id": "edge_id127",
                         "label": "attend",
                         "title": "There stood by the king, on each side, a young page with flaps in their hands.",
                         "from": "node_id201",
@@ -2651,11 +2683,11 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id127",
+                        "id": "edge_id128",
                         "label": "attend",
                         "title": "Two servants were appointed to attend me.",
                         "from": "node_id204",
-                        "to": "node_id204",
+                        "to": "node_id203",
                         "arrows": "to"
                     }
                 ]
@@ -2679,19 +2711,19 @@
                     {
                         "id": "node_id211",
                         "label": "Laputians",
-                        "title": "Inhabitants of the flying or floating island in \"Gulliver's Travels\" who are known for their improvements in astronomy",
+                        "title": "Inhabitants of the flying or floating island in \"Gulliver's Travels\" who are known for their<br>improvements in astronomy",
                         "size": 34
                     },
                     {
                         "id": "node_id212",
                         "label": "King of Laputa",
-                        "title": "The ruler of the flying island who can suppress insurrections with the unique abilities of the island",
+                        "title": "The ruler of the flying island who can suppress insurrections with the unique abilities of the<br>island",
                         "size": 42
                     },
                     {
                         "id": "node_id213",
                         "label": "Prince of Laputa",
-                        "title": "A member of the royal family, presumably the individual who granted the protagonist permission to view the island's curiosities",
+                        "title": "A member of the royal family, presumably the individual who granted the protagonist permission to<br>view the island's curiosities",
                         "size": 36
                     },
                     {
@@ -2709,13 +2741,13 @@
                     {
                         "id": "node_id216",
                         "label": "Astronomers of Laputa",
-                        "title": "Scientists residing in Laputa who are responsible for operating the lodestone and conducting celestial observations",
+                        "title": "Scientists residing in Laputa who are responsible for operating the lodestone and conducting<br>celestial observations",
                         "size": 40
                     },
                     {
                         "id": "node_id217",
                         "label": "Citizens of Lindalino",
-                        "title": "Inhabitants of the second city in the kingdom who rebel against the king's authority and attempt to gain independence",
+                        "title": "Inhabitants of the second city in the kingdom who rebel against the king's authority and attempt to<br>gain independence",
                         "size": 39
                     },
                     {
@@ -2727,7 +2759,7 @@
                     {
                         "id": "node_id219",
                         "label": "King's servants",
-                        "title": "Individuals serving the monarch who could be at risk if the island were to be permanently fixed by the citizens",
+                        "title": "Individuals serving the monarch who could be at risk if the island were to be permanently fixed by<br>the citizens",
                         "size": 33
                     },
                     {
@@ -2745,7 +2777,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id128",
+                        "id": "edge_id129",
                         "label": "solve a phenomenon",
                         "title": "A phenomenon solved by modern philosophy and astronomy.",
                         "from": "node_id209",
@@ -2753,7 +2785,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id129",
+                        "id": "edge_id130",
                         "label": "make great improvements",
                         "title": "The Laputians\u2019 great improvements in the latter.",
                         "from": "node_id211",
@@ -2761,15 +2793,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id130",
+                        "id": "edge_id131",
                         "label": "suppress",
                         "title": "The king\u2019s method of suppressing insurrections.",
                         "from": "node_id212",
-                        "to": "node_id212",
+                        "to": "node_id210",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id131",
+                        "id": "edge_id132",
                         "label": "order to attend",
                         "title": "ordered my tutor to attend me.",
                         "from": "node_id213",
@@ -2777,11 +2809,11 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id132",
+                        "id": "edge_id133",
                         "label": "give account",
                         "title": "I will now give a philosophical account to the reader.",
                         "from": "node_id215",
-                        "to": "node_id215",
+                        "to": "node_id220",
                         "arrows": "to"
                     }
                 ]
@@ -2793,79 +2825,79 @@
                     {
                         "id": "node_id222",
                         "label": "Author",
-                        "title": "The protagonist and narrator of the story who recounts his experiences in Laputa and Balnibarbi, expresses his desire to leave, and interacts with the great lord and others",
+                        "title": "The protagonist and narrator of the story who recounts his experiences in Laputa and Balnibarbi,<br>expresses his desire to leave, and interacts with the great lord and others",
                         "size": 45
                     },
                     {
                         "id": "node_id223",
                         "label": "Prince of Laputa",
-                        "title": "A character who is implied to be among the leadership of Laputa but does not take a specific interest in the Author, showcasing Laputa's societal priorities",
+                        "title": "A character who is implied to be among the leadership of Laputa but does not take a specific<br>interest in the Author, showcasing Laputa's societal priorities",
                         "size": 24
                     },
                     {
                         "id": "node_id224",
                         "label": "People of Laputa",
-                        "title": "Inhabitants of the flying island who are described as being solely interested in mathematics and music, to which the Author feels inferior and thus neglected",
+                        "title": "Inhabitants of the flying island who are described as being solely interested in mathematics and<br>music, to which the Author feels inferior and thus neglected",
                         "size": 27
                     },
                     {
                         "id": "node_id225",
                         "label": "Women",
-                        "title": "tradesmen, flappers, and court-pages, The only people in Laputa with whom the Author has meaningful interactions, showing the Author's social circle during his stay",
+                        "title": "tradesmen, flappers, and court-pages, The only people in Laputa with whom the Author has meaningful<br>interactions, showing the Author's social circle during his stay",
                         "size": 30
                     },
                     {
                         "id": "node_id226",
                         "label": "Great lord at court",
-                        "title": "A noble character nearly related to the king of Laputa, seen as ignorant and stupid by his peers but is favorable and curious about the Author's knowledge of Europe, playing a key role in the Author's plot to leave the island",
+                        "title": "A noble character nearly related to the king of Laputa, seen as ignorant and stupid by his peers but<br>is favorable and curious about the Author's knowledge of Europe, playing a key role in the Author's<br>plot to leave the island",
                         "size": 39
                     },
                     {
                         "id": "node_id227",
                         "label": "King of Laputa",
-                        "title": "The ruler who grants the Author permission to leave the island and presents him with gifts, likely having authority over Laputa",
+                        "title": "The ruler who grants the Author permission to leave the island and presents him with gifts, likely<br>having authority over Laputa",
                         "size": 33
                     },
                     {
                         "id": "node_id228",
                         "label": "Friend of the great lord in Lagado",
-                        "title": "An unseen character who is intended to receive the Author in Balnibarbi's metropolis via a letter of recommendation",
+                        "title": "An unseen character who is intended to receive the Author in Balnibarbi's metropolis via a letter of<br>recommendation",
                         "size": 21
                     },
                     {
                         "id": "node_id229",
                         "label": "Lord Munodi",
-                        "title": "A prominent figure in Lagado who becomes the Author's host and provides insights into the state of Balnibarbi as well as its people, significant for his different perspective on progress and tradition",
+                        "title": "A prominent figure in Lagado who becomes the Author's host and provides insights into the state of<br>Balnibarbi as well as its people, significant for his different perspective on progress and<br>tradition",
                         "size": 42
                     },
                     {
                         "id": "node_id230",
                         "label": "Citizens of Lagado and the country",
-                        "title": "The general population working on various unsuccessful projects, they represent the effects of misguided innovation",
+                        "title": "The general population working on various unsuccessful projects, they represent the effects of<br>misguided innovation",
                         "size": 24
                     },
                     {
                         "id": "node_id231",
                         "label": "Cabal of ministers",
-                        "title": "A group responsible for discharging Lord Munodi as governor of Lagado due to their perception of his insufficiency, they play a role in the political backstory and current state of Lagado",
+                        "title": "A group responsible for discharging Lord Munodi as governor of Lagado due to their perception of his<br>insufficiency, they play a role in the political backstory and current state of Lagado",
                         "size": 27
                     },
                     {
                         "id": "node_id232",
                         "label": "Academics in Lagado",
-                        "title": "Professors in the grand academy responsible for new schemes and innovations, they embody the pursuit of impractical knowledge and are indicative of society's ambitions and follies",
+                        "title": "Professors in the grand academy responsible for new schemes and innovations, they embody the pursuit<br>of impractical knowledge and are indicative of society's ambitions and follies",
                         "size": 36
                     },
                     {
                         "id": "node_id233",
                         "label": "Projectors",
-                        "title": "Individuals involved with the academy who propose and attempt to execute various ambitious projects, they symbolize the drive for innovation and the consequences of its misapplication",
+                        "title": "Individuals involved with the academy who propose and attempt to execute various ambitious projects,<br>they symbolize the drive for innovation and the consequences of its misapplication",
                         "size": 33
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id133",
+                        "id": "edge_id134",
                         "label": "have contempt for",
                         "title": "The prince did not show curiosity in the author's knowledge except for mathematics and music.",
                         "from": "node_id222",
@@ -2877,9 +2909,9 @@
                         }
                     },
                     {
-                        "id": "edge_id134",
+                        "id": "edge_id135",
                         "label": "nearly related to",
-                        "title": "The great lord at court is nearly related to the king.<br>The great lord interceded with the king on behalf of the author.",
+                        "title": "\uff65 The great lord at court is nearly related to the king.<br>\uff65 The great lord interceded with the king on behalf of the author.",
                         "from": "node_id226",
                         "to": "node_id227",
                         "arrows": "to",
@@ -2889,7 +2921,7 @@
                         }
                     },
                     {
-                        "id": "edge_id135",
+                        "id": "edge_id136",
                         "label": "regarded with disrespect by",
                         "title": "The cabal of ministers reckoned him the most ignorant.",
                         "from": "node_id226",
@@ -2901,7 +2933,7 @@
                         }
                     },
                     {
-                        "id": "edge_id136",
+                        "id": "edge_id137",
                         "label": "received favour from",
                         "title": "The great lord showed many marks of favour to the author.",
                         "from": "node_id222",
@@ -2913,7 +2945,7 @@
                         }
                     },
                     {
-                        "id": "edge_id137",
+                        "id": "edge_id138",
                         "label": "leave granted by",
                         "title": "The king of Laputa granted leave to the author to depart.",
                         "from": "node_id222",
@@ -2925,7 +2957,7 @@
                         }
                     },
                     {
-                        "id": "edge_id138",
+                        "id": "edge_id139",
                         "label": "gave a present to",
                         "title": "The king gave the author a present to the value of about two hundred pounds English.",
                         "from": "node_id227",
@@ -2937,7 +2969,7 @@
                         }
                     },
                     {
-                        "id": "edge_id139",
+                        "id": "edge_id140",
                         "label": "gave a present to",
                         "title": "The great lord gave the author a present.",
                         "from": "node_id226",
@@ -2949,7 +2981,7 @@
                         }
                     },
                     {
-                        "id": "edge_id140",
+                        "id": "edge_id141",
                         "label": "recommended to",
                         "title": "The author was recommended to a friend of the great lord in the metropolis.",
                         "from": "node_id222",
@@ -2961,7 +2993,7 @@
                         }
                     },
                     {
-                        "id": "edge_id141",
+                        "id": "edge_id142",
                         "label": "received by",
                         "title": "Lord Munodi received the author with much kindness.",
                         "from": "node_id222",
@@ -2973,7 +3005,7 @@
                         }
                     },
                     {
-                        "id": "edge_id142",
+                        "id": "edge_id143",
                         "label": "former governor of",
                         "title": "Lord Munodi had been governor of Lagado.",
                         "from": "node_id229",
@@ -2985,7 +3017,7 @@
                         }
                     },
                     {
-                        "id": "edge_id143",
+                        "id": "edge_id144",
                         "label": "influenced by",
                         "title": "The cabal of ministers discharged Lord Munodi.",
                         "from": "node_id230",
@@ -2997,7 +3029,7 @@
                         }
                     },
                     {
-                        "id": "edge_id144",
+                        "id": "edge_id145",
                         "label": "established an academy for",
                         "title": "The academics in Lagado established an academy of projectors.",
                         "from": "node_id232",
@@ -3089,27 +3121,27 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id145",
+                        "id": "edge_id146",
                         "label": "had",
                         "title": "The blind man had several apprentices who were mixing colours for painters.",
                         "from": "node_id239",
-                        "to": "node_id239",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id146",
-                        "label": "employing for the improvement of human~",
-                        "title": "The universal artist had been employing his thoughts for the improvement of human life.",
-                        "from": "node_id244",
-                        "to": "node_id244",
+                        "to": "node_id238",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id147",
+                        "label": "employing for the improvement of human~",
+                        "title": "The universal artist had been employing his thoughts for the improvement of human life.",
+                        "from": "node_id244",
+                        "to": "node_id240",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id148",
                         "label": "improving",
                         "title": "The first professor was employing mechanical operations to improve speculative knowledge.",
                         "from": "node_id245",
-                        "to": "node_id245",
+                        "to": "node_id237",
                         "arrows": "to"
                     }
                 ]
@@ -3121,43 +3153,43 @@
                     {
                         "id": "node_id246",
                         "label": "Author",
-                        "title": "The narrator and protagonist of the story, who proposes improvements and provides observations and accounts of the academy",
+                        "title": "The narrator and protagonist of the story, who proposes improvements and provides observations and<br>accounts of the academy",
                         "size": 45
                     },
                     {
                         "id": "node_id247",
                         "label": "Professors",
-                        "title": "Individuals who appear to be out of their senses with unrealistic and impossible schemes in the school of political projectors",
+                        "title": "Individuals who appear to be out of their senses with unrealistic and impossible schemes in the<br>school of political projectors",
                         "size": 33
                     },
                     {
                         "id": "node_id248",
                         "label": "Ingenious Doctor",
-                        "title": "A character who is very knowledgeable in government and has studied remedies for the diseases and corruptions of public administration",
+                        "title": "A character who is very knowledgeable in government and has studied remedies for the diseases and<br>corruptions of public administration",
                         "size": 39
                     },
                     {
                         "id": "node_id249",
                         "label": "Senators",
-                        "title": "Members of the great council in the narrative who are subject to various proposed treatments by the ingenious doctor to improve the legislative process",
+                        "title": "Members of the great council in the narrative who are subject to various proposed treatments by the<br>ingenious doctor to improve the legislative process",
                         "size": 30
                     },
                     {
                         "id": "node_id250",
                         "label": "First Minister",
-                        "title": "A character who is proposed to be reminded of his business with physical tweaks to prevent forgetfulness",
+                        "title": "A character who is proposed to be reminded of his business with physical tweaks to prevent<br>forgetfulness",
                         "size": 24
                     },
                     {
                         "id": "node_id251",
                         "label": "Leaders of each party",
-                        "title": "People within the context of the political factions who are subject to a proposed method to reconcile violent parties by a literal exchange of brain parts",
+                        "title": "People within the context of the political factions who are subject to a proposed method to<br>reconcile violent parties by a literal exchange of brain parts",
                         "size": 27
                     },
                     {
                         "id": "node_id252",
                         "label": "Two Professors",
-                        "title": "Characters who debate about the most commodious and effective ways of raising money without grieving the subject",
+                        "title": "Characters who debate about the most commodious and effective ways of raising money without grieving<br>the subject",
                         "size": 33
                     },
                     {
@@ -3169,56 +3201,88 @@
                     {
                         "id": "node_id254",
                         "label": "Another Professor",
-                        "title": "The character who suggests a paper of instructions for discovering plots and conspiracies against the government",
+                        "title": "The character who suggests a paper of instructions for discovering plots and conspiracies against<br>the government",
                         "size": 30
                     },
                     {
                         "id": "node_id255",
                         "label": "Tribnia (Langden) Inhabitants",
-                        "title": "These are characters mentioned to explain a kingdom's population involved in politically motivated activities such as informing and prosecuting, but are not to be described further as per constraints",
+                        "title": "These are characters mentioned to explain a kingdom's population involved in politically motivated<br>activities such as informing and prosecuting, but are not to be described further as per constraints",
                         "size": 27
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id148",
+                        "id": "edge_id149",
                         "label": "appear",
-                        "title": "The professors appeared to the author to be wholly out of their senses.<br>offer, The author offered to supply the professor with further information.",
+                        "title": "\uff65 The professors appeared to the author to be wholly out of their senses.<br>\uff65 offer, The author offered to supply the professor with further information.",
                         "from": "node_id247",
                         "to": "node_id246",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id149",
-                        "label": "versed",
-                        "title": "A most ingenious doctor seemed to be perfectly versed in the whole nature and system of government.<br>This doctor employed his studies in finding remedial measures for diseases of public administration.",
-                        "from": "node_id248",
-                        "to": "node_id248",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id150",
-                        "label": "tweak by nose or kick",
-                        "title": "This doctor proposed to tweak the first minister's nose or kick his belly to prevent forgetfulness.",
-                        "from": "node_id250",
-                        "to": "node_id250",
-                        "arrows": "to"
+                        "label": "versed",
+                        "title": "A most ingenious doctor seemed to be perfectly versed in the whole nature and system of government.",
+                        "from": "node_id248",
+                        "to": "node_id251",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id151",
-                        "label": "attend and treat",
-                        "title": "Proposed that physicians should attend the senate and treat each senator with various medicines.",
-                        "from": "node_id249",
-                        "to": "node_id249",
-                        "arrows": "to"
+                        "label": "remedy",
+                        "title": "This doctor employed his studies in finding remedial measures for diseases of public administration.",
+                        "from": "node_id248",
+                        "to": "node_id250",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id152",
+                        "label": "tweak by nose or kick",
+                        "title": "This doctor proposed to tweak the first minister's nose or kick his belly to prevent forgetfulness.",
+                        "from": "node_id250",
+                        "to": "node_id248",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id153",
+                        "label": "attend and treat",
+                        "title": "Proposed that physicians should attend the senate and treat each senator with various medicines.",
+                        "from": "node_id249",
+                        "to": "node_id250",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id154",
                         "label": "consist",
                         "title": "In Tribnia (Langden), the bulk of the people consist of those involved in plots.",
                         "from": "node_id255",
-                        "to": "node_id255",
-                        "arrows": "to"
+                        "to": "node_id247",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -3325,7 +3389,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id153",
+                        "id": "edge_id155",
                         "label": "received",
                         "title": "The author received a reception by the governor.",
                         "from": "node_id256",
@@ -3333,7 +3397,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id154",
+                        "id": "edge_id156",
                         "label": "take leave",
                         "title": "The author took leave of a noble protector.",
                         "from": "node_id256",
@@ -3341,7 +3405,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id155",
+                        "id": "edge_id157",
                         "label": "appears and converses",
                         "title": "Alexander the Great was summoned and conversed with the author.",
                         "from": "node_id262",
@@ -3349,7 +3413,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id156",
+                        "id": "edge_id158",
                         "label": "appears and converses",
                         "title": "Hannibal was summoned and conversed with the author.",
                         "from": "node_id263",
@@ -3357,7 +3421,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id157",
+                        "id": "edge_id159",
                         "label": "appears and converses",
                         "title": "C\u00e6sar was summoned and conversed with the author.",
                         "from": "node_id264",
@@ -3365,7 +3429,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id158",
+                        "id": "edge_id160",
                         "label": "appears and converses",
                         "title": "Pompey was summoned and conversed with the author.",
                         "from": "node_id265",
@@ -3373,7 +3437,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id159",
+                        "id": "edge_id161",
                         "label": "appears and converses",
                         "title": "Brutus was summoned and conversed with the author.",
                         "from": "node_id266",
@@ -3381,7 +3445,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id160",
+                        "id": "edge_id162",
                         "label": "appears and converses",
                         "title": "Junius Brutus was summoned and conversed with the author.",
                         "from": "node_id267",
@@ -3389,7 +3453,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id161",
+                        "id": "edge_id163",
                         "label": "appears and converses",
                         "title": "Socrates was summoned and conversed with the author.",
                         "from": "node_id268",
@@ -3397,7 +3461,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id162",
+                        "id": "edge_id164",
                         "label": "appears and converses",
                         "title": "Epaminondas was summoned and conversed with the author.",
                         "from": "node_id269",
@@ -3405,7 +3469,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id163",
+                        "id": "edge_id165",
                         "label": "appears and converses",
                         "title": "Cato the Younger was summoned and conversed with the author.",
                         "from": "node_id270",
@@ -3413,7 +3477,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id164",
+                        "id": "edge_id166",
                         "label": "appears and converses",
                         "title": "Sir Thomas More was summoned and conversed with the author.",
                         "from": "node_id271",
@@ -3471,7 +3535,7 @@
                     {
                         "id": "node_id279",
                         "label": "Gassendi",
-                        "title": "French philosopher, priest, scientist, astronomer, and mathematician, known for his attempt to reconcile Epicurean atomism with Christianity",
+                        "title": "French philosopher, priest, scientist, astronomer, and mathematician, known for his attempt to<br>reconcile Epicurean atomism with Christianity",
                         "size": 42
                     },
                     {
@@ -3519,19 +3583,19 @@
                     {
                         "id": "node_id287",
                         "label": "Libertina",
-                        "title": "Likely a fictional character representing a freewoman associated with one of the emperor\u2019s mistresses",
+                        "title": "Likely a fictional character representing a freewoman associated with one of the emperor\u2019s<br>mistresses",
                         "size": 21
                     },
                     {
                         "id": "node_id288",
                         "label": "Publicola",
-                        "title": "Represents a character likely in a position of power such as vice-admiral, given the context of naval command",
+                        "title": "Represents a character likely in a position of power such as vice-admiral, given the context of<br>naval command",
                         "size": 33
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id165",
+                        "id": "edge_id167",
                         "label": "appearance comparison",
                         "title": "Homer was the taller and comelier person of the two.",
                         "from": "node_id272",
@@ -3539,7 +3603,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id166",
+                        "id": "edge_id168",
                         "label": "introduction",
                         "title": "I introduced Didymus to Homer.",
                         "from": "node_id274",
@@ -3547,7 +3611,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id167",
+                        "id": "edge_id169",
                         "label": "introduction",
                         "title": "I introduced Eustathius to Homer.",
                         "from": "node_id275",
@@ -3555,7 +3619,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id168",
+                        "id": "edge_id170",
                         "label": "discontent towards",
                         "title": "Aristotle was out of all patience with the account I gave him of Scotus.",
                         "from": "node_id273",
@@ -3563,7 +3627,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id169",
+                        "id": "edge_id171",
                         "label": "discontent towards",
                         "title": "Aristotle was out of all patience with the account I gave him of Ramus.",
                         "from": "node_id273",
@@ -3571,7 +3635,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id170",
+                        "id": "edge_id172",
                         "label": "explain systems to",
                         "title": "I prevailed on Descartes to explain his systems to Aristotle.",
                         "from": "node_id278",
@@ -3579,7 +3643,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id171",
+                        "id": "edge_id173",
                         "label": "explain systems to",
                         "title": "I prevailed on Gassendi to explain his systems to Aristotle.",
                         "from": "node_id279",
@@ -3587,15 +3651,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id172",
+                        "id": "edge_id174",
                         "label": "statement about",
                         "title": "Polydore Virgil says of a certain great house, Nec vir fortis, nec femina casta.",
                         "from": "node_id282",
-                        "to": "node_id282",
+                        "to": "node_id281",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id173",
+                        "id": "edge_id175",
                         "label": "defeat due to",
                         "title": "The sea fight at Actium was the sole cause of Antony's flight.",
                         "from": "node_id283",
@@ -3603,7 +3667,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id174",
+                        "id": "edge_id176",
                         "label": "ship given to son of",
                         "title": "It was given to a boy who had never seen the sea, the son of Libertina.",
                         "from": "node_id285",
@@ -3611,19 +3675,19 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id175",
+                        "id": "edge_id177",
                         "label": "ship given to favourite page of",
                         "title": "The ship was given to a favourite page of Publicola.",
                         "from": "node_id288",
-                        "to": "node_id288",
+                        "to": "node_id286",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id176",
+                        "id": "edge_id178",
                         "label": "confirmation of account",
                         "title": "Agrippa appeared and confirmed the whole account of the sea fight at Actium.",
                         "from": "node_id286",
-                        "to": "node_id286",
+                        "to": "node_id283",
                         "arrows": "to"
                     }
                 ]
@@ -3701,39 +3765,39 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id177",
-                        "label": "examines and confines",
-                        "title": "A custom-house officer examined the author very strictly upon his landing and said the author must be confined till orders from court are received.",
-                        "from": "node_id293",
-                        "to": "node_id293",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id178",
-                        "label": "maintenance",
-                        "title": "The author was maintained at the king's charge.",
-                        "from": "node_id294",
-                        "to": "node_id294",
-                        "arrows": "to"
-                    },
-                    {
                         "id": "edge_id179",
-                        "label": "hired",
-                        "title": "The author hired a young man to be an interpreter.",
-                        "from": "node_id295",
-                        "to": "node_id295",
+                        "label": "examines and confines",
+                        "title": "A custom-house officer examined the author very strictly upon his landing and said the author must<br>be confined till orders from court are received.",
+                        "from": "node_id293",
+                        "to": "node_id290",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id180",
-                        "label": "provides lodging",
-                        "title": "The high-chamberlain was ordered to appoint a lodging for the author.",
-                        "from": "node_id297",
-                        "to": "node_id297",
+                        "label": "maintenance",
+                        "title": "The author was maintained at the king's charge.",
+                        "from": "node_id294",
+                        "to": "node_id290",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id181",
+                        "label": "hired",
+                        "title": "The author hired a young man to be an interpreter.",
+                        "from": "node_id295",
+                        "to": "node_id290",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id182",
+                        "label": "provides lodging",
+                        "title": "The high-chamberlain was ordered to appoint a lodging for the author.",
+                        "from": "node_id297",
+                        "to": "node_id290",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id183",
                         "label": "gives notice",
                         "title": "A messenger was dispatched to give notice to the king of the author's approach.",
                         "from": "node_id296",
@@ -3803,15 +3867,15 @@
                     {
                         "id": "node_id309",
                         "label": "Friends",
-                        "title": "Referred to by the gentleman, likely other members of Luggnaggian society participating in the conversation",
+                        "title": "Referred to by the gentleman, likely other members of Luggnaggian society participating in the<br>conversation",
                         "size": 24
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id182",
+                        "id": "edge_id184",
                         "label": "commend",
-                        "title": "The Luggnaggians commended Struldbrugs.<br>The Luggnaggians provided for Struldbrugs with a very scanty allowance.",
+                        "title": "\uff65 The Luggnaggians commended Struldbrugs.<br>\uff65 The Luggnaggians provided for Struldbrugs with a very scanty allowance.",
                         "from": "node_id300",
                         "to": "node_id301",
                         "arrows": "to",
@@ -3821,9 +3885,9 @@
                         }
                     },
                     {
-                        "id": "edge_id183",
+                        "id": "edge_id185",
                         "label": "inquire",
-                        "title": "A person of quality asked the author whether he had seen any of their Struldbrugs.<br>The person of quality explained to the author the nature of Struldbrugs.",
+                        "title": "\uff65 A person of quality asked the author whether he had seen any of their Struldbrugs.<br>\uff65 The person of quality explained to the author the nature of Struldbrugs.",
                         "from": "node_id302",
                         "to": "node_id305",
                         "arrows": "to",
@@ -3833,7 +3897,7 @@
                         }
                     },
                     {
-                        "id": "edge_id184",
+                        "id": "edge_id186",
                         "label": "desire explanation",
                         "title": "The author desired the person of quality to explain what he meant by Struldbrugs.",
                         "from": "node_id305",
@@ -3845,7 +3909,7 @@
                         }
                     },
                     {
-                        "id": "edge_id185",
+                        "id": "edge_id187",
                         "label": "express admiration",
                         "title": "The author expressed admiration towards the Struldbrugs.",
                         "from": "node_id305",
@@ -3857,7 +3921,7 @@
                         }
                     },
                     {
-                        "id": "edge_id186",
+                        "id": "edge_id188",
                         "label": "challenge",
                         "title": "The ambassador from Balnibarbi set the author right in few mistakes.",
                         "from": "node_id307",
@@ -3869,7 +3933,7 @@
                         }
                     },
                     {
-                        "id": "edge_id187",
+                        "id": "edge_id189",
                         "label": "inquire",
                         "title": "Friends desired to know the author's scheme of living if he were a Struldbrug.",
                         "from": "node_id309",
@@ -3889,7 +3953,7 @@
                     {
                         "id": "node_id310",
                         "label": "The author",
-                        "title": "The protagonist and narrator of the account, who leaves Luggnagg, sails to Japan, and returns to England",
+                        "title": "The protagonist and narrator of the account, who leaves Luggnagg, sails to Japan, and returns to<br>England",
                         "size": 45
                     },
                     {
@@ -3901,13 +3965,13 @@
                     {
                         "id": "node_id312",
                         "label": "The king of Luggnagg",
-                        "title": "The monarch who gives the author permission to depart and gifts, as well as a letter of recommendation to the Emperor of Japan",
+                        "title": "The monarch who gives the author permission to depart and gifts, as well as a letter of<br>recommendation to the Emperor of Japan",
                         "size": 27
                     },
                     {
                         "id": "node_id313",
                         "label": "The Emperor of Japan",
-                        "title": "The ruler who receives a letter from the author and grants his requests, acknowledging the favor to the king of Luggnagg",
+                        "title": "The ruler who receives a letter from the author and grants his requests, acknowledging the favor to<br>the king of Luggnagg",
                         "size": 27
                     },
                     {
@@ -3925,13 +3989,13 @@
                     {
                         "id": "node_id316",
                         "label": "The captain (Theodorus Vangrult)",
-                        "title": "The captain of the Amboyna who agrees to take the author to Holland for half the usual rate in exchange for his services as a surgeon",
+                        "title": "The captain of the Amboyna who agrees to take the author to Holland for half the usual rate in<br>exchange for his services as a surgeon",
                         "size": 24
                     },
                     {
                         "id": "node_id317",
                         "label": "Malicious rogue of a skipper",
-                        "title": "The person who attempts to cause trouble for the author by reporting him for not trampling on the crucifix",
+                        "title": "The person who attempts to cause trouble for the author by reporting him for not trampling on the<br>crucifix",
                         "size": 21
                     },
                     {
@@ -3949,7 +4013,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id188",
+                        "id": "edge_id190",
                         "label": "gives letter to",
                         "title": "The king of Luggnagg gives the author a letter of recommendation to the Emperor of Japan.",
                         "from": "node_id312",
@@ -3957,15 +4021,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id189",
+                        "id": "edge_id191",
                         "label": "admits to audience and issues command~",
-                        "title": "The Emperor of Japan admits the author to an audience and commands that the author's requests be granted.",
+                        "title": "The Emperor of Japan admits the author to an audience and commands that the author's requests be<br>granted.",
                         "from": "node_id313",
                         "to": "node_id310",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id190",
+                        "id": "edge_id192",
                         "label": "speaks in Low Dutch to",
                         "title": "When the interpreter speaks to the author, he does so in Low Dutch.",
                         "from": "node_id314",
@@ -3973,15 +4037,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id191",
+                        "id": "edge_id193",
                         "label": "agrees to a deal with",
-                        "title": "The captain Theodorus Vangrult agrees to take the author to Holland for half the usual rate as long as he serves as a surgeon.",
+                        "title": "The captain Theodorus Vangrult agrees to take the author to Holland for half the usual rate as long<br>as he serves as a surgeon.",
                         "from": "node_id316",
                         "to": "node_id310",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id192",
+                        "id": "edge_id194",
                         "label": "punishes",
                         "title": "The officer with a bamboo administers punishment to the malicious rogue of a skipper.",
                         "from": "node_id318",
@@ -3989,7 +4053,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id193",
+                        "id": "edge_id195",
                         "label": "reunites with",
                         "title": "The author reunites with his wife after his travels.",
                         "from": "node_id310",
@@ -4058,15 +4122,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id194",
+                        "id": "edge_id196",
                         "label": "Robert Purefoy",
-                        "title": "Captain Pocock, Buccaneers, James Welch, The Yahoos, The Houyhnhnms'.<br>The author left his poor wife big with child.",
+                        "title": "\uff65 Captain Pocock, Buccaneers, James Welch, The Yahoos, The Houyhnhnms'.<br>\uff65 The author left his poor wife big with child.",
                         "from": "node_id320",
                         "to": "node_id321",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id195",
+                        "id": "edge_id197",
                         "label": "employ",
                         "title": "The author took a skilful young man of that calling, one Robert Purefoy, into his ship.",
                         "from": "node_id320",
@@ -4074,7 +4138,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id196",
+                        "id": "edge_id198",
                         "label": "meet",
                         "title": "On the 14th we met with Captain Pocock, of Bristol, at Teneriffe.",
                         "from": "node_id320",
@@ -4082,15 +4146,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id197",
+                        "id": "edge_id199",
                         "label": "conspire and confine",
-                        "title": "The rogues debauched my other men, and they all formed a conspiracy to seize the ship, and secure me.",
+                        "title": "The rogues debauched my other men, and they all formed a conspiracy to seize the ship, and secure<br>me.",
                         "from": "node_id324",
-                        "to": "node_id324",
+                        "to": "node_id325",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id198",
+                        "id": "edge_id200",
                         "label": "encounter",
                         "title": "The author meets two Houyhnhnms.",
                         "from": "node_id320",
@@ -4112,13 +4176,13 @@
                     {
                         "id": "node_id329",
                         "label": "Gray horse",
-                        "title": "A horse that seems to possess authority and prevents the author from being mistreated by other horses",
+                        "title": "A horse that seems to possess authority and prevents the author from being mistreated by other<br>horses",
                         "size": 33
                     },
                     {
                         "id": "node_id330",
                         "label": "Master of the house",
-                        "title": "A character inferred to hold authority or importance among the Houyhnhnms, as it owns the house the author visits",
+                        "title": "A character inferred to hold authority or importance among the Houyhnhnms, as it owns the house the<br>author visits",
                         "size": 30
                     },
                     {
@@ -4136,7 +4200,7 @@
                     {
                         "id": "node_id333",
                         "label": "Colt",
-                        "title": "A young horse living in the house, observed sitting on its haunches; represents the younger generation of Houyhnhnms",
+                        "title": "A young horse living in the house, observed sitting on its haunches; represents the younger<br>generation of Houyhnhnms",
                         "size": 27
                     },
                     {
@@ -4154,25 +4218,25 @@
                     {
                         "id": "node_id336",
                         "label": "Old steed",
-                        "title": "A distinguished guest who comes to dine with the master horse, assumed to be of quality or high status",
+                        "title": "A distinguished guest who comes to dine with the master horse, assumed to be of quality or high<br>status",
                         "size": 30
                     },
                     {
                         "id": "node_id337",
                         "label": "Mare-servant",
-                        "title": "A female servant horse who provides the author with milk, suggesting a role in food preparation or household service",
+                        "title": "A female servant horse who provides the author with milk, suggesting a role in food preparation or<br>household service",
                         "size": 27
                     },
                     {
                         "id": "node_id338",
                         "label": "Yahoo",
-                        "title": "A detestable creature with a human-like appearance that the author encounters, quite significant in illustrating the contrast between human and Houyhnhnm societies",
+                        "title": "A detestable creature with a human-like appearance that the author encounters, quite significant in<br>illustrating the contrast between human and Houyhnhnm societies",
                         "size": 33
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id199",
+                        "id": "edge_id201",
                         "label": "order",
                         "title": "The master horse ordered the sorrel nag to untie a Yahoo.",
                         "from": "node_id330",
@@ -4180,7 +4244,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id200",
+                        "id": "edge_id202",
                         "label": "order",
                         "title": "The master horse ordered the mare-servant to open the room with milk.",
                         "from": "node_id330",
@@ -4188,7 +4252,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id201",
+                        "id": "edge_id203",
                         "label": "dine with",
                         "title": "The old steed came to dine with the master of the house.",
                         "from": "node_id336",
@@ -4246,7 +4310,7 @@
                     {
                         "id": "node_id346",
                         "label": "Yahoo",
-                        "title": "The brutish creatures resembling humans in the world of the Houyhnhnms, frequently mentioned throughout the text",
+                        "title": "The brutish creatures resembling humans in the world of the Houyhnhnms, frequently mentioned<br>throughout the text",
                         "size": 33
                     },
                     {
@@ -4258,15 +4322,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id202",
+                        "id": "edge_id204",
                         "label": "learn and teach",
-                        "title": "The author studies to learn the language, the master Houyhnhnm assists in teaching him, and is desirous to teach him.<br>The author revealed the secret of his dressing to the master Houyhnhnm and requested not to be called a Yahoo.",
+                        "title": "\uff65 The author studies to learn the language, the master Houyhnhnm assists in teaching him, and is<br>desirous to teach him.<br>\uff65 The author revealed the secret of his dressing to the master Houyhnhnm and requested not to be<br>called a Yahoo.",
                         "from": "node_id339",
                         "to": "node_id340",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id203",
+                        "id": "edge_id205",
                         "label": "assist",
                         "title": "A sorrel nag was very ready to assist the author in learning the language.",
                         "from": "node_id341",
@@ -4274,19 +4338,19 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id204",
+                        "id": "edge_id206",
                         "label": "speculate and perceive and cleanliness",
-                        "title": "The master Houyhnhnm speculated that the author must be a Yahoo, was astonished by the author's cleanliness, and perceived the author's human features.",
+                        "title": "The master Houyhnhnm speculated that the author must be a Yahoo, was astonished by the author's<br>cleanliness, and perceived the author's human features.",
                         "from": "node_id340",
                         "to": "node_id346",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id205",
+                        "id": "edge_id207",
                         "label": "continue",
                         "title": "The master instructed the author to continue learning the language with diligence.",
                         "from": "node_id339",
-                        "to": "node_id339",
+                        "to": "node_id343",
                         "arrows": "to"
                     }
                 ]
@@ -4298,31 +4362,31 @@
                     {
                         "id": "node_id348",
                         "label": "Houyhnhnms",
-                        "title": "A species of intelligent horses in \"Gulliver's Travels\" that embody an ideal rationality and civilization",
+                        "title": "A species of intelligent horses in \"Gulliver's Travels\" that embody an ideal rationality and<br>civilization",
                         "size": 42
                     },
                     {
                         "id": "node_id349",
                         "label": "Yahoos",
-                        "title": "A brutish and savage species of humanoid creatures in \"Gulliver's Travels\", representing the worst of human nature",
+                        "title": "A brutish and savage species of humanoid creatures in \"Gulliver's Travels\", representing the worst<br>of human nature",
                         "size": 42
                     },
                     {
                         "id": "node_id350",
                         "label": "My master",
-                        "title": "The Houyhnhnm who becomes Gulliver's friend and instructs him in the ways of the Houyhnhnms, represents the possibility of a wholly rational and wise being",
+                        "title": "The Houyhnhnm who becomes Gulliver's friend and instructs him in the ways of the Houyhnhnms,<br>represents the possibility of a wholly rational and wise being",
                         "size": 39
                     },
                     {
                         "id": "node_id351",
                         "label": "The author",
-                        "title": "Referring to Lemuel Gulliver, the narrator and main character in \"Gulliver's Travels\", represents the human view and provides contrast to the Houyhnhnms and Yahoos",
+                        "title": "Referring to Lemuel Gulliver, the narrator and main character in \"Gulliver's Travels\", represents<br>the human view and provides contrast to the Houyhnhnms and Yahoos",
                         "size": 45
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id206",
+                        "id": "edge_id208",
                         "label": "My master",
                         "title": "The author'",
                         "from": "node_id348",
@@ -4334,9 +4398,9 @@
                         }
                     },
                     {
-                        "id": "edge_id207",
+                        "id": "edge_id209",
                         "label": "disapproved",
-                        "title": "The author faced disapproval from his master, explained various concepts, promised to do his best in explaining, and informed about his personal history and the treatment of Houyhnhnms in his country.",
+                        "title": "The author faced disapproval from his master, explained various concepts, promised to do his best in<br>explaining, and informed about his personal history and the treatment of Houyhnhnms in his country.",
                         "from": "node_id351",
                         "to": "node_id350",
                         "arrows": "to",
@@ -4346,7 +4410,7 @@
                         }
                     },
                     {
-                        "id": "edge_id208",
+                        "id": "edge_id210",
                         "label": "not comprehend lying",
                         "title": "The Houyhnhnms had difficulty comprehending lying as described by the author.",
                         "from": "node_id348",
@@ -4358,9 +4422,9 @@
                         }
                     },
                     {
-                        "id": "edge_id209",
+                        "id": "edge_id211",
                         "label": "inquire",
-                        "title": "My master inquired about Houyhnhnms, expressed indignation about their treatment, and observed the author's physical form.",
+                        "title": "My master inquired about Houyhnhnms, expressed indignation about their treatment, and observed the<br>author's physical form.",
                         "from": "node_id350",
                         "to": "node_id351",
                         "arrows": "to",
@@ -4370,11 +4434,11 @@
                         }
                     },
                     {
-                        "id": "edge_id210",
+                        "id": "edge_id212",
                         "label": "govern",
                         "title": "My master suggested that Yahoos with reason would likely be the governing animals.",
                         "from": "node_id350",
-                        "to": "node_id350",
+                        "to": "node_id349",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -4390,13 +4454,13 @@
                     {
                         "id": "node_id352",
                         "label": "The author",
-                        "title": "A person commanded by his master to inform about the state of England and engaged in various discussions regarding war and other subjects",
+                        "title": "A person commanded by his master to inform about the state of England and engaged in various<br>discussions regarding war and other subjects",
                         "size": 39
                     },
                     {
                         "id": "node_id353",
                         "label": "The master",
-                        "title": "The character who commands the author to inform him about English affairs and engages with the author in conversation, displaying curiosity and critique",
+                        "title": "The character who commands the author to inform him about English affairs and engages with the<br>author in conversation, displaying curiosity and critique",
                         "size": 36
                     },
                     {
@@ -4414,19 +4478,19 @@
                     {
                         "id": "node_id356",
                         "label": "Yahoos",
-                        "title": "A term used by the master to refer to humans, highlighting their destructive nature and the object of his criticism",
+                        "title": "A term used by the master to refer to humans, highlighting their destructive nature and the object<br>of his criticism",
                         "size": 33
                     },
                     {
                         "id": "node_id357",
                         "label": "A gnnayh",
-                        "title": "A creature compared to Yahoos, illustrating the master's view on the nature of beings and their inherent qualities",
+                        "title": "A creature compared to Yahoos, illustrating the master's view on the nature of beings and their<br>inherent qualities",
                         "size": 21
                     },
                     {
                         "id": "node_id358",
                         "label": "Advocates",
-                        "title": "Individuals part of a society described by the author, skilled in manipulating the law for their purposes",
+                        "title": "Individuals part of a society described by the author, skilled in manipulating the law for their<br>purposes",
                         "size": 27
                     },
                     {
@@ -4438,23 +4502,23 @@
                     {
                         "id": "node_id360",
                         "label": "Criminals",
-                        "title": "People accused of crimes against the state as part of the legal discussion, although not a main focus",
+                        "title": "People accused of crimes against the state as part of the legal discussion, although not a main<br>focus",
                         "size": 21
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id211",
+                        "id": "edge_id213",
                         "label": "inform",
-                        "title": "The author at his master\u2019s command informs him of the state of England.<br>The author begins to explain the English constitution to his master.",
+                        "title": "\uff65 The author at his master\u2019s command informs him of the state of England.<br>\uff65 The author begins to explain the English constitution to his master.",
                         "from": "node_id352",
                         "to": "node_id353",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id212",
+                        "id": "edge_id214",
                         "label": "war engagement",
-                        "title": "The long war with France, entered into by the Prince of Orange and renewed by his successor, the present queen.",
+                        "title": "The long war with France, entered into by the Prince of Orange and renewed by his successor, the<br>present queen.",
                         "from": "node_id354",
                         "to": "node_id355",
                         "arrows": "to"
@@ -4474,122 +4538,142 @@
                     {
                         "id": "node_id362",
                         "label": "My master",
-                        "title": "The person with whom the narrator is having a detailed conversation, presumably Gulliver's Houyhnhnm master, seeking insight into human behavior and society",
+                        "title": "The person with whom the narrator is having a detailed conversation, presumably Gulliver's Houyhnhnm<br>master, seeking insight into human behavior and society",
                         "size": 39
                     },
                     {
                         "id": "node_id363",
                         "label": "Yahoos",
-                        "title": "A term used by the Houyhnhnms to describe human beings in general, representing greed, folly, and a host of other vices",
+                        "title": "A term used by the Houyhnhnms to describe human beings in general, representing greed, folly, and a<br>host of other vices",
                         "size": 36
                     },
                     {
                         "id": "node_id364",
                         "label": "First minister of state",
-                        "title": "A powerful government official in European courts, described as corrupt, greedy, and insincere, holding tremendous influence",
+                        "title": "A powerful government official in European courts, described as corrupt, greedy, and insincere,<br>holding tremendous influence",
                         "size": 36
                     },
                     {
                         "id": "node_id365",
                         "label": "Houyhnhnm",
-                        "title": "A member of a race of intelligent horses thought to embody rationality and virtue, contrasting with human corruption",
+                        "title": "A member of a race of intelligent horses thought to embody rationality and virtue, contrasting with<br>human corruption",
                         "size": 33
                     },
                     {
                         "id": "node_id366",
                         "label": "Rich man",
-                        "title": "A character type representing those who benefit from the labor of the poor in society, signifies wealth disparity",
+                        "title": "A character type representing those who benefit from the labor of the poor in society, signifies<br>wealth disparity",
                         "size": 30
                     },
                     {
                         "id": "node_id367",
                         "label": "Poor man",
-                        "title": "A character representing the masses who toil for low wages, emphasizing social and economic inequalities",
+                        "title": "A character representing the masses who toil for low wages, emphasizing social and economic<br>inequalities",
                         "size": 30
                     },
                     {
                         "id": "node_id368",
                         "label": "Female Yahoos",
-                        "title": "Described in the context of vanity and as carriers of diseases, representing the consequences of indulgence and vice",
+                        "title": "Described in the context of vanity and as carriers of diseases, representing the consequences of<br>indulgence and vice",
                         "size": 27
                     },
                     {
                         "id": "node_id369",
                         "label": "Physicians",
-                        "title": "Those who profess to cure the sick, often with questionable methods, symbolizing the medical practices of the time",
+                        "title": "Those who profess to cure the sick, often with questionable methods, symbolizing the medical<br>practices of the time",
                         "size": 33
                     },
                     {
                         "id": "node_id370",
                         "label": "Noble family",
-                        "title": "Mentioned by the master as a presumed origin of the narrator due to his superior traits, represents social hierarchy",
+                        "title": "Mentioned by the master as a presumed origin of the narrator due to his superior traits, represents<br>social hierarchy",
                         "size": 24
                     },
                     {
                         "id": "node_id371",
                         "label": "Young noblemen",
-                        "title": "Depicted as leading lives of idleness and luxury, embodying the decaying moral fabric of the aristocracy",
+                        "title": "Depicted as leading lives of idleness and luxury, embodying the decaying moral fabric of the<br>aristocracy",
                         "size": 27
                     },
                     {
                         "id": "node_id372",
                         "label": "Ministers of state",
-                        "title": "Described as learning from the chief minister, they represent the corrupt system of governance, aspiring to power through sycophancy",
+                        "title": "Described as learning from the chief minister, they represent the corrupt system of governance,<br>aspiring to power through sycophancy",
                         "size": 33
                     },
                     {
                         "id": "node_id373",
                         "label": "Favourite footman",
-                        "title": "Indicative of a person wielding significant influence over a chief minister, showing how power can be informally distributed",
+                        "title": "Indicative of a person wielding significant influence over a chief minister, showing how power can<br>be informally distributed",
                         "size": 24
                     },
                     {
                         "id": "node_id374",
                         "label": "Pages",
-                        "title": "lackeys, and porters, Represent subordinates who aspire to climb the social ladder by emulating their superiors in corruption",
+                        "title": "lackeys, and porters, Represent subordinates who aspire to climb the social ladder by emulating<br>their superiors in corruption",
                         "size": 24
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id213",
+                        "id": "edge_id215",
                         "label": "enjoys the labor of",
                         "title": "The rich man enjoyed the fruit of the poor man\u2019s labour.",
                         "from": "node_id366",
                         "to": "node_id367",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id214",
+                        "id": "edge_id216",
                         "label": "cure with methods",
-                        "title": "To remedy which, there was a sort of people bred up among us in the profession, or pretence, of curing the sick.",
+                        "title": "To remedy which, there was a sort of people bred up among us in the profession, or pretence, of<br>curing the sick.",
                         "from": "node_id369",
-                        "to": "node_id369",
-                        "arrows": "to"
+                        "to": "node_id374",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id215",
+                        "id": "edge_id217",
                         "label": "produce unhealthy offspring",
                         "title": "That the productions of such marriages are generally scrofulous, rickety, or deformed children.",
                         "from": "node_id370",
                         "to": "node_id371",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id216",
+                        "id": "edge_id218",
                         "label": "train for succession",
-                        "title": "The palace of a chief minister is a seminary to breed up others in his own trade: the pages, lackeys, and porters become ministers of state.",
+                        "title": "The palace of a chief minister is a seminary to breed up others in his own trade: the pages,<br>lackeys, and porters become ministers of state.",
                         "from": "node_id372",
                         "to": "node_id374",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id217",
+                        "id": "edge_id219",
                         "label": "characterized by weakness",
-                        "title": "A weak diseased body, a meagre countenance, and sallow complexion, are the true marks of noble blood.",
+                        "title": "A weak diseased body, a meagre countenance, and sallow complexion, are the true marks of noble<br>blood.",
                         "from": "node_id371",
-                        "to": "node_id371",
-                        "arrows": "to"
+                        "to": "node_id370",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -4606,7 +4690,7 @@
                     {
                         "id": "node_id376",
                         "label": "Master",
-                        "title": "The Houyhnhnm who engages in philosophical dialogue with the author and provides insights about human nature",
+                        "title": "The Houyhnhnm who engages in philosophical dialogue with the author and provides insights about<br>human nature",
                         "size": 42
                     },
                     {
@@ -4618,21 +4702,21 @@
                     {
                         "id": "node_id378",
                         "label": "Yahoos",
-                        "title": "Human-like creatures that live with the Houyhnhnms, perceived as detestable and corrupt, serving as a contrast to human nature",
+                        "title": "Human-like creatures that live with the Houyhnhnms, perceived as detestable and corrupt, serving as<br>a contrast to human nature",
                         "size": 39
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id218",
+                        "id": "edge_id220",
                         "label": "Houyhnhnms",
-                        "title": "Yahoos'<br>The author related several conversations with his master.",
+                        "title": "\uff65 Yahoos'<br>\uff65 The author related several conversations with his master.",
                         "from": "node_id375",
                         "to": "node_id376",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id219",
+                        "id": "edge_id221",
                         "label": "exhibit love and veneration",
                         "title": "The author contracted a love and veneration for the inhabitants, the Houyhnhnms.",
                         "from": "node_id375",
@@ -4640,7 +4724,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id220",
+                        "id": "edge_id222",
                         "label": "make observations",
                         "title": "The master observed Yahoos have an undistinguishing appetite like humans, according to the author.",
                         "from": "node_id376",
@@ -4648,7 +4732,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id221",
+                        "id": "edge_id223",
                         "label": "secure food",
                         "title": "The master acknowledges that when a cow dies, Houyhnhnms secure it for their own Yahoos.",
                         "from": "node_id376",
@@ -4736,15 +4820,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id222",
+                        "id": "edge_id224",
                         "label": "Author's master",
-                        "title": "Strong sorrel nag, Young male Yahoo, Young female Yahoo, Sorrel nag's owner, General assembly, Matron Houyhnhnms, Servant Houyhnhnms, Young couple, Houyhnhnm children'",
+                        "title": "Strong sorrel nag, Young male Yahoo, Young female Yahoo, Sorrel nag's owner, General assembly,<br>Matron Houyhnhnms, Servant Houyhnhnms, Young couple, Houyhnhnm children'",
                         "from": "node_id381",
                         "to": "node_id380",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id223",
+                        "id": "edge_id225",
                         "label": "order to guard",
                         "title": "and his honour ordered one of his servants, a strong sorrel nag, to be my guard.",
                         "from": "node_id381",
@@ -4752,7 +4836,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id224",
+                        "id": "edge_id226",
                         "label": "be kept by",
                         "title": "The Houyhnhnms keep the Yahoos for present use in huts not far from the house.",
                         "from": "node_id379",
@@ -4760,7 +4844,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id225",
+                        "id": "edge_id227",
                         "label": "hold",
                         "title": "Their general assembly.",
                         "from": "node_id380",
@@ -4768,23 +4852,23 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id226",
+                        "id": "edge_id228",
                         "label": "restrict breeding to",
-                        "title": "When the matron Houyhnhnms have produced one of each sex, they no longer accompany with their consorts.",
+                        "title": "When the matron Houyhnhnms have produced one of each sex, they no longer accompany with their<br>consorts.",
                         "from": "node_id380",
                         "to": "node_id387",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id227",
+                        "id": "edge_id229",
                         "label": "arrange marriage of",
-                        "title": "The young couple meet, and are joined, merely because it is the determination of their parents and friends.",
+                        "title": "The young couple meet, and are joined, merely because it is the determination of their parents and<br>friends.",
                         "from": "node_id380",
                         "to": "node_id389",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id228",
+                        "id": "edge_id230",
                         "label": "train through exercise",
                         "title": "But the Houyhnhnms train up their youth to strength, speed, and hardiness by exercising them.",
                         "from": "node_id380",
@@ -4792,9 +4876,9 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id229",
+                        "id": "edge_id231",
                         "label": "limit breeding of",
-                        "title": "But the race of inferior Houyhnhnms, bred up to be servants, is not so strictly limited upon this article.",
+                        "title": "But the race of inferior Houyhnhnms, bred up to be servants, is not so strictly limited upon this<br>article.",
                         "from": "node_id388",
                         "to": "node_id390",
                         "arrows": "to"
@@ -4826,7 +4910,7 @@
                     {
                         "id": "node_id394",
                         "label": "Narrator",
-                        "title": "A human being who is considered a sophisticated Yahoo by the Houyhnhnms, the story's central character",
+                        "title": "A human being who is considered a sophisticated Yahoo by the Houyhnhnms, the story's central<br>character",
                         "size": 45
                     },
                     {
@@ -4844,7 +4928,7 @@
                     {
                         "id": "node_id397",
                         "label": "Mistress",
-                        "title": "A Houyhnhnm who acted cheerfully after her husband's death, showing the Houyhnhnms' attitude towards death",
+                        "title": "A Houyhnhnm who acted cheerfully after her husband's death, showing the Houyhnhnms' attitude towards<br>death",
                         "size": 24
                     },
                     {
@@ -4862,7 +4946,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id230",
+                        "id": "edge_id232",
                         "label": "argue extermination",
                         "title": "A member argued that the Yahoos should be exterminated from the face of the earth.",
                         "from": "node_id395",
@@ -4874,9 +4958,9 @@
                         }
                     },
                     {
-                        "id": "edge_id231",
+                        "id": "edge_id233",
                         "label": "be ancestors",
-                        "title": "The general tradition holds that the Yahoos were not always in the country because two of these brutes appeared together upon a mountain a long time ago.",
+                        "title": "The general tradition holds that the Yahoos were not always in the country because two of these<br>brutes appeared together upon a mountain a long time ago.",
                         "from": "node_id396",
                         "to": "node_id392",
                         "arrows": "to",
@@ -4886,7 +4970,7 @@
                         }
                     },
                     {
-                        "id": "edge_id232",
+                        "id": "edge_id234",
                         "label": "tell narrative",
                         "title": "My master told the narrator about what happened at the Houyhnhnms' assembly.",
                         "from": "node_id393",
@@ -4898,7 +4982,7 @@
                         }
                     },
                     {
-                        "id": "edge_id233",
+                        "id": "edge_id235",
                         "label": "learn from",
                         "title": "The Narrator received a very particular account from his master about the assembly.",
                         "from": "node_id394",
@@ -4910,9 +4994,9 @@
                         }
                     },
                     {
-                        "id": "edge_id234",
+                        "id": "edge_id236",
                         "label": "bury",
-                        "title": "The mistress consulted her servants about a convenient place where her husband's body should be laid.",
+                        "title": "The mistress consulted her servants about a convenient place where her husband's body should be<br>laid.",
                         "from": "node_id397",
                         "to": "node_id398",
                         "arrows": "to",
@@ -4960,9 +5044,9 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id235",
+                        "id": "edge_id237",
                         "label": "have room made for; notifies of~",
-                        "title": "My master had ordered a room to be made for me; The author has notice given him by his master, that he must depart from the country; He was known frequently to converse with me; But his honour, out of curiosity...was determined to see me in my canoe; ...he did me the honour to raise it gently to my mouth.",
+                        "title": "My master had ordered a room to be made for me; The author has notice given him by his master, that<br>he must depart from the country; He was known frequently to converse with me; But his honour, out of<br>curiosity...was determined to see me in my canoe; ...he did me the honour to raise it gently to my<br>mouth.",
                         "from": "node_id400",
                         "to": "node_id401",
                         "arrows": "to",
@@ -4972,9 +5056,9 @@
                         }
                     },
                     {
-                        "id": "edge_id236",
+                        "id": "edge_id238",
                         "label": "helped by; consults with",
-                        "title": "I had worked two chairs with my knife, the sorrel nag helping me; I returned home, and consulting with the sorrel nag.",
+                        "title": "I had worked two chairs with my knife, the sorrel nag helping me; I returned home, and consulting<br>with the sorrel nag.",
                         "from": "node_id400",
                         "to": "node_id402",
                         "arrows": "to",
@@ -4984,9 +5068,9 @@
                         }
                     },
                     {
-                        "id": "edge_id237",
+                        "id": "edge_id239",
                         "label": "converses with; visited by",
-                        "title": "His great improvement in virtue by conversing with them; I had the favour of being admitted to several Houyhnhnms.",
+                        "title": "His great improvement in virtue by conversing with them; I had the favour of being admitted to<br>several Houyhnhnms.",
                         "from": "node_id400",
                         "to": "node_id403",
                         "arrows": "to",
@@ -4996,7 +5080,7 @@
                         }
                     },
                     {
-                        "id": "edge_id238",
+                        "id": "edge_id240",
                         "label": "assists",
                         "title": "...and ordered the sorrel nag, my fellow-servant...to follow my instruction.",
                         "from": "node_id402",
@@ -5028,7 +5112,7 @@
                     {
                         "id": "node_id407",
                         "label": "Sorrel nag",
-                        "title": "A creature that shows affection towards the author, likely an animal from where the author lived before this voyage",
+                        "title": "A creature that shows affection towards the author, likely an animal from where the author lived<br>before this voyage",
                         "size": 21
                     },
                     {
@@ -5088,7 +5172,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id239",
+                        "id": "edge_id241",
                         "label": "wounded by",
                         "title": "The author is wounded by an arrow from one of the natives.",
                         "from": "node_id405",
@@ -5096,15 +5180,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id240",
+                        "id": "edge_id242",
                         "label": "seized and carried into",
                         "title": "The author is seized and carried into a Portuguese ship.",
                         "from": "node_id405",
-                        "to": "node_id405",
+                        "to": "node_id409",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id241",
+                        "id": "edge_id243",
                         "label": "shows civility",
                         "title": "The Captain of the Portuguese ship shows great civilities to the Author.",
                         "from": "node_id410",
@@ -5210,7 +5294,7 @@
                     {
                         "id": "node_id432",
                         "label": "Princess",
-                        "title": "Referenced in a critique of colonial distributions, potentially a metaphorical character for authority",
+                        "title": "Referenced in a critique of colonial distributions, potentially a metaphorical character for<br>authority",
                         "size": 21
                     },
                     {
@@ -5240,7 +5324,7 @@
                     {
                         "id": "node_id437",
                         "label": "Answerers",
-                        "title": "Considerers, Observers, Reflectors, Detectors, Remarkers, Categories of critics the author feels immune to, collectively a concept rather than an individual",
+                        "title": "Considerers, Observers, Reflectors, Detectors, Remarkers, Categories of critics the author feels<br>immune to, collectively a concept rather than an individual",
                         "size": 21
                     },
                     {
@@ -5258,13 +5342,13 @@
                     {
                         "id": "node_id440",
                         "label": "Lawyer",
-                        "title": "Pickpocket, Colonel, Fool, Lord, Gamester, Politician, Whoremonger, Physician, Evidence, Suborner, Attorney, Traitor, Represents various societal roles or professions with inherent vices, collectively they are concepts",
+                        "title": "Pickpocket, Colonel, Fool, Lord, Gamester, Politician, Whoremonger, Physician, Evidence, Suborner,<br>Attorney, Traitor, Represents various societal roles or professions with inherent vices,<br>collectively they are concepts",
                         "size": 27
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id242",
+                        "id": "edge_id244",
                         "label": "identity",
                         "title": "The author is the traveller who narrates the history of his travels.",
                         "from": "node_id417",
@@ -5272,7 +5356,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id243",
+                        "id": "edge_id245",
                         "label": "relationship",
                         "title": "Noble Master is a figure from whom the author has learned and refers to with respect.",
                         "from": "node_id417",
@@ -5280,15 +5364,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id244",
+                        "id": "edge_id246",
                         "label": "comparison",
-                        "title": "The traveller doubts the ease of conquest in new lands, in comparison to Ferdinando Cortez's conquests.",
+                        "title": "The traveller doubts the ease of conquest in new lands, in comparison to Ferdinando Cortez's<br>conquests.",
                         "from": "node_id419",
                         "to": "node_id428",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id245",
+                        "id": "edge_id247",
                         "label": "opinion",
                         "title": "The author opines that the Lilliputians might not be worth invading.",
                         "from": "node_id417",
@@ -5296,15 +5380,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id246",
+                        "id": "edge_id248",
                         "label": "teaching ambition",
-                        "title": "The author seeks to apply the lessons learned from the Houyhnhnms to his own life and to teach his family.",
+                        "title": "The author seeks to apply the lessons learned from the Houyhnhnms to his own life and to teach his<br>family.",
                         "from": "node_id417",
                         "to": "node_id422",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id247",
+                        "id": "edge_id249",
                         "label": "interaction",
                         "title": "The author permits his wife to dine with him and answer his questions briefly.",
                         "from": "node_id417",

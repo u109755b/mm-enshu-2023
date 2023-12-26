@@ -12,7 +12,7 @@
             {
                 "id": "node_id1",
                 "label": "Filby",
-                "title": "An argumentative person with red hair, part of the Time Traveller's audience and a skeptic of his theories",
+                "title": "An argumentative person with red hair, part of the Time Traveller's audience and a skeptic of his<br>theories",
                 "size": 33
             },
             {
@@ -24,7 +24,7 @@
             {
                 "id": "node_id3",
                 "label": "The Medical Man",
-                "title": "Another guest who participates in the conversation, particularly in relation to the movement in space and time",
+                "title": "Another guest who participates in the conversation, particularly in relation to the movement in<br>space and time",
                 "size": 33
             },
             {
@@ -44,7 +44,7 @@
             {
                 "id": "edge_id0",
                 "label": "explained and countered",
-                "title": "\"Can a cube that does not last for any time at all, have a real existence?\" Filby became pensive. \"Why not?\" said the Time Traveller.",
+                "title": "\"Can a cube that does not last for any time at all, have a real existence?\" Filby became pensive.<br>\"Why not?\" said the Time Traveller.",
                 "from": "node_id0",
                 "to": "node_id1",
                 "arrows": "to",
@@ -56,7 +56,7 @@
             {
                 "id": "edge_id1",
                 "label": "questioned and was unconvinced by",
-                "title": "\"Is not that rather a large thing to expect us to begin upon?\" said Filby. \"You can show black is white by argument,\" said Filby, \"but you will never convince me.\u201d",
+                "title": "\"Is not that rather a large thing to expect us to begin upon?\" said Filby. \"You can show black is<br>white by argument,\" said Filby, \"but you will never convince me.\u201d",
                 "from": "node_id1",
                 "to": "node_id0",
                 "arrows": "to",
@@ -70,7 +70,7 @@
                 "label": "not informed and contemplated",
                 "title": "\u201cI have not,\u201d said the Provincial Mayor. \u201cYes, I think I see it now,\u201d he said.",
                 "from": "node_id5",
-                "to": "node_id5",
+                "to": "node_id0",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -80,9 +80,9 @@
             {
                 "id": "edge_id3",
                 "label": "inquired and warned",
-                "title": "\u201cBut,\u201d said the Medical Man, \"why cannot we move in Time as we move about in the other dimensions of Space?\u201d \u201cDon\u2019t you think you would attract attention?\u201d said the Medical Man.",
+                "title": "\u201cBut,\u201d said the Medical Man, \"why cannot we move in Time as we move about in the other dimensions of<br>Space?\u201d \u201cDon\u2019t you think you would attract attention?\u201d said the Medical Man.",
                 "from": "node_id3",
-                "to": "node_id3",
+                "to": "node_id0",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -92,9 +92,9 @@
             {
                 "id": "edge_id4",
                 "label": "differentiated and was skeptical about",
-                "title": "\"You can move about in all directions of Space, but you cannot move about in Time.\u201d \u201cOf all the wild extravagant theories!\u201d began the Psychologist.",
+                "title": "\"You can move about in all directions of Space, but you cannot move about in Time.\u201d \u201cOf all the wild<br>extravagant theories!\u201d began the Psychologist.",
                 "from": "node_id2",
-                "to": "node_id2",
+                "to": "node_id0",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -156,7 +156,7 @@
             {
                 "id": "edge_id6",
                 "label": "ask",
-                "title": "The Medical Man asked The Time Traveller if he seriously believes that The Machine has travelled into time.",
+                "title": "The Medical Man asked The Time Traveller if he seriously believes that The Machine has travelled<br>into time.",
                 "from": "node_id8",
                 "to": "node_id6",
                 "arrows": "to"
@@ -184,7 +184,7 @@
             {
                 "id": "node_id13",
                 "label": "Filby",
-                "title": "A character who is mentioned as an example to illustrate the skepticism of others toward the Time Traveller",
+                "title": "A character who is mentioned as an example to illustrate the skepticism of others toward the Time<br>Traveller",
                 "size": 18
             },
             {
@@ -234,7 +234,7 @@
             {
                 "id": "edge_id8",
                 "label": "discussion",
-                "title": "The Medical Man had discussed the trick of the model with the Time Traveller and expressed concern upon seeing him disheveled.",
+                "title": "The Medical Man had discussed the trick of the model with the Time Traveller and expressed concern<br>upon seeing him disheveled.",
                 "from": "node_id12",
                 "to": "node_id14",
                 "arrows": "to"
@@ -242,7 +242,7 @@
             {
                 "id": "edge_id9",
                 "label": "expectation",
-                "title": "The Editor expected an explanation about Time Traveller's absence and assisted by suggesting ringing the bell for dinner.",
+                "title": "The Editor expected an explanation about Time Traveller's absence and assisted by suggesting ringing<br>the bell for dinner.",
                 "from": "node_id12",
                 "to": "node_id15",
                 "arrows": "to"
@@ -250,7 +250,7 @@
             {
                 "id": "edge_id10",
                 "label": "event narration",
-                "title": "The Psychologist volunteered a wooden account of the \u201cingenious paradox and trick\u201d the Time Traveller had shown.",
+                "title": "The Psychologist volunteered a wooden account of the \u201cingenious paradox and trick\u201d the Time<br>Traveller had shown.",
                 "from": "node_id12",
                 "to": "node_id16",
                 "arrows": "to"
@@ -308,7 +308,7 @@
             {
                 "id": "node_id23",
                 "label": "White Sphinx",
-                "title": "A large sculpted figure seen by the Time Traveller in the future, representing mystery and possibly the future civilization",
+                "title": "A large sculpted figure seen by the Time Traveller in the future, representing mystery and possibly<br>the future civilization",
                 "size": 27
             },
             {
@@ -336,7 +336,7 @@
             {
                 "id": "edge_id16",
                 "label": "approach",
-                "title": "\"Then I heard voices approaching me. Coming through the bushes by the White Sphinx were the heads and shoulders of men running.\"",
+                "title": "\"Then I heard voices approaching me. Coming through the bushes by the White Sphinx were the heads<br>and shoulders of men running.\"",
                 "from": "node_id24",
                 "to": "node_id21",
                 "arrows": "to"
@@ -344,7 +344,7 @@
             {
                 "id": "edge_id17",
                 "label": "spot",
-                "title": "\"One of these emerged in a pathway leading straight to the little lawn upon which I stood with my machine.\"",
+                "title": "\"One of these emerged in a pathway leading straight to the little lawn upon which I stood with my<br>machine.\"",
                 "from": "node_id25",
                 "to": "node_id21",
                 "arrows": "to"
@@ -414,7 +414,7 @@
             {
                 "id": "edge_id20",
                 "label": "saw confidence in",
-                "title": "Indeed, there was something in these pretty little people that inspired confidence.<br>I could fancy myself flinging the whole dozen of them about like ninepins.<br>But I made a sudden motion to warn them when I saw their little pink hands feeling at the Time Machine.<br>I determined to make a resolute attempt to learn the speech of these new men of mine.",
+                "title": "\uff65 Indeed, there was something in these pretty little people that inspired confidence.<br>\uff65 I could fancy myself flinging the whole dozen of them about like ninepins.<br>\uff65 But I made a sudden motion to warn them when I saw their little pink hands feeling at the Time<br>Machine.<br>\uff65 I determined to make a resolute attempt to learn the speech of these new men of mine.",
                 "from": "node_id26",
                 "to": "node_id29",
                 "arrows": "to",
@@ -426,7 +426,7 @@
             {
                 "id": "edge_id21",
                 "label": "followed gesture",
-                "title": "At once a quaintly pretty little figure in chequered purple and white followed my gesture.<br>and then astonished me by imitating the sound of thunder.<br>Then one of them suddenly asked me a question that showed him to be on the intellectual level of one of our five-year-old children.<br>Then came one laughing towards me, carrying a chain of beautiful flowers altogether new to me, and put it about my neck.",
+                "title": "\uff65 At once a quaintly pretty little figure in chequered purple and white followed my gesture.<br>\uff65 and then astonished me by imitating the sound of thunder.<br>\uff65 Then one of them suddenly asked me a question that showed him to be on the intellectual level of one<br>of our five-year-old children.<br>\uff65 Then came one laughing towards me, carrying a chain of beautiful flowers altogether new to me, and<br>put it about my neck.",
                 "from": "node_id30",
                 "to": "node_id26",
                 "arrows": "to",
@@ -438,7 +438,7 @@
             {
                 "id": "edge_id22",
                 "label": "gave vivid rendering",
-                "title": "I nodded, pointed to the sun, and gave them such a vivid rendering of a thunderclap as startled them.",
+                "title": "I nodded, pointed to the sun, and gave them such a vivid rendering of a thunderclap as startled<br>them.",
                 "from": "node_id26",
                 "to": "node_id30",
                 "arrows": "to",
@@ -450,7 +450,7 @@
             {
                 "id": "edge_id23",
                 "label": "dined with",
-                "title": "There were, perhaps, a couple of hundred people dining in the hall, and most of them, seated as near to me as they could come, were watching me with interest.",
+                "title": "There were, perhaps, a couple of hundred people dining in the hall, and most of them, seated as near<br>to me as they could come, were watching me with interest.",
                 "from": "node_id29",
                 "to": "node_id26",
                 "arrows": "to",
@@ -468,31 +468,31 @@
             {
                 "id": "node_id31",
                 "label": "My little hosts",
-                "title": "The future inhabitants encountered by the traveler, with a described lack of sustained interest and childlike behavior",
+                "title": "The future inhabitants encountered by the traveler, with a described lack of sustained interest and<br>childlike behavior",
                 "size": 36
             },
             {
                 "id": "node_id32",
                 "label": "I",
-                "title": "The narrator and time traveler who observes and speculates about the future world and its inhabitants",
+                "title": "The narrator and time traveler who observes and speculates about the future world and its<br>inhabitants",
                 "size": 45
             },
             {
                 "id": "node_id33",
                 "label": "Children",
-                "title": "The offspring of the future inhabitants observed by the narrator, showing precocious physical development",
+                "title": "The offspring of the future inhabitants observed by the narrator, showing precocious physical<br>development",
                 "size": 33
             },
             {
                 "id": "node_id34",
                 "label": "Men of the future",
-                "title": "The adults of the future society who display uniformity in appearance and lack differentiation between sexes",
+                "title": "The adults of the future society who display uniformity in appearance and lack differentiation<br>between sexes",
                 "size": 39
             },
             {
                 "id": "node_id35",
                 "label": "People of the future",
-                "title": "The general population of the future world encountered by the time traveler, living in security and comfort without toil",
+                "title": "The general population of the future world encountered by the time traveler, living in security and<br>comfort without toil",
                 "size": 42
             }
         ],
@@ -516,9 +516,9 @@
             {
                 "id": "edge_id26",
                 "label": "follow and communicate",
-                "title": "Men of the future would follow me a little distance, chatter and laugh about me.<br>In costume, and in all the differences of texture and bearing that now mark off the sexes from each other, these people of the future were alike.",
+                "title": "Men of the future would follow me a little distance, chatter and laugh about me.",
                 "from": "node_id34",
-                "to": "node_id34",
+                "to": "node_id31",
                 "arrows": "to"
             },
             {
@@ -527,6 +527,14 @@
                 "title": "And the children seemed to my eyes to be but the miniatures of their parents.",
                 "from": "node_id35",
                 "to": "node_id33",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id28",
+                "label": "lack differentiation",
+                "title": "In costume, and in all the differences of texture and bearing that now mark off the sexes from each<br>other, these people of the future were alike.",
+                "from": "node_id34",
+                "to": "node_id34",
                 "arrows": "to"
             }
         ]
@@ -544,19 +552,19 @@
             {
                 "id": "node_id37",
                 "label": "White Sphinx",
-                "title": "A statue that the narrator sees which signifies mystery and has the Time Machine hidden within its pedestal",
+                "title": "A statue that the narrator sees which signifies mystery and has the Time Machine hidden within its<br>pedestal",
                 "size": 33
             },
             {
                 "id": "node_id38",
                 "label": "Time Machine",
-                "title": "The invention created by the narrator enabling travel through time; central to the story, although not a character itself",
+                "title": "The invention created by the narrator enabling travel through time; central to the story, although<br>not a character itself",
                 "size": 36
             },
             {
                 "id": "node_id39",
                 "label": "Little People",
-                "title": "Inhabitants of the world the narrator has travelled to; they interact with and react to the narrator's actions",
+                "title": "Inhabitants of the world the narrator has travelled to; they interact with and react to the<br>narrator's actions",
                 "size": 30
             },
             {
@@ -580,7 +588,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id28",
+                "id": "edge_id29",
                 "label": "Time Machine",
                 "title": "Little People, Owl, Deer, Sparrows'",
                 "from": "node_id36",
@@ -588,7 +596,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id29",
+                "id": "edge_id30",
                 "label": "flitted by",
                 "title": "\"a noiseless owl flitted by, and I shivered with the chill of the night.\"",
                 "from": "node_id40",
@@ -596,15 +604,15 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id30",
+                "id": "edge_id31",
                 "label": "face towards",
                 "title": "\"For the white leprous face of the sphinx was towards it.\"",
                 "from": "node_id37",
-                "to": "node_id37",
+                "to": "node_id42",
                 "arrows": "to"
             },
             {
-                "id": "edge_id31",
+                "id": "edge_id32",
                 "label": "realize missing",
                 "title": "\"The Time Machine was gone!\"",
                 "from": "node_id36",
@@ -612,7 +620,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id32",
+                "id": "edge_id33",
                 "label": "mistaken for",
                 "title": "\"startling some white animal that, in the dim light, I took for a small deer.\"",
                 "from": "node_id36",
@@ -620,9 +628,9 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id33",
+                "id": "edge_id34",
                 "label": "surrounded by",
-                "title": "\"when I woke again it was full day, and a couple of sparrows were hopping round me on the turf within reach of my arm.\"",
+                "title": "\"when I woke again it was full day, and a couple of sparrows were hopping round me on the turf<br>within reach of my arm.\"",
                 "from": "node_id36",
                 "to": "node_id42",
                 "arrows": "to"
@@ -660,23 +668,23 @@
         ],
         "edges": [
             {
-                "id": "edge_id34",
+                "id": "edge_id35",
                 "label": "establish friendship",
-                "title": "The Time Traveller and Weena established a friendship.<br>The Time Traveller appreciated the garland presented by Weena.<br>The Time Traveller experienced distress when leaving Weena exhausted.<br>The Time Traveller found comfort from Weena's devotion.<br>The Time Traveller realized Weena's importance after leaving her.",
+                "title": "\uff65 The Time Traveller and Weena established a friendship.<br>\uff65 The Time Traveller appreciated the garland presented by Weena.<br>\uff65 The Time Traveller experienced distress when leaving Weena exhausted.<br>\uff65 The Time Traveller found comfort from Weena's devotion.<br>\uff65 The Time Traveller realized Weena's importance after leaving her.",
                 "from": "node_id46",
                 "to": "node_id45",
                 "arrows": "to"
             },
             {
-                "id": "edge_id35",
+                "id": "edge_id36",
                 "label": "fear",
                 "title": "Weena feared darkness and black things.",
                 "from": "node_id45",
-                "to": "node_id45",
+                "to": "node_id44",
                 "arrows": "to"
             },
             {
-                "id": "edge_id36",
+                "id": "edge_id37",
                 "label": "observe fear",
                 "title": "The Time Traveller observed the Eloi's fear of the dark.",
                 "from": "node_id46",
@@ -710,15 +718,15 @@
             {
                 "id": "node_id50",
                 "label": "The Time Traveller",
-                "title": "The narrator and central character interacting with the Morlocks and the Eloi, experiencing various challenges",
+                "title": "The narrator and central character interacting with the Morlocks and the Eloi, experiencing various<br>challenges",
                 "size": 45
             }
         ],
         "edges": [
             {
-                "id": "edge_id37",
+                "id": "edge_id38",
                 "label": "felt disgust and feared descending into~",
-                "title": "observed, and feared and repulsed, The Time Traveller began to appreciate the Eloi's disgust of the Morlocks, was hesitant to descend into the well to confront The Morlocks, saw Morlocks retreating from the light when striking a match, and shouted and scared away The Morlocks when they approached him.",
+                "title": "observed, and feared and repulsed, The Time Traveller began to appreciate the Eloi's disgust of the<br>Morlocks, was hesitant to descend into the well to confront The Morlocks, saw Morlocks retreating<br>from the light when striking a match, and shouted and scared away The Morlocks when they approached<br>him.",
                 "from": "node_id50",
                 "to": "node_id47",
                 "arrows": "to",
@@ -728,9 +736,9 @@
                 }
             },
             {
-                "id": "edge_id38",
+                "id": "edge_id39",
                 "label": "accompanied and reassured",
-                "title": "opposed descent, and received affectionately, Weena accompanied The Time Traveller and seemed to provide reassurance by her presence, showed opposition to The Time Traveller descending into the well, and kissed The Time Traveller's hands and ears upon his return.",
+                "title": "opposed descent, and received affectionately, Weena accompanied The Time Traveller and seemed to<br>provide reassurance by her presence, showed opposition to The Time Traveller descending into the<br>well, and kissed The Time Traveller's hands and ears upon his return.",
                 "from": "node_id49",
                 "to": "node_id50",
                 "arrows": "to",
@@ -740,9 +748,9 @@
                 }
             },
             {
-                "id": "edge_id39",
+                "id": "edge_id40",
                 "label": "approached curiously",
-                "title": "attempted stealing, and pursued, The Morlocks approached The Time Traveller in the dark, feeling and touching, tried to disengage The Time Traveller's matches, and pursued The Time Traveller through the tunnels.",
+                "title": "attempted stealing, and pursued, The Morlocks approached The Time Traveller in the dark, feeling and<br>touching, tried to disengage The Time Traveller's matches, and pursued The Time Traveller through<br>the tunnels.",
                 "from": "node_id47",
                 "to": "node_id50",
                 "arrows": "to",
@@ -772,7 +780,7 @@
             {
                 "id": "node_id53",
                 "label": "Morlocks",
-                "title": "A different evolved species from humanity that live underground and have a predatory relationship with the Eloi",
+                "title": "A different evolved species from humanity that live underground and have a predatory relationship<br>with the Eloi",
                 "size": 36
             },
             {
@@ -784,9 +792,9 @@
         ],
         "edges": [
             {
-                "id": "edge_id40",
+                "id": "edge_id41",
                 "label": "Morlocks",
-                "title": "Eloi'<br>The Time Traveller carried Weena to protect her from fear and fatigue.",
+                "title": "\uff65 Eloi'<br>\uff65 The Time Traveller carried Weena to protect her from fear and fatigue.",
                 "from": "node_id51",
                 "to": "node_id52",
                 "arrows": "to",
@@ -796,9 +804,9 @@
                 }
             },
             {
-                "id": "edge_id41",
+                "id": "edge_id42",
                 "label": "disgust",
-                "title": "antagonism, study, and fear, The Time Traveller loathed the Morlocks and felt like an enemy would soon come upon him. The Morlocks studied The Time Traveller and provoked his fear.",
+                "title": "antagonism, study, and fear, The Time Traveller loathed the Morlocks and felt like an enemy would<br>soon come upon him. The Morlocks studied The Time Traveller and provoked his fear.",
                 "from": "node_id51",
                 "to": "node_id53",
                 "arrows": "to",
@@ -808,7 +816,7 @@
                 }
             },
             {
-                "id": "edge_id42",
+                "id": "edge_id43",
                 "label": "service and fear",
                 "title": "The Morlocks made the Eloi's garments and provoked their Fear.",
                 "from": "node_id53",
@@ -820,7 +828,7 @@
                 }
             },
             {
-                "id": "edge_id43",
+                "id": "edge_id44",
                 "label": "fear and dependency",
                 "title": "The Eloi feared the Morlocks and depended on them for garments.",
                 "from": "node_id54",
@@ -832,11 +840,11 @@
                 }
             },
             {
-                "id": "edge_id44",
+                "id": "edge_id45",
                 "label": "trust and companionship",
-                "title": "Weena showed trust in The Time Traveller by sleeping beside him and putting her arms around his neck for comfort.",
+                "title": "Weena showed trust in The Time Traveller by sleeping beside him and putting her arms around his neck<br>for comfort.",
                 "from": "node_id52",
-                "to": "node_id52",
+                "to": "node_id51",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -870,19 +878,27 @@
         ],
         "edges": [
             {
-                "id": "edge_id45",
+                "id": "edge_id46",
                 "label": "does not understand",
-                "title": "I thought, rather foolishly, that Weena might help me to interpret this, but I only learnt that the bare idea of writing had never entered her head.<br>Presently came, as I stared about me, and very quietly took my hand and stood beside me.<br>Then Weena\u2019s increasing apprehensions drew my attention.<br>Weena came very close to my side.",
+                "title": "\uff65 I thought, rather foolishly, that Weena might help me to interpret this, but I only learnt that the<br>bare idea of writing had never entered her head.<br>\uff65 Then Weena\u2019s increasing apprehensions drew my attention.<br>\uff65 Weena came very close to my side.",
                 "from": "node_id56",
                 "to": "node_id56",
                 "arrows": "to"
             },
             {
-                "id": "edge_id46",
+                "id": "edge_id47",
                 "label": "responsible for",
-                "title": "And the cases had in some instances been bodily removed\u2014by the Morlocks, as I judged.<br>My sense of the immediate presence of the Morlocks revived at that.<br>And I longed very much to kill a Morlock or so.<br>I had in my possession a thing that was, perhaps, the best of all defences against the Morlocks\u2014I had matches!",
+                "title": "\uff65 And the cases had in some instances been bodily removed\u2014by the Morlocks, as I judged.<br>\uff65 My sense of the immediate presence of the Morlocks revived at that.<br>\uff65 And I longed very much to kill a Morlock or so.<br>\uff65 I had in my possession a thing that was, perhaps, the best of all defences against the Morlocks\u2014I<br>had matches!",
                 "from": "node_id57",
-                "to": "node_id57",
+                "to": "node_id56",
+                "arrows": "to"
+            },
+            {
+                "id": "edge_id48",
+                "label": "took",
+                "title": "Presently came, as I stared about me, and very quietly took my hand and stood beside me.",
+                "from": "node_id56",
+                "to": "node_id55",
                 "arrows": "to"
             }
         ]
@@ -912,9 +928,9 @@
         ],
         "edges": [
             {
-                "id": "edge_id47",
+                "id": "edge_id49",
                 "label": "protect",
-                "title": "The Time Traveler gathered sticks and dried grass for a fire to protect himself and Weena.<br>While loaded with sticks, the Time Traveler's progress was slower, and Weena was tired.<br>Weena would have stopped, fearing the darkness, but The Time Traveler drove onward.<br>The red tongues of fire were a new and strange thing to Weena, and The Time Traveler restrained her from it.",
+                "title": "\uff65 The Time Traveler gathered sticks and dried grass for a fire to protect himself and Weena.<br>\uff65 While loaded with sticks, the Time Traveler's progress was slower, and Weena was tired.<br>\uff65 Weena would have stopped, fearing the darkness, but The Time Traveler drove onward.<br>\uff65 The red tongues of fire were a new and strange thing to Weena, and The Time Traveler restrained her<br>from it.",
                 "from": "node_id60",
                 "to": "node_id58",
                 "arrows": "to",
@@ -924,9 +940,9 @@
                 }
             },
             {
-                "id": "edge_id48",
+                "id": "edge_id50",
                 "label": "fear",
-                "title": "The Time Traveler felt fear from the Morlocks, knowing they were approaching in the darkness.<br>The Time Traveler had to struggle and fight against the Morlocks approaching him.",
+                "title": "\uff65 The Time Traveler felt fear from the Morlocks, knowing they were approaching in the darkness.<br>\uff65 The Time Traveler had to struggle and fight against the Morlocks approaching him.",
                 "from": "node_id60",
                 "to": "node_id59",
                 "arrows": "to",
@@ -936,9 +952,9 @@
                 }
             },
             {
-                "id": "edge_id49",
+                "id": "edge_id51",
                 "label": "attack",
-                "title": "The Morlocks were closing in upon The Time Traveler, trying to seize him.",
+                "title": "\uff65 The Morlocks were closing in upon The Time Traveler, trying to seize him.<br>\uff65 The Morlocks were driven back by the light and heat of the fire, indicating their fear of it.",
                 "from": "node_id59",
                 "to": "node_id60",
                 "arrows": "to",
@@ -948,23 +964,11 @@
                 }
             },
             {
-                "id": "edge_id50",
+                "id": "edge_id52",
                 "label": "threaten",
-                "title": "While The Time Traveler and Weena hesitated, Morlocks were crouching figures in the darkness, threatening their safety.",
+                "title": "While The Time Traveler and Weena hesitated, Morlocks were crouching figures in the darkness,<br>threatening their safety.",
                 "from": "node_id59",
                 "to": "node_id58",
-                "arrows": "to",
-                "smooth": {
-                    "type": "curvedCW",
-                    "roundness": 0.3
-                }
-            },
-            {
-                "id": "edge_id51",
-                "label": "fear",
-                "title": "The Morlocks were driven back by the light and heat of the fire, indicating their fear of it.",
-                "from": "node_id59",
-                "to": "node_id59",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -992,33 +996,33 @@
             {
                 "id": "node_id63",
                 "label": "Upperworld people",
-                "title": "Inhabitants of the surface world described as beautiful and complacent, lacking the struggles that breed intelligence",
+                "title": "Inhabitants of the surface world described as beautiful and complacent, lacking the struggles that<br>breed intelligence",
                 "size": 33
             },
             {
                 "id": "node_id64",
                 "label": "Underworld",
-                "title": "A mechanical and industrious society mentioned as a contrast to the Upperworld, with more initiative due to their environment",
+                "title": "A mechanical and industrious society mentioned as a contrast to the Upperworld, with more initiative<br>due to their environment",
                 "size": 33
             },
             {
                 "id": "node_id65",
                 "label": "Mother Necessity",
-                "title": "Personification used to describe the fundamental needs and survival instincts that assert themselves after being staved off, indicative of the return of basic survival challenges",
+                "title": "Personification used to describe the fundamental needs and survival instincts that assert themselves<br>after being staved off, indicative of the return of basic survival challenges",
                 "size": 30
             }
         ],
         "edges": [
             {
-                "id": "edge_id52",
+                "id": "edge_id53",
                 "label": "examine and clean",
                 "title": "The Morlocks had partially examined and cleaned the Time Machine",
                 "from": "node_id62",
-                "to": "node_id62",
+                "to": "node_id61",
                 "arrows": "to"
             },
             {
-                "id": "edge_id53",
+                "id": "edge_id54",
                 "label": "cover",
                 "title": "The beauty of the Overworld people covered the ways to the Underworld",
                 "from": "node_id63",
@@ -1026,7 +1030,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id54",
+                "id": "edge_id55",
                 "label": "come back",
                 "title": "Mother Necessity came back to the Underworld",
                 "from": "node_id65",
@@ -1054,9 +1058,9 @@
         ],
         "edges": [
             {
-                "id": "edge_id55",
+                "id": "edge_id56",
                 "label": "encounter",
-                "title": "\"I saw the thing was really a monstrous crab-like creature.\"<br>\"Its vast ungainly claws, smeared with an algal slime, were descending upon me.\"",
+                "title": "\uff65 \"I saw the thing was really a monstrous crab-like creature.\"<br>\uff65 \"Its vast ungainly claws, smeared with an algal slime, were descending upon me.\"",
                 "from": "node_id66",
                 "to": "node_id67",
                 "arrows": "to",
@@ -1066,9 +1070,9 @@
                 }
             },
             {
-                "id": "edge_id56",
+                "id": "edge_id57",
                 "label": "approach",
-                "title": "\"I saw that, quite near, what I had taken to be a reddish mass of rock was moving slowly towards me.\"<br>\"Its evil eyes were wriggling on their stalks, its mouth was all alive with appetite.\"",
+                "title": "\uff65 \"I saw that, quite near, what I had taken to be a reddish mass of rock was moving slowly towards<br>me.\"<br>\uff65 \"Its evil eyes were wriggling on their stalks, its mouth was all alive with appetite.\"",
                 "from": "node_id67",
                 "to": "node_id66",
                 "arrows": "to",
@@ -1092,7 +1096,7 @@
             {
                 "id": "node_id69",
                 "label": "Mrs. Watchett",
-                "title": "The housekeeper who crossed the room when the Time Traveller set out and whose motions appeared reversed when he returned",
+                "title": "The housekeeper who crossed the room when the Time Traveller set out and whose motions appeared<br>reversed when he returned",
                 "size": 27
             },
             {
@@ -1104,36 +1108,52 @@
         ],
         "edges": [
             {
-                "id": "edge_id57",
+                "id": "edge_id58",
                 "label": "observe",
                 "title": "The Time Traveller saw Mrs. Watchett walk across the room like a rocket.",
                 "from": "node_id68",
                 "to": "node_id69",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id58",
+                "id": "edge_id59",
                 "label": "traverse",
                 "title": "Mrs. Watchett walked across the laboratory.",
                 "from": "node_id69",
                 "to": "node_id69",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id59",
+                "id": "edge_id60",
                 "label": "see",
                 "title": "The Time Traveller seemed to see Hillyer for a moment.",
                 "from": "node_id68",
                 "to": "node_id70",
-                "arrows": "to"
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             },
             {
-                "id": "edge_id60",
+                "id": "edge_id61",
                 "label": "pass by",
                 "title": "Hillyer passed by The Time Traveller like a flash.",
                 "from": "node_id70",
-                "to": "node_id70",
-                "arrows": "to"
+                "to": "node_id68",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
             }
         ]
     },
@@ -1150,51 +1170,51 @@
             {
                 "id": "node_id72",
                 "label": "Medical Man",
-                "title": "A character who is present during the Time Traveller's recounting and is interested in the scientific aspects of his story",
+                "title": "A character who is present during the Time Traveller's recounting and is interested in the<br>scientific aspects of his story",
                 "size": 36
             },
             {
                 "id": "node_id73",
                 "label": "Editor",
-                "title": "A character who expresses skepticism about the Time Traveller's story and wishes the Time Traveller was a story writer",
+                "title": "A character who expresses skepticism about the Time Traveller's story and wishes the Time Traveller<br>was a story writer",
                 "size": 33
             },
             {
                 "id": "node_id74",
                 "label": "Journalist",
-                "title": "A character who is also listening to the Time Traveller's account and is concerned with practical matters, like getting home",
+                "title": "A character who is also listening to the Time Traveller's account and is concerned with practical<br>matters, like getting home",
                 "size": 30
             },
             {
                 "id": "node_id75",
                 "label": "Psychologist",
-                "title": "Another member of the audience who exhibits interest in the Time Traveller's story, probably from a psychological perspective",
+                "title": "Another member of the audience who exhibits interest in the Time Traveller's story, probably from a<br>psychological perspective",
                 "size": 33
             },
             {
                 "id": "node_id76",
                 "label": "Weena",
-                "title": "Although not present, she is mentioned by the Time Traveller as the person who gave him flowers; her role is significant in his personal experiences",
+                "title": "Although not present, she is mentioned by the Time Traveller as the person who gave him flowers; her<br>role is significant in his personal experiences",
                 "size": 27
             },
             {
                 "id": "node_id77",
                 "label": "Richardson",
-                "title": "A character mentioned at the end implying a planned meeting; his role is minimal in the context of the story",
+                "title": "A character mentioned at the end implying a planned meeting; his role is minimal in the context of<br>the story",
                 "size": 18
             },
             {
                 "id": "node_id78",
                 "label": "Man-servant",
-                "title": "The person who appears at the end in the garden, indicating that he was expecting to find the Time Traveller; has a minor role in the conclusion",
+                "title": "The person who appears at the end in the garden, indicating that he was expecting to find the Time<br>Traveller; has a minor role in the conclusion",
                 "size": 21
             }
         ],
         "edges": [
             {
-                "id": "edge_id61",
+                "id": "edge_id62",
                 "label": "communicate doubt",
-                "title": "\"I know,\u201d he said, after a pause, \u201cthat all this will be absolutely incredible to you. No. I cannot expect you to believe it.\"<br>\"May I have them?\u201d The Time Traveller hesitated. Then suddenly: \u201cCertainly not.\u201d",
+                "title": "\uff65 \"I know,\u201d he said, after a pause, \u201cthat all this will be absolutely incredible to you. No. I cannot<br>expect you to believe it.\"<br>\uff65 \"May I have them?\u201d The Time Traveller hesitated. Then suddenly: \u201cCertainly not.\u201d",
                 "from": "node_id71",
                 "to": "node_id72",
                 "arrows": "to",
@@ -1204,7 +1224,7 @@
                 }
             },
             {
-                "id": "edge_id62",
+                "id": "edge_id63",
                 "label": "suggest",
                 "title": "\"What a pity it is you\u2019re not a writer of stories!\"",
                 "from": "node_id71",
@@ -1216,9 +1236,9 @@
                 }
             },
             {
-                "id": "edge_id63",
+                "id": "edge_id64",
                 "label": "express concern",
-                "title": "\"The Medical Man looked into his face and, with a certain hesitation, told him he was suffering from overwork.\"",
+                "title": "\"The Medical Man looked into his face and, with a certain hesitation, told him he was suffering from<br>overwork.\"",
                 "from": "node_id72",
                 "to": "node_id71",
                 "arrows": "to",
@@ -1228,7 +1248,7 @@
                 }
             },
             {
-                "id": "edge_id64",
+                "id": "edge_id65",
                 "label": "doubt",
                 "title": "\"He thought the tale a \u201cgaudy lie.\u201d\"",
                 "from": "node_id74",
@@ -1240,7 +1260,7 @@
                 }
             },
             {
-                "id": "edge_id65",
+                "id": "edge_id66",
                 "label": "share cab",
                 "title": "\"I shared a cab with the Editor.\"",
                 "from": "node_id74",

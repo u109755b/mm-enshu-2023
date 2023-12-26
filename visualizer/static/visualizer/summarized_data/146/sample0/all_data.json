@@ -44,7 +44,7 @@
             {
                 "id": "edge_id0",
                 "label": "Miss Minchin",
-                "title": "Emily, Miss Amelia, Lady Meredith'<br>Sara Crewe sat with her father Captain Crewe in a cab and Captain Crewe held her affectionately.",
+                "title": "\uff65 Emily, Miss Amelia, Lady Meredith'<br>\uff65 Sara Crewe sat with her father Captain Crewe in a cab and Captain Crewe held her affectionately.",
                 "from": "node_id0",
                 "to": "node_id1",
                 "arrows": "to"
@@ -266,7 +266,7 @@
             {
                 "id": "edge_id11",
                 "label": "feel sorry for",
-                "title": "Sara felt sorry for Ermengarde when she was scolded by Miss Minchin.<br>Ermengarde gave a jump when Sara spoke French.<br>Ermengarde thought Sara was clever.",
+                "title": "\uff65 Sara felt sorry for Ermengarde when she was scolded by Miss Minchin.<br>\uff65 Ermengarde gave a jump when Sara spoke French.<br>\uff65 Ermengarde thought Sara was clever.",
                 "from": "node_id17",
                 "to": "node_id16",
                 "arrows": "to",
@@ -356,13 +356,13 @@
             {
                 "id": "node_id25",
                 "label": "Sara",
-                "title": "A compassionate and motherly young girl who becomes an adopted mother to Lottie at Miss Minchin's Select Seminary",
+                "title": "A compassionate and motherly young girl who becomes an adopted mother to Lottie at Miss Minchin's<br>Select Seminary",
                 "size": 43
             },
             {
                 "id": "node_id26",
                 "label": "Miss Minchin",
-                "title": "The headmistress of the Select Seminary, who privately dislikes Sara but flatters her for business reasons",
+                "title": "The headmistress of the Select Seminary, who privately dislikes Sara but flatters her for business<br>reasons",
                 "size": 36
             },
             {
@@ -418,7 +418,7 @@
             {
                 "id": "edge_id18",
                 "label": "dislike",
-                "title": "Privately Miss Minchin disliked Sara.<br>This, at the beginning, had been bitter enough; but as time went on it became apparent that Sara was a leader, too and not because she could make herself disagreeable, but because she never did.",
+                "title": "\uff65 Privately Miss Minchin disliked Sara.<br>\uff65 This, at the beginning, had been bitter enough; but as time went on it became apparent that Sara was<br>a leader, too and not because she could make herself disagreeable, but because she never did.",
                 "from": "node_id25",
                 "to": "node_id26",
                 "arrows": "to",
@@ -570,7 +570,7 @@
             {
                 "id": "edge_id26",
                 "label": "telling stories and empathy",
-                "title": "Sara possessed the power of telling stories which fascinated Becky, and she also empathized with Becky's situation and offered her cake.",
+                "title": "Sara possessed the power of telling stories which fascinated Becky, and she also empathized with<br>Becky's situation and offered her cake.",
                 "from": "node_id35",
                 "to": "node_id37",
                 "arrows": "to"
@@ -578,7 +578,7 @@
             {
                 "id": "edge_id27",
                 "label": "envy",
-                "title": "fascination, and criticism, Lavinia was envious and fascinated by Sara's storytelling ability, but also criticized Sara for making stories about heaven.",
+                "title": "fascination, and criticism, Lavinia was envious and fascinated by Sara's storytelling ability, but<br>also criticized Sara for making stories about heaven.",
                 "from": "node_id36",
                 "to": "node_id35",
                 "arrows": "to"
@@ -708,7 +708,7 @@
             {
                 "id": "edge_id34",
                 "label": "storytelling and comfort",
-                "title": "Sara painted pictures for Lottie of labyrinthine passages in the diamond mines and comforts her when she is hurt and crying.",
+                "title": "Sara painted pictures for Lottie of labyrinthine passages in the diamond mines and comforts her when<br>she is hurt and crying.",
                 "from": "node_id43",
                 "to": "node_id46",
                 "arrows": "to",
@@ -722,7 +722,7 @@
                 "label": "fascination",
                 "title": "Ermengarde delighted in the story of the diamond mines.",
                 "from": "node_id45",
-                "to": "node_id45",
+                "to": "node_id49",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -734,7 +734,7 @@
                 "label": "insistence",
                 "title": "Lottie insisted on the diamond mines story being retold to her.",
                 "from": "node_id46",
-                "to": "node_id46",
+                "to": "node_id49",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -768,7 +768,7 @@
             {
                 "id": "edge_id39",
                 "label": "mockery and restraint",
-                "title": "Lavinia mocks Sara's pretend game of being a princess; Sara restrains herself from slapping Lavinia despite wanting to.",
+                "title": "Lavinia mocks Sara's pretend game of being a princess; Sara restrains herself from slapping Lavinia<br>despite wanting to.",
                 "from": "node_id47",
                 "to": "node_id43",
                 "arrows": "to",
@@ -780,7 +780,7 @@
             {
                 "id": "edge_id40",
                 "label": "location during certain time",
-                "title": "Miss Minchin and Miss Amelia are having tea in their sitting room during a certain time.",
+                "title": "\uff65 Miss Minchin and Miss Amelia are having tea in their sitting room during a certain time.<br>\uff65 Miss Minchin uses Sara's title \"princess\" to suggest her school is like a royal boarding school.",
                 "from": "node_id49",
                 "to": "node_id50",
                 "arrows": "to",
@@ -791,20 +791,8 @@
             },
             {
                 "id": "edge_id41",
-                "label": "using Sara's title",
-                "title": "Miss Minchin uses Sara's title \"princess\" to suggest her school is like a royal boarding school.",
-                "from": "node_id49",
-                "to": "node_id49",
-                "arrows": "to",
-                "smooth": {
-                    "type": "curvedCW",
-                    "roundness": 0.3
-                }
-            },
-            {
-                "id": "edge_id42",
                 "label": "stories",
-                "title": "company, food sharing, and gratitude for gift, Becky enjoys stories and company from Sara, receives and shares food with her, and is grateful for the birthday gift from Sara.",
+                "title": "company, food sharing, and gratitude for gift, Becky enjoys stories and company from Sara, receives<br>and shares food with her, and is grateful for the birthday gift from Sara.",
                 "from": "node_id51",
                 "to": "node_id43",
                 "arrows": "to",
@@ -882,7 +870,7 @@
             {
                 "id": "node_id62",
                 "label": "The Last Doll",
-                "title": "Sara's birthday doll, embodying her past life of luxury (non-human character but represents a pivotal aspect of Sara's change in fortune)",
+                "title": "Sara's birthday doll, embodying her past life of luxury (non-human character but represents a<br>pivotal aspect of Sara's change in fortune)",
                 "size": 30
             },
             {
@@ -900,9 +888,9 @@
         ],
         "edges": [
             {
-                "id": "edge_id43",
+                "id": "edge_id42",
                 "label": "sent for and expressed wishes",
-                "title": "Miss Minchin had sent for Sara and, after an interview, expressed her wishes.<br>Miss Minchin demanded a thank you from Sara, which was refused.",
+                "title": "\uff65 Miss Minchin had sent for Sara and, after an interview, expressed her wishes.<br>\uff65 Miss Minchin demanded a thank you from Sara, which was refused.",
                 "from": "node_id53",
                 "to": "node_id52",
                 "arrows": "to",
@@ -912,9 +900,9 @@
                 }
             },
             {
-                "id": "edge_id44",
+                "id": "edge_id43",
                 "label": "led by hand and request for Becky",
-                "title": "Miss Minchin led Sara by the hand into the schoolroom, and Sara later asked Miss Minchin if Becky could stay.",
+                "title": "Miss Minchin led Sara by the hand into the schoolroom, and Sara later asked Miss Minchin if Becky<br>could stay.",
                 "from": "node_id52",
                 "to": "node_id53",
                 "arrows": "to",
@@ -924,7 +912,7 @@
                 }
             },
             {
-                "id": "edge_id45",
+                "id": "edge_id44",
                 "label": "left fortune",
                 "title": "Captain Crewe, when he was alive, would leave Sara a large fortune.",
                 "from": "node_id55",
@@ -936,7 +924,7 @@
                 }
             },
             {
-                "id": "edge_id46",
+                "id": "edge_id45",
                 "label": "had conversation",
                 "title": "Captain Crewe had a conversation with Miss Minchin about Sara's future education and wealth.",
                 "from": "node_id55",
@@ -948,11 +936,11 @@
                 }
             },
             {
-                "id": "edge_id47",
+                "id": "edge_id46",
                 "label": "changed",
-                "title": "Sara was told she was no longer allowed in her old room and would now sleep in the attic next to Becky.",
+                "title": "Sara was told she was no longer allowed in her old room and would now sleep in the attic next to<br>Becky.",
                 "from": "node_id52",
-                "to": "node_id52",
+                "to": "node_id61",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -1016,9 +1004,9 @@
         ],
         "edges": [
             {
-                "id": "edge_id48",
+                "id": "edge_id47",
                 "label": "endure hardship",
-                "title": "\"She must begin as she is to go on,\" Miss Minchin said to Miss Amelia.<br>\"I will not have her forming intimacies and talking to the other children,\" that lady said.",
+                "title": "\uff65 \"She must begin as she is to go on,\" Miss Minchin said to Miss Amelia.<br>\uff65 She taught the younger children French and heard their other lessons.<br>\uff65 \"I will not have her forming intimacies and talking to the other children,\" that lady said.",
                 "from": "node_id65",
                 "to": "node_id66",
                 "arrows": "to",
@@ -1028,9 +1016,9 @@
                 }
             },
             {
-                "id": "edge_id49",
+                "id": "edge_id48",
                 "label": "replaced at table",
-                "title": "When she went down to breakfast she saw that her seat at Miss Minchin's side was occupied by Lavinia.",
+                "title": "When she went down to breakfast she saw that her seat at Miss Minchin's side was occupied by<br>Lavinia.",
                 "from": "node_id65",
                 "to": "node_id68",
                 "arrows": "to",
@@ -1040,7 +1028,7 @@
                 }
             },
             {
-                "id": "edge_id50",
+                "id": "edge_id49",
                 "label": "assign duties",
                 "title": "Miss Minchin spoke to her coldly \"You will begin your new duties, Sara.\"",
                 "from": "node_id66",
@@ -1052,19 +1040,7 @@
                 }
             },
             {
-                "id": "edge_id51",
-                "label": "teach and manage",
-                "title": "She taught the younger children French and heard their other lessons.",
-                "from": "node_id65",
-                "to": "node_id65",
-                "arrows": "to",
-                "smooth": {
-                    "type": "curvedCW",
-                    "roundness": 0.3
-                }
-            },
-            {
-                "id": "edge_id52",
+                "id": "edge_id50",
                 "label": "dealt with mess",
                 "title": "\"Lottie has already upset her tea.\"",
                 "from": "node_id65",
@@ -1076,9 +1052,9 @@
                 }
             },
             {
-                "id": "edge_id53",
+                "id": "edge_id51",
                 "label": "estrangement and reconciliation",
-                "title": "The second of the trio of comforters was Ermengarde, but odd things happened before Ermengarde found her place.",
+                "title": "The second of the trio of comforters was Ermengarde, but odd things happened before Ermengarde found<br>her place.",
                 "from": "node_id65",
                 "to": "node_id69",
                 "arrows": "to",
@@ -1088,9 +1064,9 @@
                 }
             },
             {
-                "id": "edge_id54",
+                "id": "edge_id52",
                 "label": "receive nighttime aid",
-                "title": "But before daybreak she used to slip into Sara's attic and button her dress and give her such help as she required.",
+                "title": "But before daybreak she used to slip into Sara's attic and button her dress and give her such help<br>as she required.",
                 "from": "node_id65",
                 "to": "node_id67",
                 "arrows": "to",
@@ -1100,9 +1076,9 @@
                 }
             },
             {
-                "id": "edge_id55",
+                "id": "edge_id53",
                 "label": "comforting presence",
-                "title": "Throughout all that first night spent in the garret, she had felt a vague comfort in knowing that on the other side of the wall in which the rats scuffled and squeaked there was another young human creature.",
+                "title": "Throughout all that first night spent in the garret, she had felt a vague comfort in knowing that on<br>the other side of the wall in which the rats scuffled and squeaked there was another young human<br>creature.",
                 "from": "node_id67",
                 "to": "node_id65",
                 "arrows": "to",
@@ -1112,7 +1088,7 @@
                 }
             },
             {
-                "id": "edge_id56",
+                "id": "edge_id54",
                 "label": "make observations",
                 "title": "\"I am,\" said Sara, promptly, when she heard of this. \"That's what I look at some people for.\"",
                 "from": "node_id68",
@@ -1132,13 +1108,13 @@
             {
                 "id": "node_id73",
                 "label": "Sara",
-                "title": "An imaginative and compassionate girl who has fallen from her status as a favored student to a poor orphan teaching at the school",
+                "title": "An imaginative and compassionate girl who has fallen from her status as a favored student to a poor<br>orphan teaching at the school",
                 "size": 43
             },
             {
                 "id": "node_id74",
                 "label": "Lottie",
-                "title": "A young child who is bewildered by the changes in Sara's life and looks up to Sara as a motherly figure",
+                "title": "A young child who is bewildered by the changes in Sara's life and looks up to Sara as a motherly<br>figure",
                 "size": 39
             },
             {
@@ -1150,7 +1126,7 @@
             {
                 "id": "node_id76",
                 "label": "Melchisedec",
-                "title": "A rat living in the attic that Sara befriends, symbolizing her ability to find companionship even in the least expected places",
+                "title": "A rat living in the attic that Sara befriends, symbolizing her ability to find companionship even in<br>the least expected places",
                 "size": 36
             },
             {
@@ -1162,15 +1138,15 @@
             {
                 "id": "node_id78",
                 "label": "Becky",
-                "title": "A fellow servant girl who communicates with Sara through knocks on the wall, joining in the fantasy of the Bastille",
+                "title": "A fellow servant girl who communicates with Sara through knocks on the wall, joining in the fantasy<br>of the Bastille",
                 "size": 33
             }
         ],
         "edges": [
             {
-                "id": "edge_id57",
+                "id": "edge_id55",
                 "label": "comforting; exploring; imaginative~",
-                "title": "\"Beggars have nowhere to live,\" she said courageously. \"I have a place to live in.\"; Sara lifted her up, and they stood on the old table together and leaned on the edge of the flat window in the roof, and looked out.; She quite made Lottie see them, too. Lottie could always believe in the things Sara made pictures of.",
+                "title": "\"Beggars have nowhere to live,\" she said courageously. \"I have a place to live in.\"; Sara lifted her<br>up, and they stood on the old table together and leaned on the edge of the flat window in the roof,<br>and looked out.; She quite made Lottie see them, too. Lottie could always believe in the things Sara<br>made pictures of.",
                 "from": "node_id73",
                 "to": "node_id74",
                 "arrows": "to",
@@ -1180,9 +1156,9 @@
                 }
             },
             {
-                "id": "edge_id58",
+                "id": "edge_id56",
                 "label": "seeking information; expressing~",
-                "title": "\"Where do you live?\" persisted Lottie.; \"Oh, Sara!\" cried Lottie, cuddling in her guarding arm. \"I like this attic--I like it! It is nicer than downstairs!\"",
+                "title": "\"Where do you live?\" persisted Lottie.; \"Oh, Sara!\" cried Lottie, cuddling in her guarding arm. \"I<br>like this attic--I like it! It is nicer than downstairs!\"",
                 "from": "node_id74",
                 "to": "node_id73",
                 "arrows": "to",
@@ -1192,9 +1168,9 @@
                 }
             },
             {
-                "id": "edge_id59",
+                "id": "edge_id57",
                 "label": "concern for rules",
-                "title": "\"You must not talk,\" said Sara. \"Miss Minchin is looking at us. She will be angry with me for letting you whisper.\"",
+                "title": "\"You must not talk,\" said Sara. \"Miss Minchin is looking at us. She will be angry with me for<br>letting you whisper.\"",
                 "from": "node_id73",
                 "to": "node_id75",
                 "arrows": "to",
@@ -1204,9 +1180,9 @@
                 }
             },
             {
-                "id": "edge_id60",
+                "id": "edge_id58",
                 "label": "offering friendship; animal care",
-                "title": "\"Come on,\" said Sara; \"I'm not a trap. You can have them, poor thing!\"; \"Take it and go home, Melchisedec! Go home to your wife!\"",
+                "title": "\"Come on,\" said Sara; \"I'm not a trap. You can have them, poor thing!\"; \"Take it and go home,<br>Melchisedec! Go home to your wife!\"",
                 "from": "node_id73",
                 "to": "node_id76",
                 "arrows": "to",
@@ -1216,7 +1192,7 @@
                 }
             },
             {
-                "id": "edge_id61",
+                "id": "edge_id59",
                 "label": "silent communication",
                 "title": "She knocked three times on the wall herself, as if in answer.",
                 "from": "node_id73",
@@ -1228,9 +1204,9 @@
                 }
             },
             {
-                "id": "edge_id62",
+                "id": "edge_id60",
                 "label": "introducing",
-                "title": "\"You must promise not to be frightened--not to scream the least bit, or I can't tell you,\" she answered.",
+                "title": "\"You must promise not to be frightened--not to scream the least bit, or I can't tell you,\" she<br>answered.",
                 "from": "node_id73",
                 "to": "node_id77",
                 "arrows": "to",
@@ -1266,7 +1242,7 @@
             {
                 "id": "node_id82",
                 "label": "Sara",
-                "title": "The protagonist living a lonely life after a fall from grace, previously known as the \"Princess Sara\"",
+                "title": "The protagonist living a lonely life after a fall from grace, previously known as the \"Princess<br>Sara\"",
                 "size": 45
             },
             {
@@ -1332,7 +1308,7 @@
             {
                 "id": "node_id93",
                 "label": "Children of the Large Family",
-                "title": "Named as Lilian Evangeline Maud Marion, Rosalind Gladys, Guy Clarence, Veronica Eustacia, and Claude Harold Hector; all given imaginary names by Sara",
+                "title": "Named as Lilian Evangeline Maud Marion, Rosalind Gladys, Guy Clarence, Veronica Eustacia, and Claude<br>Harold Hector; all given imaginary names by Sara",
                 "size": 15
             },
             {
@@ -1398,7 +1374,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id63",
+                "id": "edge_id61",
                 "label": "visit",
                 "title": "Ermengarde makes perilous pilgrimages to visit Sara in the attic.",
                 "from": "node_id79",
@@ -1410,7 +1386,7 @@
                 }
             },
             {
-                "id": "edge_id64",
+                "id": "edge_id62",
                 "label": "visit",
                 "title": "Lottie makes perilous pilgrimages to visit Sara in the attic.",
                 "from": "node_id80",
@@ -1422,7 +1398,7 @@
                 }
             },
             {
-                "id": "edge_id65",
+                "id": "edge_id63",
                 "label": "give",
                 "title": "Guy Clarence gives Sara a sixpence.",
                 "from": "node_id94",
@@ -1434,7 +1410,7 @@
                 }
             },
             {
-                "id": "edge_id66",
+                "id": "edge_id64",
                 "label": "listen",
                 "title": "Veronica Eustacia listens to Guy Clarence and Sara's interaction.",
                 "from": "node_id95",
@@ -1446,7 +1422,7 @@
                 }
             },
             {
-                "id": "edge_id67",
+                "id": "edge_id65",
                 "label": "listen",
                 "title": "Rosalind Gladys listens to Guy Clarence and Sara's interaction.",
                 "from": "node_id96",
@@ -1458,7 +1434,7 @@
                 }
             },
             {
-                "id": "edge_id68",
+                "id": "edge_id66",
                 "label": "speak",
                 "title": "Sara speaks to Guy Clarence and thanks him for the sixpence.",
                 "from": "node_id82",
@@ -1470,11 +1446,11 @@
                 }
             },
             {
-                "id": "edge_id69",
+                "id": "edge_id67",
                 "label": "own",
                 "title": "The furniture being moved next to Miss Minchin's establishment belongs to the Indian Gentleman.",
                 "from": "node_id97",
-                "to": "node_id97",
+                "to": "node_id83",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -1482,9 +1458,9 @@
                 }
             },
             {
-                "id": "edge_id70",
+                "id": "edge_id68",
                 "label": "know",
-                "title": "The Father of the Large Family appears to know the Indian Gentleman.<br>The Father of the Large Family acts on behalf of the Indian Gentleman.",
+                "title": "\uff65 The Father of the Large Family appears to know the Indian Gentleman.<br>\uff65 The Father of the Large Family acts on behalf of the Indian Gentleman.",
                 "from": "node_id87",
                 "to": "node_id97",
                 "arrows": "to",
@@ -1494,7 +1470,7 @@
                 }
             },
             {
-                "id": "edge_id71",
+                "id": "edge_id69",
                 "label": "care",
                 "title": "The doctor comes in to take care of the Indian Gentleman.",
                 "from": "node_id103",
@@ -1514,7 +1490,7 @@
             {
                 "id": "node_id104",
                 "label": "Sara",
-                "title": "The protagonist who finds beauty and escapism in sunsets and retains her dignity despite her mistreatment",
+                "title": "The protagonist who finds beauty and escapism in sunsets and retains her dignity despite her<br>mistreatment",
                 "size": 43
             },
             {
@@ -1586,11 +1562,11 @@
         ],
         "edges": [
             {
-                "id": "edge_id72",
+                "id": "edge_id70",
                 "label": "view",
-                "title": "Sara could see the sunset from the attic window; sunsets made her feel like something strange was about to happen.<br>Sara found it easier to slip away to the attic when the kitchen work was done.<br>Seeing Ram Dass in his native costume reminded Sara of her past.<br>Sara thought about her future role at Miss Minchin's establishment.",
+                "title": "Sara could see the sunset from the attic window; sunsets made her feel like something strange was<br>about to happen.",
                 "from": "node_id104",
-                "to": "node_id104",
+                "to": "node_id114",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -1598,9 +1574,21 @@
                 }
             },
             {
-                "id": "edge_id73",
+                "id": "edge_id71",
+                "label": "escape",
+                "title": "\uff65 Sara found it easier to slip away to the attic when the kitchen work was done.<br>\uff65 Sara defied Miss Minchin's scolding by laughing and not begging pardon for her thoughts.",
+                "from": "node_id104",
+                "to": "node_id108",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id72",
                 "label": "smile",
-                "title": "Sara smiled at the Lascar as they both viewed the sunset; Sara spoke to the Lascar in Hindustani.",
+                "title": "\uff65 Sara smiled at the Lascar as they both viewed the sunset; Sara spoke to the Lascar in Hindustani.<br>\uff65 Seeing Ram Dass in his native costume reminded Sara of her past.",
                 "from": "node_id104",
                 "to": "node_id110",
                 "arrows": "to",
@@ -1610,7 +1598,7 @@
                 }
             },
             {
-                "id": "edge_id74",
+                "id": "edge_id73",
                 "label": "retrieve",
                 "title": "Ram Dass entered Sara's room to retrieve the monkey.",
                 "from": "node_id105",
@@ -1622,11 +1610,23 @@
                 }
             },
             {
-                "id": "edge_id75",
+                "id": "edge_id74",
                 "label": "gratitude",
                 "title": "Ram Dass expressed his gratitude to Sara for letting him retrieve the monkey.",
                 "from": "node_id105",
                 "to": "node_id104",
+                "arrows": "to",
+                "smooth": {
+                    "type": "curvedCW",
+                    "roundness": 0.3
+                }
+            },
+            {
+                "id": "edge_id75",
+                "label": "anticipate",
+                "title": "Sara thought about her future role at Miss Minchin's establishment.",
+                "from": "node_id104",
+                "to": "node_id113",
                 "arrows": "to",
                 "smooth": {
                     "type": "curvedCW",
@@ -1656,18 +1656,6 @@
                     "type": "curvedCW",
                     "roundness": 0.3
                 }
-            },
-            {
-                "id": "edge_id78",
-                "label": "defiance",
-                "title": "Sara defied Miss Minchin's scolding by laughing and not begging pardon for her thoughts.",
-                "from": "node_id104",
-                "to": "node_id108",
-                "arrows": "to",
-                "smooth": {
-                    "type": "curvedCW",
-                    "roundness": 0.3
-                }
             }
         ]
     },
@@ -1678,7 +1666,7 @@
             {
                 "id": "node_id116",
                 "label": "Sara",
-                "title": "A young girl imaginatively coping with her circumstances by envisioning the lives of those around her, often referring to herself as a \"princess\"",
+                "title": "A young girl imaginatively coping with her circumstances by envisioning the lives of those around<br>her, often referring to herself as a \"princess\"",
                 "size": 39
             },
             {
@@ -1690,13 +1678,13 @@
             {
                 "id": "node_id118",
                 "label": "Indian gentleman",
-                "title": "The mysterious and intriguing neighbor whom Sara adopts as a friend and about whom she creates stories of sympathy",
+                "title": "The mysterious and intriguing neighbor whom Sara adopts as a friend and about whom she creates<br>stories of sympathy",
                 "size": 36
             },
             {
                 "id": "node_id119",
                 "label": "Mr. Carrisford",
-                "title": "The actual name of the \"Indian gentleman\", who is troubled by his past and is searching for Crewe's child, indicating a deep connection to Sara's narrative",
+                "title": "The actual name of the \"Indian gentleman\", who is troubled by his past and is searching for Crewe's<br>child, indicating a deep connection to Sara's narrative",
                 "size": 36
             },
             {
@@ -1732,13 +1720,13 @@
             {
                 "id": "node_id125",
                 "label": "Ram Dass",
-                "title": "Mr. Carrisford's servant, provides a connection between Mr. Carrisford's world and Sara's when he shares insights about Sara's living conditions",
+                "title": "Mr. Carrisford's servant, provides a connection between Mr. Carrisford's world and Sara's when he<br>shares insights about Sara's living conditions",
                 "size": 30
             },
             {
                 "id": "node_id126",
                 "label": "Mr. Carmichael",
-                "title": "A comforting character for Mr. Carrisford, described as the father of the Large Family and an important figure in the search for Crewe's child, hinting at a significant role in the unfolding story",
+                "title": "A comforting character for Mr. Carrisford, described as the father of the Large Family and an<br>important figure in the search for Crewe's child, hinting at a significant role in the unfolding<br>story",
                 "size": 33
             },
             {
@@ -1750,51 +1738,51 @@
             {
                 "id": "node_id128",
                 "label": "Cook",
-                "title": "A servant who discusses Mr. Carrisford's situation, giving Sara and the reader information about his background",
+                "title": "A servant who discusses Mr. Carrisford's situation, giving Sara and the reader information about his<br>background",
                 "size": 24
             },
             {
                 "id": "node_id129",
                 "label": "Large Family",
-                "title": "Referred to by Sara, possibly representing the Montmorency family, but not individually developed or named beyond Janet and Nora",
+                "title": "Referred to by Sara, possibly representing the Montmorency family, but not individually developed or<br>named beyond Janet and Nora",
                 "size": 21
             },
             {
                 "id": "node_id130",
                 "label": "Crewe (Sara's father)",
-                "title": "Mentioned in past tense as someone who loved and nicknamed Sara, indicating his importance in her life and the central mystery of the story",
+                "title": "Mentioned in past tense as someone who loved and nicknamed Sara, indicating his importance in her<br>life and the central mystery of the story",
                 "size": 30
             },
             {
                 "id": "node_id131",
                 "label": "Ralph Crewe",
-                "title": "Referred to as a friend of Mr. Carrisford who died thinking Carrisford had ruined him, adding to the backstory and motivation of Mr. Carrisford's character",
+                "title": "Referred to as a friend of Mr. Carrisford who died thinking Carrisford had ruined him, adding to the<br>backstory and motivation of Mr. Carrisford's character",
                 "size": 30
             },
             {
                 "id": "node_id132",
                 "label": "Madame Pascal",
-                "title": "A character not directly interacting but mentioned as part of the backstory regarding the care of Crewe's child after his death",
+                "title": "A character not directly interacting but mentioned as part of the backstory regarding the care of<br>Crewe's child after his death",
                 "size": 21
             },
             {
                 "id": "node_id133",
                 "label": "Little Missus",
-                "title": "A term of endearment used by Crewe for his daughter, serving as a poignant symbol of Sara's past identity and her father's affection",
+                "title": "A term of endearment used by Crewe for his daughter, serving as a poignant symbol of Sara's past<br>identity and her father's affection",
                 "size": 27
             }
         ],
         "edges": [
             {
-                "id": "edge_id79",
+                "id": "edge_id78",
                 "label": "fondness",
-                "title": "\"Sara was fond of amusing herself by trying to imagine the things hidden by the wall which divided the Select Seminary from the Indian gentleman's house.\"",
+                "title": "\"Sara was fond of amusing herself by trying to imagine the things hidden by the wall which divided<br>the Select Seminary from the Indian gentleman's house.\"",
                 "from": "node_id116",
                 "to": "node_id118",
                 "arrows": "to"
             },
             {
-                "id": "edge_id80",
+                "id": "edge_id79",
                 "label": "friendship",
                 "title": "\"Sara said to Ermengarde, 'I am growing quite fond of him,' referring to the Indian gentleman.\"",
                 "from": "node_id116",
@@ -1802,7 +1790,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id81",
+                "id": "edge_id80",
                 "label": "fondness",
                 "title": "\"She had become fond of the Large Family because they looked happy.\"",
                 "from": "node_id116",
@@ -1810,7 +1798,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id82",
+                "id": "edge_id81",
                 "label": "friendship",
                 "title": "\"He seemed particularly fond of the two elder little girls -- the Janet and Nora.\"",
                 "from": "node_id118",
@@ -1818,7 +1806,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id83",
+                "id": "edge_id82",
                 "label": "past relationship",
                 "title": "\"Ralph Crewe and [Mr. Carrisford] loved each other as boys.\"",
                 "from": "node_id118",
@@ -1846,13 +1834,13 @@
             {
                 "id": "node_id136",
                 "label": "The Indian Gentleman",
-                "title": "A neighbor of Sara\u2019s who is mentioned for his previous exotic living situation and possible connection to Sara\u2019s past",
+                "title": "A neighbor of Sara\u2019s who is mentioned for his previous exotic living situation and possible<br>connection to Sara\u2019s past",
                 "size": 27
             },
             {
                 "id": "node_id137",
                 "label": "The Baker Woman",
-                "title": "A kind woman who gives Sara and another hungry child some buns, showing compassion towards those less fortunate",
+                "title": "A kind woman who gives Sara and another hungry child some buns, showing compassion towards those<br>less fortunate",
                 "size": 30
             },
             {
@@ -1864,13 +1852,13 @@
             {
                 "id": "node_id139",
                 "label": "Miss Minchin",
-                "title": "The head of the boarding school where Sara is mistreated, representing the cruel and oppressive figure in Sara\u2019s life",
+                "title": "The head of the boarding school where Sara is mistreated, representing the cruel and oppressive<br>figure in Sara\u2019s life",
                 "size": 33
             },
             {
                 "id": "node_id140",
                 "label": "Mr. Montmorency",
-                "title": "A father figure in the Large Family, who is mentioned for his love and care for his children and whom Sara observes warmly",
+                "title": "A father figure in the Large Family, who is mentioned for his love and care for his children and<br>whom Sara observes warmly",
                 "size": 27
             },
             {
@@ -1882,19 +1870,19 @@
             {
                 "id": "node_id142",
                 "label": "Members of the Large Family",
-                "title": "A family that Sara observes from a distance, providing her with a sense of normalcy and emotional warmth",
+                "title": "A family that Sara observes from a distance, providing her with a sense of normalcy and emotional<br>warmth",
                 "size": 27
             },
             {
                 "id": "node_id143",
                 "label": "Captain Crewe",
-                "title": "Sara\u2019s loving father who is absent due to his unfortunate circumstances, remaining an integral part of her memories and motivation for her imaginings",
+                "title": "Sara\u2019s loving father who is absent due to his unfortunate circumstances, remaining an integral part<br>of her memories and motivation for her imaginings",
                 "size": 33
             },
             {
                 "id": "node_id144",
                 "label": "Guy Clarence",
-                "title": "One of the children in the Large Family, specifically seen interacting with Mr. Montmorency and contributes to the sense of the normal family dynamic that Sara observes",
+                "title": "One of the children in the Large Family, specifically seen interacting with Mr. Montmorency and<br>contributes to the sense of the normal family dynamic that Sara observes",
                 "size": 24
             },
             {
@@ -1906,21 +1894,21 @@
             {
                 "id": "node_id146",
                 "label": "Nora",
-                "title": "Another child of the Large Family present in the farewell scene that Sara witnesses, contributing to Sara's observation",
+                "title": "Another child of the Large Family present in the farewell scene that Sara witnesses, contributing to<br>Sara's observation",
                 "size": 21
             }
         ],
         "edges": [
             {
-                "id": "edge_id84",
+                "id": "edge_id83",
                 "label": "relationship",
-                "title": "Becky confided in Sara and felt she would die without her, referring to her \u201cBastille\u201d imaginary stories.",
+                "title": "Becky confided in Sara and felt she would die without her, referring to her \u201cBastille\u201d imaginary<br>stories.",
                 "from": "node_id135",
                 "to": "node_id134",
                 "arrows": "to"
             },
             {
-                "id": "edge_id85",
+                "id": "edge_id84",
                 "label": "punishment",
                 "title": "Miss Minchin deprived Sara of her dinner as a form of punishment.",
                 "from": "node_id139",
@@ -1928,11 +1916,11 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id86",
+                "id": "edge_id85",
                 "label": "past life",
                 "title": "Sara imagined that The Indian Gentleman's monkey used to live in a tropical forest.",
                 "from": "node_id136",
-                "to": "node_id136",
+                "to": "node_id140",
                 "arrows": "to"
             }
         ]
@@ -1950,7 +1938,7 @@
             {
                 "id": "node_id148",
                 "label": "Sara",
-                "title": "The child referred to in the story, who is friends with Melchisedec and is the subject of the secret plans being made",
+                "title": "The child referred to in the story, who is friends with Melchisedec and is the subject of the secret<br>plans being made",
                 "size": 45
             },
             {
@@ -1968,7 +1956,7 @@
             {
                 "id": "node_id151",
                 "label": "The Indian gentleman",
-                "title": "The person for whom Ram Dass works and whose plans involve Sara, not directly observed in the story but plays a significant role due to his association with Ram Dass and the secretary",
+                "title": "The person for whom Ram Dass works and whose plans involve Sara, not directly observed in the story<br>but plays a significant role due to his association with Ram Dass and the secretary",
                 "size": 36
             },
             {
@@ -1980,39 +1968,39 @@
             {
                 "id": "node_id153",
                 "label": "The mistress of the house",
-                "title": "She is mentioned as being \"evil\" and treats Sara poorly, not directly seen but impactful due to her treatment of Sara",
+                "title": "She is mentioned as being \"evil\" and treats Sara poorly, not directly seen but impactful due to her<br>treatment of Sara",
                 "size": 30
             }
         ],
         "edges": [
             {
-                "id": "edge_id87",
+                "id": "edge_id86",
                 "label": "flee from",
-                "title": "Melchisedec was frightened and fled back to his hole to hide from the strange men entering the attic.",
+                "title": "Melchisedec was frightened and fled back to his hole to hide from the strange men entering the<br>attic.",
                 "from": "node_id147",
-                "to": "node_id147",
+                "to": "node_id148",
                 "arrows": "to"
             },
             {
-                "id": "edge_id88",
+                "id": "edge_id87",
                 "label": "watch and ensure safety",
-                "title": "Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.<br>Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.",
+                "title": "\uff65 Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.<br>\uff65 Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.",
                 "from": "node_id149",
                 "to": "node_id148",
                 "arrows": "to"
             },
             {
-                "id": "edge_id89",
+                "id": "edge_id88",
                 "label": "aware of neglect",
-                "title": "Ram Dass observed that the mistress of the house does not remember that another than herself may be cold.<br>Ram Dass observed that the mistress of the house does not remember that another than herself may be cold.",
+                "title": "\uff65 Ram Dass observed that the mistress of the house does not remember that another than herself may be<br>cold.<br>\uff65 Ram Dass observed that the mistress of the house does not remember that another than herself may be<br>cold.",
                 "from": "node_id149",
                 "to": "node_id153",
                 "arrows": "to"
             },
             {
-                "id": "edge_id90",
+                "id": "edge_id89",
                 "label": "has plans for",
-                "title": "The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to benefit Sara.<br>The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to benefit Sara.",
+                "title": "\uff65 The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to<br>benefit Sara.<br>\uff65 The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to<br>benefit Sara.",
                 "from": "node_id152",
                 "to": "node_id148",
                 "arrows": "to"
@@ -2026,25 +2014,25 @@
             {
                 "id": "node_id154",
                 "label": "Sara Crewe",
-                "title": "The protagonist, a young girl with a vivid imagination who copes with her misfortunes by imagining herself as a princess",
+                "title": "The protagonist, a young girl with a vivid imagination who copes with her misfortunes by imagining<br>herself as a princess",
                 "size": 45
             },
             {
                 "id": "node_id155",
                 "label": "Ram Dass",
-                "title": "The Indian servant next door who shows kindness to Sara and plays a role in the \"magic\" transformation of her attic",
+                "title": "The Indian servant next door who shows kindness to Sara and plays a role in the \"magic\"<br>transformation of her attic",
                 "size": 27
             },
             {
                 "id": "node_id156",
                 "label": "Indian gentleman",
-                "title": "The neighbor whose lost niece is the cause of his loneliness and unhappiness; later revealed to be intimately connected to Sara's past and future",
+                "title": "The neighbor whose lost niece is the cause of his loneliness and unhappiness; later revealed to be<br>intimately connected to Sara's past and future",
                 "size": 36
             },
             {
                 "id": "node_id157",
                 "label": "Miss Minchin",
-                "title": "Headmistress of the seminary where Sara is enrolled; antagonist who mistreats Sara after her fortune changes",
+                "title": "Headmistress of the seminary where Sara is enrolled; antagonist who mistreats Sara after her fortune<br>changes",
                 "size": 42
             },
             {
@@ -2080,13 +2068,13 @@
             {
                 "id": "node_id163",
                 "label": "Carmichael",
-                "title": "The search agent for the Indian gentleman's lost niece, mentioned in the context of possibly finding her in Moscow",
+                "title": "The search agent for the Indian gentleman's lost niece, mentioned in the context of possibly finding<br>her in Moscow",
                 "size": 24
             },
             {
                 "id": "node_id164",
                 "label": "Madame Pascal",
-                "title": "Runs the school in Paris from which the little girl was taken, mentioned in connection with Carmichael's search",
+                "title": "Runs the school in Paris from which the little girl was taken, mentioned in connection with<br>Carmichael's search",
                 "size": 21
             },
             {
@@ -2122,33 +2110,33 @@
         ],
         "edges": [
             {
-                "id": "edge_id91",
+                "id": "edge_id90",
                 "label": "pity for; wondering about his thoughts",
-                "title": "\"Poor man!\" said Sara. \"I wonder what you are supposing.\" & \"I was wondering,\" said Sara, as she had answered that notable day in the schoolroom.",
+                "title": "\"Poor man!\" said Sara. \"I wonder what you are supposing.\" & \"I was wondering,\" said Sara, as she had<br>answered that notable day in the schoolroom.",
                 "from": "node_id154",
                 "to": "node_id156",
                 "arrows": "to"
             },
             {
-                "id": "edge_id92",
+                "id": "edge_id91",
                 "label": "has a confrontation with; denied food by",
-                "title": "Sara went in to the cook. The cook had received a severe lecture and was in a fearful temper as a result. & \"May I have something to eat?\" Sara asked rather faintly. \"Tea's over and done with,\" was the answer.",
+                "title": "Sara went in to the cook. The cook had received a severe lecture and was in a fearful temper as a<br>result. & \"May I have something to eat?\" Sara asked rather faintly. \"Tea's over and done with,\" was<br>the answer.",
                 "from": "node_id154",
                 "to": "node_id166",
                 "arrows": "to"
             },
             {
-                "id": "edge_id93",
+                "id": "edge_id92",
                 "label": "receives a visit from; offers to read~",
-                "title": "When she reached the top landing she was glad to see the glimmer of a light coming from under her door. That meant that Ermengarde had managed to creep up to pay her a visit. & \"Look here,\" she cried, \"if you'll lend me these books, I'll read them--and tell you everything that's in them afterward.\" & \"Ever so much better since the last time I came up here and you explained the conjugations.\" & \"Sara,\" she said in a timid, almost awe-stricken voice, \"are--are--you never told me--I don't want to be rude, but--are YOU ever hungry?\"",
+                "title": "When she reached the top landing she was glad to see the glimmer of a light coming from under her<br>door. That meant that Ermengarde had managed to creep up to pay her a visit. & \"Look here,\" she<br>cried, \"if you'll lend me these books, I'll read them--and tell you everything that's in them<br>afterward.\" & \"Ever so much better since the last time I came up here and you explained the<br>conjugations.\" & \"Sara,\" she said in a timid, almost awe-stricken voice, \"are--are--you never told<br>me--I don't want to be rude, but--are YOU ever hungry?\"",
                 "from": "node_id154",
                 "to": "node_id160",
                 "arrows": "to"
             },
             {
-                "id": "edge_id94",
+                "id": "edge_id93",
                 "label": "chastised by for lost time; reacts with~",
-                "title": "When Sara went into the house she met Miss Minchin, who had come downstairs to scold the cook. \"Where have you wasted your time?\" she demanded. & Miss Minchin was pale herself, but it was with rage. She looked from the frightened faces to the banquet table. & \"It is your doing, I know,\" she cried. \"Ermengarde would never have thought of such a thing.\" & \"You shall have neither breakfast, dinner, nor supper!\"",
+                "title": "When Sara went into the house she met Miss Minchin, who had come downstairs to scold the cook.<br>\"Where have you wasted your time?\" she demanded. & Miss Minchin was pale herself, but it was with<br>rage. She looked from the frightened faces to the banquet table. & \"It is your doing, I know,\" she<br>cried. \"Ermengarde would never have thought of such a thing.\" & \"You shall have neither breakfast,<br>dinner, nor supper!\"",
                 "from": "node_id157",
                 "to": "node_id154",
                 "arrows": "to"
@@ -2216,13 +2204,13 @@
             {
                 "id": "node_id179",
                 "label": "The Indian Gentleman",
-                "title": "A neighbor to Sara and Becky, though not mentioned directly, his household impacts Sara's circumstances",
+                "title": "A neighbor to Sara and Becky, though not mentioned directly, his household impacts Sara's<br>circumstances",
                 "size": 21
             },
             {
                 "id": "node_id180",
                 "label": "The Visitor",
-                "title": "A mysterious benefactor who helps Sara and Becky, serves as a pivotal character in improving Sara's life",
+                "title": "A mysterious benefactor who helps Sara and Becky, serves as a pivotal character in improving Sara's<br>life",
                 "size": 42
             },
             {
@@ -2234,7 +2222,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id95",
+                "id": "edge_id94",
                 "label": "shared enjoyment",
                 "title": "Sara and Becky shared a delightful evening with warm, comforting food and a blazing fire.",
                 "from": "node_id170",
@@ -2242,7 +2230,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id96",
+                "id": "edge_id95",
                 "label": "possible friendship",
                 "title": "Sara believes The Visitor is a friend despite not knowing their identity.",
                 "from": "node_id170",
@@ -2250,7 +2238,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id97",
+                "id": "edge_id96",
                 "label": "compassionate rescue",
                 "title": "Sara compassionately rescued The Monkey and let it sleep in her room.",
                 "from": "node_id181",
@@ -2326,7 +2314,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id98",
+                "id": "edge_id97",
                 "label": "fondness",
                 "title": "Mr. Carrisford was very fond of Janet.",
                 "from": "node_id183",
@@ -2338,7 +2326,7 @@
                 }
             },
             {
-                "id": "edge_id99",
+                "id": "edge_id98",
                 "label": "express affection",
                 "title": "Nora expressed her liking for the little girl by referring to her as the un-fairy princess.",
                 "from": "node_id186",
@@ -2350,7 +2338,7 @@
                 }
             },
             {
-                "id": "edge_id100",
+                "id": "edge_id99",
                 "label": "describe Sara",
                 "title": "Janet described Sara as rich when found which will make her like a princess.",
                 "from": "node_id184",
@@ -2362,7 +2350,7 @@
                 }
             },
             {
-                "id": "edge_id101",
+                "id": "edge_id100",
                 "label": "share news",
                 "title": "Mr. Carmichael shared the news that the child found wasn't Captain Crewe\u2019s daughter.",
                 "from": "node_id182",
@@ -2374,9 +2362,9 @@
                 }
             },
             {
-                "id": "edge_id102",
+                "id": "edge_id101",
                 "label": "sudden interest and recognition",
-                "title": "The Indian gentleman showed sudden interest upon learning Sara was from India and recognized Sara as the child he had been looking for when she mentioned her father's name was Captain Crewe.",
+                "title": "The Indian gentleman showed sudden interest upon learning Sara was from India and recognized Sara as<br>the child he had been looking for when she mentioned her father's name was Captain Crewe.",
                 "from": "node_id184",
                 "to": "node_id188",
                 "arrows": "to",
@@ -2484,7 +2472,7 @@
         ],
         "edges": [
             {
-                "id": "edge_id103",
+                "id": "edge_id102",
                 "label": "comfort",
                 "title": "Mrs. Carmichael explained everything to Sara and made clear all that had happened.",
                 "from": "node_id192",
@@ -2492,7 +2480,7 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id104",
+                "id": "edge_id103",
                 "label": "take care",
                 "title": "Janet said she would take care of Sara.",
                 "from": "node_id196",
@@ -2500,17 +2488,17 @@
                 "arrows": "to"
             },
             {
-                "id": "edge_id105",
+                "id": "edge_id104",
                 "label": "care",
-                "title": "gifts, friendship, provide home, Mr. Carrisford sent gifts to Sara, showed deep care and friendship, and offered her a home with him.",
+                "title": "gifts, friendship, provide home, Mr. Carrisford sent gifts to Sara, showed deep care and friendship,<br>and offered her a home with him.",
                 "from": "node_id194",
                 "to": "node_id193",
                 "arrows": "to"
             },
             {
-                "id": "edge_id106",
+                "id": "edge_id105",
                 "label": "plan to speak",
-                "title": "Mr. Carmichael planned to go and inform Miss Minchin of the changes in Sara's circumstances.<br>Mr. Carmichael explained the legal implications of Sara's situation to Miss Minchin.",
+                "title": "\uff65 Mr. Carmichael planned to go and inform Miss Minchin of the changes in Sara's circumstances.<br>\uff65 Mr. Carmichael explained the legal implications of Sara's situation to Miss Minchin.",
                 "from": "node_id195",
                 "to": "node_id198",
                 "arrows": "to"
@@ -2524,7 +2512,7 @@
             {
                 "id": "node_id207",
                 "label": "Anne",
-                "title": "A once hungry and desperate child who was given buns by Sara, becoming an attendant in a bakery showing her gratitude",
+                "title": "A once hungry and desperate child who was given buns by Sara, becoming an attendant in a bakery<br>showing her gratitude",
                 "size": 28
             },
             {
@@ -2536,19 +2524,19 @@
             {
                 "id": "node_id209",
                 "label": "Sara",
-                "title": "The main character, an imaginative and generous girl who transforms from a rich student to a servant and back; her adventures and kindness influence everyone around her",
+                "title": "The main character, an imaginative and generous girl who transforms from a rich student to a servant<br>and back; her adventures and kindness influence everyone around her",
                 "size": 43
             },
             {
                 "id": "node_id210",
                 "label": "Indian gentleman",
-                "title": "Mr. Carrisford, who is searching for Sara throughout the story being her benefactor and later close friend",
+                "title": "Mr. Carrisford, who is searching for Sara throughout the story being her benefactor and later close<br>friend",
                 "size": 42
             },
             {
                 "id": "node_id211",
                 "label": "Ram Dass",
-                "title": "Mr. Carrisford's servant who helps in transforming Sara's life and bringing comfort to her when she's in need",
+                "title": "Mr. Carrisford's servant who helps in transforming Sara's life and bringing comfort to her when<br>she's in need",
                 "size": 33
             },
             {
@@ -2560,13 +2548,13 @@
             {
                 "id": "node_id213",
                 "label": "Melchisedec",
-                "title": "The name mentioned about what Sara could see when climbing on a table; not addressed as a character here but seems to be a rat or pet Sara talks about, importance unclear",
+                "title": "The name mentioned about what Sara could see when climbing on a table; not addressed as a character<br>here but seems to be a rat or pet Sara talks about, importance unclear",
                 "size": 15
             },
             {
                 "id": "node_id214",
                 "label": "Mrs. Brown",
-                "title": "The owner of the bun shop who is touched by Sara's generosity and later agrees to provide food for hungry children",
+                "title": "The owner of the bun shop who is touched by Sara's generosity and later agrees to provide food for<br>hungry children",
                 "size": 31
             },
             {
@@ -2590,25 +2578,25 @@
             {
                 "id": "node_id218",
                 "label": "Becky",
-                "title": "Sara's friend and support, who is also lifted from her life of servitude to better circumstances through Sara's transformation",
+                "title": "Sara's friend and support, who is also lifted from her life of servitude to better circumstances<br>through Sara's transformation",
                 "size": 36
             },
             {
                 "id": "node_id219",
                 "label": "Boris",
-                "title": "The dog gifted to Sara by the Indian gentleman, embodying the magical bond between them, minimal importance",
+                "title": "The dog gifted to Sara by the Indian gentleman, embodying the magical bond between them, minimal<br>importance",
                 "size": 22
             },
             {
                 "id": "node_id220",
                 "label": "Miss Minchin",
-                "title": "The headmistress of the seminary where Sara was mistreated, her perspective shows her displeasure in Sara's changed fortunes",
+                "title": "The headmistress of the seminary where Sara was mistreated, her perspective shows her displeasure in<br>Sara's changed fortunes",
                 "size": 30
             }
         ],
         "edges": [
             {
-                "id": "edge_id107",
+                "id": "edge_id106",
                 "label": "storytelling",
                 "title": "Sara told the story of the banquet and the dream which was true.",
                 "from": "node_id209",
@@ -2620,7 +2608,7 @@
                 }
             },
             {
-                "id": "edge_id108",
+                "id": "edge_id107",
                 "label": "requested family familiarity",
                 "title": "He had asked her to call him always \"Uncle Tom.\"",
                 "from": "node_id210",

@@ -69,7 +69,7 @@
                     {
                         "id": "node_id10",
                         "label": "Pliny",
-                        "title": "Ancient author mentioned for his views on sea monsters which are being compared to the cetacean sightings",
+                        "title": "Ancient author mentioned for his views on sea monsters which are being compared to the cetacean<br>sightings",
                         "size": 19
                     },
                     {
@@ -229,19 +229,19 @@
                     {
                         "id": "node_id18",
                         "label": "Assistant Professor",
-                        "title": "A character involved in scientific research and associated with the Museum of Natural History in Paris",
+                        "title": "A character involved in scientific research and associated with the Museum of Natural History in<br>Paris",
                         "size": 33
                     },
                     {
                         "id": "node_id19",
                         "label": "Honourable Pierre Aronnax",
-                        "title": "A professor at the Museum of Paris who is consulted on the phenomenon of a mysterious sea creature and becomes a key opinion leader",
+                        "title": "A professor at the Museum of Paris who is consulted on the phenomenon of a mysterious sea creature<br>and becomes a key opinion leader",
                         "size": 39
                     },
                     {
                         "id": "node_id20",
                         "label": "Commander Farragut",
-                        "title": "The person in charge of a frigate, the Abraham Lincoln, on a mission to pursue a mysterious sea creature",
+                        "title": "The person in charge of a frigate, the Abraham Lincoln, on a mission to pursue a mysterious sea<br>creature",
                         "size": 36
                     },
                     {
@@ -253,7 +253,7 @@
                     {
                         "id": "node_id22",
                         "label": "Narwhal",
-                        "title": "A marine animal proposed by Aronnax as the potential mysterious creature causing maritime disruptions",
+                        "title": "A marine animal proposed by Aronnax as the potential mysterious creature causing maritime<br>disruptions",
                         "size": 27
                     }
                 ],
@@ -261,7 +261,7 @@
                     {
                         "id": "edge_id13",
                         "label": "attach",
-                        "title": "In virtue of my office as Assistant Professor in the Museum of Natural History in Paris, the French Government had attached me to that expedition.",
+                        "title": "In virtue of my office as Assistant Professor in the Museum of Natural History in Paris, the French<br>Government had attached me to that expedition.",
                         "from": "node_id20",
                         "to": "node_id18",
                         "arrows": "to"
@@ -269,13 +269,21 @@
                     {
                         "id": "edge_id14",
                         "label": "arrive",
-                        "title": "I arrived in New York towards the end of March.<br>laden with a precious collection.",
+                        "title": "I arrived in New York towards the end of March.",
                         "from": "node_id18",
-                        "to": "node_id18",
+                        "to": "node_id22",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id15",
+                        "label": "possess",
+                        "title": "laden with a precious collection.",
+                        "from": "node_id18",
+                        "to": "node_id19",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id16",
                         "label": "hypothesis about",
                         "title": "I should be disposed to admit the existence of a gigantic narwhal.",
                         "from": "node_id19",
@@ -283,19 +291,27 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id16",
+                        "id": "edge_id17",
                         "label": "command of",
-                        "title": "The arsenals were opened to Commander Farragut, who hastened the arming of his frigate.<br>it was decided to pursue the monster.",
+                        "title": "The arsenals were opened to Commander Farragut, who hastened the arming of his frigate.",
+                        "from": "node_id20",
+                        "to": "node_id22",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id18",
+                        "label": "pursue",
+                        "title": "it was decided to pursue the monster.",
                         "from": "node_id20",
                         "to": "node_id20",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id17",
+                        "id": "edge_id19",
                         "label": "invitation to join",
                         "title": "J.B. Hobson, Secretary of Marine, sent a letter inviting Pierre Aronnax to join the expedition.",
                         "from": "node_id21",
-                        "to": "node_id21",
+                        "to": "node_id19",
                         "arrows": "to"
                     }
                 ]
@@ -307,7 +323,7 @@
                     {
                         "id": "node_id23",
                         "label": "J. B. Hobson",
-                        "title": "Secretary of Marine who wrote the letter that inspired the narrator's resolution to chase the unicorn",
+                        "title": "Secretary of Marine who wrote the letter that inspired the narrator's resolution to chase the<br>unicorn",
                         "size": 18
                     },
                     {
@@ -343,7 +359,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id18",
+                        "id": "edge_id20",
                         "label": "send letter",
                         "title": "Three seconds before the arrival of J. B. Hobson\u2019s letter.",
                         "from": "node_id23",
@@ -351,7 +367,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id19",
+                        "id": "edge_id21",
                         "label": "offer",
                         "title": "accepted without hesitation the offer of the American Government.",
                         "from": "node_id26",
@@ -359,25 +375,25 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id20",
+                        "id": "edge_id22",
                         "label": "chase",
-                        "title": "the sole end of my life was to chase this disturbing monster and we are going to purge it from the seas.",
+                        "title": "the sole end of my life was to chase this disturbing monster and we are going to purge it from the<br>seas.",
                         "from": "node_id27",
                         "to": "node_id24",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id21",
+                        "id": "edge_id23",
                         "label": "embark with",
-                        "title": "The author of a work in quarto in two volumes on the \u2018Mysteries of the Great Submarine Grounds\u2019 cannot forbear embarking with Commander Farragut.",
+                        "title": "The author of a work in quarto in two volumes on the \u2018Mysteries of the Great Submarine Grounds\u2019<br>cannot forbear embarking with Commander Farragut.",
                         "from": "node_id28",
                         "to": "node_id27",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id22",
+                        "id": "edge_id24",
                         "label": "serve",
-                        "title": "Conseil was my servant, Conseil appeared when called, and agreed without delay to the narrator's instructions.",
+                        "title": "Conseil was my servant, Conseil appeared when called, and agreed without delay to the narrator's<br>instructions.",
                         "from": "node_id25",
                         "to": "node_id27",
                         "arrows": "to"
@@ -391,59 +407,59 @@
                     {
                         "id": "node_id29",
                         "label": "Captain Farragut",
-                        "title": "A good seaman and captain of the frigate who believed in the existence of a sea monster and was determined to rid the seas of it",
+                        "title": "A good seaman and captain of the frigate who believed in the existence of a sea monster and was<br>determined to rid the seas of it",
                         "size": 39
                     },
                     {
                         "id": "node_id30",
                         "label": "Ned Land",
-                        "title": "A Canadian harpooner aboard Captain Farragut's ship, renowned for his skill and strength, skeptical about the existence of the sea monster",
+                        "title": "A Canadian harpooner aboard Captain Farragut's ship, renowned for his skill and strength, skeptical<br>about the existence of the sea monster",
                         "size": 42
                     },
                     {
                         "id": "node_id31",
                         "label": "Conseil",
-                        "title": "A character who shows indifference towards the monster hunt, contrasting with the enthusiasm of the crew",
+                        "title": "A character who shows indifference towards the monster hunt, contrasting with the enthusiasm of the<br>crew",
                         "size": 33
                     },
                     {
                         "id": "node_id32",
                         "label": "Mr. Aronnax",
-                        "title": "The narrator and a scientist engaging in discussions with Ned Land, invested in the scientific aspect of the sea monster and its existence",
+                        "title": "The narrator and a scientist engaging in discussions with Ned Land, invested in the scientific<br>aspect of the sea monster and its existence",
                         "size": 39
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id23",
-                        "label": "belief",
-                        "title": "Captain Farragut believed in the existence of the cetacean and did not allow its existence to be disputed on board.",
-                        "from": "node_id29",
-                        "to": "node_id29",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id24",
-                        "label": "indifference",
-                        "title": "Only Conseil seemed to protest by his indifference against the question which so interested us all.",
-                        "from": "node_id31",
-                        "to": "node_id31",
-                        "arrows": "to"
-                    },
-                    {
                         "id": "edge_id25",
-                        "label": "skill",
-                        "title": "Ned Land possessed superior skill, coolness, audacity, and cunning in harpooning.<br>Ned Land did not believe in the existence of sea-unicorns.",
-                        "from": "node_id30",
+                        "label": "belief",
+                        "title": "Captain Farragut believed in the existence of the cetacean and did not allow its existence to be<br>disputed on board.",
+                        "from": "node_id29",
                         "to": "node_id30",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id26",
-                        "label": "friendship",
-                        "title": "Ned Land took a certain liking for Mr. Aronnax because of nationality.",
+                        "label": "indifference",
+                        "title": "Only Conseil seemed to protest by his indifference against the question which so interested us all.",
+                        "from": "node_id31",
+                        "to": "node_id29",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id27",
+                        "label": "skill",
+                        "title": "\uff65 Ned Land possessed superior skill, coolness, audacity, and cunning in harpooning.<br>\uff65 Ned Land took a certain liking for Mr. Aronnax because of nationality.",
                         "from": "node_id30",
                         "to": "node_id32",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id28",
+                        "label": "skepticism",
+                        "title": "Ned Land did not believe in the existence of sea-unicorns.",
+                        "from": "node_id30",
+                        "to": "node_id31",
                         "arrows": "to"
                     }
                 ]
@@ -491,7 +507,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id27",
+                        "id": "edge_id29",
                         "label": "request assistance",
                         "title": "The captain of the Monroe requested Ned Land's help in chasing a whale.",
                         "from": "node_id35",
@@ -499,31 +515,23 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id28",
+                        "id": "edge_id30",
                         "label": "give permission",
-                        "title": "Commander Farragut gave Ned Land permission to board the Monroe for whale hunting.",
+                        "title": "\uff65 Commander Farragut gave Ned Land permission to board the Monroe for whale hunting.<br>\uff65 Commander Farragut navigated the Abraham Lincoln into the waters of the Pacific.",
                         "from": "node_id36",
                         "to": "node_id34",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id29",
-                        "label": "navigate",
-                        "title": "Commander Farragut navigated the Abraham Lincoln into the waters of the Pacific.",
-                        "from": "node_id36",
-                        "to": "node_id36",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id30",
+                        "id": "edge_id31",
                         "label": "request patience",
                         "title": "Captain Farragut requested the crew's patience for three more days of searching.",
                         "from": "node_id38",
-                        "to": "node_id38",
+                        "to": "node_id35",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id31",
+                        "id": "edge_id32",
                         "label": "advise",
                         "title": "Conseil advised the Narrator to not squint to see better.",
                         "from": "node_id37",
@@ -557,7 +565,7 @@
                     {
                         "id": "node_id42",
                         "label": "Officers",
-                        "title": "The individuals in charge of executing the commander's orders and overseeing various aspects of the ship's operations",
+                        "title": "The individuals in charge of executing the commander's orders and overseeing various aspects of the<br>ship's operations",
                         "size": 36
                     },
                     {
@@ -581,7 +589,7 @@
                     {
                         "id": "node_id46",
                         "label": "Engineers",
-                        "title": "Crew members responsible for maintaining and operating the ship's machinery, particularly the engines",
+                        "title": "Crew members responsible for maintaining and operating the ship's machinery, particularly the<br>engines",
                         "size": 36
                     },
                     {
@@ -617,7 +625,7 @@
                     {
                         "id": "node_id52",
                         "label": "Mr. Aronnax",
-                        "title": "A character conversing with the captain about the nature of the animal, possibly an expert or scientist aboard",
+                        "title": "A character conversing with the captain about the nature of the animal, possibly an expert or<br>scientist aboard",
                         "size": 39
                     },
                     {
@@ -653,23 +661,23 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id32",
+                        "id": "edge_id33",
                         "label": "gather",
-                        "title": "The whole ship's crew hurried towards the harpooner, including engineers and stokers leaving their posts.",
+                        "title": "The whole ship's crew hurried towards the harpooner, including engineers and stokers leaving their<br>posts.",
                         "from": "node_id39",
                         "to": "node_id40",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id33",
+                        "id": "edge_id34",
                         "label": "order",
-                        "title": "The Captain gave orders to silence the crew and maneuver the ship, including issuing commands to steer the ship away from the electric light.",
+                        "title": "The Captain gave orders to silence the crew and maneuver the ship, including issuing commands to<br>steer the ship away from the electric light.",
                         "from": "node_id51",
                         "to": "node_id53",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id34",
+                        "id": "edge_id35",
                         "label": "pursuit",
                         "title": "The frigate pursued the narwhal trying to approach it.",
                         "from": "node_id51",
@@ -677,11 +685,11 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id35",
+                        "id": "edge_id36",
                         "label": "doubt",
-                        "title": "One of the officers expressed doubt about the nature of the light being from phosphoric particles, and Mr. Aronnax refuted this claim.",
+                        "title": "One of the officers expressed doubt about the nature of the light being from phosphoric particles,<br>and Mr. Aronnax refuted this claim.",
                         "from": "node_id42",
-                        "to": "node_id42",
+                        "to": "node_id56",
                         "arrows": "to"
                     }
                 ]
@@ -693,7 +701,7 @@
                     {
                         "id": "node_id58",
                         "label": "Narrator",
-                        "title": "The main character and first-person narrator who finds themselves in a life-threatening situation at sea",
+                        "title": "The main character and first-person narrator who finds themselves in a life-threatening situation at<br>sea",
                         "size": 43
                     },
                     {
@@ -711,7 +719,7 @@
                     {
                         "id": "node_id61",
                         "label": "Crew",
-                        "title": "The collective individuals responsible for operating the frigate; mentioned in concern for the narrator's safety",
+                        "title": "The collective individuals responsible for operating the frigate; mentioned in concern for the<br>narrator's safety",
                         "size": 21
                     },
                     {
@@ -789,7 +797,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id36",
+                        "id": "edge_id37",
                         "label": "search for",
                         "title": "My first care was to look for the frigate.",
                         "from": "node_id58",
@@ -801,7 +809,7 @@
                         }
                     },
                     {
-                        "id": "edge_id37",
+                        "id": "edge_id38",
                         "label": "question of awareness",
                         "title": "Had the crew seen me disappear?",
                         "from": "node_id58",
@@ -813,7 +821,7 @@
                         }
                     },
                     {
-                        "id": "edge_id38",
+                        "id": "edge_id39",
                         "label": "question if veered",
                         "title": "Had the Abraham Lincoln veered round?",
                         "from": "node_id58",
@@ -825,7 +833,7 @@
                         }
                     },
                     {
-                        "id": "edge_id39",
+                        "id": "edge_id40",
                         "label": "question of action",
                         "title": "Would the captain put out a boat?",
                         "from": "node_id58",
@@ -837,7 +845,7 @@
                         }
                     },
                     {
-                        "id": "edge_id40",
+                        "id": "edge_id41",
                         "label": "hearing report from",
                         "title": "\u201cThe screw and the rudder are broken.\u201d",
                         "from": "node_id58",
@@ -849,7 +857,7 @@
                         }
                     },
                     {
-                        "id": "edge_id41",
+                        "id": "edge_id42",
                         "label": "cause damage to",
                         "title": "Yes, broken by the monster\u2019s teeth.",
                         "from": "node_id66",
@@ -861,7 +869,7 @@
                         }
                     },
                     {
-                        "id": "edge_id42",
+                        "id": "edge_id43",
                         "label": "offering assistance",
                         "title": "\"If master would be so good as to lean on my shoulder.\"",
                         "from": "node_id64",
@@ -873,7 +881,7 @@
                         }
                     },
                     {
-                        "id": "edge_id43",
+                        "id": "edge_id44",
                         "label": "recognition of",
                         "title": "I seized with one hand my faithful Conseil\u2019s arm.",
                         "from": "node_id58",
@@ -885,7 +893,7 @@
                         }
                     },
                     {
-                        "id": "edge_id44",
+                        "id": "edge_id45",
                         "label": "hearing of",
                         "title": "I heard him repeat at intervals, \u201cHelp! help!\u201d",
                         "from": "node_id58",
@@ -897,7 +905,7 @@
                         }
                     },
                     {
-                        "id": "edge_id45",
+                        "id": "edge_id46",
                         "label": "response to call",
                         "title": "A human voice responded to ours!",
                         "from": "node_id70",
@@ -909,7 +917,7 @@
                         }
                     },
                     {
-                        "id": "edge_id46",
+                        "id": "edge_id47",
                         "label": "recognition of",
                         "title": "\u201cNed!\u201d I cried. \u201cThe same, sir, who is seeking his prize!\u201d replied the Canadian.",
                         "from": "node_id71",
@@ -921,7 +929,7 @@
                         }
                     },
                     {
-                        "id": "edge_id47",
+                        "id": "edge_id48",
                         "label": "drawing into submarine",
                         "title": "and drew us down into their formidable machine.",
                         "from": "node_id58",
@@ -965,58 +973,82 @@
                     {
                         "id": "node_id78",
                         "label": "Steward",
-                        "title": "Person who brings clothes and sets the table for the abductees, showing the hospitality of the captors",
+                        "title": "Person who brings clothes and sets the table for the abductees, showing the hospitality of the<br>captors",
                         "size": 33
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id48",
+                        "id": "edge_id49",
                         "label": "follow",
                         "title": "Ned Land followed Professor Aronnax down the iron ladder after being forcibly seized.",
                         "from": "node_id76",
                         "to": "node_id74",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id49",
+                        "id": "edge_id50",
                         "label": "follow",
                         "title": "Conseil firmly seized, followed Professor Aronnax down the iron ladder.",
                         "from": "node_id76",
                         "to": "node_id75",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id50",
-                        "label": "defend",
-                        "title": "Ned Land expressed his determination to defend himself with his bowie knife against the pirates.",
-                        "from": "node_id74",
-                        "to": "node_id74",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
                         "id": "edge_id51",
+                        "label": "defend",
+                        "title": "Ned Land expressed his determination to defend himself with his bowie knife against the pirates.",
+                        "from": "node_id74",
+                        "to": "node_id75",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id52",
                         "label": "calm",
                         "title": "Conseil suggested Ned Land to calm himself before jumping to conclusions about their situation.",
                         "from": "node_id75",
                         "to": "node_id74",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id52",
+                        "id": "edge_id53",
                         "label": "not communicate",
                         "title": "Captain Nemo did not show any signs of understanding Professor Aronnax's story in various languages.",
                         "from": "node_id77",
                         "to": "node_id76",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id53",
+                        "id": "edge_id54",
                         "label": "serve",
                         "title": "A steward entered to bring clothes and set up their dinner without communicating with the prisoners.",
                         "from": "node_id78",
-                        "to": "node_id78",
-                        "arrows": "to"
+                        "to": "node_id75",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -1045,15 +1077,15 @@
                     {
                         "id": "node_id82",
                         "label": "The steward",
-                        "title": "A crew member aboard the submarine who serves the prisoners and becomes a target of Ned Land's frustration",
+                        "title": "A crew member aboard the submarine who serves the prisoners and becomes a target of Ned Land's<br>frustration",
                         "size": 30
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id54",
+                        "id": "edge_id55",
                         "label": "inform about events",
-                        "title": "perception, and time, \"A seaman could not be mistaken, and I told the Canadian all that had passed during his sleep.\" | \"Quite so, Master Land; it was taking breath.\" | \"Only, Mr. Aronnax, I have no idea what o\u2019clock it is, unless it is dinner-time.\"",
+                        "title": "perception, and time, \"A seaman could not be mistaken, and I told the Canadian all that had passed<br>during his sleep.\" | \"Quite so, Master Land; it was taking breath.\" | \"Only, Mr. Aronnax, I have no<br>idea what o\u2019clock it is, unless it is dinner-time.\"",
                         "from": "node_id81",
                         "to": "node_id79",
                         "arrows": "to",
@@ -1063,9 +1095,9 @@
                         }
                     },
                     {
-                        "id": "edge_id55",
+                        "id": "edge_id56",
                         "label": "inform about events and confirm about~",
-                        "title": "\"A seaman could not be mistaken, and I told the Canadian all that had passed during his sleep.\" | \"That is my opinion.\"",
+                        "title": "\"A seaman could not be mistaken, and I told the Canadian all that had passed during his sleep.\" |<br>\"That is my opinion.\"",
                         "from": "node_id81",
                         "to": "node_id80",
                         "arrows": "to",
@@ -1075,9 +1107,9 @@
                         }
                     },
                     {
-                        "id": "edge_id56",
+                        "id": "edge_id57",
                         "label": "ask about well-being and inform about~",
-                        "title": "\"Did master sleep well?\" | \"Soundly, Professor. But I don\u2019t know if I am right or not; there seems to be a sea breeze!\"",
+                        "title": "\"Did master sleep well?\" | \"Soundly, Professor. But I don\u2019t know if I am right or not; there seems<br>to be a sea breeze!\"",
                         "from": "node_id79",
                         "to": "node_id81",
                         "arrows": "to",
@@ -1087,23 +1119,11 @@
                         }
                     },
                     {
-                        "id": "edge_id57",
+                        "id": "edge_id58",
                         "label": "express disagreement on temperament",
-                        "title": "\"That is just like you, friend Conseil,\u201d said Ned, impatiently. \u201cYou are never out of temper, always calm; you would return thanks before grace, and die of hunger rather than complain!\"",
+                        "title": "\"That is just like you, friend Conseil,\u201d said Ned, impatiently. \u201cYou are never out of temper, always<br>calm; you would return thanks before grace, and die of hunger rather than complain!\"",
                         "from": "node_id79",
                         "to": "node_id80",
-                        "arrows": "to",
-                        "smooth": {
-                            "type": "curvedCW",
-                            "roundness": 0.3
-                        }
-                    },
-                    {
-                        "id": "edge_id58",
-                        "label": "express anticipation and attack",
-                        "title": "\"But dinner or breakfast, the steward will be welcome, whichever he brings.\" | \"Before I could rush forward to stop him, the Canadian had thrown him down, and held him by the throat.\"",
-                        "from": "node_id79",
-                        "to": "node_id79",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1112,10 +1132,10 @@
                     },
                     {
                         "id": "edge_id59",
-                        "label": "attempt to intervene",
-                        "title": "\"Conseil was already trying to unclasp the harpooner\u2019s hand from his half-suffocated victim.\"",
-                        "from": "node_id80",
-                        "to": "node_id80",
+                        "label": "express anticipation and attack",
+                        "title": "\"But dinner or breakfast, the steward will be welcome, whichever he brings.\" | \"Before I could rush<br>forward to stop him, the Canadian had thrown him down, and held him by the throat.\"",
+                        "from": "node_id79",
+                        "to": "node_id82",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1124,10 +1144,22 @@
                     },
                     {
                         "id": "edge_id60",
+                        "label": "attempt to intervene",
+                        "title": "\"Conseil was already trying to unclasp the harpooner\u2019s hand from his half-suffocated victim.\"",
+                        "from": "node_id80",
+                        "to": "node_id82",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id61",
                         "label": "request silence",
                         "title": "\u201cBe quiet, Master Land; and you, Professor, will you be so good as to listen to me?\u201d",
                         "from": "node_id82",
-                        "to": "node_id82",
+                        "to": "node_id81",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1149,7 +1181,7 @@
                     {
                         "id": "node_id84",
                         "label": "Ned Land",
-                        "title": "A Canadian harpooner on board the frigate Abraham Lincoln, known for his strength and anger towards the commander",
+                        "title": "A Canadian harpooner on board the frigate Abraham Lincoln, known for his strength and anger towards<br>the commander",
                         "size": 40
                     },
                     {
@@ -1179,7 +1211,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id61",
+                        "id": "edge_id62",
                         "label": "unspoken conflict",
                         "title": "Ned Land felt resentment towards the commander of the vessel.",
                         "from": "node_id83",
@@ -1191,7 +1223,7 @@
                         }
                     },
                     {
-                        "id": "edge_id62",
+                        "id": "edge_id63",
                         "label": "observation",
                         "title": "Conseil interested and stupefied awaited the result of the scene.",
                         "from": "node_id83",
@@ -1203,7 +1235,7 @@
                         }
                     },
                     {
-                        "id": "edge_id63",
+                        "id": "edge_id64",
                         "label": "observation",
                         "title": "M. Pierre Aronnax was scanned with profound attention by the commander.",
                         "from": "node_id83",
@@ -1215,7 +1247,7 @@
                         }
                     },
                     {
-                        "id": "edge_id64",
+                        "id": "edge_id65",
                         "label": "identity recognition",
                         "title": "Captain Nemo identified M. Pierre Aronnax as Professor of Natural History at the Museum of Paris.",
                         "from": "node_id88",
@@ -1227,7 +1259,7 @@
                         }
                     },
                     {
-                        "id": "edge_id65",
+                        "id": "edge_id66",
                         "label": "identity recognition",
                         "title": "Captain Nemo identified Conseil as the servant of M. Pierre Aronnax.",
                         "from": "node_id88",
@@ -1239,9 +1271,9 @@
                         }
                     },
                     {
-                        "id": "edge_id66",
+                        "id": "edge_id67",
                         "label": "identity recognition",
-                        "title": "Captain Nemo identified Ned Land as the harpooner of the Abraham Lincoln.<br>Conseil, M. Pierre Aronnax, captivity, Captain Nemo imposes a condition of confinement during certain events for the passengers.",
+                        "title": "\uff65 Captain Nemo identified Ned Land as the harpooner of the Abraham Lincoln.<br>\uff65 Conseil, M. Pierre Aronnax, captivity, Captain Nemo imposes a condition of confinement during<br>certain events for the passengers.",
                         "from": "node_id88",
                         "to": "node_id84",
                         "arrows": "to",
@@ -1251,7 +1283,7 @@
                         }
                     },
                     {
-                        "id": "edge_id67",
+                        "id": "edge_id68",
                         "label": "communication",
                         "title": "M. Pierre Aronnax had a dialogue with Captain Nemo.",
                         "from": "node_id87",
@@ -1263,7 +1295,7 @@
                         }
                     },
                     {
-                        "id": "edge_id68",
+                        "id": "edge_id69",
                         "label": "accusation",
                         "title": "Ned Land was accused by Captain Nemo of attacking him with a harpoon.",
                         "from": "node_id84",
@@ -1289,7 +1321,7 @@
                     {
                         "id": "node_id90",
                         "label": "Professor Aronnax",
-                        "title": "A learned professor and the narrator who interacts with Captain Nemo about the workings of the Nautilus",
+                        "title": "A learned professor and the narrator who interacts with Captain Nemo about the workings of the<br>Nautilus",
                         "size": 39
                     },
                     {
@@ -1307,19 +1339,11 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id69",
+                        "id": "edge_id70",
                         "label": "explain",
-                        "title": "\"Here, Professor, I ought to give you some explanations.\"",
+                        "title": "\uff65 \"Here, Professor, I ought to give you some explanations.\"<br>\uff65 \"Everything is done by means of it.\"",
                         "from": "node_id89",
                         "to": "node_id90",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id70",
-                        "label": "use",
-                        "title": "\"Everything is done by means of it.\"<br>\"By my orders. An electric thread connects us.\"",
-                        "from": "node_id89",
-                        "to": "node_id89",
                         "arrows": "to"
                     },
                     {
@@ -1336,6 +1360,14 @@
                         "title": "Conseil and Ned Land, enchanted with their repast, were devouring it with avidity.",
                         "from": "node_id91",
                         "to": "node_id92",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id73",
+                        "label": "command",
+                        "title": "\"By my orders. An electric thread connects us.\"",
+                        "from": "node_id89",
+                        "to": "node_id91",
                         "arrows": "to"
                     }
                 ]
@@ -1365,23 +1397,11 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id73",
-                        "label": "examine",
-                        "title": "M. Aronnax was showed a sketch to examine the Nautilus.",
-                        "from": "node_id93",
-                        "to": "node_id93",
-                        "arrows": "to",
-                        "smooth": {
-                            "type": "curvedCW",
-                            "roundness": 0.3
-                        }
-                    },
-                    {
                         "id": "edge_id74",
-                        "label": "describe",
-                        "title": "The Captain began to describe the Nautilus to M. Aronnax.",
-                        "from": "node_id94",
-                        "to": "node_id93",
+                        "label": "examine",
+                        "title": "\uff65 M. Aronnax was showed a sketch to examine the Nautilus.<br>\uff65 M. Aronnax complimented the Captain's Nautilus.",
+                        "from": "node_id93",
+                        "to": "node_id94",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1390,10 +1410,10 @@
                     },
                     {
                         "id": "edge_id75",
-                        "label": "compliment",
-                        "title": "M. Aronnax complimented the Captain's Nautilus.",
-                        "from": "node_id93",
-                        "to": "node_id94",
+                        "label": "describe",
+                        "title": "The Captain began to describe the Nautilus to M. Aronnax.",
+                        "from": "node_id94",
+                        "to": "node_id93",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1455,7 +1475,7 @@
                     {
                         "id": "edge_id78",
                         "label": "inform",
-                        "title": "Captain Nemo informs, commands the clock, announces arrival, instructs on the Sun\u2019s altitude, suggests retiring, and offers the saloon.",
+                        "title": "Captain Nemo informs, commands the clock, announces arrival, instructs on the Sun\u2019s altitude,<br>suggests retiring, and offers the saloon.",
                         "from": "node_id96",
                         "to": "node_id99",
                         "arrows": "to"
@@ -1585,7 +1605,7 @@
                         "label": "astonishment",
                         "title": "They were astonished at the inexplicable absence of the Captain.",
                         "from": "node_id100",
-                        "to": "node_id100",
+                        "to": "node_id104",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1597,7 +1617,7 @@
                         "label": "appearance",
                         "title": "the second (whom I had already seen on the Captain\u2019s first visit) who appeared.",
                         "from": "node_id106",
-                        "to": "node_id106",
+                        "to": "node_id103",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1607,7 +1627,7 @@
                     {
                         "id": "edge_id87",
                         "label": "invitation",
-                        "title": "Captain Nemo invites Professor Aronnax to a hunting-party.<br>Captain Nemo was there, waiting for me. He rose, bowed, and asked me if it was convenient for me to accompany him.<br>\"M. Aronnax,\" said the Captain, \"pray, share my breakfast without ceremony; we will chat as we eat.\"",
+                        "title": "\uff65 Captain Nemo invites Professor Aronnax to a hunting-party.<br>\uff65 Captain Nemo was there, waiting for me. He rose, bowed, and asked me if it was convenient for me to<br>accompany him.<br>\uff65 \"M. Aronnax,\" said the Captain, \"pray, share my breakfast without ceremony; we will chat as we eat.\"",
                         "from": "node_id103",
                         "to": "node_id100",
                         "arrows": "to",
@@ -1621,7 +1641,7 @@
                         "label": "inclusion wish",
                         "title": "He will with pleasure see him joined by his companions.",
                         "from": "node_id103",
-                        "to": "node_id103",
+                        "to": "node_id102",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1675,9 +1695,9 @@
                     {
                         "id": "edge_id89",
                         "label": "show repugnance",
-                        "title": "Ned Land showed evident repugnance to dress himself in one.<br>Ned Land saw his dreams of fresh meat fade away when understanding the forests of the Island of Crespo are submarine forests.<br>Ned Land stated he will never get into a diving suit unless he is forced.<br>Ned Land ironically said \"Good sport!\" to the divers.",
+                        "title": "\uff65 Ned Land showed evident repugnance to dress himself in one.<br>\uff65 Ned Land stated he will never get into a diving suit unless he is forced.",
                         "from": "node_id109",
-                        "to": "node_id109",
+                        "to": "node_id113",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1686,10 +1706,10 @@
                     },
                     {
                         "id": "edge_id90",
-                        "label": "has no alternative",
-                        "title": "M. Aronnax mentioned there is no alternative but to dress in diving clothes.<br>M. Aronnax and others had their heads enclosed in the metal diving helmet.<br>M. Aronnax was astonished by the light under the sea thirty feet below the surface.",
-                        "from": "node_id110",
-                        "to": "node_id110",
+                        "label": "have dreams fade away",
+                        "title": "\uff65 Ned Land saw his dreams of fresh meat fade away when understanding the forests of the Island of<br>Crespo are submarine forests.<br>\uff65 Ned Land ironically said \"Good sport!\" to the divers.",
+                        "from": "node_id109",
+                        "to": "node_id112",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1698,6 +1718,18 @@
                     },
                     {
                         "id": "edge_id91",
+                        "label": "has no alternative",
+                        "title": "\uff65 M. Aronnax mentioned there is no alternative but to dress in diving clothes.<br>\uff65 M. Aronnax asked the Captain's permission to examine the guns.",
+                        "from": "node_id110",
+                        "to": "node_id108",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id92",
                         "label": "exert no force",
                         "title": "Captain Nemo stated that no one will force Ned Land to wear a diving suit.",
                         "from": "node_id108",
@@ -1709,7 +1741,7 @@
                         }
                     },
                     {
-                        "id": "edge_id92",
+                        "id": "edge_id93",
                         "label": "follow anywhere",
                         "title": "Conseil replied to Ned Land that he follows his master wherever he goes.",
                         "from": "node_id111",
@@ -1721,9 +1753,9 @@
                         }
                     },
                     {
-                        "id": "edge_id93",
+                        "id": "edge_id94",
                         "label": "help to dress",
-                        "title": "Two of the ship's crew came to help dress in the heavy and impervious diving clothes.<br>The Nautilus men pushed Aronnax and his companions into a little room.",
+                        "title": "Two of the ship's crew came to help dress in the heavy and impervious diving clothes.",
                         "from": "node_id112",
                         "to": "node_id112",
                         "arrows": "to",
@@ -1733,23 +1765,11 @@
                         }
                     },
                     {
-                        "id": "edge_id94",
-                        "label": "wear diving suits",
-                        "title": "Captain Nemo and one of his companions were soon enveloped in the dresses.<br>Captain Nemo informed that the Nautilus is stranded in five fathoms and ready to start.<br>Captain Nemo assured he will show how to get off the Nautilus.<br>Captain Nemo led the walk on the bottom of the sea.<br>Captain Nemo beckoned M. Aronnax on by signs during the underwater walk.",
-                        "from": "node_id108",
-                        "to": "node_id108",
-                        "arrows": "to",
-                        "smooth": {
-                            "type": "curvedCW",
-                            "roundness": 0.3
-                        }
-                    },
-                    {
                         "id": "edge_id95",
-                        "label": "requests to examine guns",
-                        "title": "M. Aronnax asked the Captain's permission to examine the guns.",
-                        "from": "node_id110",
-                        "to": "node_id108",
+                        "label": "wear diving suits",
+                        "title": "Captain Nemo and one of his companions were soon enveloped in the dresses.",
+                        "from": "node_id108",
+                        "to": "node_id113",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1759,7 +1779,7 @@
                     {
                         "id": "edge_id96",
                         "label": "provide a gun",
-                        "title": "One of the Nautilus men gave M. Aronnax a simple gun to carry.",
+                        "title": "\uff65 One of the Nautilus men gave M. Aronnax a simple gun to carry.<br>\uff65 The Nautilus men pushed Aronnax and his companions into a little room.",
                         "from": "node_id112",
                         "to": "node_id110",
                         "arrows": "to",
@@ -1779,6 +1799,54 @@
                             "type": "curvedCW",
                             "roundness": 0.3
                         }
+                    },
+                    {
+                        "id": "edge_id98",
+                        "label": "inform about situation",
+                        "title": "\uff65 Captain Nemo informed that the Nautilus is stranded in five fathoms and ready to start.<br>\uff65 Captain Nemo led the walk on the bottom of the sea.",
+                        "from": "node_id108",
+                        "to": "node_id112",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id99",
+                        "label": "will show how",
+                        "title": "Captain Nemo assured he will show how to get off the Nautilus.",
+                        "from": "node_id108",
+                        "to": "node_id108",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id100",
+                        "label": "enclose head",
+                        "title": "\uff65 M. Aronnax and others had their heads enclosed in the metal diving helmet.<br>\uff65 M. Aronnax was astonished by the light under the sea thirty feet below the surface.",
+                        "from": "node_id110",
+                        "to": "node_id111",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id101",
+                        "label": "beckon M. Aronnax on",
+                        "title": "Captain Nemo beckoned M. Aronnax on by signs during the underwater walk.",
+                        "from": "node_id108",
+                        "to": "node_id111",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -1789,25 +1857,25 @@
                     {
                         "id": "node_id114",
                         "label": "Captain Nemo",
-                        "title": "Leader of the Nautilus crew and the one who looks upon the submarine forest as his own, holding a sense of entitlement akin to the first men of the world",
+                        "title": "Leader of the Nautilus crew and the one who looks upon the submarine forest as his own, holding a<br>sense of entitlement akin to the first men of the world",
                         "size": 42
                     },
                     {
                         "id": "node_id115",
                         "label": "I (Narrator)",
-                        "title": "The person recounting the experience of the underwater journey and the one observing the submarine forest and its inhabitants",
+                        "title": "The person recounting the experience of the underwater journey and the one observing the submarine<br>forest and its inhabitants",
                         "size": 42
                     },
                     {
                         "id": "node_id116",
                         "label": "Conseil",
-                        "title": "Companion of the narrator, whose eyes glistened with delight and who showed satisfaction during the journey",
+                        "title": "Companion of the narrator, whose eyes glistened with delight and who showed satisfaction during the<br>journey",
                         "size": 36
                     },
                     {
                         "id": "node_id117",
                         "label": "Robust companion",
-                        "title": "Captain Nemo's sturdy companion, possibly another crew member of the Nautilus involved in the excursion",
+                        "title": "Captain Nemo's sturdy companion, possibly another crew member of the Nautilus involved in the<br>excursion",
                         "size": 30
                     },
                     {
@@ -1825,7 +1893,7 @@
                     {
                         "id": "node_id120",
                         "label": "Ingenious naturalist",
-                        "title": "The person quoted by the narrator as saying \u201cCurious anomaly, fantastic element!\u201d in reference to the flourishing animal kingdom and non-flowering vegetable kingdom underwater",
+                        "title": "The person quoted by the narrator as saying \u201cCurious anomaly, fantastic element!\u201d in reference to<br>the flourishing animal kingdom and non-flowering vegetable kingdom underwater",
                         "size": 18
                     },
                     {
@@ -1843,29 +1911,29 @@
                     {
                         "id": "node_id123",
                         "label": "Tintoreas (sharks)",
-                        "title": "Two formidable sharks encountered by the narrator and the team during their return to the Nautilus, posing great danger",
+                        "title": "Two formidable sharks encountered by the narrator and the team during their return to the Nautilus,<br>posing great danger",
                         "size": 24
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id98",
+                        "id": "edge_id102",
                         "label": "Conseil",
-                        "title": "Robust companion, Sailor of the Nautilus, Sea-spider, Ingenious naturalist, Sea-otter (Enhydrus), Albatross, Tintoreas (sharks)'",
+                        "title": "Robust companion, Sailor of the Nautilus, Sea-spider, Ingenious naturalist, Sea-otter (Enhydrus),<br>Albatross, Tintoreas (sharks)'",
                         "from": "node_id114",
                         "to": "node_id115",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id99",
+                        "id": "edge_id103",
                         "label": "defeated",
-                        "title": "A Sailor of the Nautilus awoke at the moment when a sea-spider was watching the narrator and Captain Nemo pointed it out before it was knocked over by a blow from the butt end of a gun.",
+                        "title": "A Sailor of the Nautilus awoke at the moment when a sea-spider was watching the narrator and Captain<br>Nemo pointed it out before it was knocked over by a blow from the butt end of a gun.",
                         "from": "node_id118",
                         "to": "node_id119",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id100",
+                        "id": "edge_id104",
                         "label": "hunted",
                         "title": "Captain Nemo fired at and stunned a sea-otter.",
                         "from": "node_id114",
@@ -1873,19 +1941,19 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id101",
+                        "id": "edge_id105",
                         "label": "hunted",
-                        "title": "Captain Nemo's companion shouldered his gun and fired at an albatross, which fell stunned due to the shot.",
+                        "title": "Captain Nemo's companion shouldered his gun and fired at an albatross, which fell stunned due to the<br>shot.",
                         "from": "node_id114",
                         "to": "node_id122",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id102",
+                        "id": "edge_id106",
                         "label": "threaten",
                         "title": "Two tintoreas (sharks) threatened Captain Nemo and his companions, passing by without noticing them.",
                         "from": "node_id123",
-                        "to": "node_id123",
+                        "to": "node_id114",
                         "arrows": "to"
                     }
                 ]
@@ -1903,13 +1971,13 @@
                     {
                         "id": "node_id125",
                         "label": "Captain Nemo",
-                        "title": "The mysterious and knowledgeable commander of the Nautilus, responsible for the voyage and the activities onboard",
+                        "title": "The mysterious and knowledgeable commander of the Nautilus, responsible for the voyage and the<br>activities onboard",
                         "size": 45
                     },
                     {
                         "id": "node_id126",
                         "label": "Sailors of the Nautilus",
-                        "title": "Crew members from various nations working on the Nautilus, responsible for tasks such as drawing up nets",
+                        "title": "Crew members from various nations working on the Nautilus, responsible for tasks such as drawing up<br>nets",
                         "size": 39
                     },
                     {
@@ -1981,11 +2049,11 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id103",
+                        "id": "edge_id107",
                         "label": "utter",
                         "title": "the Second Lieutenant was uttering his daily phrase.",
                         "from": "node_id124",
-                        "to": "node_id124",
+                        "to": "node_id131",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -1993,7 +2061,7 @@
                         }
                     },
                     {
-                        "id": "edge_id104",
+                        "id": "edge_id108",
                         "label": "go up",
                         "title": "I went up on to the platform.",
                         "from": "node_id131",
@@ -2005,9 +2073,9 @@
                         }
                     },
                     {
-                        "id": "edge_id105",
+                        "id": "edge_id109",
                         "label": "not aware",
-                        "title": "He did not seem to be aware of my presence.<br>the Captain turned to me, saying.",
+                        "title": "\uff65 He did not seem to be aware of my presence.<br>\uff65 the Captain turned to me, saying.",
                         "from": "node_id125",
                         "to": "node_id131",
                         "arrows": "to",
@@ -2017,11 +2085,11 @@
                         }
                     },
                     {
-                        "id": "edge_id106",
+                        "id": "edge_id110",
                         "label": "come up",
-                        "title": "a number of the sailors of the Nautilus had come up onto the platform.<br>They came to draw up the nets.",
+                        "title": "a number of the sailors of the Nautilus had come up onto the platform.",
                         "from": "node_id126",
-                        "to": "node_id126",
+                        "to": "node_id131",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2029,7 +2097,19 @@
                         }
                     },
                     {
-                        "id": "edge_id107",
+                        "id": "edge_id111",
+                        "label": "draw up",
+                        "title": "They came to draw up the nets.",
+                        "from": "node_id126",
+                        "to": "node_id129",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id112",
                         "label": "recognition",
                         "title": "I recognised some unmistakable Irishmen.",
                         "from": "node_id127",
@@ -2041,7 +2121,7 @@
                         }
                     },
                     {
-                        "id": "edge_id108",
+                        "id": "edge_id113",
                         "label": "recognition",
                         "title": "I recognised some unmistakable Frenchmen.",
                         "from": "node_id128",
@@ -2053,7 +2133,7 @@
                         }
                     },
                     {
-                        "id": "edge_id109",
+                        "id": "edge_id114",
                         "label": "recognition",
                         "title": "I recognised a Greek, or a Candiote.",
                         "from": "node_id130",
@@ -2065,7 +2145,7 @@
                         }
                     },
                     {
-                        "id": "edge_id110",
+                        "id": "edge_id115",
                         "label": "reply to",
                         "title": "I only know, Captain, what the principal soundings have taught us.",
                         "from": "node_id131",
@@ -2077,11 +2157,11 @@
                         }
                     },
                     {
-                        "id": "edge_id111",
+                        "id": "edge_id116",
                         "label": "sink",
                         "title": "a disabled ship that has sunk perpendicularly.",
                         "from": "node_id134",
-                        "to": "node_id134",
+                        "to": "node_id129",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2089,11 +2169,11 @@
                         }
                     },
                     {
-                        "id": "edge_id112",
+                        "id": "edge_id117",
                         "label": "stand at",
                         "title": "one of whom was standing at the helm.",
                         "from": "node_id135",
-                        "to": "node_id135",
+                        "to": "node_id133",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2101,11 +2181,11 @@
                         }
                     },
                     {
-                        "id": "edge_id113",
+                        "id": "edge_id118",
                         "label": "stand by holding",
                         "title": "a woman standing by the poop, holding an infant in her arms.",
                         "from": "node_id136",
-                        "to": "node_id136",
+                        "to": "node_id131",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2113,11 +2193,11 @@
                         }
                     },
                     {
-                        "id": "edge_id114",
+                        "id": "edge_id119",
                         "label": "encircle neck",
                         "title": "whose arms encircled its mother\u2019s neck.",
                         "from": "node_id137",
-                        "to": "node_id137",
+                        "to": "node_id136",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2223,55 +2303,55 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id115",
-                        "label": "commander of",
-                        "title": "Captain Nemo commands the Nautilus.<br>Captain Nemo found Louis XVI's annotated instructions for La Perouse.",
-                        "from": "node_id138",
-                        "to": "node_id138",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id116",
-                        "label": "class into sections",
-                        "title": "M. Milne Edwards classed madrepores into five sections.",
-                        "from": "node_id141",
-                        "to": "node_id141",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id117",
-                        "label": "gave name to island",
-                        "title": "Dumont d'Urville gave the name 'Isle de la Recherche' to one of the islands of Vanikoro.<br>Dumont d'Urville visited Vanikoro to find the scene of La Perouse's wreck.",
-                        "from": "node_id147",
-                        "to": "node_id147",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id118",
-                        "label": "sent on voyage",
-                        "title": "Louis XVI sent La Perouse and Captain de Langle on a voyage of circumnavigation.",
-                        "from": "node_id150",
-                        "to": "node_id150",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id119",
-                        "label": "commanded",
-                        "title": "Bruni d'Entrecasteaux commanded the Recherche and the Esperance.",
-                        "from": "node_id145",
-                        "to": "node_id145",
-                        "arrows": "to"
-                    },
-                    {
                         "id": "edge_id120",
-                        "label": "first to find traces of",
-                        "title": "Captain Dillon was the first to find unmistakable traces of La Perouse's wreck.",
-                        "from": "node_id143",
+                        "label": "commander of",
+                        "title": "Captain Nemo commands the Nautilus.",
+                        "from": "node_id138",
                         "to": "node_id143",
                         "arrows": "to"
                     },
                     {
                         "id": "edge_id121",
+                        "label": "class into sections",
+                        "title": "M. Milne Edwards classed madrepores into five sections.",
+                        "from": "node_id141",
+                        "to": "node_id151",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id122",
+                        "label": "gave name to island",
+                        "title": "\uff65 Dumont d'Urville gave the name 'Isle de la Recherche' to one of the islands of Vanikoro.<br>\uff65 Dumont d'Urville visited Vanikoro to find the scene of La Perouse's wreck.",
+                        "from": "node_id147",
+                        "to": "node_id143",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id123",
+                        "label": "sent on voyage",
+                        "title": "Louis XVI sent La Perouse and Captain de Langle on a voyage of circumnavigation.",
+                        "from": "node_id150",
+                        "to": "node_id142",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id124",
+                        "label": "commanded",
+                        "title": "Bruni d'Entrecasteaux commanded the Recherche and the Esperance.",
+                        "from": "node_id145",
+                        "to": "node_id148",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id125",
+                        "label": "first to find traces of",
+                        "title": "Captain Dillon was the first to find unmistakable traces of La Perouse's wreck.",
+                        "from": "node_id143",
+                        "to": "node_id149",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id126",
                         "label": "reported seeing",
                         "title": "Bowen reported seeing debris of shipwrecked vessels that could be from La Perouse's expedition.",
                         "from": "node_id144",
@@ -2279,19 +2359,27 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id122",
+                        "id": "edge_id127",
                         "label": "saw used by natives",
                         "title": "James Hobbs saw iron bars and red stuffs used by natives that could be linked to La Perouse's wreck.",
                         "from": "node_id146",
-                        "to": "node_id146",
+                        "to": "node_id142",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id123",
+                        "id": "edge_id128",
                         "label": "commanded vessels",
                         "title": "Commander La Perouse commanded the vessels Boussole and the Astrolabe which were lost.",
                         "from": "node_id149",
-                        "to": "node_id149",
+                        "to": "node_id152",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id129",
+                        "label": "found",
+                        "title": "Captain Nemo found Louis XVI's annotated instructions for La Perouse.",
+                        "from": "node_id138",
+                        "to": "node_id150",
                         "arrows": "to"
                     }
                 ]
@@ -2339,9 +2427,9 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id124",
+                        "id": "edge_id130",
                         "label": "join",
-                        "title": "Conseil joined Professor Aronnax on the platform.<br>Conseil wished Professor Aronnax a happy New Year.",
+                        "title": "\uff65 Conseil joined Professor Aronnax on the platform.<br>\uff65 Conseil wished Professor Aronnax a happy New Year.",
                         "from": "node_id155",
                         "to": "node_id156",
                         "arrows": "to",
@@ -2351,9 +2439,9 @@
                         }
                     },
                     {
-                        "id": "edge_id125",
+                        "id": "edge_id131",
                         "label": "inform",
-                        "title": "Captain Nemo informed Professor Aronnax about his intention to get into the Indian Ocean.",
+                        "title": "\uff65 Captain Nemo informed Professor Aronnax about his intention to get into the Indian Ocean.<br>\uff65 Captain Nemo granted permission for a landing expedition.",
                         "from": "node_id154",
                         "to": "node_id156",
                         "arrows": "to",
@@ -2363,7 +2451,7 @@
                         }
                     },
                     {
-                        "id": "edge_id126",
+                        "id": "edge_id132",
                         "label": "and Conseil",
                         "title": "Nautilus, explore, The three explored the platform of the Nautilus.",
                         "from": "node_id156",
@@ -2375,7 +2463,7 @@
                         }
                     },
                     {
-                        "id": "edge_id127",
+                        "id": "edge_id133",
                         "label": "steer",
                         "title": "Captain Nemo steered the Nautilus towards the Island of Gilboa.",
                         "from": "node_id154",
@@ -2387,11 +2475,11 @@
                         }
                     },
                     {
-                        "id": "edge_id128",
+                        "id": "edge_id134",
                         "label": "examination",
                         "title": "Captain Nemo and his lieutenant examined the Nautilus's stuck situation.",
                         "from": "node_id153",
-                        "to": "node_id153",
+                        "to": "node_id157",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2399,23 +2487,11 @@
                         }
                     },
                     {
-                        "id": "edge_id129",
+                        "id": "edge_id135",
                         "label": "escape",
                         "title": "Ned Land expressed his desire to leave the Nautilus and escape to the Professor.",
                         "from": "node_id157",
                         "to": "node_id156",
-                        "arrows": "to",
-                        "smooth": {
-                            "type": "curvedCW",
-                            "roundness": 0.3
-                        }
-                    },
-                    {
-                        "id": "edge_id130",
-                        "label": "grant",
-                        "title": "Captain Nemo granted permission for a landing expedition.",
-                        "from": "node_id154",
-                        "to": "node_id154",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2455,36 +2531,64 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id131",
+                        "id": "edge_id136",
                         "label": "consider (as passengers)",
-                        "title": "it was only two months before that we had become, according to Captain Nemo, \u201cpassengers on board the Nautilus_.\u201d<br>And I do not think, said the Canadian, that he would object to our introducing a cargo of coco-nuts on board.",
+                        "title": "\uff65 it was only two months before that we had become, according to Captain Nemo, \u201cpassengers on board<br>the Nautilus_.\u201d<br>\uff65 And I do not think, said the Canadian, that he would object to our introducing a cargo of coco-nuts<br>on board.",
                         "from": "node_id160",
                         "to": "node_id161",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id132",
+                        "id": "edge_id137",
                         "label": "quest for vegetables",
-                        "title": "Fresh vegetables would be welcome on board the Nautilus_.<br>I might perhaps wake one day to find myself half devoured.",
+                        "title": "\uff65 Fresh vegetables would be welcome on board the Nautilus_.<br>\uff65 I might perhaps wake one day to find myself half devoured.",
                         "from": "node_id159",
                         "to": "node_id162",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id133",
+                        "id": "edge_id138",
                         "label": "question trust",
                         "title": "I would not trust you.",
                         "from": "node_id162",
                         "to": "node_id160",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id134",
+                        "id": "edge_id139",
                         "label": "longed to catch",
-                        "title": "Nor I, Ned, if I do not catch a bird of paradise.<br>Suppose we do not return to the Nautilus this evening? said Conseil.",
+                        "title": "Nor I, Ned, if I do not catch a bird of paradise.",
                         "from": "node_id160",
                         "to": "node_id160",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id140",
+                        "label": "propose not returning",
+                        "title": "Suppose we do not return to the Nautilus this evening? said Conseil.",
+                        "from": "node_id160",
+                        "to": "node_id162",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -2525,7 +2629,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id135",
+                        "id": "edge_id141",
                         "label": "informing",
                         "title": "Professor Aronnax informed Captain Nemo about the presence of savages.",
                         "from": "node_id164",
@@ -2533,23 +2637,23 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id136",
+                        "id": "edge_id142",
                         "label": "escaping from",
-                        "title": "Ned Land went tolerably fast despite the imminent danger from savages.<br>Ned Land asked if the approaching figures were apes and then said they were very nearly\u2014they are savages.",
+                        "title": "\uff65 Ned Land went tolerably fast despite the imminent danger from savages.<br>\uff65 Ned Land asked if the approaching figures were apes and then said they were very nearly\u2014they are<br>savages.",
                         "from": "node_id166",
                         "to": "node_id167",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id137",
+                        "id": "edge_id143",
                         "label": "dismissing concerns",
                         "title": "Captain Nemo stated the Nautilus had nothing to fear from the attacks of Papua natives.",
                         "from": "node_id163",
-                        "to": "node_id163",
+                        "to": "node_id167",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id138",
+                        "id": "edge_id144",
                         "label": "trying to escape",
                         "title": "Professor Aronnax suggested hurrying to the boat to escape the savages.",
                         "from": "node_id164",
@@ -2589,15 +2693,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id139",
+                        "id": "edge_id145",
                         "label": "Ned Land",
-                        "title": "Conseil'<br>Captain Nemo ordered Professor Aronnax to be confined.<br>Captain Nemo communicated in a foreign language to his lieutenant in front of Professor Aronnax.",
+                        "title": "\uff65 Conseil'<br>\uff65 Captain Nemo ordered Professor Aronnax to be confined.<br>\uff65 Captain Nemo communicated in a foreign language to his lieutenant in front of Professor Aronnax.",
                         "from": "node_id168",
                         "to": "node_id169",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id140",
+                        "id": "edge_id146",
                         "label": "advise",
                         "title": "Conseil advised Ned Land to eat the breakfast.",
                         "from": "node_id171",
@@ -2655,15 +2759,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id141",
+                        "id": "edge_id147",
                         "label": "interact",
-                        "title": "About two o\u2019clock, I was in the drawing-room, busied in arranging my notes, when the Captain opened the door and appeared.<br>\"What caused this wound?\u201d I asked.<br>\"Professor, will it be convenient to you to make a submarine excursion to-day?\u201d",
+                        "title": "\uff65 About two o\u2019clock, I was in the drawing-room, busied in arranging my notes, when the Captain opened<br>the door and appeared.<br>\uff65 \"What caused this wound?\u201d I asked.<br>\uff65 \"Professor, will it be convenient to you to make a submarine excursion to-day?\u201d",
                         "from": "node_id172",
                         "to": "node_id173",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id142",
+                        "id": "edge_id148",
                         "label": "seek assistance",
                         "title": "\u201cM. Aronnax, will you consent to prescribe for one of my men?\u201d he asked.",
                         "from": "node_id172",
@@ -2671,7 +2775,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id143",
+                        "id": "edge_id149",
                         "label": "prescribe",
                         "title": "\"I am ready to follow you.\"",
                         "from": "node_id173",
@@ -2679,11 +2783,11 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id144",
+                        "id": "edge_id150",
                         "label": "inform",
                         "title": "I rejoined Ned Land and Conseil, and told them of Captain Nemo\u2019s proposition.",
                         "from": "node_id173",
-                        "to": "node_id173",
+                        "to": "node_id174",
                         "arrows": "to"
                     }
                 ]
@@ -2700,37 +2804,37 @@
                     {
                         "id": "node_id179",
                         "label": "Captain Nemo",
-                        "title": "The mysterious and enigmatic commander of the submarine vessel Nautilus, with motives beyond avoiding society, possibly seeking revenge",
+                        "title": "The mysterious and enigmatic commander of the submarine vessel Nautilus, with motives beyond<br>avoiding society, possibly seeking revenge",
                         "size": 39
                     },
                     {
                         "id": "node_id180",
                         "label": "Conseil",
-                        "title": "The protagonist's loyal companion, a man who views Captain Nemo as a misunderstood genius seeking freedom from society's deceptions",
+                        "title": "The protagonist's loyal companion, a man who views Captain Nemo as a misunderstood genius seeking<br>freedom from society's deceptions",
                         "size": 31
                     },
                     {
                         "id": "node_id181",
                         "label": "Second Officer",
-                        "title": "A minor character who performs regular duties on the Nautilus like taking solar observations, less integral to the overall narrative",
+                        "title": "A minor character who performs regular duties on the Nautilus like taking solar observations, less<br>integral to the overall narrative",
                         "size": 22
                     },
                     {
                         "id": "node_id182",
                         "label": "Sailor of the Nautilus",
-                        "title": "Another crew member of the Nautilus, part of Captain Nemo's crew and assists in maintaining the submarine, not a focal character for plot progression",
+                        "title": "Another crew member of the Nautilus, part of Captain Nemo's crew and assists in maintaining the<br>submarine, not a focal character for plot progression",
                         "size": 21
                     },
                     {
                         "id": "node_id183",
                         "label": "Master Conseil",
-                        "title": "Recorder of the daily observations aboard the Nautilus, likely a specialist or scholar in marine life, contributing to the knowledge and documentation aboard",
+                        "title": "Recorder of the daily observations aboard the Nautilus, likely a specialist or scholar in marine<br>life, contributing to the knowledge and documentation aboard",
                         "size": 30
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id145",
+                        "id": "edge_id151",
                         "label": "express defiance towards",
                         "title": "Still the same fierce, implacable defiance towards human society!",
                         "from": "node_id179",
@@ -2742,9 +2846,9 @@
                         }
                     },
                     {
-                        "id": "edge_id146",
+                        "id": "edge_id152",
                         "label": "theorize",
-                        "title": "Conseil saw in the Commander of the Nautilus one of those unknown savants who return mankind contempt for indifference.",
+                        "title": "Conseil saw in the Commander of the Nautilus one of those unknown savants who return mankind<br>contempt for indifference.",
                         "from": "node_id180",
                         "to": "node_id179",
                         "arrows": "to",
@@ -2754,7 +2858,7 @@
                         }
                     },
                     {
-                        "id": "edge_id147",
+                        "id": "edge_id153",
                         "label": "differ",
                         "title": "I could no longer content myself with the theory which satisfied Conseil.",
                         "from": "node_id179",
@@ -2766,11 +2870,11 @@
                         }
                     },
                     {
-                        "id": "edge_id148",
+                        "id": "edge_id154",
                         "label": "clean glasses",
                         "title": "One of the sailors of the Nautilus came to clean the glasses of the lantern.",
                         "from": "node_id182",
-                        "to": "node_id182",
+                        "to": "node_id183",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2778,11 +2882,11 @@
                         }
                     },
                     {
-                        "id": "edge_id149",
+                        "id": "edge_id155",
                         "label": "borrow from",
                         "title": "I now borrow from the daily notes of Master Conseil.",
                         "from": "node_id183",
-                        "to": "node_id183",
+                        "to": "node_id180",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -2822,44 +2926,76 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id150",
+                        "id": "edge_id156",
                         "label": "invite",
-                        "title": "\"Captain Nemo invited M. Aronnax to visit a pearl-fishery.\"<br>\"Captain Nemo asked M. Aronnax if he is afraid of sharks.\"",
+                        "title": "\uff65 \"Captain Nemo invited M. Aronnax to visit a pearl-fishery.\"<br>\uff65 \"Captain Nemo asked M. Aronnax if he is afraid of sharks.\"",
                         "from": "node_id184",
                         "to": "node_id185",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id151",
+                        "id": "edge_id157",
                         "label": "fear",
-                        "title": "\"M. Aronnax admitted not being familiar with sharks and expressed hesitation about hunting them.\"<br>\"M. Aronnax agreed to teach Conseil and Ned Land about pearls.\"",
+                        "title": "\"M. Aronnax admitted not being familiar with sharks and expressed hesitation about hunting them.\"",
                         "from": "node_id185",
-                        "to": "node_id185",
-                        "arrows": "to"
+                        "to": "node_id186",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id152",
+                        "id": "edge_id158",
                         "label": "join",
                         "title": "\"Conseil and Ned Land entered the conversation quite composed and joyous.\"",
                         "from": "node_id186",
                         "to": "node_id187",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id153",
+                        "id": "edge_id159",
                         "label": "criticism",
                         "title": "\"Ned Land critically referred to Captain Nemo's offer about the pearl fishery visit.\"",
                         "from": "node_id187",
                         "to": "node_id184",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id154",
+                        "id": "edge_id160",
                         "label": "question",
                         "title": "\"Conseil asked M. Aronnax for some details of the pearl fishery.\"",
                         "from": "node_id186",
                         "to": "node_id185",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id161",
+                        "label": "educate",
+                        "title": "\"M. Aronnax agreed to teach Conseil and Ned Land about pearls.\"",
+                        "from": "node_id185",
+                        "to": "node_id187",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -2912,9 +3048,9 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id155",
+                        "id": "edge_id162",
                         "label": "awaken",
-                        "title": "The steward, whom Captain Nemo had placed at the service of M. Aronnax, awakened him, conducted him to the central staircase, informed him about the Manaar Bank, and took their places in the stern of the boat.",
+                        "title": "The steward, whom Captain Nemo had placed at the service of M. Aronnax, awakened him, conducted him<br>to the central staircase, informed him about the Manaar Bank, and took their places in the stern of<br>the boat.",
                         "from": "node_id188",
                         "to": "node_id189",
                         "arrows": "to",
@@ -2924,7 +3060,7 @@
                         }
                     },
                     {
-                        "id": "edge_id156",
+                        "id": "edge_id163",
                         "label": "follow",
                         "title": "\"Then please to follow me,\" Captain Nemo said to M. Aronnax.",
                         "from": "node_id189",
@@ -2936,9 +3072,9 @@
                         }
                     },
                     {
-                        "id": "edge_id157",
+                        "id": "edge_id164",
                         "label": "wait",
-                        "title": "Captain Nemo informed M. Aronnax that Ned Land had been told about the departure and was waiting, was delighted at the idea of the \"pleasure party,\" and took their places in the stern of the boat.",
+                        "title": "Captain Nemo informed M. Aronnax that Ned Land had been told about the departure and was waiting,<br>was delighted at the idea of the \"pleasure party,\" and took their places in the stern of the boat.",
                         "from": "node_id188",
                         "to": "node_id190",
                         "arrows": "to",
@@ -2948,9 +3084,9 @@
                         }
                     },
                     {
-                        "id": "edge_id158",
+                        "id": "edge_id165",
                         "label": "wait",
-                        "title": "Captain Nemo informed M. Aronnax that Conseil had been told about the departure and was waiting, was delighted at the idea of the \"pleasure party,\" and took their places in the stern of the boat.",
+                        "title": "Captain Nemo informed M. Aronnax that Conseil had been told about the departure and was waiting, was<br>delighted at the idea of the \"pleasure party,\" and took their places in the stern of the boat.",
                         "from": "node_id188",
                         "to": "node_id191",
                         "arrows": "to",
@@ -2960,9 +3096,9 @@
                         }
                     },
                     {
-                        "id": "edge_id159",
+                        "id": "edge_id166",
                         "label": "observe",
-                        "title": "Captain Nemo observed and assisted the Indian fisherman by saving his life from a shark.<br>Captain Nemo gifted pearls to the Indian fisherman.",
+                        "title": "\uff65 Captain Nemo observed and assisted the Indian fisherman by saving his life from a shark.<br>\uff65 Captain Nemo gifted pearls to the Indian fisherman.",
                         "from": "node_id188",
                         "to": "node_id194",
                         "arrows": "to",
@@ -2972,7 +3108,7 @@
                         }
                     },
                     {
-                        "id": "edge_id160",
+                        "id": "edge_id167",
                         "label": "assist",
                         "title": "Ned Land assisted Captain Nemo by striking the shark with a harpoon.",
                         "from": "node_id190",
@@ -2984,7 +3120,7 @@
                         }
                     },
                     {
-                        "id": "edge_id161",
+                        "id": "edge_id168",
                         "label": "save",
                         "title": "Ned Land saved the Indian fisherman from the shark.",
                         "from": "node_id190",
@@ -3082,11 +3218,11 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id162",
+                        "id": "edge_id169",
                         "label": "intend to enter",
-                        "title": "Captain Nemo was taking the Nautilus into the Persian Gulf.<br>Captain Nemo owned and operated the submarine Nautilus.<br>Captain Nemo displayed extensive knowledge about the Red Sea.<br>Captain Nemo discovered and used a subterranean passage called the Arabian Tunnel.",
+                        "title": "Captain Nemo was taking the Nautilus into the Persian Gulf.",
                         "from": "node_id195",
-                        "to": "node_id195",
+                        "to": "node_id200",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -3094,7 +3230,7 @@
                         }
                     },
                     {
-                        "id": "edge_id163",
+                        "id": "edge_id170",
                         "label": "inquire about destination",
                         "title": "Ned Land asked Captain Nemo where they were going.",
                         "from": "node_id197",
@@ -3106,7 +3242,7 @@
                         }
                     },
                     {
-                        "id": "edge_id164",
+                        "id": "edge_id171",
                         "label": "express doubts",
                         "title": "Ned Land expressed doubts about the Nautilus's travels to M. Aronnax.",
                         "from": "node_id197",
@@ -3118,7 +3254,7 @@
                         }
                     },
                     {
-                        "id": "edge_id165",
+                        "id": "edge_id172",
                         "label": "suggest potential routes",
                         "title": "M. Aronnax suggested to Ned Land that the Nautilus might visit various seas and coasts.",
                         "from": "node_id196",
@@ -3130,10 +3266,46 @@
                         }
                     },
                     {
-                        "id": "edge_id166",
+                        "id": "edge_id173",
+                        "label": "possess",
+                        "title": "Captain Nemo owned and operated the submarine Nautilus.",
+                        "from": "node_id195",
+                        "to": "node_id203",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id174",
                         "label": "question about plans",
                         "title": "M. Aronnax questioned Captain Nemo regarding his future plans.",
                         "from": "node_id196",
+                        "to": "node_id195",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id175",
+                        "label": "knowledge about",
+                        "title": "Captain Nemo displayed extensive knowledge about the Red Sea.",
+                        "from": "node_id195",
+                        "to": "node_id197",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id176",
+                        "label": "discover and use",
+                        "title": "Captain Nemo discovered and used a subterranean passage called the Arabian Tunnel.",
+                        "from": "node_id195",
                         "to": "node_id195",
                         "arrows": "to",
                         "smooth": {
@@ -3198,84 +3370,160 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id167",
+                        "id": "edge_id177",
                         "label": "approach",
-                        "title": "The Nautilus floated on the surface of the sea, approaching the Arabian coast.<br>The Nautilus returned to its submarine navigation.<br>It required tackle of enormous strength to hoist the dugong onto the platform.<br>A flight of sea-swallows rested on the Nautilus.",
+                        "title": "The Nautilus floated on the surface of the sea, approaching the Arabian coast.",
                         "from": "node_id208",
-                        "to": "node_id208",
-                        "arrows": "to"
+                        "to": "node_id211",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id168",
+                        "id": "edge_id178",
+                        "label": "navigate",
+                        "title": "The Nautilus returned to its submarine navigation.",
+                        "from": "node_id208",
+                        "to": "node_id209",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id179",
                         "label": "accompany",
                         "title": "Accompanied by Ned and Conseil, I seated myself on the platform.",
                         "from": "node_id209",
                         "to": "node_id210",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id169",
+                        "id": "edge_id180",
                         "label": "understand",
-                        "title": "Captain Nemo understood the Canadian's attitude towards the dugong.<br>Captain Nemo said to Ned Land: \"Well, you can try.\"<br>Captain Nemo advised Ned Land not to miss the creature.",
+                        "title": "\uff65 Captain Nemo understood the Canadian's attitude towards the dugong.<br>\uff65 Captain Nemo said to Ned Land: \"Well, you can try.\"<br>\uff65 Captain Nemo advised Ned Land not to miss the creature.",
                         "from": "node_id211",
                         "to": "node_id209",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id170",
+                        "id": "edge_id181",
                         "label": "mount",
                         "title": "Seven men of the crew mounted the platform.",
                         "from": "node_id214",
                         "to": "node_id214",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id171",
+                        "id": "edge_id182",
                         "label": "navigate",
                         "title": "The coxswain went to the tiller.",
                         "from": "node_id213",
                         "to": "node_id213",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id172",
+                        "id": "edge_id183",
                         "label": "attack",
-                        "title": "Ned Land was ready to harpoon the dugong.<br>The Canadian, still enraged with the beast, had not struck it to the heart.",
+                        "title": "\uff65 Ned Land was ready to harpoon the dugong.<br>\uff65 The Canadian, still enraged with the beast, had not struck it to the heart.",
                         "from": "node_id209",
-                        "to": "node_id209",
-                        "arrows": "to"
+                        "to": "node_id212",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id173",
+                        "id": "edge_id184",
                         "label": "evade",
                         "title": "The dugong made off with a sudden plunge, and it was impossible to reach it.",
                         "from": "node_id212",
                         "to": "node_id209",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id174",
+                        "id": "edge_id185",
                         "label": "assault",
                         "title": "The dugong turned upon the pinnace and assailed us in its turn.",
                         "from": "node_id212",
-                        "to": "node_id212",
-                        "arrows": "to"
+                        "to": "node_id213",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id175",
+                        "id": "edge_id186",
+                        "label": "hoist",
+                        "title": "It required tackle of enormous strength to hoist the dugong onto the platform.",
+                        "from": "node_id208",
+                        "to": "node_id212",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id187",
+                        "label": "rest",
+                        "title": "A flight of sea-swallows rested on the Nautilus.",
+                        "from": "node_id208",
+                        "to": "node_id214",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id188",
                         "label": "steer",
                         "title": "Captain Nemo directed the Nautilus through the Arabian Tunnel.",
                         "from": "node_id211",
                         "to": "node_id208",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id176",
+                        "id": "edge_id189",
                         "label": "inform",
-                        "title": "Captain Nemo led M. Aronnax towards the central staircase, informing him about passing through the Arabian Tunnel.",
+                        "title": "Captain Nemo led M. Aronnax towards the central staircase, informing him about passing through the<br>Arabian Tunnel.",
                         "from": "node_id211",
                         "to": "node_id215",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -3322,9 +3570,9 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id177",
+                        "id": "edge_id190",
                         "label": "join",
-                        "title": "\"About seven o\u2019clock Ned and Conseil joined me.\"<br>\"What I have to tell you is very simple. We are in Europe; and before Captain Nemo\u2019s caprices drag us once more to the bottom of the Polar Seas, or lead us into Oceania, I ask to leave the Nautilus.\"",
+                        "title": "\uff65 \"About seven o\u2019clock Ned and Conseil joined me.\"<br>\uff65 \"What I have to tell you is very simple. We are in Europe; and before Captain Nemo\u2019s caprices drag<br>us once more to the bottom of the Polar Seas, or lead us into Oceania, I ask to leave the Nautilus.\"",
                         "from": "node_id218",
                         "to": "node_id216",
                         "arrows": "to",
@@ -3334,9 +3582,9 @@
                         }
                     },
                     {
-                        "id": "edge_id178",
+                        "id": "edge_id191",
                         "label": "answer",
-                        "title": "\u201cWe are floating on its surface, friend Ned.\u201d<br>\u201cThen you are wrong, Master Land,\u201d I continued; \u201cthis low coast which rounds off to the south is the Egyptian coast.\"",
+                        "title": "\uff65 \u201cWe are floating on its surface, friend Ned.\u201d<br>\uff65 \u201cThen you are wrong, Master Land,\u201d I continued; \u201cthis low coast which rounds off to the south is the<br>Egyptian coast.\"",
                         "from": "node_id220",
                         "to": "node_id218",
                         "arrows": "to",
@@ -3346,7 +3594,7 @@
                         }
                     },
                     {
-                        "id": "edge_id179",
+                        "id": "edge_id192",
                         "label": "not believe",
                         "title": "\"I do not believe it,\u201d replied the Canadian.\"",
                         "from": "node_id218",
@@ -3358,9 +3606,9 @@
                         }
                     },
                     {
-                        "id": "edge_id180",
+                        "id": "edge_id193",
                         "label": "no desire to leave",
-                        "title": "\"I certainly felt no desire to leave Captain Nemo.\"",
+                        "title": "\uff65 \"I certainly felt no desire to leave Captain Nemo.\"<br>\uff65 \"Thanks to him, and thanks to his apparatus, I was each day nearer the completion of my submarine<br>studies.\"",
                         "from": "node_id220",
                         "to": "node_id217",
                         "arrows": "to",
@@ -3370,11 +3618,11 @@
                         }
                     },
                     {
-                        "id": "edge_id181",
-                        "label": "nearing completion",
-                        "title": "\"Thanks to him, and thanks to his apparatus, I was each day nearer the completion of my submarine studies.\"<br>\u201cOnly one observation\u2014just one. The occasion must be serious, and our first attempt must succeed; if it fails, we shall never find another, and Captain Nemo will never forgive us.\u201d",
+                        "id": "edge_id194",
+                        "label": "must be successful",
+                        "title": "\u201cOnly one observation\u2014just one. The occasion must be serious, and our first attempt must succeed; if<br>it fails, we shall never find another, and Captain Nemo will never forgive us.\u201d",
                         "from": "node_id220",
-                        "to": "node_id220",
+                        "to": "node_id221",
                         "arrows": "to",
                         "smooth": {
                             "type": "curvedCW",
@@ -3382,7 +3630,7 @@
                         }
                     },
                     {
-                        "id": "edge_id182",
+                        "id": "edge_id195",
                         "label": "acquaintance",
                         "title": "\"Do not be uncomfortable,\u201d said Captain Nemo. \u201cIt is Nicholas of Cape Matapan, surnamed Pesca.\"",
                         "from": "node_id217",
@@ -3414,31 +3662,31 @@
                     {
                         "id": "node_id224",
                         "label": "Michelet",
-                        "title": "Historian Jules Michelet, whose work could be referencing the revitalization of man by the Mediterranean climate",
+                        "title": "Historian Jules Michelet, whose work could be referencing the revitalization of man by the<br>Mediterranean climate",
                         "size": 18
                     },
                     {
                         "id": "node_id225",
                         "label": "Captain Nemo",
-                        "title": "The enigmatic captain of the submarine Nautilus in Jules Verne's novels, crucial to the narrative as he commands the vessel traveling the Mediterranean",
+                        "title": "The enigmatic captain of the submarine Nautilus in Jules Verne's novels, crucial to the narrative as<br>he commands the vessel traveling the Mediterranean",
                         "size": 39
                     },
                     {
                         "id": "node_id226",
                         "label": "Ned Land",
-                        "title": "A character known for his desire to escape from Captain Nemo's submarine, a seaman and harpooner, expressing desire for freedom",
+                        "title": "A character known for his desire to escape from Captain Nemo's submarine, a seaman and harpooner,<br>expressing desire for freedom",
                         "size": 36
                     },
                     {
                         "id": "node_id227",
                         "label": "Conseil",
-                        "title": "Companion to the narrator, often engaged in scientific discussions and observations, showing interest in marine life and geography",
+                        "title": "Companion to the narrator, often engaged in scientific discussions and observations, showing<br>interest in marine life and geography",
                         "size": 30
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id183",
+                        "id": "edge_id196",
                         "label": "dispute",
                         "title": "Neptune and Pluto still dispute the empire of the world.",
                         "from": "node_id222",
@@ -3446,15 +3694,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id184",
+                        "id": "edge_id197",
                         "label": "find distasteful",
                         "title": "Captain Nemo finds the Mediterranean distasteful.",
                         "from": "node_id225",
-                        "to": "node_id225",
+                        "to": "node_id222",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id185",
+                        "id": "edge_id198",
                         "label": "renounce",
                         "title": "Ned Land was obliged to renounce his intended flight.",
                         "from": "node_id226",
@@ -3462,15 +3710,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id186",
+                        "id": "edge_id199",
                         "label": "inquire",
                         "title": "Conseil inquires what if some volcanic burst should one day raise the barriers above the waves.",
                         "from": "node_id227",
-                        "to": "node_id227",
+                        "to": "node_id224",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id187",
+                        "id": "edge_id200",
                         "label": "mention",
                         "title": "Conseil mentions that they\u2019ll have time to finish their journey if Ned Land does not interfere.",
                         "from": "node_id227",
@@ -3612,7 +3860,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id188",
+                        "id": "edge_id201",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river St. Lawrence.",
                         "from": "node_id228",
@@ -3620,7 +3868,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id189",
+                        "id": "edge_id202",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Mississippi.",
                         "from": "node_id228",
@@ -3628,7 +3876,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id190",
+                        "id": "edge_id203",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Amazon.",
                         "from": "node_id228",
@@ -3636,7 +3884,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id191",
+                        "id": "edge_id204",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Plata.",
                         "from": "node_id228",
@@ -3644,7 +3892,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id192",
+                        "id": "edge_id205",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Orinoco.",
                         "from": "node_id228",
@@ -3652,7 +3900,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id193",
+                        "id": "edge_id206",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Niger.",
                         "from": "node_id228",
@@ -3660,7 +3908,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id194",
+                        "id": "edge_id207",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Senegal.",
                         "from": "node_id228",
@@ -3668,7 +3916,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id195",
+                        "id": "edge_id208",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Elbe.",
                         "from": "node_id228",
@@ -3676,7 +3924,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id196",
+                        "id": "edge_id209",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Loire.",
                         "from": "node_id228",
@@ -3684,7 +3932,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id197",
+                        "id": "edge_id210",
                         "label": "watered by",
                         "title": "The Atlantic ocean is watered by the river Rhine.",
                         "from": "node_id228",
@@ -3692,7 +3940,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id198",
+                        "id": "edge_id211",
                         "label": "terminates in",
                         "title": "The Atlantic ocean terminates in Cape Horn.",
                         "from": "node_id228",
@@ -3700,7 +3948,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id199",
+                        "id": "edge_id212",
                         "label": "terminates in",
                         "title": "The Atlantic ocean terminates in the Cape of Tempests.",
                         "from": "node_id228",
@@ -3708,7 +3956,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id200",
+                        "id": "edge_id213",
                         "label": "submerged in",
                         "title": "The Nautilus is submerged in the Atlantic ocean.",
                         "from": "node_id239",
@@ -3748,7 +3996,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id201",
+                        "id": "edge_id214",
                         "label": "visit and communicate",
                         "title": "I saw the Canadian enter my room and related to him the incidents of the preceding night.",
                         "from": "node_id251",
@@ -3760,9 +4008,9 @@
                         }
                     },
                     {
-                        "id": "edge_id202",
+                        "id": "edge_id215",
                         "label": "disappoint and accompany",
-                        "title": "He looked very disappointed and I was hoping to bring him back to the idea of not abandoning the Captain.",
+                        "title": "He looked very disappointed and I was hoping to bring him back to the idea of not abandoning the<br>Captain.",
                         "from": "node_id250",
                         "to": "node_id249",
                         "arrows": "to",
@@ -3772,9 +4020,9 @@
                         }
                     },
                     {
-                        "id": "edge_id203",
+                        "id": "edge_id216",
                         "label": "propose and guide",
-                        "title": "Captain Nemo proposed a curious excursion and guided me to the top of the submerged mountain where he showed me Atlantis.",
+                        "title": "Captain Nemo proposed a curious excursion and guided me to the top of the submerged mountain where<br>he showed me Atlantis.",
                         "from": "node_id250",
                         "to": "node_id251",
                         "arrows": "to",
@@ -3784,9 +4032,9 @@
                         }
                     },
                     {
-                        "id": "edge_id204",
+                        "id": "edge_id217",
                         "label": "express regret",
-                        "title": "Ned expressed regret that he had not been able to take a walk on the battlefield of Vigo on his own account.",
+                        "title": "Ned expressed regret that he had not been able to take a walk on the battlefield of Vigo on his own<br>account.",
                         "from": "node_id249",
                         "to": "node_id251",
                         "arrows": "to",
@@ -3796,7 +4044,7 @@
                         }
                     },
                     {
-                        "id": "edge_id205",
+                        "id": "edge_id218",
                         "label": "return",
                         "title": "The Canadian returned to Conseil.",
                         "from": "node_id249",
@@ -3840,36 +4088,52 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id206",
+                        "id": "edge_id219",
                         "label": "answer",
                         "title": "The Professor asked \"where are we?\" and Captain Nemo answered \"Underground, sir.\"",
                         "from": "node_id254",
                         "to": "node_id253",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id207",
+                        "id": "edge_id220",
                         "label": "look for",
                         "title": "The Professor went to look for his companions after talking to Captain Nemo.",
                         "from": "node_id253",
-                        "to": "node_id253",
-                        "arrows": "to"
+                        "to": "node_id255",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id208",
+                        "id": "edge_id221",
                         "label": "look for",
                         "title": "Ned Land thought of nothing but finding whether the cavern had an exit.",
                         "from": "node_id256",
-                        "to": "node_id256",
-                        "arrows": "to"
+                        "to": "node_id255",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id209",
+                        "id": "edge_id222",
                         "label": "declare",
                         "title": "Conseil declared \"Here we are, once more on land\" upon reaching the volcanic island.",
                         "from": "node_id255",
-                        "to": "node_id255",
-                        "arrows": "to"
+                        "to": "node_id256",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -3916,23 +4180,23 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id210",
+                        "id": "edge_id223",
                         "label": "cross through",
                         "title": "That day the Nautilus crossed a singular part of the Atlantic Ocean.",
                         "from": "node_id257",
-                        "to": "node_id257",
+                        "to": "node_id261",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id211",
+                        "id": "edge_id224",
                         "label": "navigate",
-                        "title": "Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves.",
+                        "title": "Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the<br>surface of the waves.",
                         "from": "node_id258",
                         "to": "node_id257",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id212",
+                        "id": "edge_id225",
                         "label": "fear of being trapped on",
                         "title": "Ned Land had cause for fear.",
                         "from": "node_id260",
@@ -3940,11 +4204,11 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id213",
+                        "id": "edge_id226",
                         "label": "keep secret",
                         "title": "the secret of his life exacted from him our lasting imprisonment on board the Nautilus.",
                         "from": "node_id258",
-                        "to": "node_id258",
+                        "to": "node_id259",
                         "arrows": "to"
                     }
                 ]
@@ -3962,25 +4226,25 @@
                     {
                         "id": "node_id264",
                         "label": "Ned Land",
-                        "title": "A Canadian harpooner and one of the main protagonists, often expressing his desire to escape and his discontent with life aboard the Nautilus",
+                        "title": "A Canadian harpooner and one of the main protagonists, often expressing his desire to escape and his<br>discontent with life aboard the Nautilus",
                         "size": 39
                     },
                     {
                         "id": "node_id265",
                         "label": "Conseil",
-                        "title": "A servant to another protagonist, Professor Aronnax, and a devoted companion, known for his calm demeanor and loyalty",
+                        "title": "A servant to another protagonist, Professor Aronnax, and a devoted companion, known for his calm<br>demeanor and loyalty",
                         "size": 33
                     },
                     {
                         "id": "node_id266",
                         "label": "Professor Aronnax",
-                        "title": "The narrator of the story, a French naturalist, and a captive aboard the Nautilus, who is torn between his fascination with the underwater world and the moral dilemmas presented by Captain Nemo",
+                        "title": "The narrator of the story, a French naturalist, and a captive aboard the Nautilus, who is torn<br>between his fascination with the underwater world and the moral dilemmas presented by Captain Nemo",
                         "size": 39
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id214",
+                        "id": "edge_id227",
                         "label": "justified fears",
                         "title": "I began to think that the Captain\u2019s temerity justified Ned Land\u2019s fears.",
                         "from": "node_id266",
@@ -3992,9 +4256,9 @@
                         }
                     },
                     {
-                        "id": "edge_id215",
+                        "id": "edge_id228",
                         "label": "communicate less",
-                        "title": "For some time past the Canadian had not spoken to me of his projects of flight; he was less communicative, almost silent.<br>\u201cA simple question to ask you, sir,\u201d replied the Canadian.",
+                        "title": "\uff65 For some time past the Canadian had not spoken to me of his projects of flight; he was less<br>communicative, almost silent.<br>\uff65 \u201cA simple question to ask you, sir,\u201d replied the Canadian.",
                         "from": "node_id264",
                         "to": "node_id266",
                         "arrows": "to",
@@ -4004,9 +4268,9 @@
                         }
                     },
                     {
-                        "id": "edge_id216",
+                        "id": "edge_id229",
                         "label": "suppressed anger",
-                        "title": "When he met the Captain, his eyes lit up with suppressed anger.<br>\u201cBut, friend Ned,\u201d said Conseil, \u201cwhy do you not ask Captain Nemo\u2019s permission to chase them?\u201d",
+                        "title": "\uff65 When he met the Captain, his eyes lit up with suppressed anger.<br>\uff65 \u201cBut, friend Ned,\u201d said Conseil, \u201cwhy do you not ask Captain Nemo\u2019s permission to chase them?\u201d",
                         "from": "node_id264",
                         "to": "node_id263",
                         "arrows": "to",
@@ -4016,9 +4280,9 @@
                         }
                     },
                     {
-                        "id": "edge_id217",
+                        "id": "edge_id230",
                         "label": "provides a calculation method",
-                        "title": "\u201cBy calculation; given the size of the vessel, which you know, sir, and consequently the quantity of air it contains, knowing also how much each man expends at a breath, and comparing these results with the fact that the Nautilus is obliged to go to the surface every twenty-four hours.\u201d",
+                        "title": "\u201cBy calculation; given the size of the vessel, which you know, sir, and consequently the quantity of<br>air it contains, knowing also how much each man expends at a breath, and comparing these results<br>with the fact that the Nautilus is obliged to go to the surface every twenty-four hours.\u201d",
                         "from": "node_id265",
                         "to": "node_id266",
                         "arrows": "to",
@@ -4028,9 +4292,9 @@
                         }
                     },
                     {
-                        "id": "edge_id218",
+                        "id": "edge_id231",
                         "label": "empathizes with longing",
-                        "title": "\u201cWill you allow me to make one observation, sir?\u201d said Conseil. \u201cPoor Ned is longing for everything that he can not have.\"",
+                        "title": "\u201cWill you allow me to make one observation, sir?\u201d said Conseil. \u201cPoor Ned is longing for everything<br>that he can not have.\"",
                         "from": "node_id265",
                         "to": "node_id264",
                         "arrows": "to",
@@ -4040,9 +4304,9 @@
                         }
                     },
                     {
-                        "id": "edge_id219",
+                        "id": "edge_id232",
                         "label": "rejects proposal",
-                        "title": "\u201cBut, sir,\u201d continued the Canadian, \u201cin the Red Sea you allowed us to follow the dugong.\u201d<br>\u201cI like my harpoon better,\u201d said the Canadian.",
+                        "title": "\uff65 \u201cBut, sir,\u201d continued the Canadian, \u201cin the Red Sea you allowed us to follow the dugong.\u201d<br>\uff65 \u201cI like my harpoon better,\u201d said the Canadian.",
                         "from": "node_id263",
                         "to": "node_id264",
                         "arrows": "to",
@@ -4090,15 +4354,15 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id220",
+                        "id": "edge_id233",
                         "label": "guide",
-                        "title": "Captain Nemo, guided by his clever hand, the Nautilus passed through all the ice and affirms the Nautilus can disengage itself and go further still.",
+                        "title": "Captain Nemo, guided by his clever hand, the Nautilus passed through all the ice and affirms the<br>Nautilus can disengage itself and go further still.",
                         "from": "node_id268",
                         "to": "node_id267",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id221",
+                        "id": "edge_id234",
                         "label": "find",
                         "title": "Captain Nemo soon found a narrow opening, through which he slipped.",
                         "from": "node_id268",
@@ -4106,15 +4370,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id222",
+                        "id": "edge_id235",
                         "label": "pass through",
                         "title": "The Nautilus passed through all the ice with precision.",
                         "from": "node_id267",
-                        "to": "node_id267",
+                        "to": "node_id270",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id223",
+                        "id": "edge_id236",
                         "label": "accuse",
                         "title": "I was obliged to admit that Captain Nemo was more than imprudent.",
                         "from": "node_id271",
@@ -4130,7 +4394,7 @@
                     {
                         "id": "node_id272",
                         "label": "Captain Nemo",
-                        "title": "The mysterious commander of the Nautilus submarine, deeply attached to the sea and seeking to be the first to reach the South Pole",
+                        "title": "The mysterious commander of the Nautilus submarine, deeply attached to the sea and seeking to be the<br>first to reach the South Pole",
                         "size": 42
                     },
                     {
@@ -4154,7 +4418,7 @@
                     {
                         "id": "node_id276",
                         "label": "Old Proteus",
-                        "title": "A mythical shepherd of Neptune's sea creatures, mentioned in a metaphorical sense, not an actual character present in the story",
+                        "title": "A mythical shepherd of Neptune's sea creatures, mentioned in a metaphorical sense, not an actual<br>character present in the story",
                         "size": 18
                     },
                     {
@@ -4172,7 +4436,7 @@
                     {
                         "id": "node_id279",
                         "label": "Petrels and Albatrosses",
-                        "title": "Birds mentioned as part of the Antarctic's rich birdlife, illustrating the diversity of animal life at the South Pole",
+                        "title": "Birds mentioned as part of the Antarctic's rich birdlife, illustrating the diversity of animal life<br>at the South Pole",
                         "size": 21
                     },
                     {
@@ -4184,7 +4448,7 @@
                     {
                         "id": "node_id281",
                         "label": "The Birds on the Rock",
-                        "title": "Birds that show curiosity and lack of fear towards humans, indicate the untouched nature of the environment",
+                        "title": "Birds that show curiosity and lack of fear towards humans, indicate the untouched nature of the<br>environment",
                         "size": 21
                     },
                     {
@@ -4196,31 +4460,39 @@
                     {
                         "id": "node_id283",
                         "label": "James Ross",
-                        "title": "Referenced historical figure who found two active Antarctic volcanoes, providing scientific context for the region",
+                        "title": "Referenced historical figure who found two active Antarctic volcanoes, providing scientific context<br>for the region",
                         "size": 18
                     },
                     {
                         "id": "node_id284",
                         "label": "Maury",
-                        "title": "The American scientist mentioned for his theory about icebergs and continental land at the South Pole",
+                        "title": "The American scientist mentioned for his theory about icebergs and continental land at the South<br>Pole",
                         "size": 18
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id224",
+                        "id": "edge_id237",
                         "label": "question about reaching",
-                        "title": "\"Are we at the pole?\" I asked the Captain, with a beating heart.<br>\"But will the sun show himself through this fog?\" said I, looking at the leaden sky. \"However little it shows, it will be enough,\" replied the Captain. Captain Nemo, furnished with a lenticular glass which, by means of a mirror, corrected the refraction, watched the orb sinking below the horizon by degrees.<br>\u201cSir,\u201d said I to Captain Nemo, \u201cto you belongs the honour of first setting foot on this land.\u201d",
+                        "title": "\uff65 \"Are we at the pole?\" I asked the Captain, with a beating heart.<br>\uff65 \u201cSir,\u201d said I to Captain Nemo, \u201cto you belongs the honour of first setting foot on this land.\u201d",
                         "from": "node_id272",
-                        "to": "node_id272",
+                        "to": "node_id280",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id225",
+                        "id": "edge_id238",
+                        "label": "uncertain appearance",
+                        "title": "\"But will the sun show himself through this fog?\" said I, looking at the leaden sky. \"However little<br>it shows, it will be enough,\" replied the Captain. Captain Nemo, furnished with a lenticular glass<br>which, by means of a mirror, corrected the refraction, watched the orb sinking below the horizon by<br>degrees.",
+                        "from": "node_id272",
+                        "to": "node_id277",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id239",
                         "label": "carried",
-                        "title": "The boat was launched; the Captain, two of his men, bearing instruments, Conseil, and myself were in it.",
+                        "title": "The boat was launched; the Captain, two of his men, bearing instruments, Conseil, and myself were in<br>it.",
                         "from": "node_id275",
-                        "to": "node_id275",
+                        "to": "node_id277",
                         "arrows": "to"
                     }
                 ]
@@ -4256,44 +4528,76 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id226",
+                        "id": "edge_id240",
                         "label": "commanding",
-                        "title": "Captain Nemo enters the saloon, watches the compass and manometer, and places his finger on the planisphere.",
+                        "title": "Captain Nemo enters the saloon, watches the compass and manometer, and places his finger on the<br>planisphere.",
                         "from": "node_id285",
-                        "to": "node_id285",
-                        "arrows": "to"
+                        "to": "node_id288",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id227",
+                        "id": "edge_id241",
                         "label": "residing in",
-                        "title": "The Narrator was thrown into the middle of the room when the Nautilus struck and rebounded violently.<br>The Narrator led Conseil and Ned Land out of the saloon to find Captain Nemo.",
+                        "title": "The Narrator was thrown into the middle of the room when the Nautilus struck and rebounded<br>violently.",
                         "from": "node_id288",
                         "to": "node_id288",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id228",
+                        "id": "edge_id242",
                         "label": "questioning",
-                        "title": "The Narrator asked Captain Nemo whether the incident was serious and whether the Nautilus had stranded.",
+                        "title": "The Narrator asked Captain Nemo whether the incident was serious and whether the Nautilus had<br>stranded.",
                         "from": "node_id288",
                         "to": "node_id285",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id229",
+                        "id": "edge_id243",
+                        "label": "leading",
+                        "title": "The Narrator led Conseil and Ned Land out of the saloon to find Captain Nemo.",
+                        "from": "node_id288",
+                        "to": "node_id287",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id244",
                         "label": "asking",
                         "title": "Conseil inquired what was the matter after entering the saloon where The Narrator was.",
                         "from": "node_id286",
                         "to": "node_id288",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id230",
+                        "id": "edge_id245",
                         "label": "assessing",
                         "title": "Ned Land assessed that the Nautilus has struck and wouldn't right itself as before.",
                         "from": "node_id287",
-                        "to": "node_id287",
-                        "arrows": "to"
+                        "to": "node_id288",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -4328,9 +4632,9 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id231",
+                        "id": "edge_id246",
                         "label": "inform + reassure + discuss + agree to~",
-                        "title": "\u201cGentlemen,\u201d he said calmly; \u201cI know it,\u201d he said; I cried, \u201cBoiling water?\u201d; \u201cLet us try it,\u201d I said resolutely; The introduction of water had been the means of disturbing its equilibrium.",
+                        "title": "\u201cGentlemen,\u201d he said calmly; \u201cI know it,\u201d he said; I cried, \u201cBoiling water?\u201d; \u201cLet us try it,\u201d I<br>said resolutely; The introduction of water had been the means of disturbing its equilibrium.",
                         "from": "node_id289",
                         "to": "node_id290",
                         "arrows": "to",
@@ -4340,9 +4644,9 @@
                         }
                     },
                     {
-                        "id": "edge_id232",
+                        "id": "edge_id247",
                         "label": "observe + respond + report",
-                        "title": "I watched the Captain; \u201cAs to suffocation, Captain,\u201d I replied; But when I went on board again, I told Captain Nemo of this grave complication.",
+                        "title": "I watched the Captain; \u201cAs to suffocation, Captain,\u201d I replied; But when I went on board again, I<br>told Captain Nemo of this grave complication.",
                         "from": "node_id290",
                         "to": "node_id289",
                         "arrows": "to",
@@ -4352,9 +4656,9 @@
                         }
                     },
                     {
-                        "id": "edge_id233",
+                        "id": "edge_id248",
                         "label": "speak + offer + replace",
-                        "title": "\u201cSir,\u201d replied the Canadian; I held out my hand to the Canadian; He and his comrades were replaced by new workers, whom Conseil and I joined.",
+                        "title": "\u201cSir,\u201d replied the Canadian; I held out my hand to the Canadian; He and his comrades were replaced<br>by new workers, whom Conseil and I joined.",
                         "from": "node_id290",
                         "to": "node_id291",
                         "arrows": "to",
@@ -4364,9 +4668,9 @@
                         }
                     },
                     {
-                        "id": "edge_id234",
+                        "id": "edge_id249",
                         "label": "offer help + support",
-                        "title": "\u201cthat, being as handy with the pickaxe as with the harpoon, if I can be useful to the Captain, he can command my services\u201d; Then I told the Captain of Ned\u2019s proposal, which he accepted.",
+                        "title": "\u201cthat, being as handy with the pickaxe as with the harpoon, if I can be useful to the Captain, he<br>can command my services\u201d; Then I told the Captain of Ned\u2019s proposal, which he accepted.",
                         "from": "node_id291",
                         "to": "node_id289",
                         "arrows": "to",
@@ -4376,9 +4680,9 @@
                         }
                     },
                     {
-                        "id": "edge_id235",
+                        "id": "edge_id250",
                         "label": "accompany + join",
-                        "title": "I examined the ambient beds that supported the Nautilus and posted near Conseil; Conseil and I joined the new workers.",
+                        "title": "I examined the ambient beds that supported the Nautilus and posted near Conseil; Conseil and I<br>joined the new workers.",
                         "from": "node_id292",
                         "to": "node_id290",
                         "arrows": "to",
@@ -4388,7 +4692,7 @@
                         }
                     },
                     {
-                        "id": "edge_id236",
+                        "id": "edge_id251",
                         "label": "sacrifice",
                         "title": "Ned and Conseil, my two brave friends, were sacrificing themselves to save me.",
                         "from": "node_id291",
@@ -4462,39 +4766,31 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id237",
+                        "id": "edge_id252",
                         "label": "carry",
-                        "title": "perhaps the Canadian had carried me there",
+                        "title": "\uff65 perhaps the Canadian had carried me there<br>\uff65 I shall take you with me when I leave this infernal Nautilus",
                         "from": "node_id293",
                         "to": "node_id294",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id238",
+                        "id": "edge_id253",
                         "label": "prolong life",
-                        "title": "Ned and Conseil had prolonged my life during the last hours of this long agony<br>we are bound one to the other for ever",
+                        "title": "\uff65 Ned and Conseil had prolonged my life during the last hours of this long agony<br>\uff65 we are bound one to the other for ever",
                         "from": "node_id294",
                         "to": "node_id294",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id239",
-                        "label": "take with",
-                        "title": "I shall take you with me when I leave this infernal Nautilus",
-                        "from": "node_id293",
-                        "to": "node_id293",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id240",
+                        "id": "edge_id254",
                         "label": "completion",
                         "title": "He would thus complete the tour round the submarine world",
                         "from": "node_id298",
-                        "to": "node_id298",
+                        "to": "node_id294",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id241",
+                        "id": "edge_id255",
                         "label": "mark",
                         "title": "marked by the lieutenant",
                         "from": "node_id299",
@@ -4502,15 +4798,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id242",
+                        "id": "edge_id256",
                         "label": "grazing",
                         "title": "graze on the submarine prairies",
                         "from": "node_id301",
-                        "to": "node_id301",
+                        "to": "node_id294",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id243",
+                        "id": "edge_id257",
                         "label": "paralyze",
                         "title": "The unfortunate Conseil had attacked a cramp-fish of the most dangerous kind, the cumana",
                         "from": "node_id300",
@@ -4532,7 +4828,7 @@
                     {
                         "id": "node_id303",
                         "label": "Captain Nemo",
-                        "title": "The mysterious and enigmatic commander of the Nautilus, central to the plot and decisions that affect the other characters",
+                        "title": "The mysterious and enigmatic commander of the Nautilus, central to the plot and decisions that<br>affect the other characters",
                         "size": 45
                     },
                     {
@@ -4550,53 +4846,37 @@
                     {
                         "id": "node_id306",
                         "label": "Narrator",
-                        "title": "The character through whose eyes we see the events, presumably Pierre Aronnax given the context but unnamed in the text provided",
+                        "title": "The character through whose eyes we see the events, presumably Pierre Aronnax given the context but<br>unnamed in the text provided",
                         "size": 42
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id244",
+                        "id": "edge_id258",
                         "label": "sighted",
-                        "title": "April 16th, we sighted Martinique and Guadaloupe.",
+                        "title": "\uff65 April 16th, we sighted Martinique and Guadaloupe.<br>\uff65 The Canadian, Conseil, and I had a long conversation.",
                         "from": "node_id306",
-                        "to": "node_id306",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id245",
-                        "label": "counted on carrying out his projects",
-                        "title": "The Canadian, who counted on carrying out his projects in the Gulf.",
-                        "from": "node_id304",
                         "to": "node_id304",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id246",
-                        "label": "could have been escaped",
-                        "title": "Flight would have been quite practicable, if Ned Land had been able to take possession of the boat without the Captain's knowledge.",
+                        "id": "edge_id259",
+                        "label": "counted on carrying out his projects",
+                        "title": "\uff65 The Canadian, who counted on carrying out his projects in the Gulf.<br>\uff65 Flight would have been quite practicable, if Ned Land had been able to take possession of the boat<br>without the Captain's knowledge.",
                         "from": "node_id304",
                         "to": "node_id302",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id247",
-                        "label": "had a conversation",
-                        "title": "The Canadian, Conseil, and I had a long conversation.",
-                        "from": "node_id306",
-                        "to": "node_id304",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id248",
+                        "id": "edge_id260",
                         "label": "been",
                         "title": "For six months we had been prisoners on board the Nautilus.",
                         "from": "node_id302",
-                        "to": "node_id302",
+                        "to": "node_id305",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id249",
+                        "id": "edge_id261",
                         "label": "seemed to shun",
                         "title": "He seemed to shun me.",
                         "from": "node_id303",
@@ -4604,11 +4884,19 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id250",
+                        "id": "edge_id262",
                         "label": "explained to Narrator",
-                        "title": "Formerly he was pleased to explain the submarine marvels to me.<br>Captain Nemo spoke to his crew.<br>Captain Nemo said \"...we are going to fight them, man to beast.\"",
+                        "title": "\uff65 Formerly he was pleased to explain the submarine marvels to me.<br>\uff65 Captain Nemo said \"...we are going to fight them, man to beast.\"",
                         "from": "node_id303",
                         "to": "node_id303",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id263",
+                        "label": "spoke to",
+                        "title": "Captain Nemo spoke to his crew.",
+                        "from": "node_id303",
+                        "to": "node_id305",
                         "arrows": "to"
                     }
                 ]
@@ -4626,7 +4914,7 @@
                     {
                         "id": "node_id308",
                         "label": "Conseil",
-                        "title": "A servant to another character (likely M. Aronnax) who read the recital and found it exact as to facts",
+                        "title": "A servant to another character (likely M. Aronnax) who read the recital and found it exact as to<br>facts",
                         "size": 33
                     },
                     {
@@ -4638,13 +4926,13 @@
                     {
                         "id": "node_id310",
                         "label": "M. Aronnax",
-                        "title": "The person recounting the events and possibly the servant's master; heavily involved in the situation on the Nautilus",
+                        "title": "The person recounting the events and possibly the servant's master; heavily involved in the<br>situation on the Nautilus",
                         "size": 42
                     },
                     {
                         "id": "node_id311",
                         "label": "Ned Land",
-                        "title": "A vigorous and impatient character who represents a desire for freedom and conveys a threat of revenge",
+                        "title": "A vigorous and impatient character who represents a desire for freedom and conveys a threat of<br>revenge",
                         "size": 42
                     },
                     {
@@ -4662,7 +4950,7 @@
                 ],
                 "edges": [
                     {
-                        "id": "edge_id251",
+                        "id": "edge_id264",
                         "label": "read",
                         "title": "I have read [the recital] to Conseil.",
                         "from": "node_id310",
@@ -4670,39 +4958,47 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id252",
+                        "id": "edge_id265",
                         "label": "read",
-                        "title": "I have read [the recital] to the Canadian.",
+                        "title": "\uff65 I have read [the recital] to the Canadian.<br>\uff65 I knew what he [Ned Land] must suffer, for I was seized with home-sickness myself.",
                         "from": "node_id310",
                         "to": "node_id309",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id253",
+                        "id": "edge_id266",
                         "label": "wept",
-                        "title": "Captain Nemo wept while watching the waves.<br>It was the second companion he had lost since our arrival on board.<br>The last survivor of all of us on board the Nautilus will throw this case into the sea.",
+                        "title": "Captain Nemo wept while watching the waves.",
                         "from": "node_id307",
                         "to": "node_id307",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id254",
+                        "id": "edge_id267",
+                        "label": "lost",
+                        "title": "It was the second companion he had lost since our arrival on board.",
+                        "from": "node_id307",
+                        "to": "node_id313",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id268",
                         "label": "death by",
-                        "title": "That friend, [...] crushed, stifled, bruised by the dreadful arms of a poulp, pounded by his iron jaws.",
+                        "title": "That friend, [...] crushed, stifled, bruised by the dreadful arms of a poulp, pounded by his iron<br>jaws.",
                         "from": "node_id312",
                         "to": "node_id312",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id255",
+                        "id": "edge_id269",
                         "label": "use",
-                        "title": "The poor Frenchman, forgetting his conventional language, had taken to his own mother tongue, to utter a last appeal!",
+                        "title": "The poor Frenchman, forgetting his conventional language, had taken to his own mother tongue, to<br>utter a last appeal!",
                         "from": "node_id313",
-                        "to": "node_id313",
+                        "to": "node_id309",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id256",
+                        "id": "edge_id270",
                         "label": "request",
                         "title": "\u201cMaster,\u201d he said that day to me, \u201cthis must come to an end. I must make a clean breast of it.\"",
                         "from": "node_id311",
@@ -4710,27 +5006,27 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id257",
+                        "id": "edge_id271",
                         "label": "follow refusal",
-                        "title": "\"But I declare to you that I have had enough of the South Pole, and I will not follow him to the North.\"",
+                        "title": "\"But I declare to you that I have had enough of the South Pole, and I will not follow him to the<br>North.\"",
                         "from": "node_id311",
-                        "to": "node_id311",
+                        "to": "node_id307",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id258",
-                        "label": "experience",
-                        "title": "I knew what he [Ned Land] must suffer, for I was seized with home-sickness myself.",
-                        "from": "node_id310",
-                        "to": "node_id310",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id259",
+                        "id": "edge_id272",
                         "label": "intentions query",
                         "title": "\u201cWell, Ned, do you wish me to ask Captain Nemo his intentions concerning us?\u201d",
                         "from": "node_id310",
                         "to": "node_id307",
+                        "arrows": "to"
+                    },
+                    {
+                        "id": "edge_id273",
+                        "label": "task",
+                        "title": "The last survivor of all of us on board the Nautilus will throw this case into the sea.",
+                        "from": "node_id307",
+                        "to": "node_id309",
                         "arrows": "to"
                     }
                 ]
@@ -4772,13 +5068,13 @@
                     {
                         "id": "node_id319",
                         "label": "Sir (referred in \"Sir",
-                        "title": "to-day is the 13th Prairal\"), Likely addressed to the narrator and indicating the historical importance of the date",
+                        "title": "to-day is the 13th Prairal\"), Likely addressed to the narrator and indicating the historical<br>importance of the date",
                         "size": 30
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id260",
+                        "id": "edge_id274",
                         "label": "despair",
                         "title": "Ned in despair had isolated himself like Captain Nemo",
                         "from": "node_id314",
@@ -4786,7 +5082,7 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id261",
+                        "id": "edge_id275",
                         "label": "companionship",
                         "title": "Conseil and I, however, never left each other",
                         "from": "node_id315",
@@ -4802,19 +5098,19 @@
                     {
                         "id": "node_id320",
                         "label": "Captain Nemo",
-                        "title": "The mysterious and enigmatic captain of the Nautilus, an advanced submarine, who exhibits both hatred towards oppression and a desire for vengeance",
+                        "title": "The mysterious and enigmatic captain of the Nautilus, an advanced submarine, who exhibits both<br>hatred towards oppression and a desire for vengeance",
                         "size": 45
                     },
                     {
                         "id": "node_id321",
                         "label": "Ned Land",
-                        "title": "A Canadian harpooner and a crew member aboard the Nautilus who is eager to escape and expresses hostility toward Captain Nemo's vessel",
+                        "title": "A Canadian harpooner and a crew member aboard the Nautilus who is eager to escape and expresses<br>hostility toward Captain Nemo's vessel",
                         "size": 36
                     },
                     {
                         "id": "node_id322",
                         "label": "Conseil",
-                        "title": "A fellow companion and crew member aboard the Nautilus, characterized by his calm demeanor and loyalty",
+                        "title": "A fellow companion and crew member aboard the Nautilus, characterized by his calm demeanor and<br>loyalty",
                         "size": 33
                     },
                     {
@@ -4826,25 +5122,25 @@
                     {
                         "id": "node_id324",
                         "label": "The Captain of the approaching man-of-war",
-                        "title": "An unseen character commanding a military ship that engages with the Nautilus, posing a potential threat",
+                        "title": "An unseen character commanding a military ship that engages with the Nautilus, posing a potential<br>threat",
                         "size": 30
                     },
                     {
                         "id": "node_id325",
                         "label": "Abraham Lincoln",
-                        "title": "The ship from an earlier encounter where the Canadian, Ned Land, struck it with a harpoon; associated with the pursuit of the Nautilus",
+                        "title": "The ship from an earlier encounter where the Canadian, Ned Land, struck it with a harpoon;<br>associated with the pursuit of the Nautilus",
                         "size": 24
                     },
                     {
                         "id": "node_id326",
                         "label": "Commander Farragut",
-                        "title": "The commander of the Abraham Lincoln who had previously recognized the Nautilus as a dangerous vessel",
+                        "title": "The commander of the Abraham Lincoln who had previously recognized the Nautilus as a dangerous<br>vessel",
                         "size": 24
                     },
                     {
                         "id": "node_id327",
                         "label": "The Second of the Nautilus",
-                        "title": "An officer on the Nautilus who assists Captain Nemo and is involved in the maneuvering of the submarine",
+                        "title": "An officer on the Nautilus who assists Captain Nemo and is involved in the maneuvering of the<br>submarine",
                         "size": 27
                     },
                     {
@@ -4856,27 +5152,27 @@
                     {
                         "id": "node_id329",
                         "label": "The Crew of the Nautilus",
-                        "title": "The collective group of individuals manning the Nautilus, sharing Captain Nemo's sentiment and aiding in his mission",
+                        "title": "The collective group of individuals manning the Nautilus, sharing Captain Nemo's sentiment and<br>aiding in his mission",
                         "size": 30
                     },
                     {
                         "id": "node_id330",
                         "label": "The Crew of the man-of-war",
-                        "title": "The individuals aboard the military ship engaging with the Nautilus, unaware of the true nature of the submarine and its crew",
+                        "title": "The individuals aboard the military ship engaging with the Nautilus, unaware of the true nature of<br>the submarine and its crew",
                         "size": 27
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id262",
+                        "id": "edge_id276",
                         "label": "inhabit and use",
-                        "title": "no common misanthropy had shut Captain Nemo and his companions within the Nautilus & Did this hatred still seek for vengeance with the Nautilus?",
+                        "title": "no common misanthropy had shut Captain Nemo and his companions within the Nautilus & Did this hatred<br>still seek for vengeance with the Nautilus?",
                         "from": "node_id320",
-                        "to": "node_id320",
+                        "to": "node_id329",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id263",
+                        "id": "edge_id277",
                         "label": "recognize",
                         "title": "Commander Farragut recognized the Nautilus as a submarine vessel.",
                         "from": "node_id326",
@@ -4884,15 +5180,15 @@
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id264",
+                        "id": "edge_id278",
                         "label": "attack preparation",
                         "title": "The Nautilus prepared to attack the approaching man-of-war.",
                         "from": "node_id329",
-                        "to": "node_id329",
+                        "to": "node_id324",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id265",
+                        "id": "edge_id279",
                         "label": "command",
                         "title": "Captain Nemo imposed silence and declared himself the law and judge to The Second of the Nautilus.",
                         "from": "node_id320",
@@ -4920,92 +5216,124 @@
                     {
                         "id": "node_id333",
                         "label": "Conseil",
-                        "title": "A servant and devoted companion to the protagonist, often follows and aids in the protagonist\u2019s endeavors",
+                        "title": "A servant and devoted companion to the protagonist, often follows and aids in the protagonist\u2019s<br>endeavors",
                         "size": 39
                     },
                     {
                         "id": "node_id334",
                         "label": "Protagonist (Unnamed",
-                        "title": "but understood to be Pierre Aronnax from \"Twenty Thousand Leagues Under the Sea\"), The narrator of the story and a key character who experiences conflict about escaping the Nautilus",
+                        "title": "but understood to be Pierre Aronnax from \"Twenty Thousand Leagues Under the Sea\"), The narrator of<br>the story and a key character who experiences conflict about escaping the Nautilus",
                         "size": 45
                     },
                     {
                         "id": "node_id335",
                         "label": "Second of Captain Nemo (not named but referenced)",
-                        "title": "Second in command on the Nautilus, role in the story is less clear but inferred as important due to position",
+                        "title": "Second in command on the Nautilus, role in the story is less clear but inferred as important due to<br>position",
                         "size": 30
                     },
                     {
                         "id": "node_id336",
                         "label": "Crew of the Nautilus",
-                        "title": "The individuals operating the Nautilus under Captain Nemo's command, essential for the vessel's function but less individual prominence in the story",
+                        "title": "The individuals operating the Nautilus under Captain Nemo's command, essential for the vessel's<br>function but less individual prominence in the story",
                         "size": 33
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id266",
+                        "id": "edge_id280",
                         "label": "Conseil",
                         "title": "Protagonist (Unnamed), Second of Captain Nemo (not named but referenced), Crew of the Nautilus'",
                         "from": "node_id335",
                         "to": "node_id332",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id267",
+                        "id": "edge_id281",
                         "label": "fear of",
-                        "title": "Protagonist (Unnamed) felt an insurmountable horror for Captain Nemo.<br>Protagonist (Unnamed) avoided meeting Captain Nemo before escape.",
+                        "title": "\uff65 Protagonist (Unnamed) felt an insurmountable horror for Captain Nemo.<br>\uff65 Protagonist (Unnamed) dressed in strong sea clothing and collected notes in preparation for escape.<br>\uff65 Protagonist (Unnamed) avoided meeting Captain Nemo before escape.",
                         "from": "node_id334",
                         "to": "node_id331",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id268",
+                        "id": "edge_id282",
                         "label": "informing about escape",
-                        "title": "Ned Land leaned over Protagonist (Unnamed) saying, \"We are going to fly.\"<br>Ned Land began to loosen the bolts which held the boat to the Nautilus.",
+                        "title": "Ned Land leaned over Protagonist (Unnamed) saying, \"We are going to fly.\"",
                         "from": "node_id332",
-                        "to": "node_id332",
-                        "arrows": "to"
+                        "to": "node_id334",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id269",
+                        "id": "edge_id283",
                         "label": "witnessing",
-                        "title": "Protagonist (Unnamed) was a witness of the crew's actions on the Nautilus.",
+                        "title": "\uff65 Protagonist (Unnamed) was a witness of the crew's actions on the Nautilus.<br>\uff65 Protagonist (Unnamed) recalled all incidents that happened since boarding the Nautilus.",
                         "from": "node_id334",
                         "to": "node_id336",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id270",
+                        "id": "edge_id284",
                         "label": "monitoring",
                         "title": "Conseil could not draw a word from Ned Land and watched him with constant devotion.",
                         "from": "node_id333",
                         "to": "node_id332",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id271",
-                        "label": "planning",
-                        "title": "Protagonist (Unnamed) dressed in strong sea clothing and collected notes in preparation for escape.<br>Protagonist (Unnamed) recalled all incidents that happened since boarding the Nautilus.",
-                        "from": "node_id334",
-                        "to": "node_id334",
-                        "arrows": "to"
-                    },
-                    {
-                        "id": "edge_id272",
+                        "id": "edge_id285",
                         "label": "overwhelmed by",
                         "title": "Captain Nemo was possibly overwhelmed by memories when he murmured, \u201cAlmighty God! enough! enough!\u201d",
                         "from": "node_id331",
                         "to": "node_id331",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     },
                     {
-                        "id": "edge_id273",
+                        "id": "edge_id286",
                         "label": "joining",
                         "title": "Protagonist (Unnamed) joined Ned Land at the orifice in the plates of the Nautilus.",
                         "from": "node_id334",
                         "to": "node_id332",
-                        "arrows": "to"
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
+                    },
+                    {
+                        "id": "edge_id287",
+                        "label": "loosening",
+                        "title": "Ned Land began to loosen the bolts which held the boat to the Nautilus.",
+                        "from": "node_id332",
+                        "to": "node_id333",
+                        "arrows": "to",
+                        "smooth": {
+                            "type": "curvedCW",
+                            "roundness": 0.3
+                        }
                     }
                 ]
             },
@@ -5028,37 +5356,37 @@
                     {
                         "id": "node_id339",
                         "label": "Captain Nemo",
-                        "title": "The enigmatic captain of the Nautilus, deeply connected with the wonders and dangers of the ocean, playing a crucial role in the narrative",
+                        "title": "The enigmatic captain of the Nautilus, deeply connected with the wonders and dangers of the ocean,<br>playing a crucial role in the narrative",
                         "size": 42
                     },
                     {
                         "id": "node_id340",
                         "label": "Narrator (myself)",
-                        "title": "The individual recounting the events of the voyage, representing Jules Verne's protagonist from \"Twenty Thousand Leagues Under the Sea\"",
+                        "title": "The individual recounting the events of the voyage, representing Jules Verne's protagonist from<br>\"Twenty Thousand Leagues Under the Sea\"",
                         "size": 45
                     }
                 ],
                 "edges": [
                     {
-                        "id": "edge_id274",
+                        "id": "edge_id288",
                         "label": "was with during the escape and was with~",
-                        "title": "\"how Ned Land, Conseil, and myself ever came out of the gulf, I cannot tell.\" and \"My two companions, safe and sound, were near me holding my hands.\"",
+                        "title": "\"how Ned Land, Conseil, and myself ever came out of the gulf, I cannot tell.\" and \"My two<br>companions, safe and sound, were near me holding my hands.\"",
                         "from": "node_id340",
                         "to": "node_id337",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id275",
+                        "id": "edge_id289",
                         "label": "was with during the escape and was with~",
-                        "title": "\"how Ned Land, Conseil, and myself ever came out of the gulf, I cannot tell.\" and \"My two companions, safe and sound, were near me holding my hands.\"",
+                        "title": "\"how Ned Land, Conseil, and myself ever came out of the gulf, I cannot tell.\" and \"My two<br>companions, safe and sound, were near me holding my hands.\"",
                         "from": "node_id340",
                         "to": "node_id338",
                         "arrows": "to"
                     },
                     {
-                        "id": "edge_id276",
+                        "id": "edge_id290",
                         "label": "questioned if still alive and shared~",
-                        "title": "\"Does Captain Nemo still live?\" and \"two men alone of all now living have the right to give an answer\u2014\u2014CAPTAIN NEMO AND MYSELF.\"",
+                        "title": "\"Does Captain Nemo still live?\" and \"two men alone of all now living have the right to give an<br>answer\u2014\u2014CAPTAIN NEMO AND MYSELF.\"",
                         "from": "node_id340",
                         "to": "node_id339",
                         "arrows": "to"
