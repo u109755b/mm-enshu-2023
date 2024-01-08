@@ -2242,9 +2242,7 @@
                         "id": "node_id129",
                         "label": "Sclaves",
                         "title": "Members of the Nautilus' crew, representing the Slavic peoples",
-                        "size": 30,
-                        "image": "/static/visualizer/summarized_data/164/sample0/images/CHAPTER_XVII_FOUR_THOUSAND_LEAGUES_UNDER_THE_PACIFIC/Sclaves.png",
-                        "shape": "image"
+                        "size": 30
                     },
                     {
                         "id": "node_id130",

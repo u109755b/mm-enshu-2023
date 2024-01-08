@@ -683,9 +683,7 @@
                 "id": "node_id42",
                 "label": "The Hatter",
                 "title": "Mentioned by the Cheshire Cat as a resident one can visit, implied to be mad",
-                "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_Hatter.png",
-                "shape": "image"
+                "size": 24
             },
             {
                 "id": "node_id43",
@@ -1035,9 +1033,7 @@
                 "id": "node_id57",
                 "label": "The Duchess",
                 "title": "A character who is mentioned as under sentence of execution and who is known by the Cheshire Cat",
-                "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Duchess.png",
-                "shape": "image"
+                "size": 30
             }
         ],
         "edges": [

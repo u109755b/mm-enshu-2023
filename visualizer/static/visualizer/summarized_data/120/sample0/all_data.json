@@ -1755,9 +1755,7 @@
                         "id": "node_id104",
                         "label": "Dr. Livesey",
                         "title": "Another organizer of the voyage and a principal character, similarly not active in the conversation<br>but involved in the treasure hunt",
-                        "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Dr_Livesey.png",
-                        "shape": "image"
+                        "size": 37
                     },
                     {
                         "id": "node_id105",
@@ -2605,9 +2603,7 @@
                         "id": "node_id154",
                         "label": "Doctor Livesey",
                         "title": "Ship's doctor and one of the protagonists",
-                        "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Doctor_Livesey.png",
-                        "shape": "image"
+                        "size": 39
                     },
                     {
                         "id": "node_id155",
@@ -3306,9 +3302,7 @@
                         "id": "node_id198",
                         "label": "Doctor Livesey",
                         "title": "A doctor and a responsible individual attending to patients and making key decisions",
-                        "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Doctor_Livesey.png",
-                        "shape": "image"
+                        "size": 39
                     },
                     {
                         "id": "node_id199",

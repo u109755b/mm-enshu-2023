@@ -39,9 +39,7 @@
                 "id": "node_id4",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's more good-natured but submissive sister",
-                "size": 27,
-                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Miss_Amelia.png",
-                "shape": "image"
+                "size": 27
             },
             {
                 "id": "node_id5",
@@ -2935,9 +2933,7 @@
                 "id": "node_id207",
                 "label": "Anne",
                 "title": "A once hungry and desperate child who was given buns by Sara, becoming an attendant in a bakery<br>showing her gratitude",
-                "size": 28,
-                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Anne.png",
-                "shape": "image"
+                "size": 28
             },
             {
                 "id": "node_id208",

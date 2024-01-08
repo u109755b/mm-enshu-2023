@@ -407,9 +407,7 @@
                 "id": "node_id41",
                 "label": "Chalais",
                 "title": "A character whose throat was cut under charges of a plot, mentioned in Musketeers' conversation",
-                "size": 30,
-                "image": "/static/visualizer/summarized_data/1257/sample0/images/Chapter_II_THE_ANTECHAMBER_OF_M_DE_TRVILLE/Chalais.png",
-                "shape": "image"
+                "size": 30
             },
             {
                 "id": "node_id42",
