@@ -126,6 +126,8 @@ class ViewManager:
 
 # 最初のページ読み込みや再読み込み時の処理
 def index(request, gutenbergID=0):
+    for key in list(request.session.keys()):
+        del request.session[key]
     request.session.clear()
     view_manager = ViewManager(request, gutenbergID)
     tab_html = view_manager.create_tab_html()
