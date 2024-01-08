@@ -15,7 +15,9 @@
                 "id": "node_id1",
                 "label": "Black Kitten",
                 "title": "The mischievous kitten of Dinah that caused the mischief with Alice's ball of worsted",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/12/sample0/images/",
+                "shape": ""
             },
             {
                 "id": "node_id2",

@@ -1504,7 +1504,9 @@
                         "id": "node_id92",
                         "label": "The cabal of Lilliput",
                         "title": "The group of advisors or conspirators in Lilliput advising the emperor on the matter of the author",
-                        "size": 27
+                        "size": 27,
+                        "image": "/static/visualizer/summarized_data/829/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id93",
@@ -2972,7 +2974,9 @@
                         "id": "node_id199",
                         "label": "Flappers",
                         "title": "Servants in Laputa tasked with using bladders to rouse their masters' attention or direct them in conversation, crucial for the functioning of Laputian society's communication",
-                        "size": 36
+                        "size": 36,
+                        "image": "/static/visualizer/summarized_data/829/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id200",
@@ -3146,7 +3150,9 @@
                         "id": "node_id217",
                         "label": "Citizens of Lindalino",
                         "title": "Inhabitants of the second city in the kingdom who rebel against the king's authority and attempt to gain independence",
-                        "size": 39
+                        "size": 39,
+                        "image": "/static/visualizer/summarized_data/829/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id218",
@@ -4368,7 +4374,9 @@
                         "id": "node_id303",
                         "label": "Interpreter",
                         "title": "The author's companion who helps in communicating with the Luggnaggians",
-                        "size": 27
+                        "size": 27,
+                        "image": "/static/visualizer/summarized_data/829/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id304",
@@ -4995,7 +5003,9 @@
                         "id": "node_id349",
                         "label": "Yahoos",
                         "title": "A brutish and savage species of humanoid creatures in \"Gulliver's Travels\", representing the worst of human nature",
-                        "size": 42
+                        "size": 42,
+                        "image": "/static/visualizer/summarized_data/829/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id350",

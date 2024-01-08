@@ -2186,7 +2186,9 @@
                         "id": "node_id129",
                         "label": "Sclaves",
                         "title": "Members of the Nautilus' crew, representing the Slavic peoples",
-                        "size": 30
+                        "size": 30,
+                        "image": "/static/visualizer/summarized_data/164/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id130",

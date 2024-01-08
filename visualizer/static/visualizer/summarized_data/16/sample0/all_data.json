@@ -995,7 +995,9 @@
                 "id": "node_id68",
                 "label": "Mermaids",
                 "title": "Mystical creatures of Neverland that live in the Mermaids' Lagoon",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/16/sample0/images/",
+                "shape": ""
             },
             {
                 "id": "node_id69",

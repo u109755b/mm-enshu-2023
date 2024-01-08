@@ -55,7 +55,9 @@
                 "id": "node_id6",
                 "label": "Third Little Pig",
                 "title": "The clever pig that built a brick house, outsmarted the Wolf multiple times, and eventually killed and ate the Wolf",
-                "size": 43
+                "size": 43,
+                "image": "/static/visualizer/summarized_data/18155/sample0/images/",
+                "shape": ""
             },
             {
                 "id": "node_id7",

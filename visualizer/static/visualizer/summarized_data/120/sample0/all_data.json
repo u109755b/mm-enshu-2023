@@ -1667,7 +1667,9 @@
                         "id": "node_id104",
                         "label": "Dr. Livesey",
                         "title": "Another organizer of the voyage and a principal character, similarly not active in the conversation but involved in the treasure hunt",
-                        "size": 37
+                        "size": 37,
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id105",
@@ -2515,7 +2517,9 @@
                         "id": "node_id154",
                         "label": "Doctor Livesey",
                         "title": "Ship's doctor and one of the protagonists",
-                        "size": 39
+                        "size": 39,
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id155",
@@ -3154,7 +3158,9 @@
                         "id": "node_id198",
                         "label": "Doctor Livesey",
                         "title": "A doctor and a responsible individual attending to patients and making key decisions",
-                        "size": 39
+                        "size": 39,
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id199",

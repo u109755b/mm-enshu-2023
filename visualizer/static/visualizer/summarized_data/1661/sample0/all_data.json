@@ -10,7 +10,9 @@
                         "id": "node_id0",
                         "label": "Sherlock Holmes",
                         "title": "A highly skilled detective known for his keen powers of observation and deductive reasoning",
-                        "size": 45
+                        "size": 45,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id1",
@@ -32,7 +34,9 @@
                         "id": "node_id3",
                         "label": "Wilhelm Gottsreich Sigismond von Ormstein",
                         "title": "Also known as the King of Bohemia, seeks Holmes' help to retrieve a compromising photograph",
-                        "size": 40
+                        "size": 40,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id4",
@@ -134,7 +138,9 @@
                         "id": "node_id9",
                         "label": "Landlady",
                         "title": "Informs Dr. Watson about Sherlock Holmes's whereabouts",
-                        "size": 18
+                        "size": 18,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id10",
@@ -148,7 +154,9 @@
                         "id": "node_id11",
                         "label": "Godfrey Norton",
                         "title": "A lawyer and significant to the case due to his relationship with Irene Adler",
-                        "size": 36
+                        "size": 36,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id12",
@@ -170,13 +178,17 @@
                         "id": "node_id14",
                         "label": "Clergyman",
                         "title": "An officiant at the impromptu marriage ceremony of Irene Adler and Godfrey Norton",
-                        "size": 27
+                        "size": 27,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     },
                     {
                         "id": "node_id15",
                         "label": "Mrs. Turner",
                         "title": "Possibly a housekeeper or servant who provides food, mentioned indirectly",
-                        "size": 18
+                        "size": 18,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     }
                 ],
                 "edges": [
@@ -262,7 +274,9 @@
                         "id": "node_id20",
                         "label": "Elderly Woman",
                         "title": "The housekeeper of Briony Lodge who informs Holmes of Adler's departure",
-                        "size": 24
+                        "size": 24,
+                        "image": "/static/visualizer/summarized_data/1661/sample0/images/",
+                        "shape": ""
                     }
                 ],
                 "edges": [
