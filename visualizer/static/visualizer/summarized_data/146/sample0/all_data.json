@@ -7,37 +7,43 @@
                 "id": "node_id0",
                 "label": "Sara Crewe",
                 "title": "The central character who is a thoughtful and dreamy seven-year-old girl",
-                "size": 43
+                "size": 43,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Sara_Crewe.png"
             },
             {
                 "id": "node_id1",
                 "label": "Captain Crewe",
                 "title": "Sara's affectionate and wealthy father who has to leave her at a boarding school",
-                "size": 40
+                "size": 40,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Captain_Crewe.png"
             },
             {
                 "id": "node_id2",
                 "label": "Miss Minchin",
                 "title": "The strict and cold headmistress of the boarding school Sara is left at",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Miss_Minchin.png"
             },
             {
                 "id": "node_id3",
                 "label": "Emily",
                 "title": "The doll that Sara and her father purchase, which becomes Sara's companion",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Emily.png"
             },
             {
                 "id": "node_id4",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's more good-natured but submissive sister",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Miss_Amelia.png"
             },
             {
                 "id": "node_id5",
                 "label": "Lady Meredith",
                 "title": "A character mentioned as having recommended the boarding school to Captain Crewe",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/1_Sara/Lady_Meredith.png"
             }
         ],
         "edges": [
@@ -91,61 +97,71 @@
                 "id": "node_id6",
                 "label": "Sara Crewe",
                 "title": "The protagonist, a new pupil at Miss Minchin's school, fluent in French due to her upbringing",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Sara_Crewe.png"
             },
             {
                 "id": "node_id7",
                 "label": "Miss Minchin",
                 "title": "The head of the school, stern and severe, critical of Sara",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Miss_Minchin.png"
             },
             {
                 "id": "node_id8",
                 "label": "Lavinia Herbert",
                 "title": "A nearly thirteen-year-old pupil, feels grown-up and spiteful towards Sara",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Lavinia_Herbert.png"
             },
             {
                 "id": "node_id9",
                 "label": "Lottie Legh",
                 "title": "The youngest pupil at age four, referred to as the baby of the school",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Lottie_Legh.png"
             },
             {
                 "id": "node_id10",
                 "label": "Mariette",
-                "title": "Sara\u2019s French maid, involved in setting up Sara\u2019s clothes, liked by Sara",
-                "size": 33
+                "title": "Sara’s French maid, involved in setting up Sara’s clothes, liked by Sara",
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Mariette.png"
             },
             {
                 "id": "node_id11",
                 "label": "Jessie",
                 "title": "A schoolmate of Sara's and Lavinia's friend, whispers comments about Sara",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Jessie.png"
             },
             {
                 "id": "node_id12",
                 "label": "Monsieur Dufarge",
-                "title": "The French teacher at Miss Minchin\u2019s school, impressed with Sara's French",
-                "size": 33
+                "title": "The French teacher at Miss Minchin’s school, impressed with Sara's French",
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Monsieur_Dufarge.png"
             },
             {
                 "id": "node_id13",
                 "label": "Captain Crewe",
-                "title": "Sara\u2019s father, mentioned in her thoughts and background, loves the French language",
-                "size": 27
+                "title": "Sara’s father, mentioned in her thoughts and background, loves the French language",
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Captain_Crewe.png"
             },
             {
                 "id": "node_id14",
                 "label": "Emily",
-                "title": "Sara\u2019s doll, personified by Sara, recipient of Sara's imaginative thoughts",
-                "size": 30
+                "title": "Sara’s doll, personified by Sara, recipient of Sara's imaginative thoughts",
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Emily.png"
             },
             {
                 "id": "node_id15",
                 "label": "Miss Amelia",
                 "title": "Mentioned in passing as someone Miss Minchin speaks to, likely a teacher or administrator",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/2_A_French_Lesson/Miss_Amelia.png"
             }
         ],
         "edges": [
@@ -176,7 +192,7 @@
             {
                 "id": "edge_id8",
                 "label": "described by",
-                "title": "Jessie whispered about Sara\u2019s silk stockings.",
+                "title": "Jessie whispered about Sara’s silk stockings.",
                 "from": "node_id6",
                 "to": "node_id11",
                 "arrows": "to"
@@ -207,55 +223,64 @@
                 "id": "node_id16",
                 "label": "Sara Crewe",
                 "title": "The protagonist, a new student at Miss Minchin's select seminary who is clever and compassionate",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Sara_Crewe.png"
             },
             {
                 "id": "node_id17",
                 "label": "Ermengarde St. John",
                 "title": "A fellow student, not academically gifted but good-natured; becomes friends with Sara",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Ermengarde_St_John.png"
             },
             {
                 "id": "node_id18",
                 "label": "Miss Minchin",
                 "title": "The strict headmistress of the seminary where Sara and Ermengarde are students",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Miss_Minchin.png"
             },
             {
                 "id": "node_id19",
                 "label": "Monsieur Dufarge",
                 "title": "The French teacher at Miss Minchin's school who finds Ermengarde's French pronunciation amusing",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Monsieur_Dufarge.png"
             },
             {
                 "id": "node_id20",
                 "label": "Lavinia",
                 "title": "A student at the seminary who, along with Jessie, giggles at Ermengarde's mistakes",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Lavinia.png"
             },
             {
                 "id": "node_id21",
                 "label": "Jessie",
                 "title": "A student at the seminary and friend to Lavinia, who also giggles at Ermengarde's mistakes",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Jessie.png"
             },
             {
                 "id": "node_id22",
                 "label": "Mr. St. John",
                 "title": "Ermengarde's father, known for his intelligence and high expectations",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Mr_St_John.png"
             },
             {
                 "id": "node_id23",
                 "label": "Aunt Eliza",
                 "title": "Ermengarde's aunt, mentioned as a comparison for Ermengarde's slow learning abilities",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Aunt_Eliza.png"
             },
             {
                 "id": "node_id24",
                 "label": "Emily",
                 "title": "Sara's doll, treated as a real person by Sara and introduced to Ermengarde",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/3_Ermengarde/Emily.png"
             }
         ],
         "edges": [
@@ -274,7 +299,7 @@
             {
                 "id": "edge_id12",
                 "label": "feel sorry for",
-                "title": "\uff65 Sara felt sorry for Ermengarde when she was scolded by Miss Minchin.<br>\uff65 Ermengarde gave a jump when Sara spoke French.<br>\uff65 Ermengarde thought Sara was clever.",
+                "title": "･ Sara felt sorry for Ermengarde when she was scolded by Miss Minchin.<br>･ Ermengarde gave a jump when Sara spoke French.<br>･ Ermengarde thought Sara was clever.",
                 "from": "node_id17",
                 "to": "node_id16",
                 "arrows": "to",
@@ -365,68 +390,78 @@
                 "id": "node_id25",
                 "label": "Sara",
                 "title": "A compassionate and motherly young girl who becomes an adopted mother to Lottie at Miss Minchin's<br>Select Seminary",
-                "size": 43
+                "size": 43,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Sara.png"
             },
             {
                 "id": "node_id26",
                 "label": "Miss Minchin",
                 "title": "The headmistress of the Select Seminary, who privately dislikes Sara but flatters her for business<br>reasons",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Miss_Minchin.png"
             },
             {
                 "id": "node_id27",
                 "label": "Captain Crewe",
                 "title": "Sara's loving father who is capable of removing her from the school if she is unhappy",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Captain_Crewe.png"
             },
             {
                 "id": "node_id28",
                 "label": "Ermengarde",
                 "title": "A friend of Sara's who discusses with her the nature of being good or bad",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Ermengarde.png"
             },
             {
                 "id": "node_id29",
                 "label": "Lavinia",
                 "title": "A spiteful and jealous girl, formerly the leader at the school before Sara's arrival",
-                "size": 34
+                "size": 34,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Lavinia.png"
             },
             {
                 "id": "node_id30",
                 "label": "Jessie",
                 "title": "Lavinia's \"best friend\" who admires Sara's humility despite her privileges",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Jessie.png"
             },
             {
                 "id": "node_id31",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's softer sister who struggles to manage the difficult child Lottie",
-                "size": 31
+                "size": 31,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Miss_Amelia.png"
             },
             {
                 "id": "node_id32",
                 "label": "Lottie Legh",
                 "title": "A young, spoiled child who throws tantrums and views Sara as a motherly figure",
-                "size": 37
+                "size": 37,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Lottie_Legh.png"
             },
             {
                 "id": "node_id33",
                 "label": "Lottie's father",
                 "title": "A flighty young man who sent Lottie to school without imagining another solution",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Lotties_father.png"
             },
             {
                 "id": "node_id34",
                 "label": "Emily",
                 "title": "Sara's doll, which becomes a part of Lottie's and Sara's playtime, acting as Lottie's sister",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/4_Lottie/Emily.png"
             }
         ],
         "edges": [
             {
                 "id": "edge_id19",
                 "label": "dislike",
-                "title": "\uff65 Privately Miss Minchin disliked Sara.<br>\uff65 This, at the beginning, had been bitter enough; but as time went on it became apparent that Sara was<br>a leader, too and not because she could make herself disagreeable, but because she never did.",
+                "title": "･ Privately Miss Minchin disliked Sara.<br>･ This, at the beginning, had been bitter enough; but as time went on it became apparent that Sara was<br>a leader, too and not because she could make herself disagreeable, but because she never did.",
                 "from": "node_id25",
                 "to": "node_id26",
                 "arrows": "to",
@@ -529,49 +564,57 @@
                 "id": "node_id35",
                 "label": "Sara",
                 "title": "The protagonist who is admired for her storytelling abilities and kindness",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Sara.png"
             },
             {
                 "id": "node_id36",
                 "label": "Lavinia",
                 "title": "A schoolgirl envious of Sara's storytelling abilities",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Lavinia.png"
             },
             {
                 "id": "node_id37",
                 "label": "Becky",
                 "title": "A young scullery maid who becomes intrigued by Sara's stories",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Becky.png"
             },
             {
                 "id": "node_id38",
                 "label": "Lottie",
                 "title": "A younger schoolgirl who sees Sara as a motherly figure",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Lottie.png"
             },
             {
                 "id": "node_id39",
                 "label": "Miss Minchin",
                 "title": "The headmistress of the school where Sara and other girls reside",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Miss_Minchin.png"
             },
             {
                 "id": "node_id40",
                 "label": "Mariette",
                 "title": "Sara's maid who provides insights about Becky",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Mariette.png"
             },
             {
                 "id": "node_id41",
                 "label": "Miss Amelia",
                 "title": "The sister of Miss Minchin who might appear in the narrative",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Miss_Amelia.png"
             },
             {
                 "id": "node_id42",
                 "label": "Emily",
                 "title": "Sara's doll, treated as if she were alive by Sara",
-                "size": 18
+                "size": 18,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/5_Becky/Emily.png"
             }
         ],
         "edges": [
@@ -625,55 +668,64 @@
                 "id": "node_id43",
                 "label": "Sara",
                 "title": "The main character, a young girl whose imagination and kindness influence those around her",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Sara.png"
             },
             {
                 "id": "node_id44",
                 "label": "Captain Crewe",
                 "title": "Sara's father, who invests in diamond mines and is affectionate towards his daughter",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Captain_Crewe.png"
             },
             {
                 "id": "node_id45",
                 "label": "Ermengarde",
                 "title": "Sara's friend, who is delighted by Sara's stories",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Ermengarde.png"
             },
             {
                 "id": "node_id46",
                 "label": "Lottie",
                 "title": "A younger girl at the school who sees Sara as a maternal figure",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Lottie.png"
             },
             {
                 "id": "node_id47",
                 "label": "Lavinia",
                 "title": "A spiteful schoolgirl who is jealous and disbelieving of Sara's stories",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Lavinia.png"
             },
             {
                 "id": "node_id48",
                 "label": "Jessie",
                 "title": "A schoolgirl who engages in conversation with Lavinia about Sara",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Jessie.png"
             },
             {
                 "id": "node_id49",
                 "label": "Miss Minchin",
                 "title": "The head of the school, who is unaware of Sara's compassionate acts",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Miss_Minchin.png"
             },
             {
                 "id": "node_id50",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's sister, who is also unaware of the complexities of Sara's character",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Miss_Amelia.png"
             },
             {
                 "id": "node_id51",
                 "label": "Becky",
                 "title": "A maid at the school who becomes close friends with Sara, receiving kindness and stories from her",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/6_The_Diamond_Mines/Becky.png"
             }
         ],
         "edges": [
@@ -831,86 +883,99 @@
                 "id": "node_id52",
                 "label": "Sara Crewe",
                 "title": "The protagonist, a rich girl who becomes poor and must adapt to a life of servitude",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Sara_Crewe.png"
             },
             {
                 "id": "node_id53",
                 "label": "Miss Minchin",
                 "title": "The strict and greedy headmistress of the seminary where Sara lives",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Miss_Minchin.png"
             },
             {
                 "id": "node_id54",
                 "label": "Becky",
                 "title": "A scullery maid at the seminary and Sara's secret friend",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Becky.png"
             },
             {
                 "id": "node_id55",
                 "label": "Captain Crewe",
                 "title": "Sara's loving father who dies and leaves her penniless",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Captain_Crewe.png"
             },
             {
                 "id": "node_id56",
                 "label": "Mr. Barrow",
                 "title": "The solicitor who brings the news of Captain Crewe's death and financial ruin to Miss Minchin",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Mr_Barrow.png"
             },
             {
                 "id": "node_id57",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's softer and less assertive sister",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Miss_Amelia.png"
             },
             {
                 "id": "node_id58",
                 "label": "Lottie",
                 "title": "A younger student who looks up to Sara",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Lottie.png"
             },
             {
                 "id": "node_id59",
                 "label": "Lavinia",
                 "title": "A schoolgirl who is jealous of Sara",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Lavinia.png"
             },
             {
                 "id": "node_id60",
                 "label": "Jessie",
                 "title": "A schoolgirl and Lavinia's friend",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Jessie.png"
             },
             {
                 "id": "node_id61",
                 "label": "Ermengarde",
                 "title": "A schoolgirl and one of Sara's friends",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Ermengarde.png"
             },
             {
                 "id": "node_id62",
                 "label": "The Last Doll",
                 "title": "Sara's birthday doll, embodying her past life of luxury (non-human character but represents a<br>pivotal aspect of Sara's change in fortune)",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/The_Last_Doll.png"
             },
             {
                 "id": "node_id63",
                 "label": "James",
                 "title": "A manservant at the seminary",
-                "size": 18
+                "size": 18,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/James.png"
             },
             {
                 "id": "node_id64",
                 "label": "Emma",
                 "title": "A housemaid at the seminary",
-                "size": 18
+                "size": 18,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/7_The_Diamond_Mines_Again/Emma.png"
             }
         ],
         "edges": [
             {
                 "id": "edge_id44",
                 "label": "sent for and expressed wishes",
-                "title": "\uff65 Miss Minchin had sent for Sara and, after an interview, expressed her wishes.<br>\uff65 Miss Minchin demanded a thank you from Sara, which was refused.",
+                "title": "･ Miss Minchin had sent for Sara and, after an interview, expressed her wishes.<br>･ Miss Minchin demanded a thank you from Sara, which was refused.",
                 "from": "node_id53",
                 "to": "node_id52",
                 "arrows": "to",
@@ -977,56 +1042,64 @@
                 "id": "node_id65",
                 "label": "Sara",
                 "title": "The main protagonist, a young girl enduring hardship and using her imagination to cope",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Sara.png"
             },
             {
                 "id": "node_id66",
                 "label": "Miss Minchin",
                 "title": "The headmistress of Sara's school, plays the role of the antagonist",
-                "size": 42
+                "size": 42,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Miss_Minchin.png"
             },
             {
                 "id": "node_id67",
                 "label": "Becky",
                 "title": "A young servant in the school who shares a secret friendship with Sara",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Becky.png"
             },
             {
                 "id": "node_id68",
                 "label": "Lavinia",
                 "title": "A schoolmate of Sara's, known to be mean-spirited",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Lavinia.png"
             },
             {
                 "id": "node_id69",
                 "label": "Ermengarde",
                 "title": "Sara's well-meaning but dull friend, who struggles with their changed relationship",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Ermengarde.png"
             },
             {
                 "id": "node_id70",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's sister, who assists with the school",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Miss_Amelia.png"
             },
             {
                 "id": "node_id71",
                 "label": "Mariette",
                 "title": "Sara's former maid, who left the house",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Mariette.png"
             },
             {
                 "id": "node_id72",
                 "label": "Lottie",
                 "title": "A young child at the school whom Sara helps to look after",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/8_In_the_Attic/Lottie.png"
             }
         ],
         "edges": [
             {
                 "id": "edge_id49",
                 "label": "endure hardship",
-                "title": "\uff65 \"She must begin as she is to go on,\" Miss Minchin said to Miss Amelia.<br>\uff65 She taught the younger children French and heard their other lessons.<br>\uff65 \"I will not have her forming intimacies and talking to the other children,\" that lady said.",
+                "title": "･ \"She must begin as she is to go on,\" Miss Minchin said to Miss Amelia.<br>･ She taught the younger children French and heard their other lessons.<br>･ \"I will not have her forming intimacies and talking to the other children,\" that lady said.",
                 "from": "node_id65",
                 "to": "node_id66",
                 "arrows": "to",
@@ -1123,43 +1196,49 @@
     },
     {
         "sectionName": "9 Melchisedec",
-        "summary": "Lottie doesn't understand the changes in Sara's life after she faces adversity and goes from being a well-to-do student to an impoverished teacher at Miss Minchin\u2019s school. Lottie visits Sara's bleak new attic room, but Sara's imagination makes it seem more pleasant. They watch sparrows and imagine a cozier space, showing the power of imagination even in hardship. Sara befriends a rat she names Melchisedec and shares her meager food with his family. Despite their situation, Sara and her attic neighbor Becky find solace in their friendship and the stories Sara creates, highlighting the resilience and escapism of storytelling.",
+        "summary": "Lottie doesn't understand the changes in Sara's life after she faces adversity and goes from being a well-to-do student to an impoverished teacher at Miss Minchin’s school. Lottie visits Sara's bleak new attic room, but Sara's imagination makes it seem more pleasant. They watch sparrows and imagine a cozier space, showing the power of imagination even in hardship. Sara befriends a rat she names Melchisedec and shares her meager food with his family. Despite their situation, Sara and her attic neighbor Becky find solace in their friendship and the stories Sara creates, highlighting the resilience and escapism of storytelling.",
         "nodes": [
             {
                 "id": "node_id73",
                 "label": "Sara",
                 "title": "An imaginative and compassionate girl who has fallen from her status as a favored student to a poor<br>orphan teaching at the school",
-                "size": 43
+                "size": 43,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/9_Melchisedec/Sara.png"
             },
             {
                 "id": "node_id74",
                 "label": "Lottie",
                 "title": "A young child who is bewildered by the changes in Sara's life and looks up to Sara as a motherly<br>figure",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/9_Melchisedec/Lottie.png"
             },
             {
                 "id": "node_id75",
                 "label": "Miss Minchin",
                 "title": "The strict headmistress of the school who holds Sara accountable for any student misbehaviors",
-                "size": 40
+                "size": 40,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/9_Melchisedec/Miss_Minchin.png"
             },
             {
                 "id": "node_id76",
                 "label": "Melchisedec",
                 "title": "A rat living in the attic that Sara befriends, symbolizing her ability to find companionship even in<br>the least expected places",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/9_Melchisedec/Melchisedec.png"
             },
             {
                 "id": "node_id77",
                 "label": "Ermengarde",
                 "title": "A friend of Sara's, who visits her in the attic and shares in the imaginative stories Sara creates",
-                "size": 37
+                "size": 37,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/9_Melchisedec/Ermengarde.png"
             },
             {
                 "id": "node_id78",
                 "label": "Becky",
                 "title": "A fellow servant girl who communicates with Sara through knocks on the wall, joining in the fantasy<br>of the Bastille",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/9_Melchisedec/Becky.png"
             }
         ],
         "edges": [
@@ -1245,151 +1324,176 @@
                 "id": "node_id79",
                 "label": "Ermengarde",
                 "title": "A friend of Sara who visits her in the attic",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Ermengarde.png"
             },
             {
                 "id": "node_id80",
                 "label": "Lottie",
                 "title": "Another friend of Sara who accompanies Ermengarde on rare visits to the attic",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Lottie.png"
             },
             {
                 "id": "node_id81",
                 "label": "Miss Amelia",
-                "title": "Likely a staff member at Miss Minchin\u2019s establishment who conducts inspections",
-                "size": 33
+                "title": "Likely a staff member at Miss Minchin’s establishment who conducts inspections",
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Miss_Amelia.png"
             },
             {
                 "id": "node_id82",
                 "label": "Sara",
                 "title": "The protagonist living a lonely life after a fall from grace, previously known as the \"Princess<br>Sara\"",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Sara.png"
             },
             {
                 "id": "node_id83",
                 "label": "Mariette",
                 "title": "A former attendant of Sara when she was rich and well-cared for",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Mariette.png"
             },
             {
                 "id": "node_id84",
                 "label": "Miss Minchin",
                 "title": "The head of the seminary where Sara stays, tends to be harsh towards Sara",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Miss_Minchin.png"
             },
             {
                 "id": "node_id85",
                 "label": "Large Family",
                 "title": "A large, happy family living in the square, affectionately named by Sara",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Large_Family.png"
             },
             {
                 "id": "node_id86",
                 "label": "Mother of the Large Family",
                 "title": "A stout, rosy woman, mother of the eight children Sara observes",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Mother_of_the_Large_Family.png"
             },
             {
                 "id": "node_id87",
                 "label": "Father of the Large Family",
                 "title": "A stout, rosy man who is familiar to Sara by sight",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Father_of_the_Large_Family.png"
             },
             {
                 "id": "node_id88",
                 "label": "Rosy Grandmother",
                 "title": "The grandmother of the eight children in the Large Family",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Rosy_Grandmother.png"
             },
             {
                 "id": "node_id89",
                 "label": "Servants of the Large Family",
                 "title": "Multiple unnamed individuals who serve the Large Family",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Servants_of_the_Large_Family.png"
             },
             {
                 "id": "node_id90",
                 "label": "Ethelberta Beauchamp Montmorency",
                 "title": "Imaginary name given by Sara to the fat, fair baby of the Large Family",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Ethelberta_Beauchamp_Montmorency.png"
             },
             {
                 "id": "node_id91",
                 "label": "Violet Cholmondeley Montmorency",
                 "title": "Imaginary name given by Sara to the next baby of the Large Family",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Violet_Cholmondeley_Montmorency.png"
             },
             {
                 "id": "node_id92",
                 "label": "Sydney Cecil Vivian Montmorency",
                 "title": "Imaginary name given by Sara to the little boy who could just stagger",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Sydney_Cecil_Vivian_Montmorency.png"
             },
             {
                 "id": "node_id93",
                 "label": "Children of the Large Family",
                 "title": "Named as Lilian Evangeline Maud Marion, Rosalind Gladys, Guy Clarence, Veronica Eustacia, and Claude<br>Harold Hector; all given imaginary names by Sara",
-                "size": 15
+                "size": 15,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Children_of_the_Large_Family.png"
             },
             {
                 "id": "node_id94",
                 "label": "Guy Clarence (Donald)",
                 "title": "A five-year-old boy from the Large Family, kind-hearted, gives Sara a sixpence",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Guy_Clarence_Donald.png"
             },
             {
                 "id": "node_id95",
                 "label": "Veronica Eustacia (Janet)",
                 "title": "A member of the Large Family, not her real name, possibly older and more observant",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Veronica_Eustacia_Janet.png"
             },
             {
                 "id": "node_id96",
                 "label": "Rosalind Gladys (Nora)",
                 "title": "Another member of the Large Family under an imaginary name",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Rosalind_Gladys_Nora.png"
             },
             {
                 "id": "node_id97",
                 "label": "Indian Gentleman (New Neighbor)",
                 "title": "A new, wealthy, and ill neighbor who carries interesting items into his home",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Indian_Gentleman_New_Neighbor.png"
             },
             {
                 "id": "node_id98",
                 "label": "Melchisedec",
                 "title": "A rat that Sara befriends in the attic",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Melchisedec.png"
             },
             {
                 "id": "node_id99",
                 "label": "Mrs. Melchisedec",
                 "title": "Melchisedec's partner, sometimes brought along with him",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Mrs_Melchisedec.png"
             },
             {
                 "id": "node_id100",
                 "label": "Children of Melchisedec",
                 "title": "Offspring of Melchisedec, mentioned in passing",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Children_of_Melchisedec.png"
             },
             {
                 "id": "node_id101",
                 "label": "Emily",
                 "title": "Sara's doll, her only companion in loneliness",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Emily.png"
             },
             {
                 "id": "node_id102",
                 "label": "Becky",
                 "title": "A fellow servant who shares news with Sara about the new Indian neighbor",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Becky.png"
             },
             {
                 "id": "node_id103",
                 "label": "Doctor",
                 "title": "Visits the Indian Gentleman, presumably his healthcare provider",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/10_The_Indian_Gentleman/Doctor.png"
             }
         ],
         "edges": [
@@ -1480,7 +1584,7 @@
             {
                 "id": "edge_id70",
                 "label": "know",
-                "title": "\uff65 The Father of the Large Family appears to know the Indian Gentleman.<br>\uff65 The Father of the Large Family acts on behalf of the Indian Gentleman.",
+                "title": "･ The Father of the Large Family appears to know the Indian Gentleman.<br>･ The Father of the Large Family acts on behalf of the Indian Gentleman.",
                 "from": "node_id87",
                 "to": "node_id97",
                 "arrows": "to",
@@ -1511,80 +1615,92 @@
                 "id": "node_id104",
                 "label": "Sara",
                 "title": "The protagonist who finds beauty and escapism in sunsets and retains her dignity despite her<br>mistreatment",
-                "size": 43
+                "size": 43,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Sara.png"
             },
             {
                 "id": "node_id105",
                 "label": "Ram Dass",
                 "title": "The Indian servant of the neighbor who interacts with Sara and values her kindness",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Ram_Dass.png"
             },
             {
                 "id": "node_id106",
                 "label": "Indian gentleman",
                 "title": "The new neighbor whom Sara reflects on, possibly the owner of the monkey",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Indian_gentleman.png"
             },
             {
                 "id": "node_id107",
                 "label": "Missee Sahib",
                 "title": "A term of respect used by Ram Dass for Sara, indicating her as his mistress in his perspective",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Missee_Sahib.png"
             },
             {
                 "id": "node_id108",
                 "label": "Miss Minchin",
                 "title": "The head of the school where Sara resides, known for her harsh and demeaning treatment towards Sara",
-                "size": 37
+                "size": 37,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Miss_Minchin.png"
             },
             {
                 "id": "node_id109",
                 "label": "Cook",
                 "title": "An employee at Miss Minchin's establishment, who notices Sara's polite demeanor",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Cook.png"
             },
             {
                 "id": "node_id110",
                 "label": "Lascar",
                 "title": "An alternative term used by Sara to describe Ram Dass by his ethnicity",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Lascar.png"
             },
             {
                 "id": "node_id111",
                 "label": "Monkey",
                 "title": "Ram Dass's pet, which creates a playful chase after escaping",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Monkey.png"
             },
             {
                 "id": "node_id112",
                 "label": "Marie Antoinette",
                 "title": "Historical figure Sara admires and emulates in her imagination",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Marie_Antoinette.png"
             },
             {
                 "id": "node_id113",
                 "label": "King Alfred",
                 "title": "Historical figure who Sara thinks of when considering royal figures in disguise",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/King_Alfred.png"
             },
             {
                 "id": "node_id114",
                 "label": "Jessie",
                 "title": "A pupil at Miss Minchin's school who is intrigued by Sara's demeanor",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Jessie.png"
             },
             {
                 "id": "node_id115",
                 "label": "Lavinia",
                 "title": "A pupil at Miss Minchin's school and likely part of the social dynamics that Sara faces",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/11_Ram_Dass/Lavinia.png"
             }
         ],
         "edges": [
             {
                 "id": "edge_id72",
                 "label": "view",
-                "title": "\uff65 Sara could see the sunset from the attic window; sunsets made her feel like something strange was<br>about to happen.<br>\uff65 Sara found it easier to slip away to the attic when the kitchen work was done.<br>\uff65 Seeing Ram Dass in his native costume reminded Sara of her past.<br>\uff65 Sara thought about her future role at Miss Minchin's establishment.",
+                "title": "･ Sara could see the sunset from the attic window; sunsets made her feel like something strange was<br>about to happen.<br>･ Sara found it easier to slip away to the attic when the kitchen work was done.<br>･ Seeing Ram Dass in his native costume reminded Sara of her past.<br>･ Sara thought about her future role at Miss Minchin's establishment.",
                 "from": "node_id104",
                 "to": "x",
                 "arrows": "to",
@@ -1675,109 +1791,127 @@
                 "id": "node_id116",
                 "label": "Sara",
                 "title": "A young girl imaginatively coping with her circumstances by envisioning the lives of those around<br>her, often referring to herself as a \"princess\"",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Sara.png"
             },
             {
                 "id": "node_id117",
                 "label": "Ermengarde",
                 "title": "Sara's friend, who engages in conversations with her about their lives and families",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Ermengarde.png"
             },
             {
                 "id": "node_id118",
                 "label": "Indian gentleman",
                 "title": "The mysterious and intriguing neighbor whom Sara adopts as a friend and about whom she creates<br>stories of sympathy",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Indian_gentleman.png"
             },
             {
                 "id": "node_id119",
                 "label": "Mr. Carrisford",
                 "title": "The actual name of the \"Indian gentleman\", who is troubled by his past and is searching for Crewe's<br>child, indicating a deep connection to Sara's narrative",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Mr_Carrisford.png"
             },
             {
                 "id": "node_id120",
                 "label": "Mr. Montmorency",
                 "title": "A character mentioned as the father of the Large Family who visits Mr. Carrisford regularly",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Mr_Montmorency.png"
             },
             {
                 "id": "node_id121",
                 "label": "Mrs. Montmorency",
                 "title": "Wife of Mr. Montmorency, mentioned in the context of her visits to Mr. Carrisford",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Mrs_Montmorency.png"
             },
             {
                 "id": "node_id122",
                 "label": "Janet",
                 "title": "The elder daughter of Mr. Montmorency and one who has a caring relationship with Mr. Carrisford",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Janet.png"
             },
             {
                 "id": "node_id123",
                 "label": "Nora",
                 "title": "Another daughter of Mr. Montmorency who is fond of Mr. Carrisford and visits him with Janet",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Nora.png"
             },
             {
                 "id": "node_id124",
                 "label": "Donald",
                 "title": "The small brother of Janet and Nora who once interacted with Sara",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Donald.png"
             },
             {
                 "id": "node_id125",
                 "label": "Ram Dass",
                 "title": "Mr. Carrisford's servant, provides a connection between Mr. Carrisford's world and Sara's when he<br>shares insights about Sara's living conditions",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Ram_Dass.png"
             },
             {
                 "id": "node_id126",
                 "label": "Mr. Carmichael",
                 "title": "A comforting character for Mr. Carrisford, described as the father of the Large Family and an<br>important figure in the search for Crewe's child, hinting at a significant role in the unfolding<br>story",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Mr_Carmichael.png"
             },
             {
                 "id": "node_id127",
                 "label": "Melchisedec",
                 "title": "A pet rodent whom Sara confides in, suggesting her loneliness and rich imagination",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Melchisedec.png"
             },
             {
                 "id": "node_id128",
                 "label": "Cook",
                 "title": "A servant who discusses Mr. Carrisford's situation, giving Sara and the reader information about his<br>background",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Cook.png"
             },
             {
                 "id": "node_id129",
                 "label": "Large Family",
                 "title": "Referred to by Sara, possibly representing the Montmorency family, but not individually developed or<br>named beyond Janet and Nora",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Large_Family.png"
             },
             {
                 "id": "node_id130",
                 "label": "Crewe (Sara's father)",
                 "title": "Mentioned in past tense as someone who loved and nicknamed Sara, indicating his importance in her<br>life and the central mystery of the story",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Crewe_Saras_father.png"
             },
             {
                 "id": "node_id131",
                 "label": "Ralph Crewe",
                 "title": "Referred to as a friend of Mr. Carrisford who died thinking Carrisford had ruined him, adding to the<br>backstory and motivation of Mr. Carrisford's character",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Ralph_Crewe.png"
             },
             {
                 "id": "node_id132",
                 "label": "Madame Pascal",
                 "title": "A character not directly interacting but mentioned as part of the backstory regarding the care of<br>Crewe's child after his death",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Madame_Pascal.png"
             },
             {
                 "id": "node_id133",
                 "label": "Little Missus",
                 "title": "A term of endearment used by Crewe for his daughter, serving as a poignant symbol of Sara's past<br>identity and her father's affection",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/12_The_Other_Side_of_the_Wall/Little_Missus.png"
             }
         ],
         "edges": [
@@ -1831,86 +1965,99 @@
                 "id": "node_id134",
                 "label": "Sara",
                 "title": "A young girl faced with extreme hardship and poverty, demonstrating resilience and kindness",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Sara.png"
             },
             {
                 "id": "node_id135",
                 "label": "Becky",
                 "title": "A servant girl in the same household as Sara, who finds comfort and friendship with Sara",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Becky.png"
             },
             {
                 "id": "node_id136",
                 "label": "The Indian Gentleman",
-                "title": "A neighbor of Sara\u2019s who is mentioned for his previous exotic living situation and possible<br>connection to Sara\u2019s past",
-                "size": 27
+                "title": "A neighbor of Sara’s who is mentioned for his previous exotic living situation and possible<br>connection to Sara’s past",
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/The_Indian_Gentleman.png"
             },
             {
                 "id": "node_id137",
                 "label": "The Baker Woman",
                 "title": "A kind woman who gives Sara and another hungry child some buns, showing compassion towards those<br>less fortunate",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/The_Baker_Woman.png"
             },
             {
                 "id": "node_id138",
                 "label": "The Beggar Child",
                 "title": "A destitute child living on the streets, to whom Sara shows kindness by giving some of her food",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/The_Beggar_Child.png"
             },
             {
                 "id": "node_id139",
                 "label": "Miss Minchin",
-                "title": "The head of the boarding school where Sara is mistreated, representing the cruel and oppressive<br>figure in Sara\u2019s life",
-                "size": 33
+                "title": "The head of the boarding school where Sara is mistreated, representing the cruel and oppressive<br>figure in Sara’s life",
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Miss_Minchin.png"
             },
             {
                 "id": "node_id140",
                 "label": "Mr. Montmorency",
                 "title": "A father figure in the Large Family, who is mentioned for his love and care for his children and<br>whom Sara observes warmly",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Mr_Montmorency.png"
             },
             {
                 "id": "node_id141",
                 "label": "The Cook",
                 "title": "A staff member in Sara's household, mentioned as part of the oppressive environment",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/The_Cook.png"
             },
             {
                 "id": "node_id142",
                 "label": "Members of the Large Family",
                 "title": "A family that Sara observes from a distance, providing her with a sense of normalcy and emotional<br>warmth",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Members_of_the_Large_Family.png"
             },
             {
                 "id": "node_id143",
                 "label": "Captain Crewe",
-                "title": "Sara\u2019s loving father who is absent due to his unfortunate circumstances, remaining an integral part<br>of her memories and motivation for her imaginings",
-                "size": 33
+                "title": "Sara’s loving father who is absent due to his unfortunate circumstances, remaining an integral part<br>of her memories and motivation for her imaginings",
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Captain_Crewe.png"
             },
             {
                 "id": "node_id144",
                 "label": "Guy Clarence",
                 "title": "One of the children in the Large Family, specifically seen interacting with Mr. Montmorency and<br>contributes to the sense of the normal family dynamic that Sara observes",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Guy_Clarence.png"
             },
             {
                 "id": "node_id145",
                 "label": "Janet",
                 "title": "One of the children in the Large Family who interacts in the family scene that Sara observes",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Janet.png"
             },
             {
                 "id": "node_id146",
                 "label": "Nora",
                 "title": "Another child of the Large Family present in the farewell scene that Sara witnesses, contributing to<br>Sara's observation",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/13_One_of_the_Populace/Nora.png"
             }
         ],
         "edges": [
             {
                 "id": "edge_id84",
                 "label": "relationship",
-                "title": "Becky confided in Sara and felt she would die without her, referring to her \u201cBastille\u201d imaginary<br>stories.",
+                "title": "Becky confided in Sara and felt she would die without her, referring to her “Bastille” imaginary<br>stories.",
                 "from": "node_id135",
                 "to": "node_id134",
                 "arrows": "to"
@@ -1941,43 +2088,50 @@
                 "id": "node_id147",
                 "label": "Melchisedec",
                 "title": "A rat living in the attic who observes the events unfolding without understanding them",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/Melchisedec.png"
             },
             {
                 "id": "node_id148",
                 "label": "Sara",
                 "title": "The child referred to in the story, who is friends with Melchisedec and is the subject of the secret<br>plans being made",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/Sara.png"
             },
             {
                 "id": "node_id149",
                 "label": "Ram Dass",
                 "title": "The servant of the Indian gentleman involved in planning something secretive in the attic",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/Ram_Dass.png"
             },
             {
                 "id": "node_id150",
                 "label": "The Indian gentleman's secretary",
                 "title": "The young man assisting Ram Dass and taking notes for the plans they are making",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/The_Indian_gentlemans_secretary.png"
             },
             {
                 "id": "node_id151",
                 "label": "The Indian gentleman",
                 "title": "The person for whom Ram Dass works and whose plans involve Sara, not directly observed in the story<br>but plays a significant role due to his association with Ram Dass and the secretary",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/The_Indian_gentleman.png"
             },
             {
                 "id": "node_id152",
                 "label": "Sahib Carrisford",
                 "title": "Another name referenced for the Indian gentleman who has a plan that involves Sara",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/Sahib_Carrisford.png"
             },
             {
                 "id": "node_id153",
                 "label": "The mistress of the house",
                 "title": "She is mentioned as being \"evil\" and treats Sara poorly, not directly seen but impactful due to her<br>treatment of Sara",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/14_What_Melchisedec_Heard_and_Saw/The_mistress_of_the_house.png"
             }
         ],
         "edges": [
@@ -1992,7 +2146,7 @@
             {
                 "id": "edge_id88",
                 "label": "watch and ensure safety",
-                "title": "\uff65 Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.<br>\uff65 Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.",
+                "title": "･ Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.<br>･ Ram Dass had been slipping across the slates and looking at Sara to ensure her safety.",
                 "from": "node_id149",
                 "to": "node_id148",
                 "arrows": "to"
@@ -2000,7 +2154,7 @@
             {
                 "id": "edge_id89",
                 "label": "aware of neglect",
-                "title": "\uff65 Ram Dass observed that the mistress of the house does not remember that another than herself may be<br>cold.<br>\uff65 Ram Dass observed that the mistress of the house does not remember that another than herself may be<br>cold.",
+                "title": "･ Ram Dass observed that the mistress of the house does not remember that another than herself may be<br>cold.<br>･ Ram Dass observed that the mistress of the house does not remember that another than herself may be<br>cold.",
                 "from": "node_id149",
                 "to": "node_id153",
                 "arrows": "to"
@@ -2008,7 +2162,7 @@
             {
                 "id": "edge_id90",
                 "label": "has plans for",
-                "title": "\uff65 The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to<br>benefit Sara.<br>\uff65 The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to<br>benefit Sara.",
+                "title": "･ The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to<br>benefit Sara.<br>･ The plan being discussed by Ram Dass and the secretary involves Sahib Carrisford and is intended to<br>benefit Sara.",
                 "from": "node_id152",
                 "to": "node_id148",
                 "arrows": "to"
@@ -2023,97 +2177,113 @@
                 "id": "node_id154",
                 "label": "Sara Crewe",
                 "title": "The protagonist, a young girl with a vivid imagination who copes with her misfortunes by imagining<br>herself as a princess",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Sara_Crewe.png"
             },
             {
                 "id": "node_id155",
                 "label": "Ram Dass",
                 "title": "The Indian servant next door who shows kindness to Sara and plays a role in the \"magic\"<br>transformation of her attic",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Ram_Dass.png"
             },
             {
                 "id": "node_id156",
                 "label": "Indian gentleman",
                 "title": "The neighbor whose lost niece is the cause of his loneliness and unhappiness; later revealed to be<br>intimately connected to Sara's past and future",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Indian_gentleman.png"
             },
             {
                 "id": "node_id157",
                 "label": "Miss Minchin",
                 "title": "Headmistress of the seminary where Sara is enrolled; antagonist who mistreats Sara after her fortune<br>changes",
-                "size": 42
+                "size": 42,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Miss_Minchin.png"
             },
             {
                 "id": "node_id158",
                 "label": "Becky",
                 "title": "A servant girl at the seminary, becomes close friends with Sara, bonding over shared hardship",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Becky.png"
             },
             {
                 "id": "node_id159",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's softer and less severe sister, who plays a less prominent role in the boarding school",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Miss_Amelia.png"
             },
             {
                 "id": "node_id160",
                 "label": "Ermengarde",
                 "title": "A student at the seminary and Sara's friend, who is not very clever but kind-hearted",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Ermengarde.png"
             },
             {
                 "id": "node_id161",
                 "label": "Lavinia",
                 "title": "A student at the seminary, possibly the one who betrays Sara's secret to Miss Minchin",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Lavinia.png"
             },
             {
                 "id": "node_id162",
                 "label": "Melchisedec",
                 "title": "A rat living in the attic who keeps Sara company in her loneliness",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Melchisedec.png"
             },
             {
                 "id": "node_id163",
                 "label": "Carmichael",
                 "title": "The search agent for the Indian gentleman's lost niece, mentioned in the context of possibly finding<br>her in Moscow",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Carmichael.png"
             },
             {
                 "id": "node_id164",
                 "label": "Madame Pascal",
                 "title": "Runs the school in Paris from which the little girl was taken, mentioned in connection with<br>Carmichael's search",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Madame_Pascal.png"
             },
             {
                 "id": "node_id165",
                 "label": "Sara's Papa",
                 "title": "Mr. Crewe, Sara's deceased father, whose lost fortune leads to Sara's hardship",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Saras_Papa.png"
             },
             {
                 "id": "node_id166",
                 "label": "Cook",
                 "title": "A staff member at the seminary who dislikes Sara and adds to her misery",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Cook.png"
             },
             {
                 "id": "node_id167",
                 "label": "Lottie",
                 "title": "A younger student whom Sara comforts and aids with her lessons",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Lottie.png"
             },
             {
                 "id": "node_id168",
                 "label": "Guy Clarence",
                 "title": "A member of the Large Family, a child who once gave Sara money",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Guy_Clarence.png"
             },
             {
                 "id": "node_id169",
                 "label": "Becky's policeman",
                 "title": "Mentioned in passing when Becky is accused of stealing",
-                "size": 18
+                "size": 18,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/15_The_Magic/Beckys_policeman.png"
             }
         ],
         "edges": [
@@ -2159,73 +2329,85 @@
                 "id": "node_id170",
                 "label": "Sara Crewe",
                 "title": "The protagonist who is treated poorly at Miss Minchin's seminary but finds mysterious comfort",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Sara_Crewe.png"
             },
             {
                 "id": "node_id171",
                 "label": "Becky",
                 "title": "Sara's friend, a scullery maid at Miss Minchin's seminary",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Becky.png"
             },
             {
                 "id": "node_id172",
                 "label": "Miss Minchin",
                 "title": "The headmistress of the seminary where Sara and Becky live, a harsh and unsympathetic character",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Miss_Minchin.png"
             },
             {
                 "id": "node_id173",
                 "label": "Miss Amelia",
                 "title": "Miss Minchin's softer sister and a character at the seminary",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Miss_Amelia.png"
             },
             {
                 "id": "node_id174",
                 "label": "Lottie",
                 "title": "A younger girl at the seminary who is fond of Sara",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Lottie.png"
             },
             {
                 "id": "node_id175",
                 "label": "Lavinia",
                 "title": "A spiteful schoolgirl at Miss Minchin's seminary, envious and mean towards Sara",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Lavinia.png"
             },
             {
                 "id": "node_id176",
                 "label": "Ermengarde",
                 "title": "Another schoolgirl, Sara's friend at the seminary",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Ermengarde.png"
             },
             {
                 "id": "node_id177",
                 "label": "Jessie",
                 "title": "A schoolgirl at the seminary, she is curious about Sara's sudden change of fortune",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Jessie.png"
             },
             {
                 "id": "node_id178",
                 "label": "Ram Dass",
                 "title": "The Indian gentleman's servant, though not explicitly mentioned, he plays a role in Sara's story",
-                "size": 18
+                "size": 18,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/Ram_Dass.png"
             },
             {
                 "id": "node_id179",
                 "label": "The Indian Gentleman",
                 "title": "A neighbor to Sara and Becky, though not mentioned directly, his household impacts Sara's<br>circumstances",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/The_Indian_Gentleman.png"
             },
             {
                 "id": "node_id180",
                 "label": "The Visitor",
                 "title": "A mysterious benefactor who helps Sara and Becky, serves as a pivotal character in improving Sara's<br>life",
-                "size": 42
+                "size": 42,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/The_Visitor.png"
             },
             {
                 "id": "node_id181",
                 "label": "The Monkey",
                 "title": "An escaped pet from next door that finds temporary refuge with Sara",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/16_The_Visitor/The_Monkey.png"
             }
         ],
         "edges": [
@@ -2263,61 +2445,71 @@
                 "id": "node_id182",
                 "label": "Mr. Carmichael",
                 "title": "A friend of Mr. Carrisford aiding in the search for Captain Crewe's daughter",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Mr_Carmichael.png"
             },
             {
                 "id": "node_id183",
                 "label": "Mr. Carrisford",
                 "title": "The 'Indian gentleman' who is anxiously awaiting news, feeling guilty about Captain Crewe's loss",
-                "size": 42
+                "size": 42,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Mr_Carrisford.png"
             },
             {
                 "id": "node_id184",
                 "label": "Janet",
                 "title": "A member of the Large Family, kind and understanding",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Janet.png"
             },
             {
                 "id": "node_id185",
                 "label": "Donald",
                 "title": "A lively and noisy member of the Large Family",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Donald.png"
             },
             {
                 "id": "node_id186",
                 "label": "Nora",
                 "title": "A member of the Large Family who empathizes with the lost little girl",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Nora.png"
             },
             {
                 "id": "node_id187",
                 "label": "Captain Crewe",
                 "title": "Sara's deceased father who lost his fortune",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Captain_Crewe.png"
             },
             {
                 "id": "node_id188",
                 "label": "Sara",
                 "title": "The 'little un-fairy princess,' a former pupil, now a drudge next door",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Sara.png"
             },
             {
                 "id": "node_id189",
                 "label": "Ram Dass",
                 "title": "Mr. Carrisford's servant who helps in secretly aiding Sara",
-                "size": 39
+                "size": 39,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Ram_Dass.png"
             },
             {
                 "id": "node_id190",
                 "label": "Emily Carew",
                 "title": "A child mistakenly thought to be Captain Crewe's daughter",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Emily_Carew.png"
             },
             {
                 "id": "node_id191",
                 "label": "Large Family",
                 "title": "The family of children trying to cheer up Mr. Carrisford",
-                "size": 15
+                "size": 15,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/17_It_Is_the_Child/Large_Family.png"
             }
         ],
         "edges": [
@@ -2360,7 +2552,7 @@
             {
                 "id": "edge_id101",
                 "label": "share news",
-                "title": "Mr. Carmichael shared the news that the child found wasn't Captain Crewe\u2019s daughter.",
+                "title": "Mr. Carmichael shared the news that the child found wasn't Captain Crewe’s daughter.",
                 "from": "node_id182",
                 "to": "node_id183",
                 "arrows": "to",
@@ -2391,91 +2583,106 @@
                 "id": "node_id192",
                 "label": "Mrs. Carmichael",
                 "title": "A comforting woman who explains to Sara what has happened with Mr. Carrisford",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Mrs_Carmichael.png"
             },
             {
                 "id": "node_id193",
                 "label": "Sara Crewe",
                 "title": "The protagonist who discovers she is not abandoned and has come into fortune and love",
-                "size": 45
+                "size": 45,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Sara_Crewe.png"
             },
             {
                 "id": "node_id194",
                 "label": "Mr. Carrisford",
                 "title": "The sickly \"Indian gentleman\" who is a friend of Sara's late father and seeks to make amends",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Mr_Carrisford.png"
             },
             {
                 "id": "node_id195",
                 "label": "Mr. Carmichael",
                 "title": "The solicitor aiding Mr. Carrisford in finding Sara and dealing with Miss Minchin",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Mr_Carmichael.png"
             },
             {
                 "id": "node_id196",
                 "label": "Janet",
                 "title": "Mrs. Carmichael's daughter who helps in looking after Sara",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Janet.png"
             },
             {
                 "id": "node_id197",
                 "label": "Donald",
                 "title": "Janet's brother who regrets not having recognized Sara sooner",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Donald.png"
             },
             {
                 "id": "node_id198",
                 "label": "Miss Minchin",
                 "title": "The strict and unkind headmistress of Sara's seminary",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Miss_Minchin.png"
             },
             {
                 "id": "node_id199",
                 "label": "Miss Amelia",
                 "title": "The timid sister of Miss Minchin who ultimately stands up to her",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Miss_Amelia.png"
             },
             {
                 "id": "node_id200",
                 "label": "Ermengarde",
                 "title": "Sara's school friend, who is excited about Sara's change in fortune",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Ermengarde.png"
             },
             {
                 "id": "node_id201",
                 "label": "Lottie",
                 "title": "A young pupil at the seminary possibly affected by Sara's change in situation",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Lottie.png"
             },
             {
                 "id": "node_id202",
                 "label": "Jessie",
                 "title": "A pupil at the seminary interested in the developments around Sara",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Jessie.png"
             },
             {
                 "id": "node_id203",
                 "label": "Lavinia",
                 "title": "A pupil at the seminary curious about the commotion involving Sara",
-                "size": 21
+                "size": 21,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Lavinia.png"
             },
             {
                 "id": "node_id204",
                 "label": "Ram Dass",
                 "title": "The servant who helps make Sara comfortable on Mr. Carrisford's orders",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Ram_Dass.png"
             },
             {
                 "id": "node_id205",
                 "label": "Becky",
                 "title": "Another girl from the seminary who is to become Sara's attendant",
-                "size": 24
+                "size": 24,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Becky.png"
             },
             {
                 "id": "node_id206",
                 "label": "Captain Crewe",
                 "title": "Sara's late father, whose perceived lost fortune causes much of the trouble",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/18_I_Tried_Not_to_Be/Captain_Crewe.png"
             }
         ],
         "edges": [
@@ -2506,7 +2713,7 @@
             {
                 "id": "edge_id106",
                 "label": "plan to speak",
-                "title": "\uff65 Mr. Carmichael planned to go and inform Miss Minchin of the changes in Sara's circumstances.<br>\uff65 Mr. Carmichael explained the legal implications of Sara's situation to Miss Minchin.",
+                "title": "･ Mr. Carmichael planned to go and inform Miss Minchin of the changes in Sara's circumstances.<br>･ Mr. Carmichael explained the legal implications of Sara's situation to Miss Minchin.",
                 "from": "node_id195",
                 "to": "node_id198",
                 "arrows": "to"
@@ -2521,85 +2728,99 @@
                 "id": "node_id207",
                 "label": "Anne",
                 "title": "A once hungry and desperate child who was given buns by Sara, becoming an attendant in a bakery<br>showing her gratitude",
-                "size": 28
+                "size": 28,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Anne.png"
             },
             {
                 "id": "node_id208",
                 "label": "Uncle Tom",
                 "title": "Mr. Carrisford's nickname given by Sara; he becomes her guardian and friend",
-                "size": 34
+                "size": 34,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Uncle_Tom.png"
             },
             {
                 "id": "node_id209",
                 "label": "Sara",
                 "title": "The main character, an imaginative and generous girl who transforms from a rich student to a servant<br>and back; her adventures and kindness influence everyone around her",
-                "size": 43
+                "size": 43,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Sara.png"
             },
             {
                 "id": "node_id210",
                 "label": "Indian gentleman",
                 "title": "Mr. Carrisford, who is searching for Sara throughout the story being her benefactor and later close<br>friend",
-                "size": 42
+                "size": 42,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Indian_gentleman.png"
             },
             {
                 "id": "node_id211",
                 "label": "Ram Dass",
                 "title": "Mr. Carrisford's servant who helps in transforming Sara's life and bringing comfort to her when<br>she's in need",
-                "size": 33
+                "size": 33,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Ram_Dass.png"
             },
             {
                 "id": "node_id212",
                 "label": "Large Family",
                 "title": "The children who enjoy Sara's stories and company, finding joy and inspiration from her presence",
-                "size": 27
+                "size": 27,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Large_Family.png"
             },
             {
                 "id": "node_id213",
                 "label": "Melchisedec",
                 "title": "The name mentioned about what Sara could see when climbing on a table; not addressed as a character<br>here but seems to be a rat or pet Sara talks about, importance unclear",
-                "size": 15
+                "size": 15,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Melchisedec.png"
             },
             {
                 "id": "node_id214",
                 "label": "Mrs. Brown",
                 "title": "The owner of the bun shop who is touched by Sara's generosity and later agrees to provide food for<br>hungry children",
-                "size": 31
+                "size": 31,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Mrs_Brown.png"
             },
             {
                 "id": "node_id215",
                 "label": "Mr. Carmichael",
                 "title": "Not much context provided about him but seems to suggest a positive change for Mr. Carrisford",
-                "size": 15
+                "size": 15,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Mr_Carmichael.png"
             },
             {
                 "id": "node_id216",
                 "label": "Lottie",
                 "title": "A member of the Large Family; mentioned in passing as part of the group that spends time with Sara",
-                "size": 15
+                "size": 15,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Lottie.png"
             },
             {
                 "id": "node_id217",
                 "label": "Ermengarde",
                 "title": "A member of the Large Family; mentioned in passing as part of the group that spends time with Sara",
-                "size": 15
+                "size": 15,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Ermengarde.png"
             },
             {
                 "id": "node_id218",
                 "label": "Becky",
                 "title": "Sara's friend and support, who is also lifted from her life of servitude to better circumstances<br>through Sara's transformation",
-                "size": 36
+                "size": 36,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Becky.png"
             },
             {
                 "id": "node_id219",
                 "label": "Boris",
                 "title": "The dog gifted to Sara by the Indian gentleman, embodying the magical bond between them, minimal<br>importance",
-                "size": 22
+                "size": 22,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Boris.png"
             },
             {
                 "id": "node_id220",
                 "label": "Miss Minchin",
                 "title": "The headmistress of the seminary where Sara was mistreated, her perspective shows her displeasure in<br>Sara's changed fortunes",
-                "size": 30
+                "size": 30,
+                "image": "/static/visualizer/summarized_data/146/sample0/images/19_Anne/Miss_Minchin.png"
             }
         ],
         "edges": [
