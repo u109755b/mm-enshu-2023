@@ -124,6 +124,9 @@ $ python manage.py runserver 0.0.0.0:8000
 
 
 ## 本アプリのイメージ
+ホームページ
 ![home_page](sample_images/home_page.png)
+物語ページ
 ![visualizer_page](sample_images/visualizer_page.png)
+関連情報ページ
 ![info_page](sample_images/info_page.png)
