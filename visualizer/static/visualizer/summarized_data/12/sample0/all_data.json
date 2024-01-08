@@ -8,63 +8,72 @@
                 "label": "White Kitten",
                 "title": "One of the two kittens belonging to Dinah; it had been having its face washed by the old cat and was<br>not involved in the earlier mischief caused by the Black Kitten",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/White_Kitten.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/White_Kitten.png",
+                "shape": "image"
             },
             {
                 "id": "node_id1",
                 "label": "Black Kitten",
                 "title": "The mischievous kitten of Dinah that caused the mischief with Alice's ball of worsted",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Black_Kitten.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Black_Kitten.png",
+                "shape": "image"
             },
             {
                 "id": "node_id2",
                 "label": "Dinah",
                 "title": "The old cat who is the mother of the White and Black Kittens and was washing their faces",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Dinah.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Dinah.png",
+                "shape": "image"
             },
             {
                 "id": "node_id3",
                 "label": "Alice",
                 "title": "The protagonist who interacts with the kittens and imagines a series of fantastical scenarios<br>involving them and other characters",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id4",
                 "label": "Red Queen",
                 "title": "A character from \"Through the Looking-Glass\" used by Alice to pretend and imagine; Alice tries to<br>make the Black Kitten impersonate it",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Red_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Red_Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id5",
                 "label": "White Queen",
                 "title": "A character from the Looking-glass world; she expresses concern for the little Lily and is involved<br>in a whimsical passage with Alice, the White King, and other chess pieces",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/White_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/White_Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id6",
                 "label": "Red King",
                 "title": "A Looking-glass character who, along with the Red Queen, is observed to be walking about two and two<br>by Alice",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Red_King.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Red_King.png",
+                "shape": "image"
             },
             {
                 "id": "node_id7",
                 "label": "White King",
                 "title": "A Looking-glass character who is seated sulking among the ashes and interacts with the White Queen<br>and Alice in a nonsensical manner",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/White_King.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/White_King.png",
+                "shape": "image"
             },
             {
                 "id": "node_id8",
                 "label": "Lily",
                 "title": "A White Pawn in the Looking-glass world whom the White Queen calls \"my precious Lily, my imperial<br>kitten\", adding fantasy character-like importance",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Lily.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_I_LookingGlass_house/Lily.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -175,49 +184,56 @@
                 "label": "Alice",
                 "title": "The protagonist who explores the whimsical landscape, interacts with living flowers, and ultimately<br>encounters the Red Queen",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id10",
                 "label": "Tiger-lily",
                 "title": "A flower with the ability to talk and interact with Alice, possesses a headstrong and opinionated<br>character",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Tigerlily.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Tigerlily.png",
+                "shape": "image"
             },
             {
                 "id": "node_id11",
                 "label": "Rose",
                 "title": "Another talking flower that engages with Alice and comments on the other flowers and Alice herself",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Rose.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Rose.png",
+                "shape": "image"
             },
             {
                 "id": "node_id12",
                 "label": "Daisy",
                 "title": "Part of a group of flowers that also talk and interact with Alice, often speaking all at once and<br>adding to the cacophony",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Daisy.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Daisy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id13",
                 "label": "Violet",
                 "title": "A somewhat blunt and outspoken flower that participates in the conversation with Alice",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Violet.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Violet.png",
+                "shape": "image"
             },
             {
                 "id": "node_id14",
                 "label": "Red Queen",
                 "title": "A character from \"Through the Looking-Glass\" who is a queen in the story's chess-themed world,<br>larger than life-size, and interacts with Alice outside the Looking-glass House",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Red_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Red_Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id15",
                 "label": "Larkspur",
                 "title": "A flower that announces the coming of the Red Queen, part of the garden of live flowers",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Larkspur.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_II_The_Garden_of_Live_Flowers/Larkspur.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -288,91 +304,104 @@
                 "label": "Alice",
                 "title": "The main character who is experiencing a fantastical adventure in the Looking-Glass world",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id17",
                 "label": "Guard",
                 "title": "A character responsible for checking tickets in a train Alice encounters",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Guard.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Guard.png",
+                "shape": "image"
             },
             {
                 "id": "node_id18",
                 "label": "Gentleman in white paper",
                 "title": "A character sitting opposite Alice in the train, offers advice about taking a return-ticket",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Gentleman_in_white_paper.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Gentleman_in_white_paper.png",
+                "shape": "image"
             },
             {
                 "id": "node_id19",
                 "label": "Goat",
                 "title": "A passenger next to the gentleman in white who comments on Alice's knowledge",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Goat.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Goat.png",
+                "shape": "image"
             },
             {
                 "id": "node_id20",
                 "label": "Beetle",
                 "title": "Another passenger who suggests Alice might have to travel as luggage",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Beetle.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Beetle.png",
+                "shape": "image"
             },
             {
                 "id": "node_id21",
                 "label": "Elephant",
                 "title": "Initially mistaken by Alice for a large bee",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Elephant.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Elephant.png",
+                "shape": "image"
             },
             {
                 "id": "node_id22",
                 "label": "Voices in chorus",
                 "title": "A collective group of characters that speak to Alice in the train about her lack of a ticket",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Voices_in_chorus.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Voices_in_chorus.png",
+                "shape": "image"
             },
             {
                 "id": "node_id23",
                 "label": "Horse",
                 "title": "A character that reassures others about a jump the train is about to make",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Horse.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Horse.png",
+                "shape": "image"
             },
             {
                 "id": "node_id24",
                 "label": "Gnat",
                 "title": "An insect Alice converses with that poses questions and makes philosophical remarks",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Gnat.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Gnat.png",
+                "shape": "image"
             },
             {
                 "id": "node_id25",
                 "label": "Rocking-horse-fly",
                 "title": "An insect mentioned by the Gnat, part of Alice's fantasized insects",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Rockinghorsefly.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Rockinghorsefly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id26",
                 "label": "Snap-dragon-fly",
                 "title": "A fantasized insect with a body of plum-pudding mentioned by the Gnat",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Snapdragonfly.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Snapdragonfly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id27",
                 "label": "Bread-and-Butterfly",
                 "title": "A fantastical insect with bread-and-butter wings mentioned by the Gnat",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/BreadandButterfly.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/BreadandButterfly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id28",
                 "label": "Fawn",
                 "title": "A creature Alice encounters in a woodland with no names; has a brief friendship with Alice",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Fawn.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_III_LookingGlass_Insects/Fawn.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -507,28 +536,32 @@
                 "label": "Tweedledum",
                 "title": "One of the twin brothers Alice encounters, significant for his interactions and dialogue with Alice<br>and his brother",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/Tweedledum.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/Tweedledum.png",
+                "shape": "image"
             },
             {
                 "id": "node_id30",
                 "label": "Tweedledee",
                 "title": "The other twin brother, who also engages in interactions and dialogue with Alice and Tweedledum,<br>equally significant for similar reasons",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/Tweedledee.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/Tweedledee.png",
+                "shape": "image"
             },
             {
                 "id": "node_id31",
                 "label": "Alice",
                 "title": "The protagonist of the story, central to all interactions and events described",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id32",
                 "label": "The Red King",
                 "title": "A character mentioned as sleeping and dreaming, impacting the narrative by the mention of his dream<br>and Alice's existence within it",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/The_Red_King.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IV_Tweedledum_And_Tweedledee/The_Red_King.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -575,14 +608,16 @@
                 "label": "Alice",
                 "title": "The protagonist who interacts with all other characters",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_V_Wool_and_Water/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_V_Wool_and_Water/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id34",
                 "label": "White Queen",
                 "title": "A character from Lewis Carroll's \"Through the Looking-Glass\" who personifies an aspect of the<br>looking-glass world Alice explores",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_V_Wool_and_Water/White_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_V_Wool_and_Water/White_Queen.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -621,14 +656,16 @@
                 "label": "Humpty Dumpty",
                 "title": "An egg-like character who engages in conversation with Alice and has an inflated sense of self worth<br>due to having spoken to a king",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VI_Humpty_Dumpty/Humpty_Dumpty.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VI_Humpty_Dumpty/Humpty_Dumpty.png",
+                "shape": "image"
             },
             {
                 "id": "node_id36",
                 "label": "Alice",
                 "title": "The protagonist of the story who interacts with Humpty Dumpty and tries to understand his peculiar<br>ways of thinking and speaking",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VI_Humpty_Dumpty/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VI_Humpty_Dumpty/Alice.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -667,42 +704,48 @@
                 "label": "Alice",
                 "title": "A young girl who encounters various fantastic creatures and situations in a nonsensical world",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id38",
                 "label": "White King",
                 "title": "A character in the story who is busy writing in his memorandum-book and discusses soldiers and<br>messengers with Alice",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/White_King.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/White_King.png",
+                "shape": "image"
             },
             {
                 "id": "node_id39",
                 "label": "Haigha",
                 "title": "One of the White King's messengers, characterized by his joyful and happy attitudes, known for his<br>peculiar movements",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Haigha.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Haigha.png",
+                "shape": "image"
             },
             {
                 "id": "node_id40",
                 "label": "Hatta",
                 "title": "Another messenger of the White King who has been in prison and is seen eating and drinking tea<br>during a fight",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Hatta.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Hatta.png",
+                "shape": "image"
             },
             {
                 "id": "node_id41",
                 "label": "Lion",
                 "title": "One of the combatants fighting with the Unicorn for the crown, part of a well-known nursery rhyme<br>and presented as a sleepy and somewhat grumpy character",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Lion.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Lion.png",
+                "shape": "image"
             },
             {
                 "id": "node_id42",
                 "label": "Unicorn",
                 "title": "The other combatant fighting with the Lion, skeptical about the existence of children and accepts<br>Alice after meeting her",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Unicorn.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VII_The_Lion_and_the_Unicorn/Unicorn.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -757,63 +800,72 @@
                 "label": "Alice",
                 "title": "The main character who experiences a series of whimsical and nonsensical events in the story",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id44",
                 "label": "Lion",
                 "title": "A character Alice dreams about",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Lion.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Lion.png",
+                "shape": "image"
             },
             {
                 "id": "node_id45",
                 "label": "Unicorn",
                 "title": "A character Alice dreams about",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Unicorn.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Unicorn.png",
+                "shape": "image"
             },
             {
                 "id": "node_id46",
                 "label": "Anglo-Saxon Messengers",
                 "title": "Characters Alice thinks about in her supposed dream",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/AngloSaxon_Messengers.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/AngloSaxon_Messengers.png",
+                "shape": "image"
             },
             {
                 "id": "node_id47",
                 "label": "Red King",
                 "title": "A character in Alice's thoughts; she ponders if she's in his dream",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Red_King.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Red_King.png",
+                "shape": "image"
             },
             {
                 "id": "node_id48",
                 "label": "Knight in crimson armour",
                 "title": "A character who claims Alice as his prisoner and competes for her",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Knight_in_crimson_armour.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Knight_in_crimson_armour.png",
+                "shape": "image"
             },
             {
                 "id": "node_id49",
                 "label": "Red Knight",
                 "title": "Competes with the White Knight for Alice and battles him",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Red_Knight.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Red_Knight.png",
+                "shape": "image"
             },
             {
                 "id": "node_id50",
                 "label": "White Knight",
                 "title": "Rescues Alice from the Red Knight and exhibits quirky behavior",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/White_Knight.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/White_Knight.png",
+                "shape": "image"
             },
             {
                 "id": "node_id51",
                 "label": "Aged aged man",
                 "title": "A character from the song recited by the White Knight",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Aged_aged_man.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_VIII_Its_my_own_Invention/Aged_aged_man.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -876,21 +928,24 @@
                 "label": "Alice",
                 "title": "A young girl who finds herself in a fantastical world where she becomes a queen and interacts with<br>quirky characters",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IX_Queen_Alice/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IX_Queen_Alice/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id53",
                 "label": "Red Queen",
                 "title": "A domineering and sharp-tongued queen who appears to challenge Alice's understanding and claims",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IX_Queen_Alice/Red_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IX_Queen_Alice/Red_Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id54",
                 "label": "White Queen",
                 "title": "A gentler and more whimsical queen who is also present to perplex Alice with riddles and peculiar<br>behavior",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IX_Queen_Alice/White_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_IX_Queen_Alice/White_Queen.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -977,14 +1032,16 @@
                 "label": "Alice",
                 "title": "A character who is actively shaking another character, demonstrating a key role in the action<br>described",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_X_Shaking/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_X_Shaking/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id56",
                 "label": "Red Queen",
                 "title": "A character being shaken by Alice, responding passively to the action, also focal to the events in<br>this context",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_X_Shaking/Red_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_X_Shaking/Red_Queen.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1023,7 +1080,8 @@
                 "label": "Kitten",
                 "title": "A small young cat, featured in Chapter XI's revelation",
                 "size": 15,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XI_Waking/Kitten.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XI_Waking/Kitten.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1046,42 +1104,48 @@
                 "label": "Alice",
                 "title": "The main character who had a dream about an adventure in the Looking-Glass world and reflects on the<br>nature of her experiences and the characters she encountered",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Alice.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id59",
                 "label": "Kitty",
                 "title": "Alice's kitten, whom Alice addresses and accuses of waking her from her dream, and is also imagined<br>to have been the Red Queen in the dream",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Kitty.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Kitty.png",
+                "shape": "image"
             },
             {
                 "id": "node_id60",
                 "label": "Red Queen",
                 "title": "A chess piece that Alice finds on the table and associates with her kitten as part of her dream<br>experience",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Red_Queen.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Red_Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id61",
                 "label": "White Kitten",
                 "title": "Alice's other kitten, referred to as \"Snowdrop,\" which she pretends is the White Queen during her<br>dream",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/White_Kitten.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/White_Kitten.png",
+                "shape": "image"
             },
             {
                 "id": "node_id62",
                 "label": "Dinah",
                 "title": "Alice's cat, presumed to be the caretaker of the kittens and the one who Alice speculates might have<br>turned into the Humpty Dumpty in her dream",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Dinah.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Dinah.png",
+                "shape": "image"
             },
             {
                 "id": "node_id63",
                 "label": "Red King",
                 "title": "A character from Alice's dream who she thinks might have been dreaming about her, making her<br>question the nature of reality and dreams",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Red_King.png"
+                "image": "/static/visualizer/summarized_data/12/sample0/images/CHAPTER_XII_Which_Dreamed_it/Red_King.png",
+                "shape": "image"
             }
         ],
         "edges": [

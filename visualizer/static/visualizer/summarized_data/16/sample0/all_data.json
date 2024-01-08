@@ -8,49 +8,56 @@
                 "label": "Wendy",
                 "title": "The eldest of the Darling children, focus of her parents' attention and the first to encounter Peter<br>Pan",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id1",
                 "label": "Mrs. Darling",
                 "title": "The mother of the Darling children, romantic and caring figure, concerned about her children's<br>future and safety",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id2",
                 "label": "Mr. Darling",
                 "title": "The father of the Darling children, practical and proud but sometimes insecure about how he is<br>perceived by others",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Mr_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Mr_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id3",
                 "label": "John",
                 "title": "The second child of the Darling family, part of the children's adventures and experiences",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id4",
                 "label": "Michael",
                 "title": "The youngest of the Darling children, depicted as innocent and carefree, also part of the adventures",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id5",
                 "label": "Nana",
                 "title": "The Darling family's nursemaid dog, protector and caretaker of the children",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Nana.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Nana.png",
+                "shape": "image"
             },
             {
                 "id": "node_id6",
                 "label": "Peter Pan",
                 "title": "The mysterious and adventurous boy who appears in the Darling children's lives, central to the<br>unfolding story",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Peter_Pan.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_I_PETER_BREAKS_THROUGH/Peter_Pan.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -121,56 +128,64 @@
                 "label": "Mrs. Darling",
                 "title": "The mother of the Darling children, who is caring and worried about the safety and well-being of her<br>family",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id8",
                 "label": "Nana",
                 "title": "The Darling family's nursemaid dog, who is responsible and protective, particularly of the children",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Nana.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Nana.png",
+                "shape": "image"
             },
             {
                 "id": "node_id9",
                 "label": "Boy's shadow",
                 "title": "The shadow of the boy who leapt through the window, central to a mysterious event in the nursery",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Boys_shadow.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Boys_shadow.png",
+                "shape": "image"
             },
             {
                 "id": "node_id10",
                 "label": "Mr. Darling",
                 "title": "The father of the Darling children, who is concerned with maintaining order and propriety but also<br>struggles with his pride",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Mr_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Mr_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id11",
                 "label": "Liza",
                 "title": "The Darling family’s servant, mentioned in passing but plays a small role in the background",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Liza.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Liza.png",
+                "shape": "image"
             },
             {
                 "id": "node_id12",
                 "label": "Wendy",
                 "title": "The eldest Darling child, who is caring and maternal, emulating her own mother and showing a close<br>bond with her parents",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id13",
                 "label": "John",
                 "title": "A child of the Darling family, who is seen playing and mimicking his father",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id14",
                 "label": "Michael",
                 "title": "The youngest of the Darling children, who resists going to bed and expresses a desire for a mother's<br>love",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_II_THE_SHADOW/Michael.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -217,63 +232,72 @@
                 "label": "Mr. Darling",
                 "title": "Father of the Darling children and husband to Mrs. Darling",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Mr_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Mr_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id16",
                 "label": "Mrs. Darling",
                 "title": "Mother of the Darling children and wife to Mr. Darling",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id17",
                 "label": "Wendy Moira Angela Darling",
                 "title": "The eldest Darling child who is intrigued by Peter Pan",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Wendy_Moira_Angela_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Wendy_Moira_Angela_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id18",
                 "label": "John Darling",
                 "title": "The middle Darling child",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/John_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/John_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id19",
                 "label": "Michael Darling",
                 "title": "The youngest Darling child",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Michael_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Michael_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id20",
                 "label": "Nana",
                 "title": "The Darling family's nursemaid dog",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Nana.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Nana.png",
+                "shape": "image"
             },
             {
                 "id": "node_id21",
                 "label": "Peter Pan",
                 "title": "The boy who never grows up and the protagonist of the story",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Peter_Pan.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Peter_Pan.png",
+                "shape": "image"
             },
             {
                 "id": "node_id22",
                 "label": "Tinker Bell",
                 "title": "A fairy and Peter Pan's companion",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Tinker_Bell.png",
+                "shape": "image"
             },
             {
                 "id": "node_id23",
                 "label": "Liza",
                 "title": "The Darling family's housemaid",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Liza.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_III_COME_AWAY_COME_AWAY/Liza.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -348,35 +372,40 @@
                 "label": "Peter",
                 "title": "The main character who leads others to the Neverland and exhibits a variety of unique and sometimes<br>dangerous behaviors",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id25",
                 "label": "Wendy",
                 "title": "The girl who is concerned about Peter's unconventional ways and cares for her brothers",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id26",
                 "label": "John",
                 "title": "Wendy's brother who is logical and thoughtful about their situation",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id27",
                 "label": "Michael",
                 "title": "The youngest of Wendy's brothers who is involved in the adventure and looks to his siblings for<br>guidance",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id28",
                 "label": "Tinker Bell",
                 "title": "Peter's fairy companion who becomes jealous of Wendy and leads her to danger",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IV_THE_FLIGHT/Tinker_Bell.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -487,105 +516,120 @@
                 "label": "Peter",
                 "title": "The main character and leader of the Lost Boys",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id30",
                 "label": "Tootles",
                 "title": "The most humble and least fortunate of the Lost Boys",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id31",
                 "label": "Nibs",
                 "title": "The debonair member of the Lost Boys",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id32",
                 "label": "Slightly",
                 "title": "The most conceited Lost Boy who cuts whistles and dances",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id33",
                 "label": "Curly",
                 "title": "A member of the Lost Boys known for being a pickle",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id34",
                 "label": "The Twins",
                 "title": "Two indistinguishable members of the Lost Boys",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/The_Twins.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/The_Twins.png",
+                "shape": "image"
             },
             {
                 "id": "node_id35",
                 "label": "Tinker Bell",
                 "title": "A fairy who is bent on mischief and tries to trick Tootles",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Tinker_Bell.png",
+                "shape": "image"
             },
             {
                 "id": "node_id36",
                 "label": "Cecco",
                 "title": "A handsome Italian pirate",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Cecco.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Cecco.png",
+                "shape": "image"
             },
             {
                 "id": "node_id37",
                 "label": "James Hook",
                 "title": "The Captain of the pirates and Peter Pan's archenemy",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/James_Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/James_Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id38",
                 "label": "Smee",
                 "title": "Captain Hook's boatswain who is oddly genial",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Smee.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Smee.png",
+                "shape": "image"
             },
             {
                 "id": "node_id39",
                 "label": "Starkey",
                 "title": "A pirate and member of Captain Hook's crew",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Starkey.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Starkey.png",
+                "shape": "image"
             },
             {
                 "id": "node_id40",
                 "label": "Skylights",
                 "title": "A pirate and member of Captain Hook's crew",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Skylights.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Skylights.png",
+                "shape": "image"
             },
             {
                 "id": "node_id41",
                 "label": "Great Big Little Panther",
                 "title": "A brave of the redskins",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Great_Big_Little_Panther.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Great_Big_Little_Panther.png",
+                "shape": "image"
             },
             {
                 "id": "node_id42",
                 "label": "Tiger Lily",
                 "title": "The princess of the Piccaninny tribe and the most beautiful of the tribe",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Tiger_Lily.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Tiger_Lily.png",
+                "shape": "image"
             },
             {
                 "id": "node_id43",
                 "label": "Wendy",
                 "title": "A character that flies overhead and is targeted by Tinker Bell",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_V_THE_ISLAND_COME_TRUE/Wendy.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -648,70 +692,80 @@
                 "label": "Tootles",
                 "title": "A Lost Boy who mistakenly shot Wendy, thinking she was a bird",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id45",
                 "label": "Wendy",
                 "title": "The girl who the Lost Boys mistake for a bird and whom they also desire to be their mother",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id46",
                 "label": "Peter",
                 "title": "Leader of the Lost Boys, also responsible for bringing Wendy to Neverland",
                 "size": 43,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id47",
                 "label": "Tinker Bell",
                 "title": "A fairy who is jealous of Wendy and calls Tootles a \"Silly ass\"",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Tinker_Bell.png",
+                "shape": "image"
             },
             {
                 "id": "node_id48",
                 "label": "Slightly",
                 "title": "The first to realize Wendy is not a bird and regards her as a lady",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id49",
                 "label": "Nibs",
                 "title": "Another Lost Boy who acknowledges they have killed Wendy",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id50",
                 "label": "Curly",
                 "title": "A Lost Boy who figures out that Peter brought Wendy to be their caretaker",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id51",
                 "label": "The Twins",
                 "title": "Unnamed Lost Boys who react to Wendy's shooting",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/The_Twins.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/The_Twins.png",
+                "shape": "image"
             },
             {
                 "id": "node_id52",
                 "label": "John",
                 "title": "Wendy's brother, who arrives at the end and helps with the house",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id53",
                 "label": "Michael",
                 "title": "Wendy's youngest brother, who also assists with the construction of Wendy's house",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VI_THE_LITTLE_HOUSE/Michael.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -822,77 +876,88 @@
                 "label": "Peter",
                 "title": "The main character who measures the children for hollow trees, fits them to trees, and invents games",
                 "size": 43,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id55",
                 "label": "Wendy",
                 "title": "A girl who enjoys the underground home, takes care of the boys, and is considered Peter’s mother",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id56",
                 "label": "John",
                 "title": "Wendy's brother who had to be altered a little to fit his tree",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id57",
                 "label": "Michael",
                 "title": "The youngest brother who slept differently from the other boys and believed Wendy to be his real<br>mother",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id58",
                 "label": "Hook",
                 "title": "The antagonist who sneered at the boys and is mentioned as a contrast to Peter's knowledge of the<br>trees",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id59",
                 "label": "Tinker Bell",
                 "title": "A fairy with her own private apartment in the underground house, contemptuous of the rest",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Tinker_Bell.png",
+                "shape": "image"
             },
             {
                 "id": "node_id60",
                 "label": "Slightly",
                 "title": "One of the Lost Boys, who competes in answering questions about their past",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id61",
                 "label": "Tootles",
                 "title": "One of the Lost Boys, interacts with Peter during fights",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id62",
                 "label": "Nibs",
                 "title": "One of the Lost Boys, interacts with Peter during fights",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id63",
                 "label": "Twin",
                 "title": "One of the Lost Boys, interacts with Peter during fights",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Twin.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Twin.png",
+                "shape": "image"
             },
             {
                 "id": "node_id64",
                 "label": "Tiger Lily",
                 "title": "An ally of Peter's whom he saved, not detailed in this passage but mentioned",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Tiger_Lily.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VII_THE_HOME_UNDER_THE_GROUND/Tiger_Lily.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -947,91 +1012,104 @@
                 "label": "Peter",
                 "title": "The main character of \"Peter Pan\"; a boy who can fly and never grows up",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id66",
                 "label": "Wendy",
                 "title": "The eldest of the Darling children; travels with Peter Pan to Neverland",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id67",
                 "label": "John",
                 "title": "Wendy's younger brother; one of the Darling children who go to Neverland",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id68",
                 "label": "Mermaids",
                 "title": "Mystical creatures of Neverland that live in the Mermaids' Lagoon",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Mermaids.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Mermaids.png",
+                "shape": "image"
             },
             {
                 "id": "node_id69",
                 "label": "Hook",
                 "title": "The infamous pirate captain and Peter Pan's nemesis",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id70",
                 "label": "Smee",
                 "title": "Hook's loyal boatswain and one of the key pirates",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Smee.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Smee.png",
+                "shape": "image"
             },
             {
                 "id": "node_id71",
                 "label": "Starkey",
                 "title": "Another member of Hook's pirate crew",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Starkey.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Starkey.png",
+                "shape": "image"
             },
             {
                 "id": "node_id72",
                 "label": "Tiger Lily",
                 "title": "The daughter of the Native chief and a princess of her tribe in Neverland",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Tiger_Lily.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Tiger_Lily.png",
+                "shape": "image"
             },
             {
                 "id": "node_id73",
                 "label": "Michael",
                 "title": "The youngest of the Darling children; travels with Peter Pan to Neverland",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id74",
                 "label": "Tootles",
                 "title": "One of the Lost Boys who live with Peter Pan in Neverland",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id75",
                 "label": "Curly",
                 "title": "Another one of the Lost Boys who live with Peter Pan in Neverland",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id76",
                 "label": "The Never bird",
                 "title": "A bird in Neverland, providing assistance to the characters in its own way",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/The_Never_bird.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/The_Never_bird.png",
+                "shape": "image"
             },
             {
                 "id": "node_id77",
                 "label": "The Crocodile",
                 "title": "The creature that pursues Captain Hook throughout Neverland",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/The_Crocodile.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_VIII_THE_MERMAIDS_LAGOON/The_Crocodile.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1130,28 +1208,32 @@
                 "label": "Peter",
                 "title": "The protagonist of the story, often involved in adventures and interactions with other characters",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id79",
                 "label": "The Never bird",
                 "title": "A bird character that tries to assist Peter when he is in trouble, illustrates the theme of<br>helpfulness and compassion within the story",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/The_Never_bird.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/The_Never_bird.png",
+                "shape": "image"
             },
             {
                 "id": "node_id80",
                 "label": "Mrs. Darling",
                 "title": "Referenced in comparison to the Never bird's feelings, an earlier character likely important to the<br>main storyline and Peter's background",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id81",
                 "label": "Wendy",
                 "title": "A character who cares for the other characters and instills order, emphasizing themes of<br>responsibility and maternal care",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_IX_THE_NEVER_BIRD/Wendy.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1214,77 +1296,88 @@
                 "label": "Peter Pan",
                 "title": "The leader of the Lost Boys and the central figure around whom the events revolve",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Peter_Pan.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Peter_Pan.png",
+                "shape": "image"
             },
             {
                 "id": "node_id83",
                 "label": "Wendy Darling",
                 "title": "The mother figure to the Lost Boys and Peter's close companion",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Wendy_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Wendy_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id84",
                 "label": "Tinker Bell",
                 "title": "Peter Pan's feisty fairy companion who exhibits jealousy and a fiery temper",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Tinker_Bell.png",
+                "shape": "image"
             },
             {
                 "id": "node_id85",
                 "label": "Tiger Lily",
                 "title": "The native princess whom Peter saves, becoming his ally",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Tiger_Lily.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Tiger_Lily.png",
+                "shape": "image"
             },
             {
                 "id": "node_id86",
                 "label": "John Darling",
                 "title": "Wendy's brother who looks up to Peter and participates in the adventures",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/John_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/John_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id87",
                 "label": "Michael Darling",
                 "title": "The youngest of the Darling children, who sees Peter as a father figure",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Michael_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Michael_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id88",
                 "label": "The Twins",
                 "title": "Two of the Lost Boys with no distinct characteristics but part of Peter's close-knit group",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/The_Twins.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/The_Twins.png",
+                "shape": "image"
             },
             {
                 "id": "node_id89",
                 "label": "Slightly",
                 "title": "Another one of the Lost Boys, known for his musical talent and inventiveness",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id90",
                 "label": "Curly",
                 "title": "One of the Lost Boys who is part of the family unit under Peter's leadership",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id91",
                 "label": "Nibs",
                 "title": "One of the Lost Boys and a resident of the underground home",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id92",
                 "label": "Tootles",
                 "title": "The humblest and most unfortunate of the Lost Boys, often blamed for things he didn't do",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_X_THE_HAPPY_HOME/Tootles.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1407,91 +1500,104 @@
                 "label": "Wendy",
                 "title": "A storyteller among the children and Peter Pan's companion",
                 "size": 40,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id94",
                 "label": "Michael",
                 "title": "Wendy's younger brother who is at her feet during the story",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id95",
                 "label": "Peter (Peter Pan)",
                 "title": "The leader of the Lost Boys who detests grown-ups and intervenes to ensure Wendy can tell her story",
                 "size": 43,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Peter_Peter_Pan.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Peter_Peter_Pan.png",
+                "shape": "image"
             },
             {
                 "id": "node_id96",
                 "label": "John",
                 "title": "One of Wendy's brothers who engages with the story she tells",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id97",
                 "label": "Mr. Darling",
                 "title": "Character in Wendy's story, the father",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Mr_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Mr_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id98",
                 "label": "Mrs. Darling",
                 "title": "Character in Wendy's story, the mother",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id99",
                 "label": "Nana",
                 "title": "A nurse to Wendy, John, and Michael in the story told by Wendy",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Nana.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Nana.png",
+                "shape": "image"
             },
             {
                 "id": "node_id100",
                 "label": "Tootles",
                 "title": "One of the Lost Boys who shows affection for the concept of a mother's love",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id101",
                 "label": "Nibs",
                 "title": "One of the Lost Boys who questions about the story and mothers",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id102",
                 "label": "Curly",
                 "title": "One of the Lost Boys who expresses a wish about the story's character",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id103",
                 "label": "The first twin",
                 "title": "One of the twins among the Lost Boys who interacts during Wendy's story",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/The_first_twin.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/The_first_twin.png",
+                "shape": "image"
             },
             {
                 "id": "node_id104",
                 "label": "The second twin",
                 "title": "The other twin among the Lost Boys who worries about the story's ending",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/The_second_twin.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/The_second_twin.png",
+                "shape": "image"
             },
             {
                 "id": "node_id105",
                 "label": "Tinker Bell (Tink)",
                 "title": "A fairy in Peter Pan's company who is tasked with helping Wendy",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Tinker_Bell_Tink.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XI_WENDYS_STORY/Tinker_Bell_Tink.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1570,84 +1676,96 @@
                 "label": "Hook",
                 "title": "The pirate captain and antagonist",
                 "size": 43,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id107",
                 "label": "The Piccaninnies",
                 "title": "The native tribe opposing Hook and the pirates",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/The_Piccaninnies.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/The_Piccaninnies.png",
+                "shape": "image"
             },
             {
                 "id": "node_id108",
                 "label": "Tiger Lily",
                 "title": "The leader of the Piccaninnies",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Tiger_Lily.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Tiger_Lily.png",
+                "shape": "image"
             },
             {
                 "id": "node_id109",
                 "label": "Lean Wolf",
                 "title": "A member of the Piccaninnies who perishes in the conflict",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Lean_Wolf.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Lean_Wolf.png",
+                "shape": "image"
             },
             {
                 "id": "node_id110",
                 "label": "Alf Mason",
                 "title": "A pirate who is killed by Lean Wolf",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Alf_Mason.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Alf_Mason.png",
+                "shape": "image"
             },
             {
                 "id": "node_id111",
                 "label": "Geo. Scourie",
                 "title": "A pirate who was killed in the conflict",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Geo_Scourie.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Geo_Scourie.png",
+                "shape": "image"
             },
             {
                 "id": "node_id112",
                 "label": "Chas. Turley",
                 "title": "A pirate who fell to the tomahawk of the Panther",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Chas_Turley.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Chas_Turley.png",
+                "shape": "image"
             },
             {
                 "id": "node_id113",
                 "label": "The Alsatian Foggerty",
                 "title": "A pirate who bit the dust in the battle",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/The_Alsatian_Foggerty.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/The_Alsatian_Foggerty.png",
+                "shape": "image"
             },
             {
                 "id": "node_id114",
                 "label": "The Panther",
                 "title": "A notable member of the Piccaninnies",
                 "size": 28,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/The_Panther.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/The_Panther.png",
+                "shape": "image"
             },
             {
                 "id": "node_id115",
                 "label": "Peter",
                 "title": "The boy whom Hook despises and seeks",
                 "size": 43,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id116",
                 "label": "Wendy",
                 "title": "A girl associated with Peter and the band",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id117",
                 "label": "Smee",
                 "title": "A pirate under Hook's command",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Smee.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XII_THE_CHILDREN_ARE_CARRIED_OFF/Smee.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1734,77 +1852,88 @@
                 "label": "Curly",
                 "title": "One of the boys captured by the pirates",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id119",
                 "label": "Cecco",
                 "title": "A pirate who first catches Curly",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Cecco.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Cecco.png",
+                "shape": "image"
             },
             {
                 "id": "node_id120",
                 "label": "Smee",
                 "title": "A pirate who participates in passing Curly along",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Smee.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Smee.png",
+                "shape": "image"
             },
             {
                 "id": "node_id121",
                 "label": "Starkey",
                 "title": "A pirate involved in the chain of throwing Curly",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Starkey.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Starkey.png",
+                "shape": "image"
             },
             {
                 "id": "node_id122",
                 "label": "Bill Jukes",
                 "title": "A pirate who helps in flinging Curly to another pirate",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Bill_Jukes.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Bill_Jukes.png",
+                "shape": "image"
             },
             {
                 "id": "node_id123",
                 "label": "Noodler",
                 "title": "The last pirate in the chain to toss Curly",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Noodler.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Noodler.png",
+                "shape": "image"
             },
             {
                 "id": "node_id124",
                 "label": "Wendy",
                 "title": "The girl who is treated differently by Hook and is fascinated by him",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id125",
                 "label": "Hook",
                 "title": "The captain of the pirates, known for his ironical politeness and malignant triumph",
                 "size": 43,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id126",
                 "label": "Slightly",
                 "title": "A boy with a secret that makes him vulnerable to Hook's plans",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id127",
                 "label": "Peter",
                 "title": "The main protagonist of the story who is potentially at the mercy of Hook",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id128",
                 "label": "Tink or Tinker Bell",
                 "title": "A fairy who informs Peter of the capture and later saves him by drinking the poisoned medicine",
                 "size": 40,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Tink_or_Tinker_Bell.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIII_DO_YOU_BELIEVE_IN_FAIRIES/Tink_or_Tinker_Bell.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1899,84 +2028,96 @@
                 "label": "Smee",
                 "title": "A member of Captain Hook's pirate crew who sits at the ship's sewing machine",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Smee.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Smee.png",
+                "shape": "image"
             },
             {
                 "id": "node_id130",
                 "label": "Hook",
                 "title": "The pirate captain of the Jolly Roger, the antagonist of the story, deeply troubled and obsessed<br>with good form",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id131",
                 "label": "Peter",
                 "title": "The protagonist, referred to at the end as the one coming aboard the ship, previously removed from<br>Hook’s path",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id132",
                 "label": "Wendy",
                 "title": "A prisoner on the pirate ship, motherly figure to the boys, and despised by the pirates",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id133",
                 "label": "Tootles",
                 "title": "A boy who steps forward to interact with Hook, one of the children on the ship",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id134",
                 "label": "Slightly",
                 "title": "A boy on the ship who responds to Tootles when questioned about being a pirate",
                 "size": 25,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id135",
                 "label": "The first twin",
                 "title": "One of the twins who responds to Tootles' question regarding the desire to be a pirate",
                 "size": 25,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/The_first_twin.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/The_first_twin.png",
+                "shape": "image"
             },
             {
                 "id": "node_id136",
                 "label": "Nibs",
                 "title": "Another boy who was about to be asked by Tootles but is interrupted by Hook",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id137",
                 "label": "John",
                 "title": "One of Wendy’s brothers who is singled out by Hook for having a bit of pluck",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id138",
                 "label": "Michael",
                 "title": "The youngest of Wendy’s brothers who discusses potential pirate names with John",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id139",
                 "label": "Curly",
                 "title": "A boy on the ship who cries out \"Rule Britannia!\" showing loyalty to England",
                 "size": 25,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id140",
                 "label": "The crocodile",
                 "title": "Mentioned at the end, brings fear to Hook, not physically present but its ticking is heard",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/The_crocodile.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XIV_THE_PIRATE_SHIP/The_crocodile.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -2023,91 +2164,104 @@
                 "label": "Peter",
                 "title": "The main protagonist who is mistaken for a crocodile",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id142",
                 "label": "Hook",
                 "title": "The captain of the pirates and Peter's nemesis",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id143",
                 "label": "The crocodile",
                 "title": "The creature that has lost its ticking sound, leading to a case of mistaken identity",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/The_crocodile.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/The_crocodile.png",
+                "shape": "image"
             },
             {
                 "id": "node_id144",
                 "label": "Slightly",
                 "title": "One of the boys and a member of Peter's group, known for counting out loud during conflicts",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id145",
                 "label": "Smee",
                 "title": "Hook's boatswain and one of the pirates, known for his spectacles",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Smee.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Smee.png",
+                "shape": "image"
             },
             {
                 "id": "node_id146",
                 "label": "Wendy",
                 "title": "A girl who is bound to the mast but is ultimately saved by Peter",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id147",
                 "label": "Cecco",
                 "title": "One of Hook's pirates who is sent into the cabin and is later found dead",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Cecco.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Cecco.png",
+                "shape": "image"
             },
             {
                 "id": "node_id148",
                 "label": "Starkey",
                 "title": "A pirate and part of Hook's crew who later escapes and is captured by the redskins",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Starkey.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Starkey.png",
+                "shape": "image"
             },
             {
                 "id": "node_id149",
                 "label": "Ed Teynte",
                 "title": "The quartermaster who is killed as he emerges from the forecastle",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Ed_Teynte.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Ed_Teynte.png",
+                "shape": "image"
             },
             {
                 "id": "node_id150",
                 "label": "Bill Jukes",
                 "title": "A pirate who is found dead in the cabin",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Bill_Jukes.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Bill_Jukes.png",
+                "shape": "image"
             },
             {
                 "id": "node_id151",
                 "label": "Mullins",
                 "title": "One of the pirates, part of Hook's crew",
                 "size": 21,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Mullins.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Mullins.png",
+                "shape": "image"
             },
             {
                 "id": "node_id152",
                 "label": "Noodler",
                 "title": "Another pirate among Hook's crew",
                 "size": 18,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Noodler.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Noodler.png",
+                "shape": "image"
             },
             {
                 "id": "node_id153",
                 "label": "Cookson",
                 "title": "A pirate who suspects the presence of an additional person on board",
                 "size": 18,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Cookson.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XV_HOOK_OR_ME_THIS_TIME/Cookson.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -2230,84 +2384,96 @@
                 "label": "Tootles",
                 "title": "A member of the crew stirring their stumps in the morning",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id155",
                 "label": "Nibs",
                 "title": "First mate on the ship",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id156",
                 "label": "John",
                 "title": "Second mate on the ship",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id157",
                 "label": "Peter",
                 "title": "The captain who lashed himself to the wheel and led the crew",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Peter.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Peter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id158",
                 "label": "Slightly",
                 "title": "A crew member who got punished for looking perplexed",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id159",
                 "label": "Wendy",
                 "title": "The girl creating a suit out of Hook's garments and central to Peter's plans",
                 "size": 40,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id160",
                 "label": "Mrs. Darling",
                 "title": "The mother of Wendy, John, and Michael, who is missed at home",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id161",
                 "label": "Mr. Darling",
                 "title": "The father who feels remorse for his actions and is in the kennel",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Mr_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Mr_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id162",
                 "label": "Nana",
                 "title": "The family's nurse who is a dog, symbolizing loyalty and care",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Nana.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Nana.png",
+                "shape": "image"
             },
             {
                 "id": "node_id163",
                 "label": "Liza",
                 "title": "The servant who scorns Mr. Darling's choice of staying in the kennel",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Liza.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Liza.png",
+                "shape": "image"
             },
             {
                 "id": "node_id164",
                 "label": "Hook",
                 "title": "The pirate from whom Wendy is making Peter's new suit (not actively present in events but mentioned)",
                 "size": 34,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Hook.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Hook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id165",
                 "label": "Michael",
                 "title": "One of the children taken by Peter, and youngest of the three siblings",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVI_THE_RETURN_HOME/Michael.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -2466,105 +2632,120 @@
                 "label": "Wendy",
                 "title": "The girl who grew up and had a family, later becoming a storyteller for her daughter",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Wendy.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Wendy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id167",
                 "label": "Peter Pan",
                 "title": "The boy who never grows up and continues his adventures in Neverland",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Peter_Pan.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Peter_Pan.png",
+                "shape": "image"
             },
             {
                 "id": "node_id168",
                 "label": "Mrs. Darling",
                 "title": "Wendy's mother who adopts the Lost Boys",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Mrs_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Mrs_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id169",
                 "label": "Mr. Darling",
                 "title": "Wendy's father who struggles with the idea of having more children",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Mr_Darling.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Mr_Darling.png",
+                "shape": "image"
             },
             {
                 "id": "node_id170",
                 "label": "The first twin",
                 "title": "A Lost Boy characterized as the proud one",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/The_first_twin.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/The_first_twin.png",
+                "shape": "image"
             },
             {
                 "id": "node_id171",
                 "label": "The twins",
                 "title": "Lost Boys who are part of the group adopted by the Darlings",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/The_twins.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/The_twins.png",
+                "shape": "image"
             },
             {
                 "id": "node_id172",
                 "label": "Nibs",
                 "title": "Another Lost Boy who suggests to lie doubled up to take less space",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Nibs.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Nibs.png",
+                "shape": "image"
             },
             {
                 "id": "node_id173",
                 "label": "Slightly",
                 "title": "A Lost Boy who ends up being put into higher classes at school",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Slightly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Slightly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id174",
                 "label": "Tootles",
                 "title": "A Lost Boy who believes Mr. Darling is not a cypher, later becoming a judge",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Tootles.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Tootles.png",
+                "shape": "image"
             },
             {
                 "id": "node_id175",
                 "label": "Curly",
                 "title": "A Lost Boy, later one of the children going to an office",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Curly.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Curly.png",
+                "shape": "image"
             },
             {
                 "id": "node_id176",
                 "label": "Tinker Bell (Tink)",
                 "title": "Peter's fairy companion who lives with him in the tree top house",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Tinker_Bell_Tink.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Tinker_Bell_Tink.png",
+                "shape": "image"
             },
             {
                 "id": "node_id177",
                 "label": "Michael",
                 "title": "Wendy's younger brother, becomes an engine-driver",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Michael.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Michael.png",
+                "shape": "image"
             },
             {
                 "id": "node_id178",
                 "label": "John",
                 "title": "Wendy's other younger brother, who is mentioned briefly in comparison to another character",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/John.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/John.png",
+                "shape": "image"
             },
             {
                 "id": "node_id179",
                 "label": "Jane",
                 "title": "Wendy's daughter who inherits the tradition of going to Neverland with Peter",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Jane.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Jane.png",
+                "shape": "image"
             },
             {
                 "id": "node_id180",
                 "label": "Margaret",
                 "title": "Jane's daughter and the future \"mother\" to Peter, mentioned in the prediction of a continuing cycle",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Margaret.png"
+                "image": "/static/visualizer/summarized_data/16/sample0/images/Chapter_XVII_WHEN_WENDY_GREW_UP/Margaret.png",
+                "shape": "image"
             }
         ],
         "edges": [

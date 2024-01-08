@@ -8,28 +8,32 @@
                 "label": "Alice",
                 "title": "The main character of the story who falls down a rabbit-hole into a fantastical world",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id1",
                 "label": "Alice's sister",
                 "title": "Alice's older sister who reads a book without pictures or conversations",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/Alices_sister.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/Alices_sister.png",
+                "shape": "image"
             },
             {
                 "id": "node_id2",
                 "label": "White Rabbit",
                 "title": "A talking rabbit with pink eyes and a waistcoat who Alice follows down the rabbit-hole",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/White_Rabbit.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/White_Rabbit.png",
+                "shape": "image"
             },
             {
                 "id": "node_id3",
                 "label": "Dinah",
                 "title": "Alice's cat who she thinks about during her fall down the rabbit-hole",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/Dinah.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_I_Down_the_RabbitHole/Dinah.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -68,42 +72,48 @@
                 "label": "Alice",
                 "title": "The main character, who experiences size changes and adventures in a fantastical world",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id5",
                 "label": "White Rabbit",
                 "title": "A character who Alice follows into Wonderland, prompting her adventures",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/White_Rabbit.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/White_Rabbit.png",
+                "shape": "image"
             },
             {
                 "id": "node_id6",
                 "label": "Duchess",
                 "title": "Mentioned by the White Rabbit, a character that Alice thinks about encountering",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Duchess.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Duchess.png",
+                "shape": "image"
             },
             {
                 "id": "node_id7",
                 "label": "Ada",
                 "title": "A child Alice knows, used by Alice to assert her own identity",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Ada.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Ada.png",
+                "shape": "image"
             },
             {
                 "id": "node_id8",
                 "label": "Mabel",
                 "title": "Another child known to Alice, contrasted with Alice to help her determine her own identity",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Mabel.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Mabel.png",
+                "shape": "image"
             },
             {
                 "id": "node_id9",
                 "label": "Mouse",
                 "title": "A small creature that Alice encounters while swimming in the pool of tears",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Mouse.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_II_The_Pool_of_Tears/Mouse.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -166,77 +176,88 @@
                 "label": "Alice",
                 "title": "A young girl who finds herself talking with animals and attending a whimsical gathering",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id11",
                 "label": "Lory",
                 "title": "A sulky character in the story that has an argument with Alice about its age",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Lory.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Lory.png",
+                "shape": "image"
             },
             {
                 "id": "node_id12",
                 "label": "Mouse",
                 "title": "A character who seems to be an authority among the assembled creatures, leads the meeting, and<br>shares a long history",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Mouse.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Mouse.png",
+                "shape": "image"
             },
             {
                 "id": "node_id13",
                 "label": "Dodo",
                 "title": "A character that suggests a Caucus-race to get everyone dry and adjudicates that everyone has won<br>the race",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Dodo.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Dodo.png",
+                "shape": "image"
             },
             {
                 "id": "node_id14",
                 "label": "Eaglet",
                 "title": "A character that challenges the Dodo's use of complex words and takes part in the Caucus-race",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Eaglet.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Eaglet.png",
+                "shape": "image"
             },
             {
                 "id": "node_id15",
                 "label": "Duck",
                 "title": "Another attendee of the meeting, who inquires about the Mouse's story regarding an archbishop",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Duck.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Duck.png",
+                "shape": "image"
             },
             {
                 "id": "node_id16",
                 "label": "Dinah",
                 "title": "Alice's cat, not directly involved in the scene but mentioned by Alice, causing a stir among the<br>animal attendees",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Dinah.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Dinah.png",
+                "shape": "image"
             },
             {
                 "id": "node_id17",
                 "label": "Old Crab",
                 "title": "A character that speaks to her daughter about maintaining composure",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Old_Crab.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Old_Crab.png",
+                "shape": "image"
             },
             {
                 "id": "node_id18",
                 "label": "Young Crab",
                 "title": "The daughter of the Old Crab who responds snappishly",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Young_Crab.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Young_Crab.png",
+                "shape": "image"
             },
             {
                 "id": "node_id19",
                 "label": "Magpie",
                 "title": "A bird that leaves the gathering early, cautious of night air affecting its throat",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Magpie.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Magpie.png",
+                "shape": "image"
             },
             {
                 "id": "node_id20",
                 "label": "Canary",
                 "title": "A bird that also leaves after becoming alarmed by Alice's mention of her cat",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Canary.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_III_A_CaucusRace_and_a_Long_Tale/Canary.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -335,70 +356,80 @@
                 "label": "White Rabbit",
                 "title": "A nervous character anxious about displeasing the Duchess",
                 "size": 37,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/White_Rabbit.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/White_Rabbit.png",
+                "shape": "image"
             },
             {
                 "id": "node_id22",
                 "label": "Alice",
                 "title": "The young protagonist of the story who experiences the whimsical world around her",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id23",
                 "label": "The Duchess",
                 "title": "Mentioned by the White Rabbit as someone who could have him executed, indicating high status or<br>authority in the story",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/The_Duchess.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/The_Duchess.png",
+                "shape": "image"
             },
             {
                 "id": "node_id24",
                 "label": "Mary Ann",
                 "title": "The White Rabbit mistakes Alice for his housemaid named Mary Ann, demonstrating a class or social<br>hierarchy",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Mary_Ann.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Mary_Ann.png",
+                "shape": "image"
             },
             {
                 "id": "node_id25",
                 "label": "Dinah",
                 "title": "Alice's cat, whom she imagines might send her on errands just as the White Rabbit does, signifying<br>Alice's feelings about her unusual circumstances",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Dinah.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Dinah.png",
+                "shape": "image"
             },
             {
                 "id": "node_id26",
                 "label": "W. RABBIT",
                 "title": "Name on the brass plate which likely stands for the White Rabbit, denoting ownership of the house<br>Alice enters",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/W_RABBIT.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/W_RABBIT.png",
+                "shape": "image"
             },
             {
                 "id": "node_id27",
                 "label": "Pat",
                 "title": "An unseen character the Rabbit speaks to after his fall, suggesting another creature or person in<br>the story",
                 "size": 22,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Pat.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Pat.png",
+                "shape": "image"
             },
             {
                 "id": "node_id28",
                 "label": "Bill",
                 "title": "A character who is instructed to fetch a ladder then later told to go down the chimney, suggesting a<br>subordinate role to the Rabbit",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Bill.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Bill.png",
+                "shape": "image"
             },
             {
                 "id": "node_id29",
                 "label": "Puppy",
                 "title": "An animal Alice encounters which poses a threat due to its size, adding to her challenges",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Puppy.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Puppy.png",
+                "shape": "image"
             },
             {
                 "id": "node_id30",
                 "label": "Large blue caterpillar",
                 "title": "A character Alice meets who is smoking a hookah, adding to the surreal experience Alice is having",
                 "size": 31,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Large_blue_caterpillar.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IV_The_Rabbit_Sends_in_a_Little_Bill/Large_blue_caterpillar.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -509,28 +540,32 @@
                 "label": "Caterpillar",
                 "title": "A languid, sleepy character that converses with Alice offering cryptic advice",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Caterpillar.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Caterpillar.png",
+                "shape": "image"
             },
             {
                 "id": "node_id32",
                 "label": "Alice",
                 "title": "The main character of the story who is undergoing many size changes and seeks to understand her own<br>identity",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id33",
                 "label": "Father William",
                 "title": "A character in a poem recited by Alice who is known for his surprising vitality and agility despite<br>his age",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Father_William.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Father_William.png",
+                "shape": "image"
             },
             {
                 "id": "node_id34",
                 "label": "Pigeon",
                 "title": "A character that mistakes Alice for a serpent and is concerned about protecting its eggs from said<br>serpents",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Pigeon.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_V_Advice_from_a_Caterpillar/Pigeon.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -593,63 +628,72 @@
                 "label": "Alice",
                 "title": "The protagonist of the story who interacts with the footman and other curious characters",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id36",
                 "label": "Fish-Footman",
                 "title": "The footman with a face like a fish who delivers an invitation from the Queen",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/FishFootman.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/FishFootman.png",
+                "shape": "image"
             },
             {
                 "id": "node_id37",
                 "label": "Frog-Footman",
                 "title": "The footman with a face like a frog who interacts with Alice and the Fish-Footman",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/FrogFootman.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/FrogFootman.png",
+                "shape": "image"
             },
             {
                 "id": "node_id38",
                 "label": "The Duchess",
                 "title": "A character who is nursing a baby and throws the baby at Alice, later to play croquet with the Queen",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_Duchess.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_Duchess.png",
+                "shape": "image"
             },
             {
                 "id": "node_id39",
                 "label": "The cook",
                 "title": "The character who is cooking, engages in throwing objects around, and has a blase attitude towards<br>Alice",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_cook.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_cook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id40",
                 "label": "Cheshire Cat",
                 "title": "A grinning cat that engages in conversation with Alice and provides guidance and commentary",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/Cheshire_Cat.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/Cheshire_Cat.png",
+                "shape": "image"
             },
             {
                 "id": "node_id41",
                 "label": "The baby",
                 "title": "Initially cared for by the Duchess but transforms into a pig",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_baby.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_baby.png",
+                "shape": "image"
             },
             {
                 "id": "node_id42",
                 "label": "The Hatter",
                 "title": "Mentioned by the Cheshire Cat as a resident one can visit, implied to be mad",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_Hatter.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_Hatter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id43",
                 "label": "The March Hare",
                 "title": "Mentioned by the Cheshire Cat and the destination Alice considers visiting, implied to be mad",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_March_Hare.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VI_Pig_and_Pepper/The_March_Hare.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -772,28 +816,32 @@
                 "label": "Alice",
                 "title": "The main character who interacts with others at the tea party and expresses confusion and curiosity",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id45",
                 "label": "The March Hare",
                 "title": "A character who hosts the tea party with the Hatter and engages in nonsensical conversations and<br>riddles",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/The_March_Hare.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/The_March_Hare.png",
+                "shape": "image"
             },
             {
                 "id": "node_id46",
                 "label": "The Hatter",
                 "title": "Another host of the tea party known for his eccentric manners, questioning of time, and nonsensical<br>poetry",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/The_Hatter.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/The_Hatter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id47",
                 "label": "The Dormouse",
                 "title": "A character at the tea party who falls asleep frequently and is used as a cushion by the others,<br>also tells a story about three sisters",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/The_Dormouse.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VII_A_Mad_TeaParty/The_Dormouse.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -916,70 +964,80 @@
                 "label": "Alice",
                 "title": "A curious and polite young girl who is the protagonist in the story",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id49",
                 "label": "Five",
                 "title": "One of the gardeners painting the roses red",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Five.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Five.png",
+                "shape": "image"
             },
             {
                 "id": "node_id50",
                 "label": "Seven",
                 "title": "Another gardener who also blames others for mistakes",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Seven.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Seven.png",
+                "shape": "image"
             },
             {
                 "id": "node_id51",
                 "label": "Two",
                 "title": "A gardener who explains why they must paint the roses red",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Two.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/Two.png",
+                "shape": "image"
             },
             {
                 "id": "node_id52",
                 "label": "The Queen of Hearts",
                 "title": "A quick-tempered monarch who commands everyone around her",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Queen_of_Hearts.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Queen_of_Hearts.png",
+                "shape": "image"
             },
             {
                 "id": "node_id53",
                 "label": "The King of Hearts",
                 "title": "A relatively timid character compared to the Queen, somewhat sympathetic towards Alice",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_King_of_Hearts.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_King_of_Hearts.png",
+                "shape": "image"
             },
             {
                 "id": "node_id54",
                 "label": "The White Rabbit",
                 "title": "A nervous and timid character that Alice follows into Wonderland and who interacts with her during<br>the croquet game",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_White_Rabbit.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_White_Rabbit.png",
+                "shape": "image"
             },
             {
                 "id": "node_id55",
                 "label": "The Knave of Hearts",
                 "title": "A character who carries the King's crown and is present during the croquet game",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Knave_of_Hearts.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Knave_of_Hearts.png",
+                "shape": "image"
             },
             {
                 "id": "node_id56",
                 "label": "The Cheshire Cat",
                 "title": "A cat that appears and disappears at will, engages in conversation with Alice, and causes a dispute",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Cheshire_Cat.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Cheshire_Cat.png",
+                "shape": "image"
             },
             {
                 "id": "node_id57",
                 "label": "The Duchess",
                 "title": "A character who is mentioned as under sentence of execution and who is known by the Cheshire Cat",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Duchess.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_VIII_The_Queens_CroquetGround/The_Duchess.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1042,35 +1100,40 @@
                 "label": "Alice",
                 "title": "A young girl who finds herself in whimsical situations in Wonderland, interacting and pondering upon<br>various philosophical concepts and characters",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id59",
                 "label": "Duchess",
                 "title": "A character whom Alice encounters; she engages in conversation regarding morals and societal rules<br>with Alice",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Duchess.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Duchess.png",
+                "shape": "image"
             },
             {
                 "id": "node_id60",
                 "label": "Queen",
                 "title": "A powerful figure in Wonderland who threatens execution; has an encounter with Alice and commands<br>her regarding the Mock Turtle",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Queen.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id61",
                 "label": "Mock Turtle",
                 "title": "A sorrowful character that Alice is led to by the Gryphon; shares his story and reflects on various<br>abstract educational topics",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Mock_Turtle.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Mock_Turtle.png",
+                "shape": "image"
             },
             {
                 "id": "node_id62",
                 "label": "Gryphon",
                 "title": "A creature that accompanies Alice to meet the Mock Turtle and comments on his story and reflects its<br>own perspective",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Gryphon.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_IX_The_Mock_Turtles_Story/Gryphon.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1141,49 +1204,56 @@
                 "label": "Alice",
                 "title": "A curious and polite young girl who finds herself in fantastical situations",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id64",
                 "label": "Mock Turtle",
                 "title": "A character who is a parody of a turtle in the story and seems to be quite melancholic",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Mock_Turtle.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Mock_Turtle.png",
+                "shape": "image"
             },
             {
                 "id": "node_id65",
                 "label": "Gryphon",
                 "title": "A mythical creature who accompanies the Mock Turtle and Alice, showing a somewhat impatient demeanor",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Gryphon.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Gryphon.png",
+                "shape": "image"
             },
             {
                 "id": "node_id66",
                 "label": "Whiting",
                 "title": "A fish mentioned in the Mock Turtle's song, personified to take part in the dance",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Whiting.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Whiting.png",
+                "shape": "image"
             },
             {
                 "id": "node_id67",
                 "label": "Snail",
                 "title": "Another creature mentioned in the song, who refuses to join the dance",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Snail.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Snail.png",
+                "shape": "image"
             },
             {
                 "id": "node_id68",
                 "label": "Porpoise",
                 "title": "Referenced in conversation between Alice and the Mock Turtle as part of a joke",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Porpoise.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Porpoise.png",
+                "shape": "image"
             },
             {
                 "id": "node_id69",
                 "label": "Lobsters",
                 "title": "Invoked as dance partners in the Lobster Quadrille, though not directly interacting characters",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Lobsters.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_X_The_Lobster_Quadrille/Lobsters.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1306,98 +1376,112 @@
                 "label": "King of Hearts",
                 "title": "The judge and ruler presiding over the trial",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/King_of_Hearts.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/King_of_Hearts.png",
+                "shape": "image"
             },
             {
                 "id": "node_id71",
                 "label": "Queen of Hearts",
                 "title": "The monarch who made the tarts that were stolen",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Queen_of_Hearts.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Queen_of_Hearts.png",
+                "shape": "image"
             },
             {
                 "id": "node_id72",
                 "label": "Knave of Hearts",
                 "title": "The accused who allegedly stole the tarts",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Knave_of_Hearts.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Knave_of_Hearts.png",
+                "shape": "image"
             },
             {
                 "id": "node_id73",
                 "label": "White Rabbit",
                 "title": "The herald in the court who reads the accusation",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/White_Rabbit.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/White_Rabbit.png",
+                "shape": "image"
             },
             {
                 "id": "node_id74",
                 "label": "Alice",
                 "title": "A visitor to the court and growing larger, causing disruption",
                 "size": 42,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id75",
                 "label": "Gryphon",
                 "title": "The creature that explains the jurors' actions to Alice",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Gryphon.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Gryphon.png",
+                "shape": "image"
             },
             {
                 "id": "node_id76",
                 "label": "Hatter",
                 "title": "The first witness called during the trial",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Hatter.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Hatter.png",
+                "shape": "image"
             },
             {
                 "id": "node_id77",
                 "label": "March Hare",
                 "title": "Companion to the Hatter, involved in the witness testimony",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/March_Hare.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/March_Hare.png",
+                "shape": "image"
             },
             {
                 "id": "node_id78",
                 "label": "Dormouse",
                 "title": "Another companion to the Hatter and the subject of courtroom commotion",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Dormouse.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Dormouse.png",
+                "shape": "image"
             },
             {
                 "id": "node_id79",
                 "label": "Bill the Lizard",
                 "title": "A juror whose pencil Alice takes away",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Bill_the_Lizard.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Bill_the_Lizard.png",
+                "shape": "image"
             },
             {
                 "id": "node_id80",
                 "label": "Duchess's cook",
                 "title": "A witness at the trial who carries a pepper-box",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Duchesss_cook.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Duchesss_cook.png",
+                "shape": "image"
             },
             {
                 "id": "node_id81",
                 "label": "Soldier",
                 "title": "Guarde who stand beside the Knave",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Soldier.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Soldier.png",
+                "shape": "image"
             },
             {
                 "id": "node_id82",
                 "label": "Officer of the Court",
                 "title": "Individual responsible for suppression during the trial",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Officer_of_the_Court.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Officer_of_the_Court.png",
+                "shape": "image"
             },
             {
                 "id": "node_id83",
                 "label": "Jury",
                 "title": "The twelve creatures writing on slates, determining the verdict",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Jury.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XI_Who_Stole_the_Tarts/Jury.png",
+                "shape": "image"
             }
         ],
         "edges": [
@@ -1500,56 +1584,64 @@
                 "label": "Alice",
                 "title": "The protagonist of the story who inadvertently causes chaos in the court",
                 "size": 45,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Alice.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Alice.png",
+                "shape": "image"
             },
             {
                 "id": "node_id85",
                 "label": "Jurymen",
                 "title": "Members of the jury that Alice knocks over, affecting the trial",
                 "size": 33,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Jurymen.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Jurymen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id86",
                 "label": "King",
                 "title": "The authority presiding over the trial, making important decisions",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/King.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/King.png",
+                "shape": "image"
             },
             {
                 "id": "node_id87",
                 "label": "Lizard (Bill)",
                 "title": "A jurymen character whom Alice puts incorrectly into the jury-box",
                 "size": 27,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Lizard_Bill.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Lizard_Bill.png",
+                "shape": "image"
             },
             {
                 "id": "node_id88",
                 "label": "White Rabbit",
                 "title": "A court attendant and herald who provides evidence at the trial",
                 "size": 36,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/White_Rabbit.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/White_Rabbit.png",
+                "shape": "image"
             },
             {
                 "id": "node_id89",
                 "label": "Queen",
                 "title": "An authority figure who seeks to enforce rules and deliver sentences in the trial",
                 "size": 39,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Queen.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Queen.png",
+                "shape": "image"
             },
             {
                 "id": "node_id90",
                 "label": "Knave",
                 "title": "The accused in the trial, whose guilt or innocence is being determined",
                 "size": 30,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Knave.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Knave.png",
+                "shape": "image"
             },
             {
                 "id": "node_id91",
                 "label": "Alice's Sister",
                 "title": "Appears at the end of the narrative, indicating the adventure was a dream",
                 "size": 24,
-                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Alices_Sister.png"
+                "image": "/static/visualizer/summarized_data/11/sample0/images/CHAPTER_XII_Alices_Evidence/Alices_Sister.png",
+                "shape": "image"
             }
         ],
         "edges": [

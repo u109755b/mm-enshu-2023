@@ -9,7 +9,7 @@
                 "title": "The mother of the three little pigs, she sent them out to seek their fortune due to lack of<br>resources",
                 "size": 19,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Old_Sow.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id1",
@@ -17,7 +17,7 @@
                 "title": "The pig that built a house of straw and was eaten by the Wolf",
                 "size": 31,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/First_Little_Pig.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id2",
@@ -25,7 +25,7 @@
                 "title": "Gave the first little pig straw to build a house",
                 "size": 18,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Man_with_straw.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id3",
@@ -33,7 +33,7 @@
                 "title": "The main antagonist who blew down the houses of straw and furze and ate the first two pigs, failed<br>to destroy the brick house, and was ultimately outsmarted and cooked by the third pig",
                 "size": 43,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Wolf.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id4",
@@ -41,7 +41,7 @@
                 "title": "The pig that built a house of furze and was eaten by the Wolf",
                 "size": 30,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Second_Little_Pig.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id5",
@@ -49,7 +49,7 @@
                 "title": "Gave the second little pig furze to build a house",
                 "size": 18,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Man_with_furze.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id6",
@@ -57,7 +57,7 @@
                 "title": "The clever pig that built a brick house, outsmarted the Wolf multiple times, and eventually killed<br>and ate the Wolf",
                 "size": 43,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Third_Little_Pig.png",
-                "shape": ""
+                "shape": "image"
             },
             {
                 "id": "node_id7",
@@ -65,7 +65,7 @@
                 "title": "Gave the third little pig bricks to build a sturdy house",
                 "size": 18,
                 "image": "/static/visualizer/summarized_data/18155/sample0/images/Chapter1/Man_with_bricks.png",
-                "shape": ""
+                "shape": "image"
             }
         ],
         "edges": [

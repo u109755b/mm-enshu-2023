@@ -11,56 +11,64 @@
                         "label": "Jim Hawkins",
                         "title": "The narrator of the story, who recounts his adventure about Treasure Island",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id1",
                         "label": "Squire Trelawney",
                         "title": "A local gentleman who finances the voyage to Treasure Island",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id2",
                         "label": "Dr. Livesey",
                         "title": "A local doctor and magistrate; a level-headed leader of the expedition to Treasure Island",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id3",
                         "label": "Captain",
                         "title": "The anonymous old seaman who takes up lodging at the Admiral Benbow inn and has a mysterious past<br>involving pirates",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id4",
                         "label": "Jim's father",
                         "title": "The keeper of the Admiral Benbow inn where the old seaman takes up lodging",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Jims_father.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Jims_father.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id5",
                         "label": "Man with the barrow",
                         "title": "The person who brings the captain's sea-chest to the Admiral Benbow inn",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Man_with_the_barrow.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Man_with_the_barrow.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id6",
                         "label": "Seafaring man with one leg",
                         "title": "A person the captain is on the lookout for, causing anxiety for Jim",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Seafaring_man_with_one_leg.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Seafaring_man_with_one_leg.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id7",
                         "label": "Old Taylor",
                         "title": "The gardener Dr. Livesey talks to in the parlour of the Admiral Benbow inn",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Old_Taylor.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_1_1_The_Old_Seadog_at_the_Admiral_Benbow/Old_Taylor.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -147,42 +155,48 @@
                         "label": "Black Dog",
                         "title": "Mysterious and unscrupulous seafaring man with a sinister appearance",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Black_Dog.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Black_Dog.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id9",
                         "label": "Captain (Billy Bones)",
                         "title": "Old seafarer with a rough demeanor and a penchant for rum, associated with piracy",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Captain_Billy_Bones.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Captain_Billy_Bones.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id10",
                         "label": "Doctor Livesey",
                         "title": "Local authority figure and physician, viewed with respect and capable of handling emergencies",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Doctor_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Doctor_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id11",
                         "label": "Jim (Narrator)",
                         "title": "Young protagonist of the narrative, central figure in events and interactions",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Jim_Narrator.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Jim_Narrator.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id12",
                         "label": "Jim's Father",
                         "title": "Ailing parent of Jim, background character affecting Jim's responsibilities",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Jims_Father.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Jims_Father.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id13",
                         "label": "Jim's Mother",
                         "title": "Caretaker of the inn and Jim's father, involved in household matters",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Jims_Mother.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_2_2_Black_Dog_Appears_and_Disappears/Jims_Mother.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -281,49 +295,56 @@
                         "label": "Captain",
                         "title": "A sick and weakened pirate, fearing betrayal and conspiracies against him",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id15",
                         "label": "Jim",
                         "title": "A young boy who serves the Captain and becomes involved in the pirate's troubles",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id16",
                         "label": "Doctor",
                         "title": "The local physician who advises against the Captain's drinking but is cursed by him",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Doctor.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Doctor.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id17",
                         "label": "Black Dog",
                         "title": "A seafaring man with a bad reputation, possibly an old crewmate or enemy",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Black_Dog.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Black_Dog.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id18",
                         "label": "Blind Beggar",
                         "title": "A mysterious and menacing figure seeking the Captain",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Blind_Beggar.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Blind_Beggar.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id19",
                         "label": "Old Flint",
                         "title": "A deceased pirate captain mentioned in tales and memories",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Old_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Old_Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id20",
                         "label": "Jim's Father",
                         "title": "Recently deceased, his death affects Jim and the running of the inn",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Jims_Father.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_3_3_The_Black_Spot/Jims_Father.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -410,56 +431,64 @@
                         "label": "Jim",
                         "title": "The main character who narrates the story, shows courage and determination",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id22",
                         "label": "Mother",
                         "title": "Jim's mother, who is protective and brave in the face of danger",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Mother.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Mother.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id23",
                         "label": "Black Dog",
                         "title": "One of the pirates and a former shipmate of Captain Flint, represents a threat to Jim and his mother",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Black_Dog.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Black_Dog.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id24",
                         "label": "Blind beggar",
                         "title": "Another threatening figure for Jim and his mother, assumed to be a pirate",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Blind_beggar.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Blind_beggar.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id25",
                         "label": "Captain",
                         "title": "The deceased captain whose sea-chest and debts catalyze the events",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id26",
                         "label": "Doctor Livesey",
                         "title": "Person Jim and his mother aim to reach for help, a figure of authority and safety",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Doctor_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Doctor_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id27",
                         "label": "Mrs. Crossley",
                         "title": "A minor character mentioned in relation to a bag, has less importance in the plot",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Mrs_Crossley.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Mrs_Crossley.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id28",
                         "label": "Captain Flint",
                         "title": "A notorious pirate captain, though not present, his reputation casts a shadow over the events",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Captain_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_4_4_The_Seachest/Captain_Flint.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -498,147 +527,168 @@
                         "label": "I",
                         "title": "The narrator of the story",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/I.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/I.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id30",
                         "label": "Blind man (Pew)",
                         "title": "The primary antagonist directing the assault",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Blind_man_Pew.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Blind_man_Pew.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id31",
                         "label": "Enemies",
                         "title": "The group of men arriving to attack, led by Pew",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Enemies.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Enemies.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id32",
                         "label": "Man with the lantern",
                         "title": "The person leading the enemies with illumination",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Man_with_the_lantern.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Man_with_the_lantern.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id33",
                         "label": "Three men",
                         "title": "Members of the attacking party, notably running hand in hand",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Three_men.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Three_men.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id34",
                         "label": "Lantern-bearer",
                         "title": "The person who follows the attackers into the Admiral Benbow",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Lanternbearer.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Lanternbearer.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id35",
                         "label": "Men of the house",
                         "title": "The defenders or inhabitants of the Admiral Benbow",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Men_of_the_house.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Men_of_the_house.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id36",
                         "label": "Bill",
                         "title": "A deceased character referenced in the attack",
                         "size": 31,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Bill.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Bill.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id37",
                         "label": "Fellow from the window",
                         "title": "A person from within the house who communicates with Pew",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Fellow_from_the_window.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Fellow_from_the_window.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id38",
                         "label": "Man searching the captain's body",
                         "title": "One of Pew's crew looking for something on a body",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Man_searching_the_captains_body.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Man_searching_the_captains_body.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id39",
                         "label": "Dirk",
                         "title": "A person whose whistle is a signal to Pew's crew",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Dirk.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Dirk.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id40",
                         "label": "Fellow who had remained below",
                         "title": "The man giving updates about Bill being searched",
                         "size": 31,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Fellow_who_had_remained_below.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Fellow_who_had_remained_below.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id41",
                         "label": "Johnny",
                         "title": "Black Dog, Names called by Pew, likely part of his crew",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Johnny.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Johnny.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id42",
                         "label": "Riders",
                         "title": "The group including a boy from the hamlet and revenue officers",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Riders.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Riders.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id43",
                         "label": "Boy from the hamlet",
                         "title": "A young character who joins the group of riders",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Boy_from_the_hamlet.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Boy_from_the_hamlet.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id44",
                         "label": "Revenue officers",
                         "title": "Officers riding with the boy from the hamlet",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Revenue_officers.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Revenue_officers.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id45",
                         "label": "Supervisor Dance",
                         "title": "An officer in charge who responds to the situation",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Supervisor_Dance.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Supervisor_Dance.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id46",
                         "label": "My mother",
                         "title": "The narrator's mother, involved in the events",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/My_mother.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/My_mother.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id47",
                         "label": "Dr. Livesey",
                         "title": "A gentleman and magistrate mentioned towards the end",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id48",
                         "label": "Dogger",
                         "title": "A person with a good horse who takes up the narrator",
                         "size": 31,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Dogger.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Dogger.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id49",
                         "label": "Squire",
                         "title": "A person mentioned in connection with Dr. Livesey",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_5_5_The_Last_of_the_Blind_Man/Squire.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -809,84 +859,96 @@
                         "label": "Dr. Livesey",
                         "title": "A doctor and a friend of Squire Trelawney who is logical and composed, important in the discovery of<br>the treasure map and organizing the voyage",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id51",
                         "label": "Squire Trelawney",
                         "title": "A wealthy landowner who finances the treasure expedition, eager and adventurous, central to funding<br>and gathering a crew for the trip",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id52",
                         "label": "Mr. Dance",
                         "title": "A supervisor who recounts important narrative information, his actions and information are crucial<br>to the plot though he is a minor character",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Mr_Dance.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Mr_Dance.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id53",
                         "label": "Jim Hawkins",
                         "title": "The protagonist and narrator of the story, a young boy who finds himself at the center of the<br>treasure hunt",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id54",
                         "label": "The Captain",
                         "title": "Referred to as \"The Captain\" in this extract, one who held the treasure map and whose past actions<br>and belongings instigate the treasure hunt",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/The_Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/The_Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id55",
                         "label": "Dogger",
                         "title": "A character assisting Jim with a stirrup, minor role in the story's events",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Dogger.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Dogger.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id56",
                         "label": "The maid",
                         "title": "A character who opens the door and informs about Dr. Livesey's whereabouts, minor role in the<br>story's events",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/The_maid.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/The_maid.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id57",
                         "label": "Billy Bones",
                         "title": "Mentioned through his writings in the book, central to the backstory and treasure map's origins",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Billy_Bones.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Billy_Bones.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id58",
                         "label": "Blackbeard",
                         "title": "Referenced by the squire as a lesser buccaneer compared to Flint, contributes to the lore and<br>reputation of pirates in the story",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Blackbeard.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Blackbeard.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id59",
                         "label": "Flint",
                         "title": "A feared and notorious pirate whose buried treasure is the story's main objective, though not<br>present, his actions heavily influence the plot",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id60",
                         "label": "Redruth",
                         "title": "Joyce, Hunter, Included in Squire Trelawney's list of people to take on the treasure hunt, part of<br>the crew that will support the expedition",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id61",
                         "label": "J.F.",
                         "title": "The initials written on the back of the treasure map, suggesting a link to the map's content,<br>possibly related to Flint",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/JF.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter1_6_6_The_Captains_Papers/JF.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -938,63 +1000,72 @@
                         "label": "Dr. Livesey",
                         "title": "A physician and friend of the narrator who has to visit London",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id63",
                         "label": "Squire Trelawney",
                         "title": "A local squire involved in preparing for a sea voyage",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id64",
                         "label": "Old Redruth",
                         "title": "The gamekeeper in charge of the hall where the narrator stayed",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Old_Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Old_Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id65",
                         "label": "Tom Redruth",
                         "title": "Presumably the same individual as \"Old Redruth,\" a gamekeeper and a poor reader",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Tom_Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Tom_Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id66",
                         "label": "John Trelawney",
                         "title": "Presumably the same individual as \"Squire Trelawney,\" instrumental in acquiring the ship Hispaniola",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/John_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/John_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id67",
                         "label": "Long John Silver",
                         "title": "A one-legged ex-sailor turned cook hired for the ship",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id68",
                         "label": "Blandly",
                         "title": "An old friend of Squire Trelawney who helped acquire the ship Hispaniola",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Blandly.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Blandly.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id69",
                         "label": "Arrow",
                         "title": "A man recruited as a mate for the ship by Long John Silver",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Arrow.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Arrow.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id70",
                         "label": "Mrs. Hawkins",
                         "title": "The narrator's mother, taking care of the inn in the narrator's absence",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Mrs_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_1_7_I_Go_to_Bristol/Mrs_Hawkins.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -1073,63 +1144,72 @@
                         "label": "Squire Trelawney",
                         "title": "A significant character referred by the narrator who provided a note addressed to John Silver",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id72",
                         "label": "John Silver",
                         "title": "Also known as Long John, a pivotal character who is the tavern keeper of the Spy-glass and is<br>identified as the one-legged man and a buccaneer",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id73",
                         "label": "Harry",
                         "title": "A customer or acquaintance of John Silver who was instructed to chase Black Dog",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Harry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Harry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id74",
                         "label": "Black Dog",
                         "title": "A key figure from the narrator's past with the old Benbow and recognized as a buccaneer; he left the<br>tavern without paying his score",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Black_Dog.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Black_Dog.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id75",
                         "label": "Morgan",
                         "title": "An old, grey-haired sailor also referred to by John Silver during the occurrence in the tavern",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Morgan.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id76",
                         "label": "Pew",
                         "title": "Mentioned as a blind man known to the narrator and associated with Black Dog and buccaneers",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Pew.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Pew.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id77",
                         "label": "Ben",
                         "title": "Indicated as someone tasked to aid Harry in pursuing Black Dog and praised for his running ability<br>by John Silver",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Ben.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Ben.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id78",
                         "label": "Dr. Livesey",
                         "title": "A character who appeared at the end and conversed with squire about John Silver, recognizing his<br>suitability",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id79",
                         "label": "Hawkins (Jim Hawkins)",
                         "title": "The primary narrator of the passage who interacts directly with John Silver and is involved in the<br>events at the Spy-glass",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Hawkins_Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_2_8_At_the_Sign_of_the_Spyglass/Hawkins_Jim_Hawkins.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -1228,35 +1308,40 @@
                         "label": "Mr. Arrow",
                         "title": "A brown old sailor with earrings in his ears, a squint, and the mate of the Hispaniola",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Mr_Arrow.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Mr_Arrow.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id81",
                         "label": "Captain Smollett",
                         "title": "The sharp-looking captain of the Hispaniola, who is unhappy with the cruise, the crew, and his<br>officer Mr. Arrow",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id82",
                         "label": "Dr. Livesey",
                         "title": "A doctor who intervenes in the argument and requests clarification from Captain Smollett; he's also<br>one of the organizers of the voyage",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id83",
                         "label": "Squire Trelawney",
                         "title": "The squire who is involved in organizing the voyage and seems to be naive about some details of the<br>expedition",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id84",
                         "label": "Long John Silver",
                         "title": "Referred to by the squire and seems to have a reputation that divides opinion among the characters;<br>his parrot is mentioned allegorically by Captain Smollett",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_3_9_Powder_and_Arms/Long_John_Silver.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -1355,91 +1440,104 @@
                         "label": "Squire",
                         "title": "A friend of the narrator who is wished a good voyage and safe return by his friends",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id86",
                         "label": "Mr. Blandly",
                         "title": "One of the squire’s friends who comes to wish him well",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Mr_Blandly.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Mr_Blandly.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id87",
                         "label": "Boatswain",
                         "title": "The crew member who signals the start of the voyage",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Boatswain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Boatswain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id88",
                         "label": "Barbecue (Long John Silver)",
                         "title": "The ship’s cook who is well-respected, called upon to sing, and eventually plays an essential role",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Barbecue_Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Barbecue_Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id89",
                         "label": "Captain",
                         "title": "Mentioned briefly in reference to past events at the Admiral Benbow and later as singing in the<br>chorus",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id90",
                         "label": "Mr. Arrow",
                         "title": "The first mate who turns out to be a poor officer and falls overboard",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Mr_Arrow.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Mr_Arrow.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id91",
                         "label": "Job Anderson",
                         "title": "The boatswain who serves as the mate after Mr. Arrow’s disappearance",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Job_Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Job_Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id92",
                         "label": "Mr. Trelawney",
                         "title": "Has sea experience and takes watches, making him useful on board",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Mr_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Mr_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id93",
                         "label": "Israel Hands",
                         "title": "Coxswain and a trusted seaman, a confidant of Long John Silver",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Israel_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Israel_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id94",
                         "label": "Cap'n Flint (parrot)",
                         "title": "Long John Silver's parrot named after the famous buccaneer",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Capn_Flint_parrot.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Capn_Flint_parrot.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id95",
                         "label": "Captain Smollett",
                         "title": "The ship captain who has a terse relationship with the squire and runs the ship efficiently",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id96",
                         "label": "Dr. Livesey",
                         "title": "Mentioned as conversing with the captain about ship discipline, likely an important figure but not<br>the main focus in this excerpt",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id97",
                         "label": "Narrator (Hawkins)",
                         "title": "The person recounting the story, whose actions and decisions are central to the plot",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Narrator_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_4_10_The_Voyage/Narrator_Hawkins.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -1610,84 +1708,96 @@
                         "label": "Long John Silver",
                         "title": "A one-legged pirate, quartermaster under Captain Flint, and charismatic manipulator who is planning<br>a mutiny",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id99",
                         "label": "Captain Flint",
                         "title": "The deceased former captain of the pirate ship, whose hidden treasure the crew seeks",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Captain_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Captain_Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id100",
                         "label": "Old Pew",
                         "title": "A blind beggar and former pirate feared for his cruelty, now dead",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Old_Pew.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Old_Pew.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id101",
                         "label": "The youngest hand",
                         "title": "Likely refers to Jim Hawkins, the story’s young protagonist and narrator, who overhears the pirates<br>and learns of their plans",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/The_youngest_hand.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/The_youngest_hand.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id102",
                         "label": "Davis",
                         "title": "A pirate, mentioned by Silver, but not expanded upon in character",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Davis.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Davis.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id103",
                         "label": "Squire Trelawney",
                         "title": "One of the organizers of the treasure voyage, not directly involved in the conversation but targeted<br>by Silver for vengeance",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id104",
                         "label": "Dr. Livesey",
                         "title": "Another organizer of the voyage and a principal character, similarly not active in the conversation<br>but involved in the treasure hunt",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id105",
                         "label": "Captain Smollett",
                         "title": "The captain of the Hispaniola, highly competent and leader of the honest crew members",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id106",
                         "label": "Mr. Arrow",
                         "title": "The ships' former first mate who was destroyed by strong waters (alcohol)",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Mr_Arrow.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Mr_Arrow.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id107",
                         "label": "Dick",
                         "title": "A young and impressionable crew member being corrupted by Silver",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Dick.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Dick.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id108",
                         "label": "Israel Hands",
                         "title": "The coxswain, involved in the conversation with Silver and Dick, plotting against Captain Smollett",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Israel_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Israel_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id109",
                         "label": "Billy Bones",
                         "title": "A deceased pirate who used to be part of Flint's crew, mentioned as an example of ruthlessness",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Billy_Bones.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_5_11_What_I_Heard_in_the_Apple_Barrel/Billy_Bones.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -1758,56 +1868,64 @@
                         "label": "Jim Hawkins",
                         "title": "The protagonist who overhears the pirates' plans and shares the intelligence with his allies",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id111",
                         "label": "Captain Smollett",
                         "title": "The captain of the HISPANIOLA who leads his men and plots to maintain order amidst thoughts of<br>mutiny",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id112",
                         "label": "Dr. Livesey",
                         "title": "A doctor and one of the leaders among the protagonist's group, contributing to their strategies and<br>decision making",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id113",
                         "label": "Long John Silver",
                         "title": "A cunning and duplicitous pirate posing as a ship's cook, central to the unfolding mutiny and<br>conflict",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id114",
                         "label": "Mr. Trelawney",
                         "title": "A gentleman of means who finances the voyage, a key decision-maker among the protagonist's group",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Mr_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Mr_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id115",
                         "label": "Hunter",
                         "title": "A member of the protagonist's crew, present during the rush to the weather bow",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id116",
                         "label": "Job Anderson",
                         "title": "A member of the ship's crew, receives orders from Captain Smollett",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Job_Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Job_Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id117",
                         "label": "Squire",
                         "title": "Presumably Mr. Trelawney, who participates in decisions regarding the management of the ship and the<br>journey",
                         "size": 15,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter2_6_12_Council_of_War/Squire.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -1983,56 +2101,64 @@
                         "label": "Jim",
                         "title": "The first-person narrator and one of the main characters of the story",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id119",
                         "label": "Anderson",
                         "title": "A member of the ship's crew in command of the narrator's boat",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id120",
                         "label": "Long John (Silver)",
                         "title": "A cunning and strategic one-legged pirate and the main antagonist",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id121",
                         "label": "The doctor",
                         "title": "A ship's officer, likely the ship's surgeon, who remarks about the possibility of disease on the<br>island",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_doctor.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_doctor.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id122",
                         "label": "The captain",
                         "title": "The leader of the honest crew on the ship, devising strategies to counter the threat of mutiny",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id123",
                         "label": "The squire",
                         "title": "Another officer or gentleman on board who is involved in the decision-making process with the<br>captain",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id124",
                         "label": "Hunter",
                         "title": "Joyce, and Redruth, Mentioned as 'sure men', part of the trustworthy group of the ship's crew",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id125",
                         "label": "The honest hands",
                         "title": "Crew members who are loyal and not part of the mutiny",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_honest_hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_1_13_How_My_Shore_Adventure_Began/The_honest_hands.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2079,28 +2205,32 @@
                         "label": "I (Narrator)",
                         "title": "The protagonist of the story who is exploring the island",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/I_Narrator.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/I_Narrator.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id127",
                         "label": "Long John Silver",
                         "title": "A character who converses with another crew member, possibly a leader or person of influence",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id128",
                         "label": "Tom",
                         "title": "Another crew member who confronts Silver and is ultimately killed by him",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/Tom.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/Tom.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id129",
                         "label": "Alan",
                         "title": "A crew member mentioned by Silver, likely already dead at the time of mention",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/Alan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_2_14_The_First_Blow/Alan.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2155,42 +2285,48 @@
                         "label": "Ben Gunn",
                         "title": "A marooned man who lived alone on the island for three years and knows about Flint's treasure",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id131",
                         "label": "Jim",
                         "title": "The protagonist and narrator of the story who interacts with Ben Gunn",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id132",
                         "label": "Silver (Long John Silver)",
                         "title": "A one-legged cook and ringleader of mutineers, central to Jim's fears",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Silver_Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Silver_Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id133",
                         "label": "Flint",
                         "title": "A deceased pirate and former owner of the treasure, important to the backstory and central to the<br>plot",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id134",
                         "label": "Billy Bones",
                         "title": "The former mate of Flint mentioned in Ben Gunn's story, plays a role in the backstory",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Billy_Bones.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Billy_Bones.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id135",
                         "label": "Squire",
                         "title": "A character Jim mentions as liberal and potentially helpful, not directly interacting in the passage",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter3_3_15_The_Man_of_the_Island/Squire.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2246,63 +2382,72 @@
                         "label": "Doctor",
                         "title": "A ship's doctor involved in the narrative and decisions about the ship's safety",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Doctor.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Doctor.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id137",
                         "label": "Hunter",
                         "title": "A crew member who accompanies the doctor to shore",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id138",
                         "label": "Jim Hawkins",
                         "title": "A young protagonist who slips away onto the shore, prompting concern for his safety",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id139",
                         "label": "Captain",
                         "title": "The leader of the expedition who participates in the planning and execution of tactical decisions",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id140",
                         "label": "Squire",
                         "title": "A character involved in the cabin discussions and concerned about the consequences",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id141",
                         "label": "Redruth",
                         "title": "A character assigned to the gallery with muskets, presumably for defense",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id142",
                         "label": "Joyce",
                         "title": "A character left to guard stores while others transport supplies",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Joyce.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Joyce.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id143",
                         "label": "Mr. Hands (Coxswain)",
                         "title": "The principal man aboard the ship, engaging with the captain in a tense standoff",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Mr_Hands_Coxswain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Mr_Hands_Coxswain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id144",
                         "label": "Abraham Gray",
                         "title": "A character who initially does not respond but eventually joins the captain and allies,<br>demonstrating a shift in loyalty or conscience",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Abraham_Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_1_16_Narrative_Continued_by_the_Doctor_How_the_Ship_Was_Abandoned/Abraham_Gray.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2349,63 +2494,72 @@
                         "label": "Trelawney",
                         "title": "A grown man and presumably competent with firearms",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id146",
                         "label": "Redruth",
                         "title": "A grown man, over six feet tall and one of the members of the boat crew",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id147",
                         "label": "The captain",
                         "title": "Leader of the group on the boat, giving commands and making decisions",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/The_captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/The_captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id148",
                         "label": "The man Gray",
                         "title": "A member of the boat crew, he offers useful observations regarding the current",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/The_man_Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/The_man_Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id149",
                         "label": "Israel Hands",
                         "title": "A \"brandy-faced rascal\" involved with the antagonists and handling a gun",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Israel_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Israel_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id150",
                         "label": "The squire",
                         "title": "Acknowledged as the best shot among the crew and tasked with firing a gun",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/The_squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/The_squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id151",
                         "label": "Jim",
                         "title": "The narrator of the passage and involved in the steering of the boat",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id152",
                         "label": "Hunter",
                         "title": "Mentioned as steady and presumably part of the group associated with the boat crew",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id153",
                         "label": "Joyce",
                         "title": "Described as a pleasant, polite man, but his ability in a fight is questioned",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Joyce.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_2_17_Narrative_Continued_by_the_Doctor_The_Jollyboats_Last_Trip/Joyce.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2452,70 +2606,80 @@
                         "label": "Doctor Livesey",
                         "title": "Ship's doctor and one of the protagonists",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Doctor_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Doctor_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id155",
                         "label": "Squire Trelawney",
                         "title": "Owner of the expedition and one of the protagonists",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id156",
                         "label": "Captain Smollett",
                         "title": "Master of the ship and one of the protagonists",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id157",
                         "label": "Abraham Gray",
                         "title": "Carpenter's mate and ally of the protagonists",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Abraham_Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Abraham_Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id158",
                         "label": "John Hunter",
                         "title": "Owner's servant and ally of the protagonists",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/John_Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/John_Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id159",
                         "label": "Richard Joyce",
                         "title": "Owner's servant and ally of the protagonists",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Richard_Joyce.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Richard_Joyce.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id160",
                         "label": "Job Anderson",
                         "title": "Boatswain and leading the mutineers",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Job_Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Job_Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id161",
                         "label": "Tom Redruth",
                         "title": "Owner's servant and one of the first victims in the conflict",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Tom_Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Tom_Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id162",
                         "label": "Jim Hawkins",
                         "title": "Cabin-boy and the story's young protagonist",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id163",
                         "label": "Silver",
                         "title": "Mutineer and key antagonist",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_3_18_Narrative_Continued_by_the_Doctor_End_of_the_First_Days_Fighting/Silver.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2626,77 +2790,88 @@
                         "label": "Jim Hawkins",
                         "title": "The story's protagonist and narrator",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id165",
                         "label": "Ben Gunn",
                         "title": "A marooned sailor who provides crucial information to Jim",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id166",
                         "label": "Silver",
                         "title": "A pirate leader whom Ben Gunn references as genteel",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id167",
                         "label": "Captain Smollett",
                         "title": "The captain of Jim's group, authoritative and practical",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id168",
                         "label": "Doctor (Dr. Livesey)",
                         "title": "A sensible and brave gentleman who serves as a leader and medic",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Doctor_Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Doctor_Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id169",
                         "label": "Squire (Squire Trelawney)",
                         "title": "A companion of Jim's group, perhaps the one Ben Gunn wishes to speak to",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Squire_Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Squire_Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id170",
                         "label": "Gray",
                         "title": "A new member of Captain Smollett's group with a bandaged face",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id171",
                         "label": "Tom Redruth",
                         "title": "A deceased member of Captain Smollett's group",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Tom_Redruth.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Tom_Redruth.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id172",
                         "label": "Hunter",
                         "title": "A member of Captain Smollett's watch group",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id173",
                         "label": "Joyce",
                         "title": "A member of Captain Smollett's watch group",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Joyce.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Joyce.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id174",
                         "label": "Flint",
                         "title": "A notorious pirate referenced by Ben Gunn, not directly involved in the present action",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_4_19_Narrative_Resumed_by_Jim_Hawkins_The_Garrison_in_the_Stockade/Flint.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2759,70 +2934,80 @@
                         "label": "Silver",
                         "title": "A pirate and mutineer who is negotiating terms of surrender with the captain",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id176",
                         "label": "Captain",
                         "title": "The leader of the protagonists who is handling negotiations with the pirates",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id177",
                         "label": "Lieutenant",
                         "title": "Silver's associate who accompanies him with a flag of truce",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Lieutenant.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Lieutenant.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id178",
                         "label": "Dr. Livesey",
                         "title": "A member of the protagonists' group, assigned to watch the north side",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id179",
                         "label": "Jim",
                         "title": "A young member of the protagonists' group, assigned to watch the east side",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id180",
                         "label": "Gray",
                         "title": "A member of the protagonists' group, assigned to watch the west side",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id181",
                         "label": "Cap’n Smollett",
                         "title": "The captain of the protagonist group who engages in strategic discussions with Silver, also referred<br>to as the Captain",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Capn_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Capn_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id182",
                         "label": "Dr. Livesey",
                         "title": "A prominent member of the protagonists who is involved in the strategic watch, same as Dr. Livesey<br>mentioned earlier, integrated for summary purposes",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id183",
                         "label": "Ben Gunn",
                         "title": "A character referred to in retrospect for his actions against the pirates",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id184",
                         "label": "Abe Gray",
                         "title": "One of the captain's men whose name is invoked in a bluff by Silver",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Abe_Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_5_20_Silvers_Embassy/Abe_Gray.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -2909,77 +3094,88 @@
                         "label": "Silver",
                         "title": "A one-legged pirate, often considered cunning and treacherous",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id186",
                         "label": "Captain (Captain Smollett)",
                         "title": "The captain of the ship and a natural leader, who directs the crew in defense tactics",
                         "size": 43,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Captain_Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Captain_Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id187",
                         "label": "Gray",
                         "title": "A crew member loyal to the captain and noted for his duty and reliability",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id188",
                         "label": "Mr. Trelawney (Squire Trelawney)",
                         "title": "A squire involved in the events, known for his shooting skills",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Mr_Trelawney_Squire_Trelawney.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Mr_Trelawney_Squire_Trelawney.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id189",
                         "label": "Doctor (Dr. Livesey)",
                         "title": "A doctor who serves on the captain's side, important for his medical expertise and participation in<br>defense",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Doctor_Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Doctor_Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id190",
                         "label": "Hunter",
                         "title": "A member of the captain's crew, takes orders about the defensive stance of the house",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id191",
                         "label": "Joyce",
                         "title": "A crew member who is attentive and acts according to the captain's orders",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Joyce.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Joyce.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id192",
                         "label": "Hawkins (referred to as \"I\")",
                         "title": "The story's protagonist, serves an assisting role in the defense, and is involved in the action",
                         "size": 43,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Hawkins_referred_to_as_I.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Hawkins_referred_to_as_I.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id193",
                         "label": "Job Anderson",
                         "title": "The boatswain and a mutineer, he leads the pirate attack against the captain's crew",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Job_Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/Job_Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id194",
                         "label": "The Doctor's assailant",
                         "title": "A pirate attacking the doctor during the battle, importance comes from his direct assault on one of<br>the key defenders",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/The_Doctors_assailant.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/The_Doctors_assailant.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id195",
                         "label": "The man with the red night-cap",
                         "title": "A mutineer participating in the attack on the house, notable for his swift takeover attempt",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/The_man_with_the_red_nightcap.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter4_6_21_The_Attack/The_man_with_the_red_nightcap.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3095,77 +3291,88 @@
                         "label": "Captain Smollett",
                         "title": "The captain with grievous wounds but not fatally injured, expecting to recover",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id197",
                         "label": "Squire",
                         "title": "A character involved in cooking with others and consulting with Dr. Livesey",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id198",
                         "label": "Doctor Livesey",
                         "title": "A doctor and a responsible individual attending to patients and making key decisions",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Doctor_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Doctor_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id199",
                         "label": "Hunter",
                         "title": "A wounded man who never regains consciousness and dies",
                         "size": 31,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Hunter.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Hunter.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id200",
                         "label": "Mutineer",
                         "title": "A pirate who dies from his injuries after Doctor Livesey's attempted surgery",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Mutineer.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Mutineer.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id201",
                         "label": "Anderson",
                         "title": "The person who shot Captain Smollett first mentioned by allusion",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id202",
                         "label": "Ben Gunn",
                         "title": "A person the narrator suspects Doctor Livesey has gone to see, indicated to have a hidden boat",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id203",
                         "label": "Gray",
                         "title": "A companion to the narrator, engaging in conversation and consulting",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id204",
                         "label": "Captain Flint",
                         "title": "A parrot associated with screaming and recognized by its plumage",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Captain_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Captain_Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id205",
                         "label": "Silver",
                         "title": "A character recognized at a distance steering one of the gigs",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id206",
                         "label": "Man with the red cap",
                         "title": "A character seen by the narrator interacting with Silver, earlier spotted on the palisade",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Man_with_the_red_cap.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_1_22_How_My_Sea_Adventure_Began/Man_with_the_red_cap.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3236,42 +3443,48 @@
                         "label": "Ben Gunn",
                         "title": "A former member of Flint's crew who has admitted to difficulties handling the coracle",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id208",
                         "label": "Israel Hands",
                         "title": "Flint’s former gunner currently in the cabin of the HISPANIOLA drunk and quarreling",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Israel_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Israel_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id209",
                         "label": "Friend of the red night-cap",
                         "title": "An unidentified individual involved in a drunken quarrel with Israel Hands, likely another pirate",
                         "size": 31,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Friend_of_the_red_nightcap.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Friend_of_the_red_nightcap.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id210",
                         "label": "Singing voice",
                         "title": "An unseen character singing a dreary sailor's song by the campfire",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Singing_voice.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Singing_voice.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id211",
                         "label": "Flint",
                         "title": "A notorious pirate captain mentioned in context with Israel Hands and the history of the HISPANIOLA<br>crew",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id212",
                         "label": "Creator of the Home and the Old Admiral Benbow Dream",
                         "title": "Likely the narrator of the story dreaming of home, possibly Jim Hawkins",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Creator_of_the_Home_and_the_Old_Admiral_Benbow_Dream.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_2_23_The_Ebbtide_Runs/Creator_of_the_Home_and_the_Old_Admiral_Benbow_Dream.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3318,42 +3531,48 @@
                         "label": "Coracle",
                         "title": "The small, lightweight boat that the protagonist navigates",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Coracle.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Coracle.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id214",
                         "label": "Spy-glass",
                         "title": "Reference to a hill that the protagonist sees upon awakening; not an acting character",
                         "size": 15,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Spyglass.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Spyglass.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id215",
                         "label": "Sea lions",
                         "title": "Initially thought to be threatening creatures by the protagonist, later realized to be harmless",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Sea_lions.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Sea_lions.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id216",
                         "label": "Silver",
                         "title": "A character referenced by the protagonist as having given information about the current; likely an<br>influential figure from earlier in the story",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id217",
                         "label": "Captain Smollett",
                         "title": "Implied to be a competent captain based on the protagonist's thoughts; not present in the current<br>action but influential in background",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id218",
                         "label": "HISPANIOLA",
                         "title": "The ship the protagonist seeks to reach; personified slightly but not a character",
                         "size": 15,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/HISPANIOLA.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_3_24_The_Cruise_of_the_Coracle/HISPANIOLA.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3400,56 +3619,64 @@
                         "label": "Red-cap",
                         "title": "A deceased watchman",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Redcap.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Redcap.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id220",
                         "label": "Israel Hands",
                         "title": "A wounded and weakened shipmate",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Israel_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Israel_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id221",
                         "label": "Mr. Hands",
                         "title": "Same as Israel Hands, used by the narrator to sarcastically assert his own authority",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Mr_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Mr_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id222",
                         "label": "Captain Silver",
                         "title": "The absent figure of authority and power, symbolized by the flag that is taken down",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Captain_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Captain_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id223",
                         "label": "O’Brien",
                         "title": "The dead man noted for his Irish heritage",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/OBrien.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/OBrien.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id224",
                         "label": "Cap’n Hawkins",
                         "title": "The narrator, who has assumed command of the ship",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Capn_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Capn_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id225",
                         "label": "Captain Kidd",
                         "title": "Mentioned in passing as part of a location reference, not as significant as others",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Captain_Kidd.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Captain_Kidd.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id226",
                         "label": "Coxswain",
                         "title": "Unnamed character, likely Israel Hands, who the narrator observes derisively",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Coxswain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_4_25_I_Strike_the_Jolly_Roger/Coxswain.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3536,21 +3763,24 @@
                         "label": "Israel Hands",
                         "title": "The coxswain on the ship Hispaniola, involved in a tense and dangerous confrontation with the<br>narrator",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_5_26_Israel_Hands/Israel_Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_5_26_Israel_Hands/Israel_Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id228",
                         "label": "Jim (Cap’n Hawkins)",
                         "title": "The narrator of the passage and a young crew member on the ship Hispaniola, playing a pivotal role<br>in the power struggle with Israel Hands",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_5_26_Israel_Hands/Jim_Capn_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_5_26_Israel_Hands/Jim_Capn_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id229",
                         "label": "O’Brien",
                         "title": "A deceased shipmate mentioned as a subject in the conversation between Israel Hands and Jim",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_5_26_Israel_Hands/OBrien.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_5_26_Israel_Hands/OBrien.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3613,42 +3843,48 @@
                         "label": "Hands",
                         "title": "A member of the ship's crew who falls overboard and drowns",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id231",
                         "label": "O’Brien",
                         "title": "A dead man aboard the ship, presumably another crew member, disposed of by the narrator",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/OBrien.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/OBrien.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id232",
                         "label": "Ben Gunn",
                         "title": "A marooned individual encountered by the narrator",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id233",
                         "label": "Captain Smollett",
                         "title": "The captain of the narrator’s ship, not directly involved in the action but referenced",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id234",
                         "label": "Silver",
                         "title": "Leader of the buccaneers, also called Long John Silver, significant in the story's conflict",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id235",
                         "label": "Captain Flint",
                         "title": "Silver’s green parrot, known for repetitively squawking \"Pieces of eight!\"",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Captain_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter5_6_27_Pieces_of_Eight/Captain_Flint.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3700,98 +3936,112 @@
                         "label": "Jim Hawkins",
                         "title": "The protagonist and narrator of the story, a young boy who finds himself in the middle of a<br>treacherous adventure with pirates",
                         "size": 43,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id237",
                         "label": "Captain Silver",
                         "title": "Also known as \"Long John Silver\", the cunning and charming one-legged pirate, antagonist of the<br>story and leader of the pirates",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Captain_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Captain_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id238",
                         "label": "Tom Morgan",
                         "title": "A pirate and one of Long John Silver's crew members, a minor character but involved in the pirate's<br>mutiny",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Tom_Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Tom_Morgan.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id239",
                         "label": "Captain Smollett",
                         "title": "The honorable and disciplined captain of the voyage, a figure of authority and integrity, absence<br>mentioned",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id240",
                         "label": "Doctor Livesey",
                         "title": "A doctor and one of the leaders of the honest party against the pirates, skilled and resourceful,<br>only referred to in the story",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Doctor_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Doctor_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id241",
                         "label": "Dick",
                         "title": "A young pirate and crew member, minor character",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Dick.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Dick.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id242",
                         "label": "Parrot",
                         "title": "Long John Silver's parrot, a minor but iconic presence in the story, often repeating phrases like<br>\"Pieces of eight!\"",
                         "size": 22,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Parrot.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Parrot.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id243",
                         "label": "The pirates (as a group)",
                         "title": "The group of buccaneers following Long John Silver, their actions drive much of the plot",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/The_pirates_as_a_group.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/The_pirates_as_a_group.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id244",
                         "label": "The man with the blood-stained bandage",
                         "title": "A wounded pirate, likely one previously injured during the story",
                         "size": 19,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/The_man_with_the_bloodstained_bandage.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/The_man_with_the_bloodstained_bandage.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id245",
                         "label": "Black Dog",
                         "title": "A pirate who previously appeared in the story, not directly in this extract but referenced",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Black_Dog.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Black_Dog.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id246",
                         "label": "Billy Bones",
                         "title": "A former pirate, the original owner of the treasure map, mentioned in relation to past events",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Billy_Bones.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Billy_Bones.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id247",
                         "label": "Hands",
                         "title": "A pirate mentioned in Jim's speech, considered dead and not directly active in this extract",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id248",
                         "label": "O’Brien",
                         "title": "A pirate mentioned by Silver, presumed to have turned against their treacherous plans, not directly<br>active in this extract",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/OBrien.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/OBrien.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id249",
                         "label": "The old mahogany-faced seaman (Morgan)",
                         "title": "Prospectively the same as Tom Morgan, mentioned in connection with recognizing Black Dog",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/The_old_mahoganyfaced_seaman_Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_1_28_In_the_Enemys_Camp/The_old_mahoganyfaced_seaman_Morgan.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -3890,77 +4140,88 @@
                         "label": "Buccaneer",
                         "title": "One of the council members who re-enters the house to ask for a torch",
                         "size": 19,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Buccaneer.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Buccaneer.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id251",
                         "label": "Silver",
                         "title": "The sea-cook and a central figure in the mutiny, acting as a leader to the group",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id252",
                         "label": "Jim",
                         "title": "The narrator and main character observing the events, involved in the conflict and decisions",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id253",
                         "label": "Emmisary",
                         "title": "The buccaneer assigned to retrieve the torch from the house",
                         "size": 25,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Emmisary.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Emmisary.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id254",
                         "label": "Men with Knife and Book",
                         "title": "Likely mutineers conspiring with the torch and possibly casting the black spot",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Men_with_Knife_and_Book.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Men_with_Knife_and_Book.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id255",
                         "label": "George",
                         "title": "Challenges Silver's authority and criticizes his decisions, central in the discussion of the black<br>spot",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/George.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/George.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id256",
                         "label": "Dick",
                         "title": "Identified as the person who defaced the Bible, which held significance among the crew",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Dick.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Dick.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id257",
                         "label": "Long man with yellow eyes",
                         "title": "Challenges Silver and asserts the authority of the crew's decision",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Long_man_with_yellow_eyes.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Long_man_with_yellow_eyes.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id258",
                         "label": "Anderson",
                         "title": "Mentioned as part of the group opposing Silver's decisions, potentially a crew member of<br>significance",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Anderson.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Anderson.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id259",
                         "label": "Hands",
                         "title": "Another character who contributed to the actions against Silver, likely a crew member",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Hands.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Hands.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id260",
                         "label": "Morgan",
                         "title": "Participates in the discussion, contributes to the criticism of Silver",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_2_29_The_Black_Spot_Again/Morgan.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -4007,63 +4268,72 @@
                         "label": "Dr. Livesey",
                         "title": "A skilled and caring physician, central to the plot of \"Treasure Island\"",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id262",
                         "label": "Jim Hawkins",
                         "title": "The young protagonist and narrator of \"Treasure Island\", central to the story's progression and<br>development",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id263",
                         "label": "Long John Silver",
                         "title": "A complex character, sometimes a villain and other times an ally. Plays a crucial role due to his<br>knowledge of the treasure and relationships with other characters",
                         "size": 43,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id264",
                         "label": "George Merry",
                         "title": "A minor character, a member of Silver's crew, involved in the mutiny",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/George_Merry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/George_Merry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id265",
                         "label": "Morgan",
                         "title": "A member of Long John Silver’s pirate crew and a minor character in the story",
                         "size": 22,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Morgan.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id266",
                         "label": "Dick",
                         "title": "A young pirate who is a part of Silver’s crew",
                         "size": 22,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Dick.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Dick.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id267",
                         "label": "Squire",
                         "title": "Mentioned in context but not featured directly in the action, adds to character dynamics and is a<br>part of the background narrative structure",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id268",
                         "label": "Captain Smollett",
                         "title": "The captain of the voyage, mentioned, but not present in the scene, affects the narrative through<br>past actions and reputation",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id269",
                         "label": "Ben Gunn",
                         "title": "Mentioned by Dr. Livesey, a former pirate now living on the island. His previous actions have a<br>significant impact on the story",
                         "size": 31,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_3_30_On_Parole/Ben_Gunn.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -4162,56 +4432,64 @@
                         "label": "Jim Hawkins",
                         "title": "The protagonist and narrator of the story",
                         "size": 45,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Jim_Hawkins.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Jim_Hawkins.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id271",
                         "label": "Long John Silver",
                         "title": "A cunning and charismatic pirate, also called \"Barbecue\" or just \"Silver\"",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Long_John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Long_John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id272",
                         "label": "Captain Flint",
                         "title": "Silver's parrot, named after the infamous pirate captain",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Captain_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Captain_Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id273",
                         "label": "Dr. Livesey",
                         "title": "The local doctor and magistrate, wise and practical",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id274",
                         "label": "George Merry",
                         "title": "One of the mutineers who questions Silver's authority",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/George_Merry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/George_Merry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id275",
                         "label": "Tom Morgan",
                         "title": "Another member of Silver's crew, recalls someone named Allardyce",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Tom_Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Tom_Morgan.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id276",
                         "label": "Billy Bones",
                         "title": "The old sea captain who dies in the Admiral Benbow inn, mentioned retrospectively by Morgan",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Billy_Bones.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Billy_Bones.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id277",
                         "label": "Allardyce",
                         "title": "A crew member presumably killed by Captain Flint, remembered for his unpaid debt",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Allardyce.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_4_31_The_TreasurehuntFlints_Pointer/Allardyce.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -4250,77 +4528,88 @@
                         "label": "Silver",
                         "title": "A pirate and significant character who is involved in the treasure hunt and shows courage and<br>leadership",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id279",
                         "label": "Morgan",
                         "title": "A pirate who is affected by thoughts of Flint and participates in the treasure hunt",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Morgan.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id280",
                         "label": "Flint",
                         "title": "A deceased pirate referred to by the others, instilling fear with the mention of his name",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Flint.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id281",
                         "label": "Merry",
                         "title": "A pirate who reacts strongly to the mysterious voice and later rationalizes the situation",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Merry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Merry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id282",
                         "label": "The Singer",
                         "title": "An unseen character whose singing affects the pirates, possibly the spirit of Flint or someone<br>mimicking Flint's voice",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/The_Singer.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/The_Singer.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id283",
                         "label": "Darby M'Graw",
                         "title": "A name called out by the mysterious singer, possibly a reference to a person from the past of the<br>pirates",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Darby_MGraw.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Darby_MGraw.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id284",
                         "label": "George Merry",
                         "title": "One of the pirates who finds reassurance in Silver's logic about spirits and echoes",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/George_Merry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/George_Merry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id285",
                         "label": "Ben Gunn",
                         "title": "The presumed singer who mimics Flint's voice and is recognized by the pirates",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id286",
                         "label": "Dick",
                         "title": "A young pirate who prays out of fear and is possibly falling sick due to fever and exhaustion",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Dick.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/Dick.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id287",
                         "label": "John (Silver)",
                         "title": "Also known as Silver, his name mentioned as he encourages his followers",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/John_Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/John_Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id288",
                         "label": "The Buccaneer with the Blue Face",
                         "title": "A reference to a past buccaneer who killed his accomplices, causing fear when recalled",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/The_Buccaneer_with_the_Blue_Face.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_5_32_The_TreasurehuntThe_Voice_Among_the_Trees/The_Buccaneer_with_the_Blue_Face.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -4455,84 +4744,96 @@
                         "label": "Silver",
                         "title": "A seaman with a crutch who is cunning and adaptive, showing leadership and an opportunistic nature",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id290",
                         "label": "Jim",
                         "title": "The protagonist and first-person narrator, often finding himself in precarious situations,<br>demonstrating bravery and resourcefulness",
                         "size": 42,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Jim.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Jim.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id291",
                         "label": "Morgan",
                         "title": "A buccaneer who discovers a piece of gold during the treasure hunt, a minor character involved in<br>the events",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Morgan.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Morgan.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id292",
                         "label": "Merry",
                         "title": "A buccaneer who challenges Silver and later falls in the excavation, instigating the divide between<br>the group",
                         "size": 34,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Merry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Merry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id293",
                         "label": "The man with the bandage",
                         "title": "An unnamed buccaneer who dies after musket shots are fired, has a minor role but his death showcases<br>the turn of events",
                         "size": 25,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/The_man_with_the_bandage.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/The_man_with_the_bandage.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id294",
                         "label": "Long John",
                         "title": "Presumably another name for Silver, emphasized by his use of crutch and leadership position",
                         "size": 40,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Long_John.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Long_John.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id295",
                         "label": "Ben Gunn",
                         "title": "The maroon who found Flint's treasure and had a notable role in protecting the treasure,<br>characterized as slightly odd but crucial",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id296",
                         "label": "Dr. Livesey",
                         "title": "Likely a voice of authority and reason within the group, has medical knowledge, played a pivotal<br>role in the battle and strategic moves",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Dr_Livesey.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Dr_Livesey.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id297",
                         "label": "Gray",
                         "title": "A member of the party, assisting Dr. Livesey and likely involved in tactical actions, less is known<br>about him",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id298",
                         "label": "Squire",
                         "title": "Has a supervisory role, indicates social status, interacts with Silver revealing tensions, his<br>authority is acknowledged throughout the group",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Squire.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Squire.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id299",
                         "label": "Captain Smollett",
                         "title": "Injured yet still an authority figure, likely a seasoned leader, has the respect of the crew and Jim",
                         "size": 37,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id300",
                         "label": "Flint",
                         "title": "The previous owner of the treasure, never appears directly yet his influence persists throughout the<br>plot",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_6_33_The_Fall_of_a_Chieftain/Flint.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
@@ -4619,77 +4920,88 @@
                         "label": "The next morning",
                         "title": "A character in the story performing tasks related to gold transportation",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_next_morning.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_next_morning.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id302",
                         "label": "The three fellows",
                         "title": "Characters still abroad on the island, considered a minor threat",
                         "size": 24,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_three_fellows.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_three_fellows.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id303",
                         "label": "A single sentry",
                         "title": "Character ensuring protection against sudden attacks",
                         "size": 18,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/A_single_sentry.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/A_single_sentry.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id304",
                         "label": "Gray",
                         "title": "A workman involved in the transportation of treasure",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Gray.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Gray.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id305",
                         "label": "Ben Gunn",
                         "title": "A character involved in the transportation of treasure, closely involved with Silver",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Ben_Gunn.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Ben_Gunn.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id306",
                         "label": "Silver",
                         "title": "A complex character with a background of mutiny, showing loyalty and ingratiating behavior",
                         "size": 39,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Silver.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Silver.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id307",
                         "label": "The doctor",
                         "title": "A central character expressing concern for the mutineers' wellbeing, involved in decision making",
                         "size": 36,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_doctor.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_doctor.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id308",
                         "label": "The three surviving mutineers",
                         "title": "Characters stranded on the island, responsible for a shot at Silver",
                         "size": 30,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_three_surviving_mutineers.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_three_surviving_mutineers.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id309",
                         "label": "The captain",
                         "title": "A leader giving orders despite being unwell, involved in escape from the island",
                         "size": 33,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_captain.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/The_captain.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id310",
                         "label": "Captain Smollett",
                         "title": "Now retired from the sea, previously a central figure",
                         "size": 27,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Captain_Smollett.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Captain_Smollett.png",
+                        "shape": "image"
                     },
                     {
                         "id": "node_id311",
                         "label": "Captain Flint",
                         "title": "An unseen character influencing events through legacy",
                         "size": 21,
-                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Captain_Flint.png"
+                        "image": "/static/visualizer/summarized_data/120/sample0/images/chapter6_7_34_And_Last/Captain_Flint.png",
+                        "shape": "image"
                     }
                 ],
                 "edges": [
