@@ -123,5 +123,7 @@ $ python manage.py runserver 0.0.0.0:8000
 
 
 
-## 本アプリの動作デモ
-![demo](visualizer_demo.gif)
+## 本アプリのイメージ
+![home_page](sample_images/home_page.png)
+![visualizer_page](sample_images/visualizer_page.png)
+![info_page](sample_images/info_page.png)
