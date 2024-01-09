@@ -1,0 +1,204 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+h1.large-title {
+    font-size: 58px; /* or any other pixel value */
+}
+.library-section-title {
+    text-align: center;
+}
+#main-container {
+    display: flex;
+    justify-content: space-between; /* Ensures spacing between elements */
+    padding: 0 5%; /* 5% padding on left and right sides */
+    margin-top:25px;
+    height: 90%;
+}
+
+#book-viewer, #chat-container{
+    width: 48%;
+    height: 95%; /* Set a fixed height */
+    display: flex;
+    flex-direction: column;
+}
+
+
+#book-content {
+    height:80%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px; /* Adjust as needed */
+    text-align: justify;
+    text-justify: inter-word;   
+    background-color: #fdf6e3;
+    color: #403b33;
+    line-height: 1.3;
+    flex-grow: 1;
+    overflow-y: auto;
+    word-wrap: break-word;
+    white-space: normal;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 40px 40px 10px 40px;
+    border-radius: 10px; /* Rounded corners */
+}
+#chat-window {
+    height:80%;
+    flex-grow: 1;
+    overflow-y: auto;
+    word-wrap: break-word;  /* Breaks long words to prevent horizontal overflow */
+    background-color: #f5f5f5;
+    white-space: pre-wrap;   /* Ensures text wraps to a new line as needed */
+    border: 1px solid black; /* Adds a black border */
+    box-sizing: border-box; /* Ensures padding and border are included in the width and height */
+    padding: 40px 40px 10px 40px;
+    border-radius: 10px; /* Rounded corners */
+}
+
+#book-input {
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px; 
+    
+}
+
+#prev-button-wrapper button,
+#next-button-wrapper button,
+#jump-button-wrapper button,
+#sendButton,#searchbutton,
+#reading-page-header > button {
+    width: 80px; /* Fixed width for the buttons */
+    height: 30px; /* Fixed height for the buttons */
+    font-size: 18px; /* Font size for the text inside the buttons */
+    cursor: pointer; 
+    margin: 5px; 
+    border: 1px solid #000; 
+    background-color: #f7f7f7; 
+    border-radius: 5px; 
+    /* Ensure the text is centered both horizontally and vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#page-index {
+    width: 50px;
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+#total-pages {
+    margin-right: 10px; /* Add some space between the count and the button */
+    font-size: 18px;
+}
+
+
+
+.chat-message {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 100%;  /* Adjust width as needed */
+}
+
+.user-message {
+    background-color: #96abc0; 
+    align-self: flex-start;
+    border-bottom-left-radius: 0;  /* Speech bubble effect */
+}
+
+.bot-message {
+    background-color: #8bbaea;
+    align-self: flex-end;
+    border-bottom-right-radius: 0;  /* Speech bubble effect */
+    margin-bottom: 25px;
+    white-space: pre-wrap;
+}
+
+#reading-page-header {
+    display: flex; /* Enables Flexbox */
+    justify-content: space-between; /* Aligns children with space between */
+    align-items: center; /* Centers children vertically */
+    padding: 10px; /* Add padding for aesthetic spacing */
+
+}
+
+#reading-page-header > button {
+    width:150px;
+    margin-right: auto; /* Pushes all other elements to the right */
+}
+
+#book-title {
+    flex-grow: 1;
+    text-align: center;
+    white-space: nowrap; /* Prevents the text from wrapping */
+    overflow: auto; /* Enables scrolling if content overflows */
+    max-width: calc(100% - 150px); /* Adjust max-width as needed, accounting for button width */
+    margin: 0 10px; /* Optional: adds some space between the button and the title */
+}
+
+#chat-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px; 
+    height: 40px;
+}
+#user-input {
+    width:80%;
+    font-size:18px;
+    border-radius: 4px;
+}
+#searchQuery {
+    width:40%;
+    font-size: 20px;
+    border-radius: 4px;
+}
+#results{
+    width:100%;
+}
+table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+}
+
+th, td {
+
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+th {
+    width:50px;
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.search-container {
+    width: 80%;
+    display: flex; /* Enables flexbox */
+    justify-content: center; /* Centers the flex items horizontally */
+    align-items: center; /* Aligns items vertically */
+    margin-bottom: 20px; /* Optional: Adds some space above the search container */
+}

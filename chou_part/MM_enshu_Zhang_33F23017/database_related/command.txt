@@ -1,0 +1,69 @@
+# postgresql
+
+/usr/lib/postgresql/10/bin/pg_ctl -D /var/lib/postgresql/10/main -l logfile start
+
+docker run -d \
+  --name chou_pgdb \
+  --network chou_mm_network \
+  -e POSTGRES_DB="novelDB" \
+  -e POSTGRES_USER="pguser" \
+  -e POSTGRES_PASSWORD="1234" \
+  -p 5432:5432 \
+  -v /data/choukoushin/PGDB:/var/lib/postgresql/data \
+  postgres:latest
+
+
+# Milvus
+version: '3.5'
+
+services:
+  etcd:
+    container_name: chou_milvus-etcd
+    image: quay.io/coreos/etcd:v3.5.0
+    environment:
+      - ETCD_AUTO_COMPACTION_MODE=revision
+      - ETCD_AUTO_COMPACTION_RETENTION=1000
+      - ETCD_QUOTA_BACKEND_BYTES=4294967296
+    volumes:
+      - /data/choukoushin/MILVUS/etcd:/etcd
+    command: etcd -advertise-client-urls=http://127.0.0.1:2379 -listen-client-urls http://0.0.0.0:2379 --data-dir /etcd
+    networks:
+      - chou_mm_network
+
+  minio:
+    container_name: chou_milvus-minio
+    image: minio/minio:RELEASE.2020-12-03T00-03-10Z
+    environment:
+      MINIO_ACCESS_KEY: minioadmin
+      MINIO_SECRET_KEY: minioadmin
+    volumes:
+      - /data/choukoushin/MILVUS/minio:/minio_data
+    command: minio server /minio_data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+    networks:
+      - chou_mm_network
+
+  standalone:
+    container_name: chou_milvus-standalone
+    image: milvusdb/milvus:v2.0.2
+    command: ["milvus", "run", "standalone"]
+    environment:
+      ETCD_ENDPOINTS: etcd:2379
+      MINIO_ADDRESS: minio:9000
+    volumes:
+      - /data/choukoushin/MILVUS/:/var/lib/milvus
+    ports:
+      - "19530:19530"
+    depends_on:
+      - "etcd"
+      - "minio"
+    networks:
+      - chou_mm_network
+
+networks:
+  chou_mm_network:
+    external: true

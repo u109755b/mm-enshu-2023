@@ -1,0 +1,86 @@
+Initializing the app...
+Loading the models, might take a while...
+Initializing the app...
+Loading the models, might take a while...
+Initializing the app...
+Loading the models, might take a while...
+Models loaded.
+Ranker failed to rerank the passages. The original order is kept.
+Something wrong with the collection in the database. Rebuilding required.
+Initializing the app...
+Loading the models, might take a while...
+Models loaded.
+Initializing the app...
+Loading the models, might take a while...
+Models loaded.
+Ranker failed to rerank the passages. The original order is kept.
+Something wrong with the collection in the database. Rebuilding required.
+Initializing the app...
+Loading the models, might take a while...
+Models loaded.
+<|im_start|>system
+You are an AI assistant that follows instructions very well. Finish the tasks that given by the user as faithfully as you can.<|im_end|>
+<|im_start|>user
+Start of Contents:
+She ate a little bit, and said anxiously to herself, "Which way? Which way?", holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size: to be sure, this generally happens when one eats cake, but Alice had got so much into the way of expecting nothing but out-of-the-way things to happen, that it seemed quite dull and stupid for life to go on in the common way.
+Poor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.
+After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found she had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery; and when she had tired herself out with trying, the poor little thing sat down and cried.
+"You ought to be ashamed of yourself," said Alice, "a great girl like you," (she might well say this), "to go on crying in this way! Stop this moment, I tell you!" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.
+There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time she found a little bottle on it, ("which certainly was not here before," said Alice,) and round the neck of the bottle was a paper label, with the words "DRINK ME," beautifully printed on it in large letters.
+End of Contents
+You will be given some segments of a novel followed by a question asked by the user.
+Your task is to answer as faithfully as you can.
+Instructions:
+- Step 1: Carefully read and understand the provided segment from the novel.
+- Step 2: Identify the parts of the segment that are related to the question asked.
+- Step 3: Based on the information in the content, formulate a detailed and structured answer to the question.
+- Step 4: If the question cannot be answered using the content provided, respond with 'I cannot answer the question based on the information provided.'
+Question:
+who is mad hatter, what did he do?
+<|im_end|>
+<|im_start|>assistant
+
+<|im_start|>system
+You are an AI assistant that follows instructions very well. Finish the tasks that given by the user as faithfully as you can.<|im_end|>
+<|im_start|>user
+Start of Contents:
+"Ahem!" said the Mouse with an important air, "are you all ready? This is the driest thing I know. Silence all round, if you please! 'William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria-'"
+"In _that_ direction," the Cat said, waving its right paw round, "lives a Hatter: and in _that_ direction," waving the other paw, "lives a March Hare. Visit either you like: they're both mad."
+"Oh, _please_ mind what you're doing!" cried Alice, jumping up and down in an agony of terror. "Oh, there goes his _precious_ nose!" as an unusually large saucepan flew close by it, and very nearly carried it off.
+There was a dead silence instantly, and Alice thought to herself, "I wonder what they _will_ do next! If they had any sense, they'd take the roof off." After a minute or two, they began moving about again, and Alice heard the Rabbit say, "A barrowful will do, to begin with."
+Alice waited a little, half expecting to see it again, but it did not appear, and after a minute or two she walked on in the direction in which the March Hare was said to live. "I've seen hatters before," she said to herself; "the March Hare will be much the most interesting, and perhaps as this is May it won't be raving mad-at least not so mad as it was in March." As she said this, she looked up, and there was the Cat again, sitting on a branch of a tree.
+End of Contents
+You will be given some segments of a novel followed by a question asked by the user.
+Your task is to answer as faithfully as you can.
+Instructions:
+- Step 1: Carefully read and understand the provided segment from the novel.
+- Step 2: Identify the parts of the segment that are related to the question asked.
+- Step 3: Based on the information in the content, formulate a detailed and structured answer to the question.
+- Step 4: If the question cannot be answered using the content provided, respond with 'I cannot answer the question based on the information provided.'
+Question:
+who is mad hatter, what did he do?
+<|im_end|>
+<|im_start|>assistant
+
+<|im_start|>system
+You are an AI assistant that follows instructions very well. Finish the tasks that given by the user as faithfully as you can.<|im_end|>
+<|im_start|>user
+Start of Contents:
+"If you knew Time as well as I do," said the Hatter, "you wouldn't talk about wasting _it_. It's _him_."
+"It goes on, you know," the Hatter continued, "in this way:-
+"Why should it?" muttered the Hatter. "Does _your_ watch tell you what year it is?"
+"Your hair wants cutting," said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.
+He moved on as he spoke, and the Dormouse followed him: the March Hare moved into the Dormouse's place, and Alice rather unwillingly took the place of the March Hare. The Hatter was the only one who got any advantage from the change: and Alice was a good deal worse off than before, as the March Hare had just upset the milk-jug into his plate.
+End of Contents
+You will be given some segments of a novel followed by a question asked by the user.
+Your task is to answer as faithfully as you can.
+Instructions:
+- Step 1: Carefully read and understand the provided segment from the novel.
+- Step 2: Identify the parts of the segment that are related to the question asked.
+- Step 3: Based on the information in the content, formulate a detailed and structured answer to the question.
+- Step 4: If the question cannot be answered using the content provided, respond with 'I cannot answer the question based on the information provided.'
+Question:
+who is mad hatter, what did he do?
+<|im_end|>
+<|im_start|>assistant
+

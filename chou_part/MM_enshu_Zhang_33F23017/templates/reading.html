@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reading Copilot</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+    <body>
+        <div id="reading-page-header">
+            <button onclick="goBackToSearch()">Back to Search</button>
+            <h1 id="book-title"></h1>
+            </div>
+        <div id="main-container">
+            <div id="book-viewer">
+                <div id="book-content">
+                    <!-- Book content will go here -->
+                </div>
+                <div id="book-input">
+                    <div id="prev-button-wrapper">
+                        <button onclick="changePage(-1)">Prev</button>
+                    </div>
+                    <input type="number" id="page-index" value="1" placeholder="Enter paragraph number" maxlength="4">
+                    <span id="total-pages"></span>
+                    <div id="jump-button-wrapper">
+                        <button onclick="getPage()">Jump</button>
+                    </div>
+                    <div id="next-button-wrapper">
+                        <button onclick="changePage(1)">Next</button>
+                    </div>
+                </div>
+            </div>
+        <div id="chat-container">
+            <div id="chat-window">
+                <!-- Chat messages will go here -->
+            </div>
+            <div id="chat-input">
+                <input type="text" id="user-input" placeholder="Type a message...">
+                <button id="sendButton" onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/static/script.js"></script>
+    <script>
+        function goBackToSearch() {
+            window.location.href = '/';
+        }
+    </script>
+</body>
+</html>

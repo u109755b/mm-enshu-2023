@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+    <div class="content-container">
+        <h1 class="large-title">Book Search</h1>
+        <div class="search-container"> <!-- Wrapper for input and button -->
+            <input type="text" id="searchQuery" placeholder="Enter book title">
+            <button id="searchbutton" onclick="performSearch()">Search</button>
+        </div>
+        <div id="search-results"></div>
+        <div id="library-container">
+            <h1 class="library-section-title">Library</h1>
+            <div id="library-results"></div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/static/search.js"></script>
+</body>
+</html>
